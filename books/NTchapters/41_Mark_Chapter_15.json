@@ -1,0 +1,341 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 41,"name": "Mark","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 972,
+    "MaxVerses": 47,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24828,
+        "text": "And immediately, in the morning, the chief priests having made a consultation, with the elders, and scribes, and the whole sanhedrim, having bound Jesus, did lead away, and delivered [him] to Pilate;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24829,
+        "text": "and Pilate questioned him, 'Art thou the king of the Jews?' and he answering said to him, 'Thou dost say [it].'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24830,
+        "text": "And the chief priests were accusing him of many things, [but he answered nothing.]",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24831,
+        "text": "And Pilate again questioned him, saying, 'Thou dost not answer anything! lo, how many things they do testify against thee!'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24832,
+        "text": "and Jesus did no more answer anything, so that Pilate wondered.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24833,
+        "text": "And at every feast he was releasing to them one prisoner, whomsoever they were asking;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24834,
+        "text": "and there was [one] named Barabbas, bound with those making insurrection with him, who had in the insurrection committed murder.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24835,
+        "text": "And the multitude having cried out, began to ask for themselves as he was always doing to them,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24836,
+        "text": "and Pilate answered them, saying, 'Will ye [that] I shall release to you the king of the Jews?'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24837,
+        "text": "for he knew that because of envy the chief priests had delivered him up;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24838,
+        "text": "and the chief priests did move the multitude, that he might rather release Barabbas to them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24839,
+        "text": "And Pilate answering, again said to them, 'What, then, will ye [that] I shall do to him whom ye call king of the Jews?'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24840,
+        "text": "and they again cried out, 'Crucify him.'",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 24841,
+        "text": "And Pilate said to them, 'Why -- what evil did he?' and they cried out the more vehemently, 'Crucify him;'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24842,
+        "text": "and Pilate, wishing to content the multitude, released to them Barabbas, and delivered up Jesus -- having scourged [him] -- that he might be crucified.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 24843,
+        "text": "And the soldiers led him away into the hall, which is Praetorium, and call together the whole band,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24844,
+        "text": "and clothe him with purple, and having plaited a crown of thorns, they put [it] on him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24845,
+        "text": "and began to salute him, 'Hail, King of the Jews.'",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24846,
+        "text": "And they were smiting him on the head with a reed, and were spitting on him, and having bent the knee, were bowing to him,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24847,
+        "text": "and when they [had] mocked him, they took the purple from off him, and clothed him in his own garments, and they led him forth, that they may crucify him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24848,
+        "text": "And they impress a certain one passing by -- Simon, a Cyrenian, coming from the field, the father of Alexander and Rufus -- that he may bear his cross,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 24849,
+        "text": "and they bring him to the place Golgotha, which is, being interpreted, 'Place of a skull;'",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 24850,
+        "text": "and they were giving him to drink wine mingled with myrrh, and he did not receive.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24851,
+        "text": "And having crucified him, they were dividing his garments, casting a lot upon them, what each may take;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24852,
+        "text": "and it was the third hour, and they crucified him;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24853,
+        "text": "and the inscription of his accusation was written above -- 'The King of the Jews.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 24854,
+        "text": "And with him they crucify two robbers, one on the right hand, and one on his left,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24855,
+        "text": "and the Writing was fulfilled that is saying, 'And with lawless ones he was numbered.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 24856,
+        "text": "And those passing by were speaking evil of him, shaking their heads, and saying, 'Ah, the thrower down of the sanctuary, and in three days the builder!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 24857,
+        "text": "save thyself, and come down from the cross!'",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 24858,
+        "text": "And in like manner also the chief priests, mocking with one another, with the scribes, said, 'Others he saved; himself he is not able to save.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 24859,
+        "text": "The Christ! the king of Israel -- let him come down now from the cross, that we may see and believe;' and those crucified with him were reproaching him.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 24860,
+        "text": "And the sixth hour having come, darkness came over the whole land till the ninth hour,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 24861,
+        "text": "and at the ninth hour Jesus cried with a great voice, saying, 'Eloi, Eloi, lamma sabachthani?' which is, being interpreted, 'My God, my God, why didst Thou forsake me?'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 24862,
+        "text": "And certain of those standing by, having heard, said, 'Lo, Elijah he doth call;'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 24863,
+        "text": "and one having run, and having filled a spunge with vinegar, having put [it] also on a reed, was giving him to drink, saying, 'Let alone, let us see if Elijah doth come to take him down.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 24864,
+        "text": "And Jesus having uttered a loud cry, yielded the spirit,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 24865,
+        "text": "and the veil of the sanctuary was rent in two, from top to bottom,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 24866,
+        "text": "and the centurion who was standing over-against him, having seen that, having so cried out, he yielded the spirit, said, 'Truly this man was Son of God.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 24867,
+        "text": "And there were also women afar off beholding, among whom was also Mary the Magdalene, and Mary of James the less, and of Joses, and Salome,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 24868,
+        "text": "(who also, when he was in Galilee, were following him, and were ministering to him,) and many other women who came up with him to Jerusalem.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 24869,
+        "text": "And now evening having come, seeing it was the preparation, that is, the fore-sabbath,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 43,
+        "count": 24870,
+        "text": "Joseph of Arimathea, an honourable counsellor, who also himself was waiting for the reign of God, came, boldly entered in unto Pilate, and asked the body of Jesus.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 24871,
+        "text": "And Pilate wondered if he were already dead, and having called near the centurion, did question him if he were long dead,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 24872,
+        "text": "and having known [it] from the centurion, he granted the body to Joseph.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 24873,
+        "text": "And he, having brought fine linen, and having taken him down, wrapped him in the linen, and laid him in a sepulchre that had been hewn out of a rock, and he rolled a stone unto the door of the sepulchre,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 24874,
+        "text": "and Mary the Magdalene, and Mary of Joses, were beholding where he is laid.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 1071,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28542,
+        "text": "Am not I an apostle? am not I free? Jesus Christ our Lord have I not seen? my work are not ye in the Lord?",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28543,
+        "text": "if to others I am not an apostle -- yet doubtless to you I am; for the seal of my apostleship are ye in the Lord.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28544,
+        "text": "My defence to those who examine me in this;",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 28545,
+        "text": "have we not authority to eat and to drink?",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28546,
+        "text": "have we not authority a sister -- a wife -- to lead about, as also the other apostles, and the brethren of the Lord, and Cephas?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28547,
+        "text": "or only I and Barnabas, have we not authority -- not to work?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28548,
+        "text": "who doth serve as a soldier at his own charges at any time? who doth plant a vineyard, and of its fruit doth not eat? or who doth feed a flock, and of the milk of the flock doth not eat?",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28549,
+        "text": "According to man do I speak these things? or doth not also the law say these things?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28550,
+        "text": "for in the law of Moses it hath been written, 'thou shalt not muzzle an ox treading out corn;' for the oxen doth God care?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28551,
+        "text": "or because of us by all means doth He say [it]? yes, because of us it was written, because in hope ought the plower to plow, and he who is treading [ought] of his hope to partake in hope.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28552,
+        "text": "If we to you the spiritual things did sow -- great [is it] if we your fleshly things do reap?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28553,
+        "text": "if others do partake of the authority over you -- not we more? but we did not use this authority, but all things we bear, that we may give no hindrance to the good news of the Christ.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28554,
+        "text": "Have ye not known that those working about the things of the temple -- of the temple do eat, and those waiting at the altar -- with the altar are partakers?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28555,
+        "text": "so also did the Lord direct to those proclaiming the good news: of the good news to live.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28556,
+        "text": "And I have used none of these things; neither did I write these things that it may be so done in my case, for [it is] good for me rather to die, than that any one may make my glorying void;",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 28557,
+        "text": "for if I may proclaim good news, it is no glorying for me, for necessity is laid upon me, and woe is to me if I may not proclaim good news;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28558,
+        "text": "for if willing I do this, I have a reward; and if unwillingly -- with a stewardship I have been entrusted!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28559,
+        "text": "What, then, is my reward? -- that proclaiming good news, without charge I shall make the good news of the Christ, not to abuse my authority in the good news;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28560,
+        "text": "for being free from all men, to all men I made myself servant, that the more I might gain;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 28561,
+        "text": "and I became to the Jews as a Jew, that Jews I might gain; to those under law as under law, that those under law I might gain;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28562,
+        "text": "to those without law, as without law -- (not being without law to God, but within law to Christ) -- that I might gain those without law;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28563,
+        "text": "I became to the infirm as infirm, that the infirm I might gain; to all men I have become all things, that by all means I may save some.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28564,
+        "text": "And this I do because of the good news, that a fellow-partaker of it I may become;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28565,
+        "text": "have ye not known that those running in a race -- all indeed run, but one doth receive the prize? so run ye, that ye may obtain;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 28566,
+        "text": "and every one who is striving, is in all things temperate; these, indeed, then, that a corruptible crown they may receive, but we an incorruptible;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28567,
+        "text": "I, therefore, thus run, not as uncertainly, thus I fight, as not beating air;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28568,
+        "text": "but I chastise my body, and bring [it] into servitude, lest by any means, having preached to others -- I myself may become disapproved.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

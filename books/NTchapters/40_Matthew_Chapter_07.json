@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 936,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23318,
+        "text": "'Judge not, that ye may not be judged,",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23319,
+        "text": "for in what judgment ye judge, ye shall be judged, and in what measure ye measure, it shall be measured to you.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23320,
+        "text": "'And why dost thou behold the mote that [is] in thy brother's eye, and the beam that [is] in thine own eye dost not consider?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23321,
+        "text": "or, how wilt thou say to thy brother, Suffer I may cast out the mote from thine eye, and lo, the beam [is] in thine own eye?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23322,
+        "text": "Hypocrite, cast out first the beam out of thine own eye, and then thou shalt see clearly to cast out the mote out of thy brother's eye.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23323,
+        "text": "'Ye may not give that which is [holy] to the dogs, nor cast your pearls before the swine, that they may not trample them among their feet, and having turned -- may rend you.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23324,
+        "text": "'Ask, and it shall be given to you; seek, and ye shall find; knock, and it shall be opened to you;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 23325,
+        "text": "for every one who is asking doth receive, and he who is seeking doth find, and to him who is knocking it shall be opened.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23326,
+        "text": "'Or what man is of you, of whom, if his son may ask a loaf -- a stone will he present to him?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23327,
+        "text": "and if a fish he may ask -- a serpent will he present to him?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23328,
+        "text": "if, therefore, ye being evil, have known good gifts to give to your children, how much more shall your Father who [is] in the heavens give good things to those asking him?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23329,
+        "text": "'All things, therefore, whatever ye may will that men may be doing to you, so also do to them, for this is the law and the prophets.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 23330,
+        "text": "'Go ye in through the strait gate, because wide [is] the gate, and broad the way that is leading to the destruction, and many are those going in through it;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23331,
+        "text": "how strait [is] the gate, and compressed the way that is leading to the life, and few are those finding it!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23332,
+        "text": "'But, take heed of the false prophets, who come unto you in sheep's clothing, and inwardly are ravening wolves.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 23333,
+        "text": "From their fruits ye shall know them; do [men] gather from thorns grapes? or from thistles figs?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23334,
+        "text": "so every good tree doth yield good fruits, but the bad tree doth yield evil fruits.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23335,
+        "text": "A good tree is not able to yield evil fruits, nor a bad tree to yield good fruits.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23336,
+        "text": "Every tree not yielding good fruit is cut down and is cast to fire:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23337,
+        "text": "therefore from their fruits ye shall know them.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23338,
+        "text": "'Not every one who is saying to me Lord, lord, shall come into the reign of the heavens; but he who is doing the will of my Father who is in the heavens.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 23339,
+        "text": "Many will say to me in that day, Lord, lord, have we not in thy name prophesied? and in thy name cast out demons? and in thy name done many mighty things?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23340,
+        "text": "and then I will acknowledge to them, that -- I never knew you, depart from me ye who are working lawlessness.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23341,
+        "text": "'Therefore, every one who doth hear of me these words, and doth do them, I will liken him to a wise man who built his house upon the rock;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23342,
+        "text": "and the rain did descend, and the streams came, and the winds blew, and they beat on that house, and it fell not, for it had been founded on the rock.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23343,
+        "text": "'And every one who is hearing of me these words, and is not doing them, shall be likened to a foolish man who built his house upon the sand;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23344,
+        "text": "and the rain did descend, and the streams came, and the winds blew, and they beat on that house, and it fell, and its fall was great.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23345,
+        "text": "And it came to pass, when Jesus ended these words, the multitudes were astonished at his teaching,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23346,
+        "text": "for he was teaching them as having authority, and not as the scribes.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 977,
+    "MaxVerses": 44,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25065,
+        "text": "And Jesus, full of the Holy Spirit, turned back from the Jordan, and was brought in the Spirit to the wilderness,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25066,
+        "text": "forty days being tempted by the Devil, and he did not eat anything in those days, and they having been ended, he afterward hungered,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25067,
+        "text": "and the Devil said to him, 'If Son thou art of God, speak to this stone that it may become bread.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25068,
+        "text": "And Jesus answered him, saying, 'It hath been written, that, not on bread only shall man live, but on every saying of God.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25069,
+        "text": "And the Devil having brought him up to an high mountain, shewed to him all the kingdoms of the world in a moment of time,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25070,
+        "text": "and the Devil said to him, 'To thee I will give all this authority, and their glory, because to me it hath been delivered, and to whomsoever I will, I do give it;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25071,
+        "text": "thou, then, if thou mayest bow before me -- all shall be thine.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25072,
+        "text": "And Jesus answering him said, 'Get thee behind me, Adversary, for it hath been written, Thou shalt bow before the Lord thy God, and Him only thou shalt serve.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25073,
+        "text": "And he brought him to Jerusalem, and set him on the pinnacle of the temple, and said to him, 'If the Son thou art of God, cast thyself down hence,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25074,
+        "text": "for it hath been written -- To His messengers He will give charge concerning thee, to guard over thee,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25075,
+        "text": "and -- On hands they shall bear thee up, lest at any time thou mayest dash against a stone thy foot.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25076,
+        "text": "And Jesus answering said to him -- 'It hath been said, Thou shalt not tempt the Lord thy God.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25077,
+        "text": "And having ended all temptation, the Devil departed from him till a convenient season.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25078,
+        "text": "And Jesus turned back in the power of the Spirit to Galilee, and a fame went forth through all the region round about concerning him,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 25079,
+        "text": "and he was teaching in their synagogues, being glorified by all.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25080,
+        "text": "And he came to Nazareth, where he hath been brought up, and he went in, according to his custom, on the sabbath-day, to the synagogue, and stood up to read;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25081,
+        "text": "and there was given over to him a roll of Isaiah the prophet, and having unfolded the roll, he found the place where it hath been written:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25082,
+        "text": "'The Spirit of the Lord [is] upon me, Because He did anoint me; To proclaim good news to the poor, Sent me to heal the broken of heart, To proclaim to captives deliverance, And to blind receiving of sight, To send away the bruised with deliverance,",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25083,
+        "text": "To proclaim the acceptable year of the Lord.'",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 25084,
+        "text": "And having folded the roll, having given [it] back to the officer, he sat down, and the eyes of all in the synagogue were gazing on him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 25085,
+        "text": "And he began to say unto them -- 'To-day hath this writing been fulfilled in your ears;'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25086,
+        "text": "and all were bearing testimony to him, and were wondering at the gracious words that are coming forth out of his mouth, and they said, 'Is not this the son of Joseph?'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 25087,
+        "text": "And he said unto them, 'Certainly ye will say to me this simile, Physician, heal thyself; as great things as we heard done in Capernaum, do also here in thy country;'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25088,
+        "text": "and he said, 'Verily I say to you -- No prophet is accepted in his own country;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25089,
+        "text": "and of a truth I say to you, Many widows were in the days of Elijah, in Israel, when the heaven was shut for three years and six months, when great famine came on all the land,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25090,
+        "text": "and unto none of them was Elijah sent, but -- to Sarepta of Sidon, unto a woman, a widow;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25091,
+        "text": "and many lepers were in the time of Elisha the prophet, in Israel, and none of them was cleansed, but -- Naaman the Syrian.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25092,
+        "text": "And all in the synagogue were filled with wrath, hearing these things,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25093,
+        "text": "and having risen, they put him forth without the city, and brought him unto the brow of the hill on which their city had been built -- to cast him down headlong,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25094,
+        "text": "and he, having gone through the midst of them, went away.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25095,
+        "text": "And he came down to Capernaum, a city of Galilee, and was teaching them on the sabbaths,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 25096,
+        "text": "and they were astonished at his teaching, because his word was with authority.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25097,
+        "text": "And in the synagogue was a man, having a spirit of an unclean demon, and he cried out with a great voice,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25098,
+        "text": "saying, 'Away, what -- to us and to thee, Jesus, O Nazarene? thou didst come to destroy us; I have known thee who thou art -- the Holy One of God.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25099,
+        "text": "And Jesus did rebuke him, saying, 'Be silenced, and come forth out of him;' and the demon having cast him into the midst, came forth from him, having hurt him nought;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25100,
+        "text": "and amazement came upon all, and they were speaking together, with one another, saying, 'What [is] this word, that with authority and power he doth command the unclean spirits, and they come forth?'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25101,
+        "text": "and there was going forth a fame concerning him to every place of the region round about.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25102,
+        "text": "And having risen out of the synagogue, he entered into the house of Simon, and the mother-in-law of Simon was pressed with a great fever, and they did ask him about her,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 25103,
+        "text": "and having stood over her, he rebuked the fever, and it left her, and presently, having risen, she was ministering to them.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 25104,
+        "text": "And at the setting of the sun, all, as many as had any ailing with manifold sicknesses, brought them unto him, and he on each one of them [his] hands having put, did heal them.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 25105,
+        "text": "And demons also were coming forth from many, crying out and saying -- 'Thou art the Christ, the Son of God;' and rebuking, he did not suffer them to speak, because they knew him to be the Christ.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 25106,
+        "text": "And day having come, having gone forth, he went on to a desert place, and the multitudes were seeking him, and they came unto him, and were staying him -- not to go on from them,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 25107,
+        "text": "and he said unto them -- 'Also to the other cities it behoveth me to proclaim good news of the reign of God, because for this I have been sent;'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 25108,
+        "text": "and he was preaching in the synagogues of Galilee.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

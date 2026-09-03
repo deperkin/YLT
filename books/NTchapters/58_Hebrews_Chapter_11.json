@@ -1,0 +1,292 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 1144,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30174,
+        "text": "And faith is of things hoped for a confidence, of matters not seen a conviction,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30175,
+        "text": "for in this were the elders testified of;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30176,
+        "text": "by faith we understand the ages to have been prepared by a saying of God, in regard to the things seen not having come out of things appearing;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30177,
+        "text": "by faith a better sacrifice did Abel offer to God than Cain, through which he was testified to be righteous, God testifying of his gifts, and through it, he being dead, doth yet speak.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 30178,
+        "text": "By faith Enoch was translated -- not to see death, and was not found, because God did translate him; for before his translation he had been testified to -- that he had pleased God well,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30179,
+        "text": "and apart from faith it is impossible to please well, for it behoveth him who is coming to God to believe that He is, and to those seeking Him He becometh a rewarder.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30180,
+        "text": "By faith Noah, having been divinely warned concerning the things not yet seen, having feared, did prepare an ark to the salvation of his house, through which he did condemn the world, and of the righteousness according to faith he became heir.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30181,
+        "text": "By faith Abraham, being called, did obey, to go forth to the place that he was about to receive for an inheritance, and he went forth, not knowing whither he doth go;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30182,
+        "text": "by faith he did sojourn in the land of the promise as a strange country, in tabernacles having dwelt with Isaac and Jacob, fellow-heirs of the same promise,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30183,
+        "text": "for he was looking for the city having the foundations, whose artificer and constructor [is] God.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30184,
+        "text": "By faith also Sarah herself did receive power to conceive seed, and she bare after the time of life, seeing she did judge Him faithful who did promise;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30185,
+        "text": "wherefore, also from one were begotten -- and that of one who had become dead -- as the stars of the heaven in multitude, and as sand that [is] by the sea-shore -- the innumerable.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30186,
+        "text": "In faith died all these, not having received the promises, but from afar having seen them, and having been persuaded, and having saluted [them], and having confessed that strangers and sojourners they are upon the earth,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30187,
+        "text": "for those saying such things make manifest that they seek a country;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30188,
+        "text": "and if, indeed, they had been mindful of that from which they came forth, they might have had an opportunity to return,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30189,
+        "text": "but now they long for a better, that is, an heavenly, wherefore God is not ashamed of them, to be called their God, for He did prepare for them a city.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30190,
+        "text": "By faith Abraham hath offered up Isaac, being tried, and the only begotten he did offer up who did receive the promises,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30191,
+        "text": "of whom it was said -- 'In Isaac shall a seed be called to thee;'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30192,
+        "text": "reckoning that even out of the dead God is able to raise up, whence also in a figure he did receive [him].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30193,
+        "text": "By faith, concerning coming things, Isaac did bless Jacob and Esau;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30194,
+        "text": "by faith Jacob dying -- each of the sons of Joseph did bless, and did bow down upon the top of his staff;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30195,
+        "text": "by faith, Joseph dying, concerning the outgoing of the sons of Israel did make mention, and concerning his bones did give command.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30196,
+        "text": "By faith Moses, having been born, was hid three months by his parents, because they saw the child comely, and were not afraid of the decree of the king;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30197,
+        "text": "by faith Moses, having become great, did refuse to be called a son of the daughter of Pharaoh,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30198,
+        "text": "having chosen rather to be afflicted with the people of God, than to have sin's pleasure for a season,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 30199,
+        "text": "greater wealth having reckoned the reproach of the Christ than the treasures in Egypt, for he did look to the recompense of reward;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 30200,
+        "text": "by faith he left Egypt behind, not having been afraid of the wrath of the king, for, as seeing the Invisible One -- he endured;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 30201,
+        "text": "by faith he kept the passover, and the sprinkling of the blood, that He who is destroying the first-born might not touch them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 30202,
+        "text": "By faith they did pass through the Red Sea as through dry land, which the Egyptians having received a trial of, were swallowed up;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 30203,
+        "text": "by faith the walls of Jericho did fall, having been surrounded for seven days;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 30204,
+        "text": "by faith Rahab the harlot did not perish with those who disbelieved, having received the spies with peace.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 30205,
+        "text": "And what shall I yet say? for the time will fail me recounting about Gideon, Barak also, and Samson, and Jephthah, David also, and Samuel, and the prophets,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 30206,
+        "text": "who through faith did subdue kingdoms, wrought righteousness, obtained promises, stopped mouths of lions,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 30207,
+        "text": "quenched the power of fire, escaped the mouth of the sword, were made powerful out of infirmities, became strong in battle, caused to give way camps of the aliens.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 30208,
+        "text": "Women received by a rising again their dead, and others were tortured, not accepting the redemption, that a better rising again they might receive,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 30209,
+        "text": "and others of mockings and scourgings did receive trial, and yet of bonds and imprisonment;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 30210,
+        "text": "they were stoned, they were sawn asunder, they were tried; in the killing of the sword they died; they went about in sheepskins, in goatskins -- being destitute, afflicted, injuriously treated,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 30211,
+        "text": "of whom the world was not worthy; in deserts wandering, and [in] mountains, and [in] caves, and [in] the holes of the earth;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 30212,
+        "text": "and these all, having been testified to through the faith, did not receive the promise,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 30213,
+        "text": "God for us something better having provided, that apart from us they might not be made perfect.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

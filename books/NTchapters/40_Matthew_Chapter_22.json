@@ -1,0 +1,334 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 951,
+    "MaxVerses": 46,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23874,
+        "text": "And Jesus answering, again spake to them in similes, saying,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23875,
+        "text": "'The reign of the heavens was likened to a man, a king, who made marriage-feasts for his son,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23876,
+        "text": "and he sent forth his servants to call those having been called to the marriage-feasts, and they were not willing to come.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23877,
+        "text": "'Again he sent forth other servants, saying, Say to those who have been called: Lo, my dinner I prepared, my oxen and the fatlings have been killed, and all things [are] ready, come ye to the marriage-feasts;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23878,
+        "text": "and they, having disregarded [it], went away, the one to his own field, and the other to his merchandise;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23879,
+        "text": "and the rest, having laid hold on his servants, did insult and slay [them].",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23880,
+        "text": "'And the king having heard, was wroth, and having sent forth his soldiers, he destroyed those murderers, and their city he set on fire;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23881,
+        "text": "then saith he to his servants, The marriage-feast indeed is ready, and those called were not worthy,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23882,
+        "text": "be going, then, on to the cross-ways, and as many as ye may find, call ye to the marriage-feasts.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23883,
+        "text": "'And those servants, having gone forth to the ways, did gather all, as many as they found, both bad and good, and the marriage-feast apartment was filled with those reclining.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23884,
+        "text": "'And the king having come in to view those reclining, saw there a man not clothed with clothing of the marriage-feast,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23885,
+        "text": "and he saith to him, Comrade, how didst thou come in hither, not having clothing of the marriage-feast? and he was speechless.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23886,
+        "text": "'Then said the king to the ministrants, Having bound his feet and hands, take him up and cast forth to the outer darkness, there shall be the weeping and the gnashing of the teeth;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23887,
+        "text": "for many are called, and few chosen.'",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23888,
+        "text": "Then the Pharisees having gone, took counsel how they might ensnare him in words,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 23889,
+        "text": "and they send to him their disciples with the Herodians, saying, 'Teacher, we have known that thou art true, and the way of God in truth thou dost teach, and thou art not caring for any one, for thou dost not look to the face of men;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23890,
+        "text": "tell us, therefore, what dost thou think? is it lawful to give tribute to Caesar or not?'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23891,
+        "text": "And Jesus having known their wickedness, said, 'Why me do ye tempt, hypocrites?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23892,
+        "text": "show me the tribute-coin?' and they brought to him a denary;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23893,
+        "text": "and he saith to them, 'Whose [is] this image and the inscription?'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23894,
+        "text": "they say to him, 'Caesar's;' then saith he to them, 'Render therefore the things of Caesar to Caesar, and the things of God to God;'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23895,
+        "text": "and having heard they wondered, and having left him they went away.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23896,
+        "text": "In that day there came near to him Sadducees, who are saying there is not a rising again, and they questioned him, saying,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 23897,
+        "text": "'Teacher, Moses said, If any one may die not having children, his brother shall marry his wife, and shall raise up seed to his brother.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23898,
+        "text": "'And there were with us seven brothers, and the first having married did die, and not having seed, he left his wife to his brother;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23899,
+        "text": "in like manner also the second, and the third, unto the seventh,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23900,
+        "text": "and last of all died also the woman;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23901,
+        "text": "therefore in the rising again, of which of the seven shall she be wife -- for all had her?'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23902,
+        "text": "And Jesus answering said to them, 'Ye go astray, not knowing the Writings, nor the power of God;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23903,
+        "text": "for in the rising again they do not marry, nor are they given in marriage, but are as messengers of God in heaven.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23904,
+        "text": "'And concerning the rising again of the dead, did ye not read that which was spoken to you by God, saying,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23905,
+        "text": "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not a God of dead men, but of living.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23906,
+        "text": "And having heard, the multitudes were astonished at his teaching;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 23907,
+        "text": "and the Pharisees, having heard that he did silence the Sadducees, were gathered together unto him;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 23908,
+        "text": "and one of them, a lawyer, did question, tempting him, and saying,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 23909,
+        "text": "'Teacher, which [is] the great command in the Law?'",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 23910,
+        "text": "And Jesus said to him, 'Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thine understanding --",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 23911,
+        "text": "this is a first and great command;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 23912,
+        "text": "and the second [is] like to it, Thou shalt love thy neighbour as thyself;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 23913,
+        "text": "on these -- the two commands -- all the law and the prophets do hang.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 23914,
+        "text": "And the Pharisees having been gathered together, Jesus did question them,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 23915,
+        "text": "saying, 'What do ye think concerning the Christ? of whom is he son?' They say to him, 'Of David.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 23916,
+        "text": "He saith to them, 'How then doth David in the Spirit call him lord, saying,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 23917,
+        "text": "The Lord said to my lord, Sit at my right hand, till I may make thine enemies thy footstool?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 23918,
+        "text": "If then David doth call him lord, how is he his son?'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 23919,
+        "text": "And no one was able to answer him a word, nor durst any from that day question him any more.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

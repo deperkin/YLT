@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 1032,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27416,
+        "text": "And it came to pass in Iconium, that they did enter together into the synagogue of the Jews, and spake, so that there believed both of Jews and Greeks a great multitude;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27417,
+        "text": "and the unbelieving Jews did stir up and made evil the souls of the nations against the brethren;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27418,
+        "text": "long time, indeed, therefore, did they abide speaking boldly in the Lord, who is testifying to the word of His grace, and granting signs and wonders to come to pass through their hands.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27419,
+        "text": "And the multitude of the city was divided, and some were with the Jews, and some with the apostles,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27420,
+        "text": "and when there was a purpose both of the nations and of the Jews with their rulers to use [them] despitefully, and to stone them,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27421,
+        "text": "they having become aware, did flee to the cities of Lycaonia, Lystra, and Derbe, and to the region round about,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27422,
+        "text": "and there they were proclaiming good news.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27423,
+        "text": "And a certain man in Lystra, impotent in the feet, was sitting, being lame from the womb of his mother -- who never had walked,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 27424,
+        "text": "this one was hearing Paul speaking, who, having stedfastly beheld him, and having seen that he hath faith to be saved,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27425,
+        "text": "said with a loud voice, 'Stand up on thy feet upright;' and he was springing and walking,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27426,
+        "text": "and the multitudes having seen what Paul did, did lift up their voice, in the speech of Lycaonia, saying, 'The gods, having become like men, did come down unto us;'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27427,
+        "text": "they were calling also Barnabas Zeus, and Paul Hermes, since he was the leader in speaking.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27428,
+        "text": "And the priest of the Zeus that is before their city, oxen and garlands unto the porches having brought, with the multitudes did wish to sacrifice,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27429,
+        "text": "and having heard, the apostles Barnabas and Paul, having rent their garments, did spring into the multitude, crying",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27430,
+        "text": "and saying, 'Men, why these things do ye? and we are men like-affected with you, proclaiming good news to you, from these vanities to turn unto the living God, who made the heaven, and the earth, and the sea, and all the things in them;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27431,
+        "text": "who in the past generations did suffer all the nations to go on in their ways,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27432,
+        "text": "though, indeed, without witness He did not leave himself, doing good -- from heaven giving rains to us, and fruitful seasons, filling our hearts with food and gladness;'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27433,
+        "text": "and these things saying, scarcely did they restrain the multitudes from sacrificing to them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27434,
+        "text": "And there came thither, from Antioch and Iconium, Jews, and they having persuaded the multitudes, and having stoned Paul, drew him outside of the city, having supposed him to be dead;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 27435,
+        "text": "and the disciples having surrounded him, having risen he entered into the city, and on the morrow he went forth with Barnabas to Derbe.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27436,
+        "text": "Having proclaimed good news also to that city, and having discipled many, they turned back to Lystra, and Iconium, and Antioch,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27437,
+        "text": "confirming the souls of the disciples, exhorting to remain in the faith, and that through many tribulations it behoveth us to enter into the reign of God,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27438,
+        "text": "and having appointed to them by vote elders in every assembly, having prayed with fastings, they commended them to the Lord in whom they had believed.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27439,
+        "text": "And having passed through Pisidia, they came to Pamphylia,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27440,
+        "text": "and having spoken in Perga the word, they went down to Attalia,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27441,
+        "text": "and thence did sail to Antioch, whence they had been given by the grace of God for the work that they fulfilled;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27442,
+        "text": "and having come and gathered together the assembly, they declared as many things as God did with them, and that He did open to the nations a door of faith;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27443,
+        "text": "and they abode there not a little time with the disciples.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

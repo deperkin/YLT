@@ -1,0 +1,124 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1122,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29733,
+        "text": "Stedfast [is] the word: If any one the oversight doth long for, a right work he desireth;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29734,
+        "text": "it behoveth, therefore, the overseer to be blameless, of one wife a husband, vigilant, sober, decent, a friend of strangers, apt to teach,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29735,
+        "text": "not given to wine, not a striker, not given to filthy lucre, but gentle, not contentious, not a lover of money,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29736,
+        "text": "his own house leading well, having children in subjection with all gravity,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29737,
+        "text": "(and if any one his own house [how] to lead hath not known, how an assembly of God shall he take care of?)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29738,
+        "text": "not a new convert, lest having been puffed up he may fall to a judgment of the devil;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29739,
+        "text": "and it behoveth him also to have a good testimony from those without, that he may not fall into reproach and a snare of the devil.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29740,
+        "text": "Ministrants -- in like manner grave, not double-tongued, not given to much wine, not given to filthy lucre,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 29741,
+        "text": "having the secret of the faith in a pure conscience,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29742,
+        "text": "and let these also first be proved, then let them minister, being unblameable.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29743,
+        "text": "Women -- in like manner grave, not false accusers, vigilant, faithful in all things.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29744,
+        "text": "Ministrants -- let them be of one wife husbands; the children leading well, and their own houses,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29745,
+        "text": "for those who did minister well a good step to themselves do acquire, and much boldness in faith that [is] in Christ Jesus.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29746,
+        "text": "These things I write to thee, hoping to come unto thee soon,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29747,
+        "text": "and if I delay, that thou mayest know how it behoveth [thee] to conduct thyself in the house of God, which is an assembly of the living God -- a pillar and foundation of the truth,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29748,
+        "text": "and, confessedly, great is the secret of piety -- God was manifested in flesh, declared righteous in spirit, seen by messengers, preached among nations, believed on in the world, taken up in glory!",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

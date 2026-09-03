@@ -1,0 +1,278 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 976,
+    "MaxVerses": 38,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25027,
+        "text": "And in the fifteenth year of the government of Tiberius Caesar -- Pontius Pilate being governor of Judea, and Herod tetrarch of Galilee, and Philip his brother, tetrarch of Ituraea and of the region of Trachonitis, and Lysanias tetrarch of Abilene --",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25028,
+        "text": "Annas and Caiaphas being chief priests -- there came a word of God unto John the son of Zacharias, in the wilderness,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25029,
+        "text": "and he came to all the region round the Jordan, proclaiming a baptism of reformation -- to remission of sins,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25030,
+        "text": "as it hath been written in the scroll of the words of Isaiah the prophet, saying, 'A voice of one crying in the wilderness, Prepare ye the way of the Lord, straight make ye His paths;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 25031,
+        "text": "every valley shall be filled, and every mountain and hill shall be made low, and the crooked shall become straightness, and the rough become smooth ways;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25032,
+        "text": "and all flesh shall see the salvation of God.'",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25033,
+        "text": "Then said he to the multitudes coming forth to be baptised by him, 'Brood of vipers! who did prompt you to flee from the coming wrath?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25034,
+        "text": "make, therefore, fruits worthy of the reformation, and begin not to say within yourselves, We have a father -- Abraham; for I say to you, that God is able out of these stones to raise children to Abraham;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25035,
+        "text": "and already also the axe unto the root of the trees is laid, every tree, therefore, not making good fruit is cut down, and to fire it is cast.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25036,
+        "text": "And the multitudes were questioning him, saying, 'What, then, shall we do?'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25037,
+        "text": "and he answering saith to them, 'He having two coats -- let him impart to him having none, and he having victuals -- in like manner let him do.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25038,
+        "text": "And there came also tax-gatherers to be baptised, and they said unto him, 'Teacher, what shall we do?'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25039,
+        "text": "and he said unto them, 'Exact no more than that directed you.'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25040,
+        "text": "And questioning him also were those warring, saying, 'And we, what shall we do?' and he said unto them, 'Do violence to no one, nor accuse falsely, and be content with your wages.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25041,
+        "text": "And the people are looking forward, and all are reasoning in their hearts concerning John, whether or not he may be the Christ;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 25042,
+        "text": "John answered, saying to all, 'I indeed with water do baptise you, but he cometh who is mightier than I, of whom I am not worthy to loose the latchet of his sandals -- he shall baptise you with the Holy Spirit and with fire;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25043,
+        "text": "whose winnowing shovel [is] in his hand, and he will thoroughly cleanse his floor, and will gather the wheat to his storehouse, and the chaff he will burn with fire unquenchable.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25044,
+        "text": "And, therefore, indeed with many other things, exhorting, he was proclaiming good news to the people,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25045,
+        "text": "and Herod the tetrarch, being reproved by him concerning Herodias the wife of Philip his brother, and concerning all the evils that Herod did,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 25046,
+        "text": "added also this to all, that he shut up John in the prison.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 25047,
+        "text": "And it came to pass, in all the people being baptised, Jesus also being baptised, and praying, the heaven was opened,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 25048,
+        "text": "and the Holy Spirit came down in a bodily appearance, as if a dove, upon him, and a voice came out of heaven, saying, 'Thou art My Son -- the Beloved, in thee I did delight.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 25049,
+        "text": "And Jesus himself was beginning to be about thirty years of age, being, as was supposed, son of Joseph,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25050,
+        "text": "the [son] of Eli, the [son] of Matthat, the [son] of Levi, the [son] of Melchi, the [son] of Janna, the [son] of Joseph,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25051,
+        "text": "the [son] of Mattathias, the [son] of Amos, the [son] of Naum, the [son] of Esli,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25052,
+        "text": "the [son] of Naggai, the [son] of Maath, the [son] of Mattathias, the [son] of Semei, the [son] of Joseph, the [son] of Juda,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25053,
+        "text": "the [son] of Joanna, the [son] of Rhesa, the [son] of Zerubbabel, the [son] of Shealtiel,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25054,
+        "text": "the [son] of Neri, the [son] of Melchi, the [son] of Addi, the [son] of Cosam, the [son] of Elmodam, the [son] of Er,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25055,
+        "text": "the [son] of Jose, the [son] of Eliezer, the [son] of Jorim, the [son] of Matthat,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25056,
+        "text": "the [son] of Levi, the [son] of Simeon, the [son] of Juda, the [son] of Joseph, the [son] of Jonan, the [son] of Eliakim,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25057,
+        "text": "the [son] of Melea, the [son] of Mainan, the [son] of Mattatha, the [son] of Nathan,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25058,
+        "text": "the [son] of David, the [son] of Jesse, the [son] of Obed, the [son] of Booz, the [son] of Salmon, the [son] of Nahshon,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25059,
+        "text": "the [son] of Amminadab, the [son] of Aram, the [son] of Esrom, the [son] of Pharez,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25060,
+        "text": "the [son] of Judah, the [son] of Jacob, the [son] of Isaac, the [son] of Abraham, the [son] of Terah, the [son] of Nahor,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25061,
+        "text": "the [son] of Serug, the [son] of Reu, the [son] of Peleg, the [son] of Eber,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25062,
+        "text": "the [son] of Salah, the [son] of Cainan, the [son] of Arphaxad, the [son] of Shem, the [son] of Noah, the [son] of Lamech,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25063,
+        "text": "the [son] of Methuselah, the [son] of Enoch, the [son] of Jared, the [son] of Mahalaleel,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25064,
+        "text": "the [son] of Cainan, the [son] of Enos, the [son] of Seth, the [son] of Adam, the [son] of God.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

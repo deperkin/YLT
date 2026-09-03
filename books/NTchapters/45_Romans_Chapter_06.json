@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1052,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28070,
+        "text": "What, then, shall we say? shall we continue in the sin that the grace may abound?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28071,
+        "text": "let it not be! we who died to the sin -- how shall we still live in it?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28072,
+        "text": "are ye ignorant that we, as many as were baptized to Christ Jesus, to his death were baptized?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28073,
+        "text": "we were buried together, then, with him through the baptism to the death, that even as Christ was raised up out of the dead through the glory of the Father, so also we in newness of life might walk.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28074,
+        "text": "For, if we have become planted together to the likeness of his death, [so] also we shall be of the rising again;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28075,
+        "text": "this knowing, that our old man was crucified with [him], that the body of the sin may be made useless, for our no longer serving the sin;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28076,
+        "text": "for he who hath died hath been set free from the sin.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28077,
+        "text": "And if we died with Christ, we believe that we also shall live with him,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28078,
+        "text": "knowing that Christ, having been raised up out of the dead, doth no more die, death over him hath no more lordship;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28079,
+        "text": "for in that he died, to the sin he died once, and in that he liveth, he liveth to God;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28080,
+        "text": "so also ye, reckon yourselves to be dead indeed to the sin, and living to God in Jesus Christ our Lord.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28081,
+        "text": "Let not then the sin reign in your mortal body, to obey it in its desires;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28082,
+        "text": "neither present ye your members instruments of unrighteousness to the sin, but present yourselves to God as living out of the dead, and your members instruments of righteousness to God;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28083,
+        "text": "for sin over you shall not have lordship, for ye are not under law, but under grace.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28084,
+        "text": "What then? shall we sin because we are not under law but under grace? let it not be!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28085,
+        "text": "have ye not known that to whom ye present yourselves servants for obedience, servants ye are to him to whom ye obey, whether of sin to death, or of obedience to righteousness?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28086,
+        "text": "and thanks to God, that ye were servants of the sin, and -- were obedient from the heart to the form of teaching to which ye were delivered up;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28087,
+        "text": "and having been freed from the sin, ye became servants to the righteousness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28088,
+        "text": "In the manner of men I speak, because of the weakness of your flesh, for even as ye did present your members servants to the uncleanness and to the lawlessness -- to the lawlessness, so now present your members servants to the righteousness -- to sanctification,",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28089,
+        "text": "for when ye were servants of the sin, ye were free from the righteousness,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28090,
+        "text": "what fruit, therefore, were ye having then, in the things of which ye are now ashamed? for the end of those [is] death.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28091,
+        "text": "And now, having been freed from the sin, and having become servants to God, ye have your fruit -- to sanctification, and the end life age-during;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28092,
+        "text": "for the wages of the sin [is] death, and the gift of God [is] life age-during in Christ Jesus our Lord.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

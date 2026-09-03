@@ -1,0 +1,404 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 981,
+    "MaxVerses": 56,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 25247,
+        "text": "And it came to pass thereafter, that he was going through every city and village, preaching and proclaiming good news of the reign of God, and the twelve [are] with him,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 25248,
+        "text": "and certain women, who were healed of evil spirits and infirmities, Mary who is called Magdalene, from whom seven demons had gone forth,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 25249,
+        "text": "and Joanna wife of Chuza, steward of Herod, and Susanna, and many others, who were ministering to him from their substance.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 25250,
+        "text": "And a great multitude having gathered, and those who from city and city were coming unto him, he spake by a simile:",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 25251,
+        "text": "'The sower went forth to sow his seed, and in his sowing some indeed fell beside the way, and it was trodden down, and the fowls of the heaven did devour it.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 25252,
+        "text": "'And other fell upon the rock, and having sprung up, it did wither, through not having moisture.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 25253,
+        "text": "'And other fell amidst the thorns, and the thorns having sprung up with it, did choke it.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 25254,
+        "text": "'And other fell upon the good ground, and having sprung up, it made fruit an hundred fold.' These things saying, he was calling, 'He having ears to hear -- let him hear.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 25255,
+        "text": "And his disciples were questioning him, saying, 'What may this simile be?'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 25256,
+        "text": "And he said, 'To you it hath been given to know the secrets of the reign of God, and to the rest in similes; that seeing they may not see, and hearing they may not understand.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 25257,
+        "text": "'And this is the simile: The seed is the word of God,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 25258,
+        "text": "and those beside the way are those hearing, then cometh the Devil, and taketh up the word from their heart, lest having believed, they may be saved.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 25259,
+        "text": "'And those upon the rock: They who, when they may hear, with joy do receive the word, and these have no root, who for a time believe, and in time of temptation fall away.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 25260,
+        "text": "'And that which fell to the thorns: These are they who have heard, and going forth, through anxieties, and riches, and pleasures of life, are choked, and bear not to completion.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 25261,
+        "text": "'And that in the good ground: These are they, who in an upright and good heart, having heard the word, do retain [it], and bear fruit in continuance.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 25262,
+        "text": "'And no one having lighted a lamp doth cover it with a vessel, or under a couch doth put [it]; but upon a lamp-stand he doth put [it], that those coming in may see the light,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 25263,
+        "text": "for nothing is secret, that shall not become manifest, nor hid, that shall not be known, and become manifest.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 25264,
+        "text": "'See, therefore, how ye hear, for whoever may have, there shall be given to him, and whoever may not have, also what he seemeth to have, shall be taken from him.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 25265,
+        "text": "And there came unto him his mother and brethren, and they were not able to get to him because of the multitude,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 25266,
+        "text": "and it was told him, saying, 'Thy mother and thy brethren do stand without, wishing to see thee;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 25267,
+        "text": "and he answering said unto them, 'My mother and my brethren! they are those who the word of God are hearing, and doing.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 25268,
+        "text": "And it came to pass, on one of the days, that he himself went into a boat with his disciples, and he said unto them, 'We may go over to the other side of the lake;' and they set forth,",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 25269,
+        "text": "and as they are sailing he fell deeply asleep, and there came down a storm of wind to the lake, and they were filling, and were in peril.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 25270,
+        "text": "And having come near, they awoke him, saying, 'Master, master, we perish;' and he, having arisen, rebuked the wind and the raging of the water, and they ceased, and there came a calm,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 25271,
+        "text": "and he said to them, 'Where is your faith?' and they being afraid did wonder, saying unto one another, 'Who, then, is this, that even the winds he doth command, and the water, and they obey him?'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 25272,
+        "text": "And they sailed down to the region of the Gadarenes, that is over-against Galilee,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25273,
+        "text": "and he having gone forth upon the land, there met him a certain man, out of the city, who had demons for a long time, and with a garment was not clothed, and in a house was not abiding, but in the tombs,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25274,
+        "text": "and having seen Jesus, and having cried out, he fell before him, and with a loud voice, said, 'What -- to me and to thee, Jesus, Son of God Most High? I beseech thee, mayest thou not afflict me!'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25275,
+        "text": "For he commanded the unclean spirit to come forth from the man, for many times it had caught him, and he was being bound with chains and fetters -- guarded, and breaking asunder the bonds he was driven by the demons to the deserts.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25276,
+        "text": "And Jesus questioned him, saying, 'What is thy name?' and he said, 'Legion,' (because many demons were entered into him,)",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25277,
+        "text": "and he was calling on him, that he may not command them to go away to the abyss,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25278,
+        "text": "and there was there a herd of many swine feeding in the mountain, and they were calling on him, that he might suffer them to enter into these, and he suffered them,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25279,
+        "text": "and the demons having gone forth from the man, did enter into the swine, and the herd rushed down the steep to the lake, and were choked.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25280,
+        "text": "And those feeding [them], having seen what was come to pass, fled, and having gone, told [it] to the city, and to the fields;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25281,
+        "text": "and they came forth to see what was come to pass, and they came unto Jesus, and found the man sitting, out of whom the demons had gone forth, clothed, and right-minded, at the feet of Jesus, and they were afraid;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25282,
+        "text": "and those also having seen [it], told them how the demoniac was saved.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25283,
+        "text": "And the whole multitude of the region of the Gadarenes round about asked him to go away from them, because with great fear they were pressed, and he having entered into the boat, did turn back.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25284,
+        "text": "And the man from whom the demons had gone forth was beseeching of him to be with him, and Jesus sent him away, saying,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 25285,
+        "text": "'Turn back to thy house, and tell how great things God did to thee;' and he went away through all the city proclaiming how great things Jesus did to him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 25286,
+        "text": "And it came to pass, in the turning back of Jesus, the multitude received him, for they were all looking for him,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 41,
+        "count": 25287,
+        "text": "and lo, there came a man, whose name [is] Jairus, and he was a chief of the synagogue, and having fallen at the feet of Jesus, was calling on him to come to his house;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 25288,
+        "text": "because he had an only daughter about twelve years [old], and she was dying. And in his going away, the multitudes were thronging him,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 25289,
+        "text": "and a woman, having an issue of blood for twelve years, who, having spent on physicians all her living, was not able to be healed by any,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 25290,
+        "text": "having come near behind, touched the fringe of his garment, and presently the issue of her blood stood.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 25291,
+        "text": "And Jesus said, 'Who [is] it that touched me?' and all denying, Peter and those with him said, 'Master, the multitudes press thee, and throng [thee], and thou dost say, Who [is] it that touched me!'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 25292,
+        "text": "And Jesus said, 'Some one did touch me, for I knew power having gone forth from me.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 25293,
+        "text": "And the woman, having seen that she was not hid, trembling, came, and having fallen before him, for what cause she touched him declared to him before all the people, and how she was healed presently;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 25294,
+        "text": "and he said to her, 'Take courage, daughter, thy faith hath saved thee, be going on to peace.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 25295,
+        "text": "While he is yet speaking, there doth come a certain one from the chief of the synagogue's [house], saying to him -- 'Thy daughter hath died, harass not the Teacher;'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 25296,
+        "text": "and Jesus having heard, answered him, saying, 'Be not afraid, only believe, and she shall be saved.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 25297,
+        "text": "And having come to the house, he suffered no one to go in, except Peter, and James, and John, and the father of the child, and the mother;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 25298,
+        "text": "and they were all weeping, and beating themselves for her, and he said, 'Weep not, she did not die, but doth sleep;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 25299,
+        "text": "and they were deriding him, knowing that she did die;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 25300,
+        "text": "and he having put all forth without, and having taken hold of her hand, called, saying, 'Child, arise;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 25301,
+        "text": "and her spirit came back, and she arose presently, and he directed that there be given to her to eat;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 25302,
+        "text": "and her parents were amazed, but he charged them to say to no one what was come to pass.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1068,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28469,
+        "text": "Dare any one of you, having a matter with the other, go to be judged before the unrighteous, and not before the saints?",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28470,
+        "text": "have ye not known that the saints shall judge the world? and if by you the world is judged, are ye unworthy of the smaller judgments?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28471,
+        "text": "have ye not known that we shall judge messengers? why not then the things of life?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28472,
+        "text": "of the things of life, indeed, then, if ye may have judgment, those despised in the assembly -- these cause ye to sit;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28473,
+        "text": "unto your shame I speak: so there is not among you one wise man, not even one, who shall be able to discern in the midst of his brethren!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28474,
+        "text": "but brother with brother doth go to be judged, and this before unbelievers!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28475,
+        "text": "Already, indeed, then, there is altogether a fault among you, that ye have judgments with one another; wherefore do ye not rather suffer injustice? wherefore be ye not rather defrauded?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28476,
+        "text": "but ye -- ye do injustice, and ye defraud, and these -- brethren!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28477,
+        "text": "have ye not known that the unrighteous the reign of God shall not inherit? be not led astray; neither whoremongers, nor idolaters, nor adulterers, nor effeminate, nor sodomites,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 28478,
+        "text": "nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, the reign of God shall inherit.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28479,
+        "text": "And certain of you were these! but ye were washed, but ye were sanctified, but ye were declared righteous, in the name of the Lord Jesus, and in the Spirit of our God.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28480,
+        "text": "All things are lawful to me, but all things are not profitable; all things are lawful to me, but I -- I will not be under authority by any;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28481,
+        "text": "the meats [are] for the belly, and the belly for the meats. And God both this and these shall make useless; and the body [is] not for whoredom, but for the Lord, and the Lord for the body;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28482,
+        "text": "and God both the Lord did raise, and us will raise up through His power.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28483,
+        "text": "Have ye not known that your bodies are members of Christ? having taken, then, the members of the Christ, shall I make [them] members of an harlot? let it be not!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28484,
+        "text": "have ye not known that he who is joined to the harlot is one body? 'for they shall be -- saith He -- the two for one flesh.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28485,
+        "text": "And he who is joined to the Lord is one spirit;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28486,
+        "text": "flee the whoredom; every sin -- whatever a man may commit -- is without the body, and he who is committing whoredom, against his own body doth sin.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28487,
+        "text": "Have ye not known that your body is a sanctuary of the Holy Spirit in you, which ye have from God? and ye are not your own,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28488,
+        "text": "for ye were bought with a price; glorify, then, God in your body and in your spirit, which are God's.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

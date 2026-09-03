@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 1056,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28190,
+        "text": "Brethren, the pleasure indeed of my heart, and my supplication that [is] to God for Israel, is -- for salvation;",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28191,
+        "text": "for I bear them testimony that they have a zeal of God, but not according to knowledge,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28192,
+        "text": "for not knowing the righteousness of God, and their own righteousness seeking to establish, to the righteousness of God they did not submit.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28193,
+        "text": "For Christ is an end of law for righteousness to every one who is believing,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28194,
+        "text": "for Moses doth describe the righteousness that [is] of the law, that, 'The man who did them shall live in them,'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28195,
+        "text": "and the righteousness of faith doth thus speak: 'Thou mayest not say in thine heart, Who shall go up to the heaven,' that is, Christ to bring down?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28196,
+        "text": "or, 'Who shall go down to the abyss,' that is, Christ out of the dead to bring up.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28197,
+        "text": "But what doth it say? 'Nigh thee is the saying -- in thy mouth, and in thy heart:' that is, the saying of the faith, that we preach;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28198,
+        "text": "that if thou mayest confess with thy mouth the Lord Jesus, and mayest believe in thy heart that God did raise him out of the dead, thou shalt be saved,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28199,
+        "text": "for with the heart doth [one] believe to righteousness, and with the mouth is confession made to salvation;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28200,
+        "text": "for the Writing saith, 'Every one who is believing on him shall not be ashamed,'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28201,
+        "text": "for there is no difference between Jew and Greek, for the same Lord of all [is] rich to all those calling upon Him,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28202,
+        "text": "for every one -- whoever shall call upon the name of the Lord, he shall be saved.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28203,
+        "text": "How then shall they call upon [him] in whom they did not believe? and how shall they believe [on him] of whom they did not hear? and how shall they hear apart from one preaching?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28204,
+        "text": "and how shall they preach, if they may not be sent? according as it hath been written, 'How beautiful the feet of those proclaiming good tidings of peace, of those proclaiming good tidings of the good things!'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28205,
+        "text": "But they were not all obedient to the good tidings, for Isaiah saith, 'Lord, who did give credence to our report?'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28206,
+        "text": "so then the faith [is] by a report, and the report through a saying of God,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28207,
+        "text": "but I say, Did they not hear? yes, indeed -- 'to all the earth their voice went forth, and to the ends of the habitable world their sayings.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28208,
+        "text": "But I say, Did not Israel know? first Moses saith, 'I will provoke you to jealousy by [that which is] not a nation; by an unintelligent nation I will anger you,'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28209,
+        "text": "and Isaiah is very bold, and saith, 'I was found by those not seeking Me; I became manifest to those not inquiring after Me;'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28210,
+        "text": "and unto Israel He saith, 'All the day I did stretch out My hands unto a people unbelieving and gainsaying.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

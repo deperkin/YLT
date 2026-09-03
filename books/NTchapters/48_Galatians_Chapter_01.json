@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 48,"name": "Galatians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1092,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29059,
+        "text": "Paul, an apostle -- not from men, nor through man, but through Jesus Christ, and God the Father, who did raise him out of the dead --",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29060,
+        "text": "and all the brethren with me, to the assemblies of Galatia:",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29061,
+        "text": "Grace to you, and peace from God the Father, and our Lord Jesus Christ,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29062,
+        "text": "who did give himself for our sins, that he might deliver us out of the present evil age, according to the will of God even our Father,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29063,
+        "text": "to whom [is] the glory to the ages of the ages. Amen.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29064,
+        "text": "I wonder that ye are so quickly removed from Him who did call you in the grace of Christ to another good news;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29065,
+        "text": "that is not another, except there be certain who are troubling you, and wishing to pervert the good news of the Christ;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29066,
+        "text": "but even if we or a messenger out of heaven may proclaim good news to you different from what we did proclaim to you -- anathema let him be!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29067,
+        "text": "as we have said before, and now say again, If any one to you may proclaim good news different from what ye did receive -- anathema let him be!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29068,
+        "text": "for now men do I persuade, or God? or do I seek to please men? for if yet men I did please -- Christ's servant I should not be.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 29069,
+        "text": "And I make known to you, brethren, the good news that were proclaimed by me, that it is not according to man,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29070,
+        "text": "for neither did I from man receive it, nor was I taught [it], but through a revelation of Jesus Christ,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29071,
+        "text": "for ye did hear of my behaviour once in Judaism, that exceedingly I was persecuting the assembly of God, and wasting it,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29072,
+        "text": "and I was advancing in Judaism above many equals in age in mine own race, being more abundantly zealous of my fathers' deliverances,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29073,
+        "text": "and when God was well pleased -- having separated me from the womb of my mother, and having called [me] through His grace --",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29074,
+        "text": "to reveal His Son in me, that I might proclaim him good news among the nations, immediately I conferred not with flesh and blood,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29075,
+        "text": "nor did I go up to Jerusalem unto those who were apostles before me, but I went away to Arabia, and again returned to Damascus,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29076,
+        "text": "then, after three years I went up to Jerusalem to enquire about Peter, and remained with him fifteen days,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29077,
+        "text": "and other of the apostles I did not see, except James, the brother of the Lord.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29078,
+        "text": "And the things that I write to you, lo, before God -- I lie not;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29079,
+        "text": "then I came to the regions of Syria and of Cilicia,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29080,
+        "text": "and was unknown by face to the assemblies of Judea, that [are] in Christ,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29081,
+        "text": "and only they were hearing, that 'he who is persecuting us then, doth now proclaim good news -- the faith that then he was wasting;'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29082,
+        "text": "and they were glorifying God in me.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

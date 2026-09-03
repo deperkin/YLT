@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 62,"name": "1 John","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1162,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30581,
+        "text": "See ye what love the Father hath given to us, that children of God we may be called; because of this the world doth not know us, because it did not know Him;",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30582,
+        "text": "beloved, now, children of God are we, and it was not yet manifested what we shall be, and we have known that if he may be manifested, like him we shall be, because we shall see him as he is;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30583,
+        "text": "and every one who is having this hope on him, doth purify himself, even as he is pure.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30584,
+        "text": "Every one who is doing the sin, the lawlessness also he doth do, and the sin is the lawlessness,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 30585,
+        "text": "and ye have known that he was manifested that our sins he may take away, and sin is not in him;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30586,
+        "text": "every one who is remaining in him doth not sin; every one who is sinning, hath not seen him, nor known him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30587,
+        "text": "Little children, let no one lead you astray; he who is doing the righteousness is righteous, even as he is righteous,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30588,
+        "text": "he who is doing the sin, of the devil he is, because from the beginning the devil doth sin; for this was the Son of God manifested, that he may break up the works of the devil;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30589,
+        "text": "every one who hath been begotten of God, sin he doth not, because his seed in him doth remain, and he is not able to sin, because of God he hath been begotten.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30590,
+        "text": "In this manifest are the children of God, and the children of the devil; every one who is not doing righteousness, is not of God, and he who is not loving his brother,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30591,
+        "text": "because this is the message that ye did hear from the beginning, that we may love one another,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 30592,
+        "text": "not as Cain -- of the evil one he was, and he did slay his brother, and wherefore did he slay him? because his works were evil, and those of his brother righteous.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30593,
+        "text": "Do not wonder, my brethren, if the world doth hate you;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30594,
+        "text": "we -- we have known that we have passed out of the death to the life, because we love the brethren; he who is not loving the brother doth remain in the death.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 30595,
+        "text": "Every one who is hating his brother -- a man-killer he is, and ye have known that no man-killer hath life age-during in him remaining,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30596,
+        "text": "in this we have known the love, because he for us his life did lay down, and we ought for the brethren the lives to lay down;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30597,
+        "text": "and whoever may have the goods of the world, and may view his brother having need, and may shut up his bowels from him -- how doth the love of God remain in him?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30598,
+        "text": "My little children, may we not love in word nor in tongue, but in word and in truth!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30599,
+        "text": "and in this we know that of the truth we are, and before Him we shall assure our hearts,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30600,
+        "text": "because if our heart may condemn -- because greater is God than our heart, and He doth know all things.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 30601,
+        "text": "Beloved, if our heart may not condemn us, we have boldness toward God,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30602,
+        "text": "and whatever we may ask, we receive from Him, because His commands we keep, and the things pleasing before Him we do,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30603,
+        "text": "and this is His command, that we may believe in the name of His Son Jesus Christ, and may love one another, even as He did give command to us,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 30604,
+        "text": "and he who is keeping His commands, in Him he doth remain, and He in him; and in this we know that He doth remain in us, from the Spirit that He gave us.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

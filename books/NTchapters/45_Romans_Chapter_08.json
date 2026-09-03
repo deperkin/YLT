@@ -1,0 +1,285 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 1054,
+    "MaxVerses": 39,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28118,
+        "text": "There is, then, now no condemnation to those in Christ Jesus, who walk not according to the flesh, but according to the Spirit;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28119,
+        "text": "for the law of the Spirit of the life in Christ Jesus did set me free from the law of the sin and of the death;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28120,
+        "text": "for what the law was not able to do, in that it was weak through the flesh, God, His own Son having sent in the likeness of sinful flesh, and for sin, did condemn the sin in the flesh,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28121,
+        "text": "that the righteousness of the law may be fulfilled in us, who do not walk according to the flesh, but according to the Spirit.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28122,
+        "text": "For those who are according to the flesh, the things of the flesh do mind; and those according to the Spirit, the things of the Spirit;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28123,
+        "text": "for the mind of the flesh [is] death, and the mind of the Spirit -- life and peace;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28124,
+        "text": "because the mind of the flesh [is] enmity to God, for to the law of God it doth not subject itself,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28125,
+        "text": "for neither is it able; and those who are in the flesh are not able to please God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28126,
+        "text": "And ye are not in the flesh, but in the Spirit, if indeed the Spirit of God doth dwell in you; and if any one hath not the Spirit of Christ -- this one is not His;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28127,
+        "text": "and if Christ [is] in you, the body, indeed, [is] dead because of sin, and the Spirit [is] life because of righteousness,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 28128,
+        "text": "and if the Spirit of Him who did raise up Jesus out of the dead doth dwell in you, He who did raise up the Christ out of the dead shall quicken also your dying bodies, through His Spirit dwelling in you.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28129,
+        "text": "So, then, brethren, we are debtors, not to the flesh, to live according to the flesh;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28130,
+        "text": "for if according to the flesh ye do live, ye are about to die; and if, by the Spirit, the deeds of the body ye put to death, ye shall live;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28131,
+        "text": "for as many as are led by the Spirit of God, these are the sons of God;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28132,
+        "text": "for ye did not receive a spirit of bondage again for fear, but ye did receive a spirit of adoption in which we cry, 'Abba -- Father.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28133,
+        "text": "The Spirit himself doth testify with our spirit, that we are children of God;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28134,
+        "text": "and if children, also heirs, heirs, indeed, of God, and heirs together of Christ -- if, indeed, we suffer together, that we may also be glorified together.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 28135,
+        "text": "For I reckon that the sufferings of the present time [are] not worthy [to be compared] with the glory about to be revealed in us;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28136,
+        "text": "for the earnest looking out of the creation doth expect the revelation of the sons of God;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28137,
+        "text": "for to vanity was the creation made subject -- not of its will, but because of Him who did subject [it] -- in hope,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28138,
+        "text": "that also the creation itself shall be set free from the servitude of the corruption to the liberty of the glory of the children of God;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28139,
+        "text": "for we have known that all the creation doth groan together, and doth travail in pain together till now.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28140,
+        "text": "And not only [so], but also we ourselves, having the first-fruit of the Spirit, we also ourselves in ourselves do groan, adoption expecting -- the redemption of our body;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28141,
+        "text": "for in hope we were saved, and hope beheld is not hope; for what any one doth behold, why also doth he hope for [it]?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28142,
+        "text": "and if what we do not behold we hope for, through continuance we expect [it].",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28143,
+        "text": "And, in like manner also, the Spirit doth help our weaknesses; for, what we may pray for, as it behoveth [us], we have not known, but the Spirit himself doth make intercession for us with groanings unutterable,",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 28144,
+        "text": "and He who is searching the hearts hath known what [is] the mind of the Spirit, because according to God he doth intercede for saints.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28145,
+        "text": "And we have known that to those loving God all things do work together for good, to those who are called according to purpose;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28146,
+        "text": "because whom He did foreknow, He also did fore-appoint, conformed to the image of His Son, that he might be first-born among many brethren;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 28147,
+        "text": "and whom He did fore-appoint, these also He did call; and whom He did call, these also He declared righteous; and whom He declared righteous, these also He did glorify.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28148,
+        "text": "What, then, shall we say unto these things? if God [is] for us, who [is] against us?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 28149,
+        "text": "He who indeed His own Son did not spare, but for us all did deliver him up, how shall He not also with him the all things grant to us?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28150,
+        "text": "Who shall lay a charge against the choice ones of God? God [is] He that is declaring righteous,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 28151,
+        "text": "who [is] he that is condemning? Christ [is] He that died, yea, rather also, was raised up; who is also on the right hand of God -- who also doth intercede for us.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 28152,
+        "text": "Who shall separate us from the love of the Christ? tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 28153,
+        "text": "(according as it hath been written -- 'For Thy sake we are put to death all the day long, we were reckoned as sheep of slaughter,')",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 28154,
+        "text": "but in all these we more than conquer, through him who loved us;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 28155,
+        "text": "for I am persuaded that neither death, nor life, nor messengers, nor principalities, nor powers, nor things present,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 28156,
+        "text": "nor things about to be, nor height, nor depth, nor any other created thing, shall be able to separate us from the love of god, that [is] in Christ Jesus our Lord.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

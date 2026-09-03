@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 52,"name": "1 Thessalonians","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1116,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29623,
+        "text": "And concerning the times and the seasons, brethren, ye have no need of my writing to you,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29624,
+        "text": "for yourselves have known thoroughly that the day of the Lord as a thief in the night doth so come,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29625,
+        "text": "for when they may say, Peace and surety, then sudden destruction doth stand by them, as the travail [doth] her who is with child, and they shall not escape;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29626,
+        "text": "and ye, brethren, are not in darkness, that the day may catch you as a thief;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29627,
+        "text": "all ye are sons of light, and sons of day; we are not of night, nor of darkness,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29628,
+        "text": "so, then, we may not sleep as also the others, but watch and be sober,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29629,
+        "text": "for those sleeping, by night do sleep, and those making themselves drunk, by night are drunken,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29630,
+        "text": "and we, being of the day -- let us be sober, putting on a breastplate of faith and love, and an helmet -- a hope of salvation,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29631,
+        "text": "because God did not appoint us to anger, but to the acquiring of salvation through our Lord Jesus Christ,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29632,
+        "text": "who did die for us, that whether we wake -- whether we sleep -- together with him we may live;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29633,
+        "text": "wherefore, comfort ye one another, and build ye up, one the one, as also ye do.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29634,
+        "text": "And we ask you, brethren, to know those labouring among you, and leading you in the Lord, and admonishing you,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29635,
+        "text": "and to esteem them very abundantly in love, because of their work; be at peace among yourselves;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29636,
+        "text": "and we exhort you, brethren, admonish the disorderly, comfort the feeble-minded, support the infirm, be patient unto all;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29637,
+        "text": "see no one evil for evil may render to any one, but always that which is good pursue ye, both to one another and to all;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29638,
+        "text": "always rejoice ye;",
+        "WordCount": 3,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29639,
+        "text": "continually pray ye;",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29640,
+        "text": "in every thing give thanks, for this [is] the will of God in Christ Jesus in regard to you.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29641,
+        "text": "The Spirit quench not;",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29642,
+        "text": "prophesyings despise not;",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29643,
+        "text": "all things prove; that which is good hold fast;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29644,
+        "text": "from all appearance of evil abstain ye;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29645,
+        "text": "and the God of the peace Himself sanctify you wholly, and may your whole spirit, and soul, and body, be preserved unblameably in the presence of our Lord Jesus Christ;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 29646,
+        "text": "stedfast is He who is calling you, who also will do [it].",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29647,
+        "text": "Brethren, pray for us;",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29648,
+        "text": "salute all the brethren in an holy kiss;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29649,
+        "text": "I charge you [by] the Lord, that the letter be read to all the holy brethren;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29650,
+        "text": "the grace of our Lord Jesus Christ [is] with you! Amen.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 998,
+    "MaxVerses": 51,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26046,
+        "text": "In the beginning was the Word, and the Word was with God, and the Word was God;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26047,
+        "text": "this one was in the beginning with God;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26048,
+        "text": "all things through him did happen, and without him happened not even one thing that hath happened.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26049,
+        "text": "In him was life, and the life was the light of men,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26050,
+        "text": "and the light in the darkness did shine, and the darkness did not perceive it.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 26051,
+        "text": "There came a man -- having been sent from God -- whose name [is] John,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26052,
+        "text": "this one came for testimony, that he might testify about the Light, that all might believe through him;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26053,
+        "text": "that one was not the Light, but -- that he might testify about the Light.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26054,
+        "text": "He was the true Light, which doth enlighten every man, coming to the world;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26055,
+        "text": "in the world he was, and the world through him was made, and the world did not know him:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26056,
+        "text": "to his own things he came, and his own people did not receive him;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26057,
+        "text": "but as many as did receive him to them he gave authority to become sons of God -- to those believing in his name,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26058,
+        "text": "who -- not of blood nor of a will of flesh, nor of a will of man but -- of God were begotten.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26059,
+        "text": "And the Word became flesh, and did tabernacle among us, and we beheld his glory, glory as of an only begotten of a father, full of grace and truth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26060,
+        "text": "John doth testify concerning him, and hath cried, saying, 'This was he of whom I said, He who after me is coming, hath come before me, for he was before me;'",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 26061,
+        "text": "and out of his fulness did we all receive, and grace over-against grace;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26062,
+        "text": "for the law through Moses was given, the grace and the truth through Jesus Christ did come;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26063,
+        "text": "God no one hath ever seen; the only begotten Son, who is on the bosom of the Father -- he did declare.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26064,
+        "text": "And this is the testimony of John, when the Jews sent out of Jerusalem priests and Levites, that they might question him, 'Who art thou?'",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 26065,
+        "text": "and he confessed and did not deny, and confessed -- 'I am not the Christ.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26066,
+        "text": "And they questioned him, 'What then? Elijah art thou?' and he saith, 'I am not.' -- 'The prophet art thou?' and he answered, 'No.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26067,
+        "text": "They said then to him, 'Who art thou, that we may give an answer to those sending us? what dost thou say concerning thyself?'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26068,
+        "text": "He said, 'I [am] a voice of one crying in the wilderness: Make straight the way of the Lord, as said Isaiah the prophet.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26069,
+        "text": "And those sent were of the Pharisees,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26070,
+        "text": "and they questioned him and said to him, 'Why, then, dost thou baptize, if thou art not the Christ, nor Elijah, nor the prophet?'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26071,
+        "text": "John answered them, saying, 'I baptize with water, but in midst of you he hath stood whom ye have not known, this one it is who is coming after me, who hath been before me,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26072,
+        "text": "of whom I am not worthy that I may loose the cord of his sandal.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26073,
+        "text": "These things came to pass in Bethabara, beyond the Jordan, where John was baptizing,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26074,
+        "text": "on the morrow John seeth Jesus coming unto him, and saith, 'Lo, the Lamb of God, who is taking away the sin of the world;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 26075,
+        "text": "this is he concerning whom I said, After me doth come a man, who hath come before me, because he was before me:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26076,
+        "text": "and I knew him not, but, that he might be manifested to Israel, because of this I came with the water baptizing.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26077,
+        "text": "And John testified, saying -- 'I have seen the Spirit coming down, as a dove, out of heaven, and it remained on him;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26078,
+        "text": "and I did not know him, but he who sent me to baptize with water, He said to me, On whomsoever thou mayest see the Spirit coming down, and remaining on him, this is he who is baptizing with the Holy Spirit;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26079,
+        "text": "and I have seen, and have testified, that this is the Son of God.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26080,
+        "text": "On the morrow, again, John was standing, and two of his disciples,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26081,
+        "text": "and having looked on Jesus walking, he saith, 'Lo, the Lamb of God;'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26082,
+        "text": "and the two disciples heard him speaking, and they followed Jesus.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 26083,
+        "text": "And Jesus having turned, and having beheld them following, saith to them, 'What seek ye?' and they said to them, 'Rabbi, (which is, being interpreted, Teacher,) where remainest thou?'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26084,
+        "text": "He saith to them, 'Come and see;' they came, and saw where he doth remain, and with him they remained that day and the hour was about the tenth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26085,
+        "text": "Andrew, the brother of Simon Peter, was one of the two who heard from John, and followed him;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26086,
+        "text": "this one doth first find his own brother Simon, and saith to him, 'We have found the Messiah,' (which is, being interpreted, The Anointed,)",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26087,
+        "text": "and he brought him unto Jesus: and having looked upon him, Jesus saith, 'Thou art Simon, the son of Jonas, thou shalt be called Cephas,' (which is interpreted, A rock.)",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26088,
+        "text": "On the morrow, he willed to go forth to Galilee, and he findeth Philip, and saith to him, 'Be following me.'",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 26089,
+        "text": "And Philip was from Bethsaida, of the city of Andrew and Peter;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26090,
+        "text": "Philip findeth Nathanael, and saith to him, 'Him of whom Moses wrote in the Law, and the prophets, we have found, Jesus the son of Joseph, who [is] from Nazareth;'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26091,
+        "text": "and Nathanael said to him, 'Out of Nazareth is any good thing able to be?' Philip said to him, 'Come and see.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26092,
+        "text": "Jesus saw Nathanael coming unto him, and he saith concerning him, 'Lo, truly an Israelite, in whom guile is not;'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26093,
+        "text": "Nathanael saith to him, 'Whence me dost thou know?' Jesus answered and said to him, 'Before Philip's calling thee -- thou being under the fig-tree -- I saw thee.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26094,
+        "text": "Nathanael answered and saith to him, 'Rabbi, thou art the Son of God, thou art the king of Israel.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26095,
+        "text": "Jesus answered and said to him, 'Because I said to thee, I saw thee under the fig-tree, thou dost believe; greater things than these thou shalt see;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 26096,
+        "text": "and he saith to him, 'Verily, verily, I say to you, henceforth ye shall see the heaven opened, and the messengers of God going up and coming down upon the Son of Man.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

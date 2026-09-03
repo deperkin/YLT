@@ -1,0 +1,362 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 1009,
+    "MaxVerses": 50,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26582,
+        "text": "Jesus, therefore, six days before the passover, came to Bethany, where was Lazarus, who had died, whom he raised out of the dead;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26583,
+        "text": "they made, therefore, to him a supper there, and Martha was ministering, and Lazarus was one of those reclining together (at meat) with him;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26584,
+        "text": "Mary, therefore, having taken a pound of ointment of spikenard, of great price, anointed the feet of Jesus and did wipe with her hair his feet, and the house was filled from the fragrance of the ointment.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26585,
+        "text": "Therefore saith one of his disciples -- Judas Iscariot, of Simon, who is about to deliver him up --",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26586,
+        "text": "'Wherefore was not this ointment sold for three hundred denaries, and given to the poor?'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26587,
+        "text": "and he said this, not because he was caring for the poor, but because he was a thief, and had the bag, and what things were put in he was carrying.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26588,
+        "text": "Jesus, therefore, said, 'Suffer her; for the day of my embalming she hath kept it,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26589,
+        "text": "for the poor ye have always with yourselves, and me ye have not always.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26590,
+        "text": "A great multitude, therefore, of the Jews knew that he is there, and they came, not because of Jesus only, but that Lazarus also they may see, whom he raised out of the dead;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26591,
+        "text": "and the chief priests took counsel, that also Lazarus they may kill,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26592,
+        "text": "because on account of him many of the Jews were going away, and were believing in Jesus.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26593,
+        "text": "On the morrow, a great multitude that came to the feast, having heard that Jesus doth come to Jerusalem,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 26594,
+        "text": "took the branches of the palms, and went forth to meet him, and were crying, 'Hosanna, blessed [is] he who is coming in the name of the Lord -- the king of Israel;'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26595,
+        "text": "and Jesus having found a young ass did sit upon it, according as it is written,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26596,
+        "text": "'Fear not, daughter of Sion, lo, thy king doth come, sitting on an ass' colt.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26597,
+        "text": "And these things his disciples did not know at the first, but when Jesus was glorified, then they remembered that these things were having been written about him, and these things they did to him.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26598,
+        "text": "The multitude, therefore, who are with him, were testifying that he called Lazarus out of the tomb, and did raise him out of the dead;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26599,
+        "text": "because of this also did the multitude meet him, because they heard of his having done this sign,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26600,
+        "text": "the Pharisees, therefore, said among themselves, 'Ye see that ye do not gain anything, lo, the world did go after him.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26601,
+        "text": "And there were certain Greeks out of those coming up that they may worship in the feast,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 26602,
+        "text": "these then came near to Philip, who [is] from Bethsaida of Galilee, and were asking him, saying, 'Sir, we wish to see Jesus;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26603,
+        "text": "Philip cometh and telleth Andrew, and again Andrew and Philip tell Jesus.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26604,
+        "text": "And Jesus responded to them, saying, 'The hour hath come that the Son of Man may be glorified;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26605,
+        "text": "verily, verily, I say to you, if the grain of the wheat, having fallen to the earth, may not die, itself remaineth alone; and if it may die, it doth bear much fruit;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26606,
+        "text": "he who is loving his life shall lose it, and he who is hating his life in this world -- to life age-during shall keep it;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26607,
+        "text": "if any one may minister to me, let him follow me, and where I am, there also my ministrant shall be; and if any one may minister to me -- honour him will the Father.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26608,
+        "text": "'Now hath my soul been troubled, and what? shall I say -- Father, save me from this hour? -- but because of this I came to this hour;",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 26609,
+        "text": "Father, glorify Thy name.' There came, therefore, a voice out of the heaven, 'I both glorified, and again I will glorify [it];'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26610,
+        "text": "the multitude, therefore, having stood and heard, were saying that there hath been thunder; others said, 'A messenger hath spoken to him.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26611,
+        "text": "Jesus answered and said, 'Not because of me hath this voice come, but because of you;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26612,
+        "text": "now is a judgment of this world, now shall the ruler of this world be cast forth;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26613,
+        "text": "and I, if I may be lifted up from the earth, will draw all men unto myself.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26614,
+        "text": "And this he said signifying by what death he was about to die;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26615,
+        "text": "the multitude answered him, 'We heard out of the law that the Christ doth remain -- to the age; and how dost thou say, That it behoveth the Son of Man to be lifted up? who is this -- the Son of Man?'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26616,
+        "text": "Jesus, therefore, said to them, 'Yet a little time is the light with you; walk while ye have the light, that darkness may not overtake you; and he who is walking in the darkness hath not known where he goeth;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26617,
+        "text": "while ye have the light, believe in the light, that sons of light ye may become.' These things spake Jesus, and having gone away, he was hid from them,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26618,
+        "text": "yet he having done so many signs before them, they were not believing in him,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 26619,
+        "text": "that the word of Isaiah the prophet might be fulfilled, which he said, 'Lord, who gave credence to our report? and the arm of the Lord -- to whom was it revealed?'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26620,
+        "text": "Because of this they were not able to believe, that again Isaiah said,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26621,
+        "text": "'He hath blinded their eyes, and hardened their heart, that they might not see with the eyes, and understand with the heart, and turn back, and I might heal them;'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26622,
+        "text": "these things said Isaiah, when he saw his glory, and spake of him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26623,
+        "text": "Still, however, also out of the rulers did many believe in him, but because of the Pharisees they were not confessing, that they might not be put out of the synagogue,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 43,
+        "count": 26624,
+        "text": "for they loved the glory of men more than the glory of God.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 26625,
+        "text": "And Jesus cried and said, 'He who is believing in me, doth not believe in me, but in Him who sent me;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 45,
+        "count": 26626,
+        "text": "and he who is beholding me, doth behold Him who sent me;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26627,
+        "text": "I a light to the world have come, that every one who is believing in me -- in the darkness may not remain;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26628,
+        "text": "and if any one may hear my sayings, and not believe, I -- I do not judge him, for I came not that I might judge the world, but that I might save the world.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26629,
+        "text": "'He who is rejecting me, and not receiving my sayings, hath one who is judging him, the word that I spake, that will judge him in the last day,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26630,
+        "text": "because I spake not from myself, but the Father who sent me, He did give me a command, what I may say, and what I may speak,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26631,
+        "text": "and I have known that His command is life age-during; what, therefore, I speak, according as the Father hath said to me, so I speak.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

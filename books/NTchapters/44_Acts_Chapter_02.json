@@ -1,0 +1,341 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1020,
+    "MaxVerses": 47,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26951,
+        "text": "And in the day of the Pentecost being fulfilled, they were all with one accord at the same place,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26952,
+        "text": "and there came suddenly out of the heaven a sound as of a bearing violent breath, and it filled all the house where they were sitting,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26953,
+        "text": "and there appeared to them divided tongues, as it were of fire; it sat also upon each one of them,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26954,
+        "text": "and they were all filled with the Holy Spirit, and began to speak with other tongues, according as the Spirit was giving them to declare.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26955,
+        "text": "And there were dwelling in Jerusalem Jews, devout men from every nation of those under the heaven,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 26956,
+        "text": "and the rumour of this having come, the multitude came together, and was confounded, because they were each one hearing them speaking in his proper dialect,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26957,
+        "text": "and they were all amazed, and did wonder, saying one unto another, 'Lo, are not all these who are speaking Galileans?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26958,
+        "text": "and how do we hear, each in our proper dialect, in which we were born?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26959,
+        "text": "Parthians, and Medes, and Elamites, and those dwelling in Mesopotamia, in Judea also, and Cappadocia, Pontus, and Asia,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26960,
+        "text": "Phrygia also, and Pamphylia, Egypt, and the parts of Libya, that [are] along Cyrene, and the strangers of Rome, both Jews and proselytes,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26961,
+        "text": "Cretes and Arabians, we did hear them speaking in our tongues the great things of God.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26962,
+        "text": "And they were all amazed, and were in doubt, saying one unto another, 'What would this wish to be?'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26963,
+        "text": "and others mocking said, -- 'They are full of sweet wine;'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26964,
+        "text": "and Peter having stood up with the eleven, lifted up his voice and declared to them, 'Men, Jews! and all those dwelling in Jerusalem, let this be known to you, and harken to my sayings,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 26965,
+        "text": "for these are not drunken, as ye take it up, for it is the third hour of the day.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26966,
+        "text": "'But this is that which hath been spoken through the prophet Joel:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26967,
+        "text": "And it shall be in the last days, saith God, I will pour out of My Spirit upon all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26968,
+        "text": "and also upon My men-servants, and upon My maid-servants, in those days, I will pour out of My Spirit, and they shall prophesy;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26969,
+        "text": "and I will give wonders in the heaven above, and signs upon the earth beneath -- blood, and fire, and vapour of smoke,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26970,
+        "text": "the sun shall be turned to darkness, and the moon to blood, before the coming of the day of the Lord -- the great and illustrious;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26971,
+        "text": "and it shall be, every one -- whoever shall call upon the name of the Lord, he shall be saved.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26972,
+        "text": "'Men, Israelites! hear these words, Jesus the Nazarene, a man approved of God among you by mighty works, and wonders, and signs, that God did through him in the midst of you, according as also ye yourselves have known;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26973,
+        "text": "this one, by the determinate counsel and foreknowledge of God, being given out, having taken by lawless hands, having crucified -- ye did slay;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26974,
+        "text": "whom God did raise up, having loosed the pains of the death, because it was not possible for him to be held by it,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26975,
+        "text": "for David saith in regard to him: I foresaw the Lord always before me -- because He is on my right hand -- that I may not be moved;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26976,
+        "text": "because of this was my heart cheered, and my tongue was glad, and yet -- my flesh also shall rest on hope,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26977,
+        "text": "because Thou wilt not leave my soul to hades, nor wilt Thou give Thy Kind One to see corruption;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26978,
+        "text": "Thou didst make known to me ways of life, Thou shalt fill me with joy with Thy countenance.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26979,
+        "text": "'Men, brethren! it is permitted to speak with freedom unto you concerning the patriarch David, that he both died and was buried, and his tomb is among us unto this day;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26980,
+        "text": "a prophet, therefore, being, and knowing that with an oath God did swear to him, out of the fruit of his loins, according to the flesh, to raise up the Christ, to sit upon his throne,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26981,
+        "text": "having foreseen, he did speak concerning the rising again of the Christ, that his soul was not left to hades, nor did his flesh see corruption.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26982,
+        "text": "'This Jesus did God raise up, of which we are all witnesses;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26983,
+        "text": "at the right hand then of God having been exalted -- also the promise of the Holy Spirit having received from the Father -- he was shedding forth this, which now ye see and hear;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26984,
+        "text": "for David did not go up to the heavens, and he saith himself: The Lord saith to my lord, Sit thou at my right hand,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26985,
+        "text": "till I make thy foes thy footstool;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26986,
+        "text": "assuredly, therefore, let all the house of Israel know, that both Lord and Christ did God make him -- this Jesus whom ye did crucify.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26987,
+        "text": "And having heard, they were pricked to the heart; they say also to Peter, and to the rest of the apostles, 'What shall we do, men, brethren?'",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 26988,
+        "text": "and Peter said unto them, 'Reform, and be baptized each of you on the name of Jesus Christ, to remission of sins, and ye shall receive the gift of the Holy Spirit,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26989,
+        "text": "for to you is the promise, and to your children, and to all those afar off, as many as the Lord our God shall call.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26990,
+        "text": "Also with many more other words he was testifying and exhorting, saying, 'Be saved from this perverse generation;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26991,
+        "text": "then those, indeed, who did gladly receive his word were baptized, and there were added on that day, as it were, three thousand souls,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26992,
+        "text": "and they were continuing stedfastly in the teaching of the apostles, and the fellowship, and the breaking of the bread, and the prayers.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 43,
+        "count": 26993,
+        "text": "And fear came on every soul, many wonders also and signs were being done through the apostles,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 26994,
+        "text": "and all those believing were at the same place, and had all things common,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26995,
+        "text": "and the possessions and the goods they were selling, and were parting them to all, according as any one had need.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26996,
+        "text": "Daily also continuing with one accord in the temple, breaking also at every house bread, they were partaking of food in gladness and simplicity of heart,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26997,
+        "text": "praising God, and having favour with all the people, and the Lord was adding those being saved every day to the assembly.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

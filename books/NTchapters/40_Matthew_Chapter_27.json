@@ -1,0 +1,474 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 956,
+    "MaxVerses": 66,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24131,
+        "text": "And morning having come, all the chief priests and the elders of the people took counsel against Jesus, so as to put him to death;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24132,
+        "text": "and having bound him, they did lead away, and delivered him up to Pontius Pilate, the governor.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24133,
+        "text": "Then Judas -- he who delivered him up -- having seen that he was condemned, having repented, brought back the thirty silverlings to the chief priests, and to the elders, saying,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24134,
+        "text": "'I did sin, having delivered up innocent blood;' and they said, 'What -- to us? thou shalt see!'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24135,
+        "text": "and having cast down the silverlings in the sanctuary, he departed, and having gone away, he did strangle himself.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24136,
+        "text": "And the chief priests having taken the silverlings, said, 'It is not lawful to put them to the treasury, seeing it is the price of blood;'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24137,
+        "text": "and having taken counsel, they bought with them the field of the potter, for the burial of strangers;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24138,
+        "text": "therefore was that field called, 'Field of blood,' unto this day.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24139,
+        "text": "Then was fulfilled that spoken through Jeremiah the prophet, saying, 'And I took the thirty silverlings, the price of him who hath been priced, whom they of the sons of Israel did price,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24140,
+        "text": "and gave them for the field of the potter, as the Lord did appoint to me.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24141,
+        "text": "And Jesus stood before the governor, and the governor did question him, saying, 'Art thou the king of the Jews!' And Jesus said to him, 'Thou sayest.'",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 24142,
+        "text": "And in his being accused by the chief priests and the elders, he did not answer any thing,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24143,
+        "text": "then saith Pilate to him, 'Dost thou not hear how many things they witness against thee?'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 24144,
+        "text": "And he did not answer him, not even to one word, so that the governor did wonder greatly.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24145,
+        "text": "And at the feast the governor had been accustomed to release one to the multitude, a prisoner, whom they willed,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24146,
+        "text": "and they had then a noted prisoner, called Barabbas,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24147,
+        "text": "they therefore having been gathered together, Pilate said to them, 'Whom will ye I shall release to you? Barabbas or Jesus who is called Christ?'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24148,
+        "text": "for he had known that because of envy they had delivered him up.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24149,
+        "text": "And as he is sitting on the tribunal, his wife sent unto him, saying, 'Nothing -- to thee and to that righteous one, for many things did I suffer to-day in a dream because of him.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24150,
+        "text": "And the chief priests and the elders did persuade the multitudes that they might ask for themselves Barabbas, and might destroy Jesus;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24151,
+        "text": "and the governor answering said to them, 'Which of the two will ye [that] I shall release to you?' And they said, 'Barabbas.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 24152,
+        "text": "Pilate saith to them, 'What then shall I do with Jesus who is called Christ?' They all say to him, 'Let be crucified!'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 24153,
+        "text": "And the governor said, 'Why, what evil did he?' and they were crying out the more, saying, 'Let be crucified.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24154,
+        "text": "And Pilate having seen that it profiteth nothing, but rather a tumult is made, having taken water, he did wash the hands before the multitude, saying, 'I am innocent from the blood of this righteous one; ye -- ye shall see;'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24155,
+        "text": "and all the people answering said, 'His blood [is] upon us, and upon our children!'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24156,
+        "text": "Then did he release to them Barabbas, and having scourged Jesus, he delivered [him] up that he may be crucified;",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 24157,
+        "text": "then the soldiers of the governor having taken Jesus to the Praetorium, did gather to him all the band;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24158,
+        "text": "and having unclothed him, they put around him a crimson cloak,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 24159,
+        "text": "and having plaited him a crown out of thorns they put [it] on his head, and a reed in his right hand, and having kneeled before him, they were mocking him, saying, 'Hail, the king of the Jews.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 24160,
+        "text": "And having spit on him, they took the reed, and were smiting on his head;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 24161,
+        "text": "and when they had mocked him, they took off from him the cloak, and put on him his own garments, and led him away to crucify [him].",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 24162,
+        "text": "And coming forth, they found a man, a Cyrenian, by name Simon: him they impressed that he might bear his cross;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 24163,
+        "text": "and having come to a place called Golgotha, that is called Place of a Skull,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 24164,
+        "text": "they gave him to drink vinegar mixed with gall, and having tasted, he would not drink.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 24165,
+        "text": "And having crucified him, they divided his garments, casting a lot, that it might be fulfilled that was spoken by the prophet, 'They divided my garments to themselves, and over my vesture they cast a lot;'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 24166,
+        "text": "and sitting down, they were watching him there,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 24167,
+        "text": "and they put up over his head, his accusation written, 'This is Jesus, the king of the Jews.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 24168,
+        "text": "Then crucified with him are two robbers, one on the right hand, and one on the left,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 24169,
+        "text": "and those passing by were speaking evil of him, wagging their heads,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 24170,
+        "text": "and saying, 'Thou that art throwing down the sanctuary, and in three days building [it], save thyself; if Son thou art of God, come down from the cross.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 24171,
+        "text": "And in like manner also the chief priests mocking, with the scribes and elders, said,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 24172,
+        "text": "'Others he saved; himself he is not able to save! If he be King of Israel, let him come down now from the cross, and we will believe him;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 24173,
+        "text": "he hath trusted on God, let Him now deliver him, if He wish him, because he said -- Son of God I am;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 24174,
+        "text": "with the same also the robbers, who were crucified with him, were reproaching him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 24175,
+        "text": "And from the sixth hour darkness came over all the land unto the ninth hour,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 24176,
+        "text": "and about the ninth hour Jesus cried out with a great voice, saying, 'Eli, Eli, lama sabachthani?' that is, 'My God, my God, why didst Thou forsake me?'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 24177,
+        "text": "And certain of those standing there having heard, said -- 'Elijah he doth call;'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 24178,
+        "text": "and immediately, one of them having run, and having taken a spunge, having filled [it] with vinegar, and having put [it] on a reed, was giving him to drink,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 24179,
+        "text": "but the rest said, 'Let alone, let us see if Elijah doth come -- about to save him.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 24180,
+        "text": "And Jesus having again cried with a great voice, yielded the spirit;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 51,
+        "count": 24181,
+        "text": "and lo, the vail of the sanctuary was rent in two from top unto bottom, and the earth did quake, and the rocks were rent,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 24182,
+        "text": "and the tombs were opened, and many bodies of the saints who have fallen asleep, arose,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 24183,
+        "text": "and having come forth out of the tombs after his rising, they went into the holy city, and appeared to many.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 24184,
+        "text": "And the centurion, and those with him watching Jesus, having seen the earthquake, and the things that were done, were exceedingly afraid, saying, 'Truly this was God's Son.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 24185,
+        "text": "And there were there many women beholding from afar, who did follow Jesus from Galilee, ministering to him,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 24186,
+        "text": "among whom was Mary the Magdalene, and Mary the mother of James and of Joses, and the mother of the sons of Zebedee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 24187,
+        "text": "And evening having come, there came a rich man, from Arimathea, named Joseph, who also himself was discipled to Jesus,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 58,
+        "count": 24188,
+        "text": "he having gone near to Pilate, asked for himself the body of Jesus; then Pilate commanded the body to be given back.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 24189,
+        "text": "And having taken the body, Joseph wrapped it in clean linen,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 24190,
+        "text": "and laid it in his new tomb, that he hewed in the rock, and having rolled a great stone to the door of the tomb, he went away;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 24191,
+        "text": "and there were there Mary the Magdalene, and the other Mary, sitting over-against the sepulchre.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 24192,
+        "text": "And on the morrow that is after the preparation, were gathered together the chief priests, and the Pharisees, unto Pilate,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 24193,
+        "text": "saying, 'Sir, we have remembered that that deceiver said while yet living, After three days I do rise;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 24194,
+        "text": "command, then, the sepulchre to be made secure till the third day, lest his disciples, having come by night, may steal him away, and may say to the people, He rose from the dead, and the last deceit shall be worse than the first.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 24195,
+        "text": "And Pilate said to them, 'Ye have a watch, go away, make secure -- as ye have known;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 24196,
+        "text": "and they, having gone, did make the sepulchre secure, having sealed the stone, together with the watch.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

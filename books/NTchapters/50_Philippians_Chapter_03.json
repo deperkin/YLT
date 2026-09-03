@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 50,"name": "Philippians","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1106,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29423,
+        "text": "As to the rest, my brethren, rejoice in the Lord; the same things to write to you to me indeed is not tiresome, and for you [is] sure;",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29424,
+        "text": "look to the dogs, look to the evil-workers, look to the concision;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29425,
+        "text": "for we are the circumcision, who by the Spirit are serving God, and glorying in Christ Jesus, and in flesh having no trust,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29426,
+        "text": "though I also have [cause of] trust in flesh. If any other one doth think to have trust in flesh, I more;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 29427,
+        "text": "circumcision on the eighth day! of the race of Israel! of the tribe of Benjamin! a Hebrew of Hebrews! according to law a Pharisee!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29428,
+        "text": "according to zeal persecuting the assembly! according to righteousness that is in law becoming blameless!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29429,
+        "text": "But what things were to me gains, these I have counted, because of the Christ, loss;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29430,
+        "text": "yes, indeed, and I count all things to be loss, because of the excellency of the knowledge of Christ Jesus my Lord, because of whom of the all things I suffered loss, and do count them to be refuse, that Christ I may gain, and be found in him,",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29431,
+        "text": "not having my righteousness, which [is] of law, but that which [is] through faith of Christ -- the righteousness that is of God by the faith,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29432,
+        "text": "to know him, and the power of his rising again, and the fellowship of his sufferings, being conformed to his death,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29433,
+        "text": "if anyhow I may attain to the rising again of the dead.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29434,
+        "text": "Not that I did already obtain, or have been already perfected; but I pursue, if also I may lay hold of that for which also I was laid hold of by the Christ Jesus;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29435,
+        "text": "brethren, I do not reckon myself to have laid hold; and one thing -- the things behind indeed forgetting, and to the things before stretching forth --",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29436,
+        "text": "to the mark I pursue for the prize of the high calling of God in Christ Jesus.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29437,
+        "text": "As many, therefore, as [are] perfect -- let us think this, and if [in] anything ye think otherwise, this also shall God reveal to you,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 29438,
+        "text": "but to what we have come -- by the same rule walk, the same thing think;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29439,
+        "text": "become followers together of me, brethren, and observe those thus walking, according as ye have us -- a pattern;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 29440,
+        "text": "for many walk of whom many times I told you -- and now also weeping tell -- the enemies of the cross of the Christ!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29441,
+        "text": "whose end [is] destruction, whose god [is] the belly, and whose glory [is] in their shame, who the things on earth are minding.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29442,
+        "text": "For our citizenship is in the heavens, whence also a Saviour we await -- the Lord Jesus Christ --",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29443,
+        "text": "who shall transform the body of our humiliation to its becoming conformed to the body of his glory, according to the working of his power, even to subject to himself the all things.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

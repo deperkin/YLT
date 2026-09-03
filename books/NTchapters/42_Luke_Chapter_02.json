@@ -1,0 +1,376 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 42,"name": "Luke","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 975,
+    "MaxVerses": 52,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24975,
+        "text": "And it came to pass in those days, there went forth a decree from Caesar Augustus, that all the world be enrolled --",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24976,
+        "text": "this enrolment first came to pass when Cyrenius was governor of Syria --",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24977,
+        "text": "and all were going to be enrolled, each to his proper city,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24978,
+        "text": "and Joseph also went up from Galilee, out of the city of Nazareth, to Judea, to the city of David, that is called Bethlehem, because of his being of the house and family of David,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24979,
+        "text": "to enrol himself with Mary his betrothed wife, being with child.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24980,
+        "text": "And it came to pass, in their being there, the days were fulfilled for her bringing forth,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24981,
+        "text": "and she brought forth her son -- the first-born, and wrapped him up, and laid him down in the manger, because there was not for them a place in the guest-chamber.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24982,
+        "text": "And there were shepherds in the same region, lodging in the field, and keeping the night-watches over their flock,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 24983,
+        "text": "and lo, a messenger of the Lord stood over them, and the glory of the Lord shone around them, and they feared a great fear.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24984,
+        "text": "And the messenger said to them, 'Fear not, for lo, I bring you good news of great joy, that shall be to all the people --",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24985,
+        "text": "because there was born to you to-day a Saviour -- who is Christ the Lord -- in the city of David,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24986,
+        "text": "and this [is] to you the sign: Ye shall find a babe wrapped up, lying in the manger.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24987,
+        "text": "And suddenly there came with the messenger a multitude of the heavenly host, praising God, and saying,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 24988,
+        "text": "'Glory in the highest to God, and upon earth peace, among men -- good will.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24989,
+        "text": "And it came to pass, when the messengers were gone away from them to the heavens, that the men, the shepherds, said unto one another, 'We may go over indeed unto Bethlehem, and see this thing that hath come to pass, that the Lord did make known to us.'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24990,
+        "text": "And they came, having hasted, and found both Mary, and Joseph, and the babe lying in the manger,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24991,
+        "text": "and having seen, they made known abroad concerning the saying spoken to them concerning the child.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24992,
+        "text": "And all who heard, did wonder concerning the things spoken by the shepherds unto them;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24993,
+        "text": "and Mary was preserving all these things, pondering in her heart;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24994,
+        "text": "and the shepherds turned back, glorifying and praising God, for all those things they heard and saw, as it was spoken unto them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24995,
+        "text": "And when eight days were fulfilled to circumcise the child, then was his name called Jesus, having been so called by the messenger before his being conceived in the womb.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 24996,
+        "text": "And when the days of their purification were fulfilled, according to the law of Moses, they brought him up to Jerusalem, to present to the Lord,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 24997,
+        "text": "as it hath been written in the Law of the Lord, -- 'Every male opening a womb shall be called holy to the Lord,'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24998,
+        "text": "and to give a sacrifice, according to that said in the Law of the Lord, 'A pair of turtle-doves, or two young pigeons.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24999,
+        "text": "And lo, there was a man in Jerusalem, whose name [is] Simeon, and this man is righteous and devout, looking for the comforting of Israel, and the Holy Spirit was upon him,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 25000,
+        "text": "and it hath been divinely told him by the Holy Spirit -- not to see death before he may see the Christ of the Lord.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 25001,
+        "text": "And he came in the Spirit to the temple, and in the parents bringing in the child Jesus, for their doing according to the custom of the law regarding him,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 25002,
+        "text": "then he took him in his arms, and blessed God, and he said,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 25003,
+        "text": "'Now Thou dost send away Thy servant, Lord, according to Thy word, in peace,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 25004,
+        "text": "because mine eyes did see Thy salvation,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 25005,
+        "text": "which Thou didst prepare before the face of all the peoples,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 25006,
+        "text": "a light to the uncovering of nations, and the glory of Thy people Israel.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 25007,
+        "text": "And Joseph and his mother were wondering at the things spoken concerning him,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 25008,
+        "text": "and Simeon blessed them, and said unto Mary his mother, 'Lo, this [one] is set for the falling and rising again of many in Israel, and for a sign spoken against --",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 25009,
+        "text": "(and also thine own soul shall a sword pass through) -- that the reasonings of many hearts may be revealed.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 25010,
+        "text": "And there was Anna, a prophetess, daughter of Phanuel, of the tribe of Asher, she was much advanced in days, having lived with an husband seven years from her virginity,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 25011,
+        "text": "and she [is] a widow of about eighty-four years, who did depart not from the temple, with fasts and supplications serving, night and day,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 25012,
+        "text": "and she, at that hour, having come in, was confessing, likewise, to the Lord, and was speaking concerning him, to all those looking for redemption in Jerusalem.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 25013,
+        "text": "And when they finished all things, according to the Law of the Lord, they turned back to Galilee, to their city Nazareth;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 25014,
+        "text": "and the child grew and was strengthened in spirit, being filled with wisdom, and the grace of God was upon him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 25015,
+        "text": "And his parents were going yearly to Jerusalem, at the feast of the passover,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 25016,
+        "text": "and when he became twelve years old, they having gone up to Jerusalem, according to the custom of the feast,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 25017,
+        "text": "and having finished the days, in their returning the child Jesus remained behind in Jerusalem, and Joseph and his mother did not know,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 25018,
+        "text": "and, having supposed him to be in the company, they went a day's journey, and were seeking him among the kindred and among the acquaintances,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 25019,
+        "text": "and not having found him, they turned back to Jerusalem seeking him.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 25020,
+        "text": "And it came to pass, after three days, they found him in the temple, sitting in the midst of the teachers, both hearing them and questioning them,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 25021,
+        "text": "and all those hearing him were astonished at his understanding and answers.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 25022,
+        "text": "And, having seen him, they were amazed, and his mother said unto him, 'Child, why didst thou thus to us? lo, thy father and I, sorrowing, were seeking thee.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 25023,
+        "text": "And he said unto them, 'Why [is it] that ye were seeking me? did ye not know that in the things of my Father it behoveth me to be?'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 25024,
+        "text": "and they did not understand the saying that he spake to them,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 25025,
+        "text": "and he went down with them, and came to Nazareth, and he was subject to them, and his mother was keeping all these sayings in her heart,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 25026,
+        "text": "and Jesus was advancing in wisdom, and in stature, and in favour with God and men.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

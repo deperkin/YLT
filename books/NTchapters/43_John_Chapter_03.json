@@ -1,0 +1,264 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1000,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26122,
+        "text": "And there was a man of the Pharisees, Nicodemus his name, a ruler of the Jews,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26123,
+        "text": "this one came unto him by night, and said to him, 'Rabbi, we have known that from God thou hast come -- a teacher, for no one these signs is able to do that thou dost, if God may not be with him.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26124,
+        "text": "Jesus answered and said to him, 'Verily, verily, I say to thee, If any one may not be born from above, he is not able to see the reign of God;'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26125,
+        "text": "Nicodemus saith unto him, 'How is a man able to be born, being old? is he able into the womb of his mother a second time to enter, and to be born?'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26126,
+        "text": "Jesus answered, 'Verily, verily, I say to thee, If any one may not be born of water, and the Spirit, he is not able to enter into the reign of God;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26127,
+        "text": "that which hath been born of the flesh is flesh, and that which hath been born of the Spirit is spirit.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26128,
+        "text": "'Thou mayest not wonder that I said to thee, It behoveth you to be born from above;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26129,
+        "text": "the Spirit where he willeth doth blow, and his voice thou dost hear, but thou hast not known whence he cometh, and whither he goeth; thus is every one who hath been born of the Spirit.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26130,
+        "text": "Nicodemus answered and said to him, 'How are these things able to happen?'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26131,
+        "text": "Jesus answered and said to him, 'Thou art the teacher of Israel -- and these things thou dost not know!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26132,
+        "text": "'Verily, verily, I say to thee -- What we have known we speak, and what we have seen we testify, and our testimony ye do not receive;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26133,
+        "text": "if the earthly things I said to you, and ye do not believe, how, if I shall say to you the heavenly things, will ye believe?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26134,
+        "text": "and no one hath gone up to the heaven, except he who out of the heaven came down -- the Son of Man who is in the heaven.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26135,
+        "text": "'And as Moses did lift up the serpent in the wilderness, so it behoveth the Son of Man to be lifted up,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26136,
+        "text": "that every one who is believing in him may not perish, but may have life age-during,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26137,
+        "text": "for God did so love the world, that His Son -- the only begotten -- He gave, that every one who is believing in him may not perish, but may have life age-during.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26138,
+        "text": "For God did not send His Son to the world that he may judge the world, but that the world may be saved through him;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26139,
+        "text": "he who is believing in him is not judged, but he who is not believing hath been judged already, because he hath not believed in the name of the only begotten Son of God.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26140,
+        "text": "'And this is the judgment, that the light hath come to the world, and men did love the darkness rather than the light, for their works were evil;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26141,
+        "text": "for every one who is doing wicked things hateth the light, and doth not come unto the light, that his works may not be detected;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26142,
+        "text": "but he who is doing the truth doth come to the light, that his works may be manifested, that in God they are having been wrought.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26143,
+        "text": "After these things came Jesus and his disciples to the land of Judea, and there he did tarry with them, and was baptizing;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 26144,
+        "text": "and John was also baptizing in Aenon, nigh to Salem, because there were many waters there, and they were coming and were being baptized --",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26145,
+        "text": "for John was not yet cast into the prison --",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26146,
+        "text": "there arose then a question from the disciples of John with [some] Jews about purifying,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26147,
+        "text": "and they came unto John, and said to him, 'Rabbi, he who was with thee beyond the Jordan, to whom thou didst testify, lo, this one is baptizing, and all are coming unto him.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26148,
+        "text": "John answered and said, 'A man is not able to receive anything, if it may not have been given him from the heaven;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26149,
+        "text": "ye yourselves do testify to me that I said, I am not the Christ, but, that I am having been sent before him;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26150,
+        "text": "he who is having the bride is bridegroom, and the friend of the bridegroom, who is standing and hearing him, with joy doth rejoice because of the voice of the bridegroom; this, then, my joy hath been fulfilled.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26151,
+        "text": "'Him it behoveth to increase, and me to become less;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26152,
+        "text": "he who from above is coming is above all; he who is from the earth, from the earth he is, and from the earth he speaketh; he who from the heaven is coming is above all.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26153,
+        "text": "'And what he hath seen and heard this he doth testify, and his testimony none receiveth;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26154,
+        "text": "he who is receiving his testimony did seal that God is true;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26155,
+        "text": "for he whom God sent, the sayings of God he speaketh; for not by measure doth God give the Spirit;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26156,
+        "text": "the Father doth love the Son, and all things hath given into his hand;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26157,
+        "text": "he who is believing in the Son, hath life age-during; and he who is not believing the Son, shall not see life, but the wrath of God doth remain upon him.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

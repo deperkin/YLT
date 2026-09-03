@@ -1,0 +1,124 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1123,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29749,
+        "text": "And the Spirit expressly speaketh, that in latter times shall certain fall away from the faith, giving heed to seducing spirits and teachings of demons,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29750,
+        "text": "in hypocrisy speaking lies, being seared in their own conscience,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29751,
+        "text": "forbidding to marry -- to abstain from meats that God created to be received with thanksgiving by those believing and acknowledging the truth,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29752,
+        "text": "because every creature of God [is] good, and nothing [is] to be rejected, with thanksgiving being received,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29753,
+        "text": "for it is sanctified through the word of God and intercession.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29754,
+        "text": "These things placing before the brethren, thou shalt be a good ministrant of Jesus Christ, being nourished by the words of the faith, and of the good teaching, which thou didst follow after,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29755,
+        "text": "and the profane and old women's fables reject thou, and exercise thyself unto piety,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29756,
+        "text": "for the bodily exercise is unto little profit, and the piety is to all things profitable, a promise having of the life that now is, and of that which is coming;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29757,
+        "text": "stedfast [is] the word, and of all acceptation worthy;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29758,
+        "text": "for for this we both labour and are reproached, because we hope on the living God, who is Saviour of all men -- especially of those believing.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29759,
+        "text": "Charge these things, and teach;",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29760,
+        "text": "let no one despise thy youth, but a pattern become thou of those believing in word, in behaviour, in love, in spirit, in faith, in purity;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29761,
+        "text": "till I come, give heed to the reading, to the exhortation, to the teaching;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29762,
+        "text": "be not careless of the gift in thee, that was given thee through prophecy, with laying on of the hands of the eldership;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29763,
+        "text": "of these things be careful; in these things be, that thy advancement may be manifest in all things;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29764,
+        "text": "take heed to thyself, and to the teaching; remain in them, for this thing doing, both thyself thou shalt save, and those hearing thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

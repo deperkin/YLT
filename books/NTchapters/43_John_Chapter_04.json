@@ -1,0 +1,390 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1001,
+    "MaxVerses": 54,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26158,
+        "text": "When therefore the Lord knew that the Pharisees heard that Jesus more disciples doth make and baptize than John,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26159,
+        "text": "(though indeed Jesus himself was not baptizing, but his disciples,)",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26160,
+        "text": "he left Judea and went away again to Galilee,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26161,
+        "text": "and it was behoving him to go through Samaria.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 26162,
+        "text": "He cometh, therefore, to a city of Samaria, called Sychar, near to the place that Jacob gave to Joseph his son;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26163,
+        "text": "and there was there a well of Jacob. Jesus therefore having been weary from the journeying, was sitting thus on the well; it was as it were the sixth hour;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26164,
+        "text": "there cometh a woman out of Samaria to draw water. Jesus saith to her, 'Give me to drink;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26165,
+        "text": "for his disciples were gone away to the city, that they may buy victuals;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26166,
+        "text": "the Samaritan woman therefore saith to him, 'How dost thou, being a Jew, ask drink from me, being a Samaritan woman?' for Jews have no dealing with Samaritans.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26167,
+        "text": "Jesus answered and said to her, 'If thou hadst known the gift of God, and who it is who is saying to thee, Give me to drink, thou wouldest have asked him, and he would have given thee living water.'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26168,
+        "text": "The woman saith to him, 'Sir, thou hast not even a vessel to draw with, and the well is deep; whence, then, hast thou the living water?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26169,
+        "text": "Art thou greater than our father Jacob, who did give us the well, and himself out of it did drink, and his sons, and his cattle?'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26170,
+        "text": "Jesus answered and said to her, 'Every one who is drinking of this water shall thirst again;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26171,
+        "text": "but whoever may drink of the water that I will give him, may not thirst -- to the age; and the water that I will give him shall become in him a well of water, springing up to life age-during.'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26172,
+        "text": "The woman saith unto him, 'Sir, give me this water, that I may not thirst, nor come hither to draw.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26173,
+        "text": "Jesus saith to her, 'Go, call thy husband, and come hither;'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26174,
+        "text": "the woman answered and said, 'I have not a husband.' Jesus saith to her, 'Well didst thou say -- A husband I have not;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26175,
+        "text": "for five husbands thou hast had, and, now, he whom thou hast is not thy husband; this hast thou said truly.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26176,
+        "text": "The woman saith to him, 'Sir, I perceive that thou art a prophet;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26177,
+        "text": "our fathers in this mountain did worship, and ye -- ye say that in Jerusalem is the place where it behoveth to worship.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26178,
+        "text": "Jesus saith to her, 'Woman, believe me, that there doth come an hour, when neither in this mountain, nor in Jerusalem, shall ye worship the Father;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26179,
+        "text": "ye worship what ye have not known; we worship what we have known, because the salvation is of the Jews;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26180,
+        "text": "but, there cometh an hour, and it now is, when the true worshippers will worship the Father in spirit and truth, for the Father also doth seek such to worship him;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26181,
+        "text": "God [is] a Spirit, and those worshipping Him, in spirit and truth it doth behove to worship.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26182,
+        "text": "The woman saith to him, 'I have known that Messiah doth come, who is called Christ, when that one may come, he will tell us all things;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26183,
+        "text": "Jesus saith to her, 'I am [he], who am speaking to thee.'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26184,
+        "text": "And upon this came his disciples, and were wondering that with a woman he was speaking, no one, however, said, 'What seekest thou?' or 'Why speakest thou with her?'",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 26185,
+        "text": "The woman then left her water-jug, and went away to the city, and saith to the men,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26186,
+        "text": "'Come, see a man, who told me all things -- as many as I did; is this the Christ?'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26187,
+        "text": "They went forth therefore out of the city, and were coming unto him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26188,
+        "text": "And in the meanwhile his disciples were asking him, saying, 'Rabbi, eat;'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26189,
+        "text": "and he said to them, 'I have food to eat that ye have not known.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26190,
+        "text": "The disciples then said one to another, 'Did any one bring him anything to eat?'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26191,
+        "text": "Jesus saith to them, 'My food is, that I may do the will of Him who sent me, and may finish His work;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26192,
+        "text": "do not say that it is yet four months, and the harvest cometh; lo, I say to you, Lift up your eyes, and see the fields, that they are white unto harvest already.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26193,
+        "text": "'And he who is reaping doth receive a reward, and doth gather fruit to life age-during, that both he who is sowing and he who is reaping may rejoice together;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26194,
+        "text": "for in this the saying is the true one, that one is the sower and another the reaper.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 26195,
+        "text": "I sent you to reap that on which ye have not laboured; others laboured, and ye into their labour have entered.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26196,
+        "text": "And from that city many believed in him, of the Samaritans, because of the word of the woman testifying, -- 'He told me all things -- as many as I did.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26197,
+        "text": "When, then, the Samaritans came unto him, they were asking him to remain with them, and he remained there two days;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26198,
+        "text": "and many more did believe because of his word,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26199,
+        "text": "and said to the woman -- 'No more because of thy speaking do we believe; for we ourselves have heard and known that this is truly the Saviour of the world -- the Christ.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26200,
+        "text": "And after the two days he went forth thence, and went away to Galilee,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 26201,
+        "text": "for Jesus himself testified that a prophet in his own country shall not have honour;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26202,
+        "text": "when then, he came to Galilee, the Galileans received him, having seen all things that he did in Jerusalem in the feast -- for they also went to the feast.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26203,
+        "text": "Jesus came, therefore, again to Cana of Galilee, where he made the water wine, and there was a certain courtier, whose son was ailing in Capernaum,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26204,
+        "text": "he, having heard that Jesus is come out of Judea to Galilee, went away unto him, and was asking him that he may come down and may heal his son, for he was about to die.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26205,
+        "text": "Jesus then said unto him, 'If signs and wonders ye may not see, ye will not believe.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26206,
+        "text": "The courtier saith unto him, 'Sir, come down before my child die;'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26207,
+        "text": "Jesus saith to him, 'Be going on; thy son doth live.' And the man believed the word that Jesus said to him, and was going on,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 26208,
+        "text": "and he now going down, his servants met him, and told, saying -- 'Thy child doth live;'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 26209,
+        "text": "he inquired then of them the hour in which he became better, and they said to him -- 'Yesterday at the seventh hour the fever left him;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 26210,
+        "text": "then the father knew that [it was] in that hour in which Jesus said to him -- 'Thy son doth live,' and he himself believed, and his whole house;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 26211,
+        "text": "this again a second sign did Jesus, having come out of Judea to Galilee.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

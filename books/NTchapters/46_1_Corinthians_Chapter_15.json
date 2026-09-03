@@ -1,0 +1,418 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 1077,
+    "MaxVerses": 58,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28720,
+        "text": "And I make known to you, brethren, the good news that I proclaimed to you, which also ye did receive, in which also ye have stood,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28721,
+        "text": "through which also ye are being saved, in what words I proclaimed good news to you, if ye hold fast, except ye did believe in vain,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28722,
+        "text": "for I delivered to you first, what also I did receive, that Christ died for our sins, according to the Writings,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28723,
+        "text": "and that he was buried, and that he hath risen on the third day, according to the Writings,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28724,
+        "text": "and that he appeared to Cephas, then to the twelve,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28725,
+        "text": "afterwards he appeared to above five hundred brethren at once, of whom the greater part remain till now, and certain also did fall asleep;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28726,
+        "text": "afterwards he appeared to James, then to all the apostles.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28727,
+        "text": "And last of all -- as to the untimely birth -- he appeared also to me,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28728,
+        "text": "for I am the least of the apostles, who am not worthy to be called an apostle, because I did persecute the assembly of God,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28729,
+        "text": "and by the grace of God I am what I am, and His grace that [is] towards me came not in vain, but more abundantly than they all did I labour, yet not I, but the grace of God that [is] with me;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28730,
+        "text": "whether, then, I or they, so we preach, and so ye did believe.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28731,
+        "text": "And if Christ is preached, that out of the dead he hath risen, how say certain among you, that there is no rising again of dead persons?",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 28732,
+        "text": "and if there be no rising again of dead persons, neither hath Christ risen;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28733,
+        "text": "and if Christ hath not risen, then void [is] our preaching, and void also your faith,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28734,
+        "text": "and we also are found false witnesses of God, because we did testify of God that He raised up the Christ, whom He did not raise if then dead persons do not rise;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28735,
+        "text": "for if dead persons do not rise, neither hath Christ risen,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28736,
+        "text": "and if Christ hath not risen, vain is your faith, ye are yet in your sins;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28737,
+        "text": "then, also, those having fallen asleep in Christ did perish;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28738,
+        "text": "if in this life we have hope in Christ only, of all men we are most to be pitied.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28739,
+        "text": "And now, Christ hath risen out of the dead -- the first-fruits of those sleeping he became,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 28740,
+        "text": "for since through man [is] the death, also through man [is] a rising again of the dead,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28741,
+        "text": "for even as in Adam all die, so also in the Christ all shall be made alive,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28742,
+        "text": "and each in his proper order, a first-fruit Christ, afterwards those who are the Christ's, in his presence,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 28743,
+        "text": "then -- the end, when he may deliver up the reign to God, even the Father, when he may have made useless all rule, and all authority and power --",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28744,
+        "text": "for it behoveth him to reign till he may have put all the enemies under his feet --",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 28745,
+        "text": "the last enemy is done away -- death;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 28746,
+        "text": "for all things He did put under his feet, and, when one may say that all things have been subjected, [it is] evident that He is excepted who did subject the all things to him,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28747,
+        "text": "and when the all things may be subjected to him, then the Son also himself shall be subject to Him, who did subject to him the all things, that God may be the all in all.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 28748,
+        "text": "Seeing what shall they do who are baptized for the dead, if the dead do not rise at all? why also are they baptized for the dead?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 28749,
+        "text": "why also do we stand in peril every hour?",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 28750,
+        "text": "Every day do I die, by the glorying of you that I have in Christ Jesus our Lord:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 28751,
+        "text": "if after the manner of a man with wild beasts I fought in Ephesus, what the advantage to me if the dead do not rise? let us eat and drink, for to-morrow we die!",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 28752,
+        "text": "Be not led astray; evil communications corrupt good manners;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 28753,
+        "text": "awake up, as is right, and sin not; for certain have an ignorance of God; for shame to you I say [it].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 28754,
+        "text": "But some one will say, 'How do the dead rise?",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 28755,
+        "text": "unwise! thou -- what thou dost sow is not quickened except it may die;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 28756,
+        "text": "and that which thou dost sow, not the body that shall be dost thou sow, but bare grain, it may be of wheat, or of some one of the others,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 28757,
+        "text": "and God doth give to it a body according as He willed, and to each of the seeds its proper body.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 28758,
+        "text": "All flesh [is] not the same flesh, but there is one flesh of men, and another flesh of beasts, and another of fishes, and another of birds;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 28759,
+        "text": "and [there are] heavenly bodies, and earthly bodies; but one [is] the glory of the heavenly, and another that of the earthly;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 28760,
+        "text": "one glory of sun, and another glory of moon, and another glory of stars, for star from star doth differ in glory.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 28761,
+        "text": "So also [is] the rising again of the dead: it is sown in corruption, it is raised in incorruption;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 28762,
+        "text": "it is sown in dishonour, it is raised in glory; it is sown in weakness, it is raised in power;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 28763,
+        "text": "it is sown a natural body, it is raised a spiritual body; there is a natural body, and there is a spiritual body;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 28764,
+        "text": "so also it hath been written, 'The first man Adam became a living creature,' the last Adam [is] for a life-giving spirit,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 28765,
+        "text": "but that which is spiritual [is] not first, but that which [was] natural, afterwards that which [is] spiritual.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 28766,
+        "text": "The first man [is] out of the earth, earthy; the second man [is] the Lord out of heaven;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 28767,
+        "text": "as [is] the earthy, such [are] also the earthy; and as [is] the heavenly, such [are] also the heavenly;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 28768,
+        "text": "and, according as we did bear the image of the earthy, we shall bear also the image of the heavenly.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 28769,
+        "text": "And this I say, brethren, that flesh and blood the reign of God is not able to inherit, nor doth the corruption inherit the incorruption;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 28770,
+        "text": "lo, I tell you a secret; we indeed shall not all sleep, and we all shall be changed;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 52,
+        "count": 28771,
+        "text": "in a moment, in the twinkling of an eye, in the last trumpet, for it shall sound, and the dead shall be raised incorruptible, and we -- we shall be changed:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 28772,
+        "text": "for it behoveth this corruptible to put on incorruption, and this mortal to put on immortality;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 28773,
+        "text": "and when this corruptible may have put on incorruption, and this mortal may have put on immortality, then shall be brought to pass the word that hath been written, 'The Death was swallowed up -- to victory;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 28774,
+        "text": "where, O Death, thy sting? where, O Hades, thy victory?'",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 28775,
+        "text": "and the sting of the death [is] the sin, and the power of the sin the law;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 28776,
+        "text": "and to God -- thanks, to Him who is giving us the victory through our Lord Jesus Christ;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 28777,
+        "text": "so that, my brethren beloved, become ye stedfast, unmovable, abounding in the work of the Lord at all times, knowing that your labour is not vain in the Lord.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 1059,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28268,
+        "text": "Let every soul to the higher authorities be subject, for there is no authority except from God, and the authorities existing are appointed by God,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28269,
+        "text": "so that he who is setting himself against the authority, against God's ordinance hath resisted; and those resisting, to themselves shall receive judgment.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28270,
+        "text": "For those ruling are not a terror to the good works, but to the evil; and dost thou wish not to be afraid of the authority? that which is good be doing, and thou shalt have praise from it,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28271,
+        "text": "for of God it is a ministrant to thee for good; and if that which is evil thou mayest do, be fearing, for not in vain doth it bear the sword; for of God it is a ministrant, an avenger for wrath to him who is doing that which is evil.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28272,
+        "text": "Wherefore it is necessary to be subject, not only because of the wrath, but also because of the conscience,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28273,
+        "text": "for because of this also pay ye tribute; for servants of God they are, on this very thing attending continually;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28274,
+        "text": "render, therefore, to all [their] dues; to whom tribute, the tribute; to whom custom, the custom; to whom fear, the fear; to whom honour, the honour.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28275,
+        "text": "To no one owe anything, except to love one another; for he who is loving the other -- law he hath fulfilled,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28276,
+        "text": "for, 'Thou shalt not commit adultery, Thou shalt do no murder, Thou shalt not steal, Thou shalt not bear false testimony, Thou shalt not covet;' and if there is any other command, in this word it is summed up, in this: 'Thou shalt love thy neighbour as thyself;'",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28277,
+        "text": "the love to the neighbour doth work no ill; the love, therefore, [is] the fulness of law.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28278,
+        "text": "And this, knowing the time, that for us, the hour already [is] to be aroused out of sleep, for now nearer [is] our salvation than when we did believe;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 28279,
+        "text": "the night did advance, and the day came nigh; let us lay aside, therefore, the works of the darkness, and let us put on the armour of the light;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28280,
+        "text": "as in day-time, let us walk becomingly; not in revellings and drunkennesses, not in chamberings and lasciviousnesses, not in strife and emulation;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28281,
+        "text": "but put ye on the Lord Jesus Christ, and for the flesh take no forethought -- for desires.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

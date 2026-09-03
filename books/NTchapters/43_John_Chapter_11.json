@@ -1,0 +1,411 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 1008,
+    "MaxVerses": 57,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26525,
+        "text": "And there was a certain one ailing, Lazarus, from Bethany, of the village of Mary and Martha her sister --",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26526,
+        "text": "and it was Mary who did anoint the Lord with ointment, and did wipe his feet with her hair, whose brother Lazarus was ailing --",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26527,
+        "text": "therefore sent the sisters unto him, saying, 'Sir, lo, he whom thou dost love is ailing;'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26528,
+        "text": "and Jesus having heard, said, 'This ailment is not unto death, but for the glory of God, that the Son of God may be glorified through it.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26529,
+        "text": "And Jesus was loving Martha, and her sister, and Lazarus,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26530,
+        "text": "when, therefore, he heard that he is ailing, then indeed he remained in the place in which he was two days,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26531,
+        "text": "then after this, he saith to the disciples, 'We may go to Judea again;'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26532,
+        "text": "the disciples say to him, 'Rabbi, now were the Jews seeking to stone thee, and again thou dost go thither!'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26533,
+        "text": "Jesus answered, 'Are there not twelve hours in the day? if any one may walk in the day, he doth not stumble, because the light of this world he doth see;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26534,
+        "text": "and if any one may walk in the night, he stumbleth, because the light is not in him.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26535,
+        "text": "These things he said, and after this he saith to them, 'Lazarus our friend hath fallen asleep, but I go on that I may awake him;'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26536,
+        "text": "therefore said his disciples, 'Sir, if he hath fallen asleep, he will be saved;'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26537,
+        "text": "but Jesus had spoken about his death, but they thought that about the repose of sleep he speaketh.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26538,
+        "text": "Then, therefore, Jesus said to them freely, 'Lazarus hath died;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26539,
+        "text": "and I rejoice, for your sake, (that ye may believe,) that I was not there; but we may go to him;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26540,
+        "text": "therefore said Thomas, who is called Didymus, to the fellow-disciples, 'We may go -- we also, that we may die with him,'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26541,
+        "text": "Jesus, therefore, having come, found him having been four days already in the tomb.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 26542,
+        "text": "And Bethany was nigh to Jerusalem, about fifteen furlongs off,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26543,
+        "text": "and many of the Jews had come unto Martha and Mary, that they might comfort them concerning their brother;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26544,
+        "text": "Martha, therefore, when she heard that Jesus doth come, met him, and Mary kept sitting in the house.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26545,
+        "text": "Martha, therefore, said unto Jesus, 'Sir, if thou hadst been here, my brother had not died;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26546,
+        "text": "but even now, I have known that whatever thou mayest ask of God, God will give to thee;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26547,
+        "text": "Jesus saith to her, 'Thy brother shall rise again.'",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26548,
+        "text": "Martha saith to him, 'I have known that he will rise again, in the rising again in the last day;'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26549,
+        "text": "Jesus said to her, 'I am the rising again, and the life; he who is believing in me, even if he may die, shall live;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26550,
+        "text": "and every one who is living and believing in me shall not die -- to the age;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26551,
+        "text": "believest thou this?' she saith to him, 'Yes, sir, I have believed that thou art the Christ, the Son of God, who is coming to the world.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26552,
+        "text": "And these things having said, she went away, and called Mary her sister privately, saying, 'The Teacher is present, and doth call thee;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 26553,
+        "text": "she, when she heard, riseth up quickly, and doth come to him;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26554,
+        "text": "and Jesus had not yet come to the village, but was in the place where Martha met him;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26555,
+        "text": "the Jews, therefore, who were with her in the house, and were comforting her, having seen Mary that she rose up quickly and went forth, followed her, saying -- 'She doth go away to the tomb, that she may weep there.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26556,
+        "text": "Mary, therefore, when she came where Jesus was, having seen him, fell at his feet, saying to him, 'Sir, if thou hadst been here, my brother had not died;'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26557,
+        "text": "Jesus, therefore, when he saw her weeping, and the Jews who came with her weeping, did groan in the spirit, and troubled himself, and he said,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 26558,
+        "text": "'Where have ye laid him?' they say to him, 'Sir, come and see;'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26559,
+        "text": "Jesus wept.",
+        "WordCount": 2,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26560,
+        "text": "The Jews, therefore, said, 'Lo, how he was loving him!'",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26561,
+        "text": "and certain of them said, 'Was not this one, who did open the eyes of the blind man, able to cause that also this one might not have died?'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 26562,
+        "text": "Jesus, therefore, again groaning in himself, cometh to the tomb, and it was a cave, and a stone was lying upon it,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26563,
+        "text": "Jesus saith, 'Take ye away the stone;' the sister of him who hath died -- Martha -- saith to him, 'Sir, already he stinketh, for he is four days dead;'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26564,
+        "text": "Jesus saith to her, 'Said I not to thee, that if thou mayest believe, thou shalt see the glory of God?'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26565,
+        "text": "They took away, therefore, the stone where the dead was laid, and Jesus lifted his eyes upwards, and said, 'Father, I thank Thee, that Thou didst hear me;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26566,
+        "text": "and I knew that Thou always dost hear me, but, because of the multitude that is standing by, I said [it], that they may believe that Thou didst send me.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26567,
+        "text": "And these things saying, with a loud voice he cried out, 'Lazarus, come forth;'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 26568,
+        "text": "and he who died came forth, being bound feet and hands with grave-clothes, and his visage with a napkin was bound about; Jesus saith to them, 'Loose him, and suffer to go.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26569,
+        "text": "Many, therefore, of the Jews who came unto Mary, and beheld what Jesus did, believed in him;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 46,
+        "count": 26570,
+        "text": "but certain of them went away unto the Pharisees, and told them what Jesus did;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26571,
+        "text": "the chief priests, therefore, and the Pharisees, gathered together a sanhedrim, and said, 'What may we do? because this man doth many signs?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26572,
+        "text": "if we may let him alone thus, all will believe in him; and the Romans will come, and will take away both our place and nation.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26573,
+        "text": "and a certain one of them, Caiaphas, being chief priest of that year, said to them, 'Ye have not known anything,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26574,
+        "text": "nor reason that it is good for us that one man may die for the people, and not the whole nation perish.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 26575,
+        "text": "And this he said not of himself, but being chief priest of that year, he did prophesy that Jesus was about to die for the nation,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 26576,
+        "text": "and not for the nation only, but that also the children of God, who have been scattered abroad, he may gather together into one.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 26577,
+        "text": "From that day, therefore, they took counsel together that they may kill him;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 26578,
+        "text": "Jesus, therefore, was no more freely walking among the Jews, but went away thence to the region nigh the wilderness, to a city called Ephraim, and there he tarried with his disciples.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 26579,
+        "text": "And the passover of the Jews was nigh, and many went up to Jerusalem out of the country before the passover, that they might purify themselves;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 26580,
+        "text": "they were seeking, therefore, Jesus, and said one with another, standing in the temple, 'What doth appear to you -- that he may not come to the feast?'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 26581,
+        "text": "and both the chief priests and the Pharisees had given a command, that if any one may know where he is, he may shew [it], so that they may seize him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

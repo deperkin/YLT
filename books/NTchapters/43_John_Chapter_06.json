@@ -1,0 +1,509 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 1003,
+    "MaxVerses": 71,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26259,
+        "text": "After these things Jesus went away beyond the sea of Galilee (of Tiberias),",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26260,
+        "text": "and there was following him a great multitude, because they were seeing his signs that he was doing on the ailing;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26261,
+        "text": "and Jesus went up to the mount, and he was there sitting with his disciples,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26262,
+        "text": "and the passover was nigh, the feast of the Jews.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26263,
+        "text": "Jesus then having lifted up [his] eyes and having seen that a great multitude doth come to him, saith unto Philip, 'Whence shall we buy loaves, that these may eat?' --",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26264,
+        "text": "and this he said, trying him, for he himself had known what he was about to do.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26265,
+        "text": "Philip answered him, 'Two hundred denaries' worth of loaves are not sufficient to them, that each of them may receive some little;'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26266,
+        "text": "one of his disciples -- Andrew, the brother of Simon Peter -- saith to him,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26267,
+        "text": "'There is one little lad here who hath five barley loaves, and two fishes, but these -- what are they to so many?'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26268,
+        "text": "And Jesus said, 'Make the men to sit down;' and there was much grass in the place, the men then sat down, in number, as it were, five thousand,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26269,
+        "text": "and Jesus took the loaves, and having given thanks he distributed to the disciples, and the disciples to those reclining, in like manner, also of the little fishes as much as they wished.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26270,
+        "text": "And when they were filled, he saith to his disciples, 'Gather together the broken pieces that are over, that nothing may be lost;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26271,
+        "text": "they gathered together, therefore, and filled twelve hand-baskets with broken pieces, from the five barley loaves that were over to those having eaten.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26272,
+        "text": "The men, then, having seen the sign that Jesus did, said -- 'This is truly the Prophet, who is coming to the world;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26273,
+        "text": "Jesus, therefore, having known that they are about to come, and to take him by force that they may make him king, retired again to the mountain himself alone.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 26274,
+        "text": "And when evening came, his disciples went down to the sea,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26275,
+        "text": "and having entered into the boat, they were going over the sea to Capernaum, and darkness had already come, and Jesus had not come unto them,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26276,
+        "text": "the sea also -- a great wind blowing -- was being raised,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26277,
+        "text": "having pushed onwards, therefore, about twenty-five or thirty furlongs, they behold Jesus walking on the sea, and coming nigh to the boat, and they were afraid;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26278,
+        "text": "and he saith to them, 'I am [he], be not afraid;'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26279,
+        "text": "they were willing then to receive him into the boat, and immediately the boat came unto the land to which they were going.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26280,
+        "text": "On the morrow, the multitude that was standing on the other side of the sea, having seen that there was no other little boat there except one -- that into which his disciples entered -- and that Jesus went not in with his disciples into the little boat, but his disciples went away alone,",
+        "WordCount": 54,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 26281,
+        "text": "(and other little boats came from Tiberias, nigh the place where they did eat the bread, the Lord having given thanks),",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26282,
+        "text": "when therefore the multitude saw that Jesus is not there, nor his disciples, they also themselves did enter into the boats, and came to Capernaum seeking Jesus;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26283,
+        "text": "and having found him on the other side of the sea, they said to him, 'Rabbi, when hast thou come hither?'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26284,
+        "text": "Jesus answered them and said, 'Verily, verily, I say to you, Ye seek me, not because ye saw signs, but because ye did eat of the loaves, and were satisfied;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26285,
+        "text": "work not for the food that is perishing, but for the food that is remaining to life age-during, which the Son of Man will give to you, for him did the Father seal -- [even] God.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26286,
+        "text": "They said therefore unto him, 'What may we do that we may work the works of God?'",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 26287,
+        "text": "Jesus answered and said to them, 'This is the work of God, that ye may believe in him whom He did send.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26288,
+        "text": "They said therefore to him, 'What sign, then, dost thou, that we may see and may believe thee? what dost thou work?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26289,
+        "text": "our fathers the manna did eat in the wilderness, according as it is having been written, Bread out of the heaven He gave them to eat.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26290,
+        "text": "Jesus, therefore, said to them, 'Verily, verily, I say to you, Moses did not give you the bread out of the heaven; but my Father doth give you the true bread out of the heaven;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26291,
+        "text": "for the bread of God is that which is coming down out of the heaven, and giving life to the world.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 26292,
+        "text": "They said, therefore, unto him, 'Sir, always give us this bread.'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 26293,
+        "text": "And Jesus said to them, 'I am the bread of the life; he who is coming unto me may not hunger, and he who is believing in me may not thirst -- at any time;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 26294,
+        "text": "but I said to you, that ye also have seen me, and ye believe not;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 26295,
+        "text": "all that the Father doth give to me will come unto me; and him who is coming unto me, I may in no wise cast without,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 26296,
+        "text": "because I have come down out of the heaven, not that I may do my will, but the will of Him who sent me.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 26297,
+        "text": "'And this is the will of the Father who sent me, that all that He hath given to me I may not lose of it, but may raise it up in the last day;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 26298,
+        "text": "and this is the will of Him who sent me, that every one who is beholding the Son, and is believing in him, may have life age-during, and I will raise him up in the last day.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 26299,
+        "text": "The Jews, therefore, were murmuring at him, because he said, 'I am the bread that came down out of the heaven;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 26300,
+        "text": "and they said, 'Is not this Jesus, the son of Joseph, whose father and mother we have known? how then saith this one -- Out of the heaven I have come down?'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 26301,
+        "text": "Jesus answered, therefore, and said to them, 'Murmur not one with another;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 26302,
+        "text": "no one is able to come unto me, if the Father who sent me may not draw him, and I will raise him up in the last day;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 26303,
+        "text": "it is having been written in the prophets, And they shall be all taught of God; every one therefore who heard from the Father, and learned, cometh to me;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 26304,
+        "text": "not that any one hath seen the Father, except he who is from God, he hath seen the Father.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 26305,
+        "text": "'Verily, verily, I say to you, He who is believing in me, hath life age-during;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 26306,
+        "text": "I am the bread of the life;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 26307,
+        "text": "your fathers did eat the manna in the wilderness, and they died;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 26308,
+        "text": "this is the bread that out of the heaven is coming down, that any one may eat of it, and not die.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 26309,
+        "text": "'I am the living bread that came down out of the heaven; if any one may eat of this bread he shall live -- to the age; and the bread also that I will give is my flesh, that I will give for the life of the world.'",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 26310,
+        "text": "The Jews, therefore, were striving with one another, saying, 'How is this one able to give us [his] flesh to eat?'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 26311,
+        "text": "Jesus, therefore, said to them, 'Verily, verily, I say to you, If ye may not eat the flesh of the Son of Man, and may not drink his blood, ye have no life in yourselves;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 26312,
+        "text": "he who is eating my flesh, and is drinking my blood, hath life age-during, and I will raise him up in the last day;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 26313,
+        "text": "for my flesh truly is food, and my blood truly is drink;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 26314,
+        "text": "he who is eating my flesh, and is drinking my blood, doth remain in me, and I in him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 26315,
+        "text": "'According as the living Father sent me, and I live because of the Father, he also who is eating me, even that one shall live because of me;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 26316,
+        "text": "this is the bread that came down out of the heaven; not as your fathers did eat the manna, and died; he who is eating this bread shall live -- to the age.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 26317,
+        "text": "These things he said in a synagogue, teaching in Capernaum;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 26318,
+        "text": "many, therefore, of his disciples having heard, said, 'This word is hard; who is able to hear it?'",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 61,
+        "count": 26319,
+        "text": "And Jesus having known in himself that his disciples are murmuring about this, said to them, 'Doth this stumble you?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 26320,
+        "text": "if then ye may behold the Son of Man going up where he was before?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 26321,
+        "text": "the spirit it is that is giving life; the flesh doth not profit anything; the sayings that I speak to you are spirit, and they are life;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 26322,
+        "text": "but there are certain of you who do not believe;' for Jesus had known from the beginning who they are who are not believing, and who is he who will deliver him up,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 26323,
+        "text": "and he said, 'Because of this I have said to you -- No one is able to come unto me, if it may not have been given him from my Father.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 26324,
+        "text": "From this [time] many of his disciples went away backward, and were no more walking with him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 26325,
+        "text": "Jesus, therefore, said to the twelve, 'Do ye also wish to go away?'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 68,
+        "count": 26326,
+        "text": "Simon Peter, therefore, answered him, 'Sir, unto whom shall we go? thou hast sayings of life age-during;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 69,
+        "count": 26327,
+        "text": "and we have believed, and we have known, that thou art the Christ, the Son of the living God.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 70,
+        "count": 26328,
+        "text": "Jesus answered them, 'Did not I choose you -- the twelve? and of you -- one is a devil.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 71,
+        "count": 26329,
+        "text": "And he spake of Judas, Simon's [son], Iscariot, for he was about to deliver him up, being one of the twelve.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

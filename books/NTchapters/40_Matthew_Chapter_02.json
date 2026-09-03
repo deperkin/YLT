@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 931,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23171,
+        "text": "And Jesus having been born in Beth-Lehem of Judea, in the days of Herod the king, lo, mages from the east came to Jerusalem,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23172,
+        "text": "saying, 'Where is he who was born king of the Jews? for we saw his star in the east, and we came to bow to him.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23173,
+        "text": "And Herod the king having heard, was stirred, and all Jerusalem with him,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23174,
+        "text": "and having gathered all the chief priests and scribes of the people, he was inquiring from them where the Christ is born.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23175,
+        "text": "And they said to him, 'In Beth-Lehem of Judea, for thus it hath been written through the prophet,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23176,
+        "text": "And thou, Beth-Lehem, the land of Judah, thou art by no means the least among the leaders of Judah, for out of thee shall come one leading, who shall feed My people Israel.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23177,
+        "text": "Then Herod, privately having called the mages, did inquire exactly from them the time of the appearing star,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23178,
+        "text": "and having sent them to Beth-Lehem, he said, 'Having gone -- inquire ye exactly for the child, and whenever ye may have found, bring me back word, that I also having come may bow to him.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23179,
+        "text": "And they, having heard the king, departed, and lo, the star, that they did see in the east, did go before them, till, having come, it stood over where the child was.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 23180,
+        "text": "And having seen the star, they rejoiced with exceeding great joy,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23181,
+        "text": "and having come to the house, they found the child with Mary his mother, and having fallen down they bowed to him, and having opened their treasures, they presented to him gifts, gold, and frankincense, and myrrh,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23182,
+        "text": "and having been divinely warned in a dream not to turn back unto Herod, through another way they withdrew to their own region.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23183,
+        "text": "And on their having withdrawn, lo, a messenger of the Lord doth appear in a dream to Joseph, saying, 'Having risen, take the child and his mother, and flee to Egypt, and be thou there till I may speak to thee, for Herod is about to seek the child to destroy him.'",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23184,
+        "text": "And he, having risen, took the child and his mother by night, and withdrew to Egypt,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23185,
+        "text": "and he was there till the death of Herod, that it might be fulfilled that was spoken by the Lord through the prophet, saying, 'Out of Egypt I did call My Son.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23186,
+        "text": "Then Herod, having seen that he was deceived by the mages, was very wroth, and having sent forth, he slew all the male children in Beth-Lehem, and in all its borders, from two years and under, according to the time that he inquired exactly from the mages.",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 23187,
+        "text": "Then was fulfilled that which was spoken by Jeremiah the prophet, saying,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23188,
+        "text": "'A voice in Ramah was heard -- lamentation and weeping and much mourning -- Rachel weeping [for] her children, and she would not be comforted because they are not.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23189,
+        "text": "And Herod having died, lo, a messenger of the Lord in a dream doth appear to Joseph in Egypt,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 23190,
+        "text": "saying, 'Having risen, take the child and his mother, and be going to the land of Israel, for they have died -- those seeking the life of the child.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23191,
+        "text": "And he, having risen, took the child and his mother, and came to the land of Israel,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23192,
+        "text": "and having heard that Archelaus doth reign over Judea instead of Herod his father, he was afraid to go thither, and having been divinely warned in a dream, he withdrew to the parts of Galilee,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23193,
+        "text": "and coming, he dwelt in a city named Nazareth, that it might be fulfilled that was spoken through the prophets, that 'A Nazarene he shall be called.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

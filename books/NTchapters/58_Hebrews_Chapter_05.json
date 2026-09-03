@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1138,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30032,
+        "text": "For every chief priest -- out of men taken -- in behalf of men is set in things [pertaining] to God, that he may offer both gifts and sacrifices for sins,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30033,
+        "text": "able to be gentle to those ignorant and going astray, since himself also is compassed with infirmity;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30034,
+        "text": "and because of this infirmity he ought, as for the people, so also for himself to offer for sins;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30035,
+        "text": "and no one to himself doth take the honour, but he who is called by God, as also Aaron:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30036,
+        "text": "so also the Christ did not glorify himself to become chief priest, but He who spake unto him: 'My Son thou art, I to-day have begotten thee;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30037,
+        "text": "as also in another [place] He saith, 'Thou [art] a priest -- to the age, according to the order of Melchisedek;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30038,
+        "text": "who in the days of his flesh both prayers and supplications unto Him who was able to save him from death -- with strong crying and tears -- having offered up, and having been heard in respect to that which he feared,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30039,
+        "text": "through being a Son, did learn by the things which he suffered -- the obedience,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30040,
+        "text": "and having been made perfect, he did become to all those obeying him a cause of salvation age-during,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30041,
+        "text": "having been addressed by God a chief priest, according to the order of Melchisedek,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 30042,
+        "text": "concerning whom we have much discourse and of hard explanation to say, since ye have become dull of hearing,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30043,
+        "text": "for even owing to be teachers, because of the time, again ye have need that one teach you what [are] the elements of the beginning of the oracles of God, and ye have become having need of milk, and not of strong food,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30044,
+        "text": "for every one who is partaking of milk [is] unskilled in the word of righteousness -- for he is an infant,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30045,
+        "text": "and of perfect men is the strong food, who because of the use are having the senses exercised, unto the discernment both of good and of evil.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

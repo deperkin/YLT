@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 1042,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27771,
+        "text": "And after five days came down the chief priest Ananias, with the elders, and a certain orator -- Tertullus, and they made manifest to the governor [the things] against Paul;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27772,
+        "text": "and he having been called, Tertullus began to accuse [him], saying, 'Much peace enjoying through thee, and worthy deeds being done to this nation through thy forethought,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27773,
+        "text": "always, also, and everywhere we receive it, most noble Felix, with all thankfulness;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27774,
+        "text": "and that I may not be further tedious to thee, I pray thee to hear us concisely in thy gentleness;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27775,
+        "text": "for having found this man a pestilence, and moving a dissension to all the Jews through the world -- a ringleader also of the sect of the Nazarenes --",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27776,
+        "text": "who also the temple did try to profane, whom also we took, and according to our law did wish to judge,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27777,
+        "text": "and Lysias the chief captain having come near, with much violence, out of our hands did take away,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27778,
+        "text": "having commanded his accusers to come to thee, from whom thou mayest be able, thyself having examined, to know concerning all these things of which we accuse him;'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27779,
+        "text": "and the Jews also agreed, professing these things to be so.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27780,
+        "text": "And Paul answered -- the governor having beckoned to him to speak -- 'Knowing [that] for many years thou hast been a judge to this nation, the more cheerfully the things concerning myself I do answer;",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 27781,
+        "text": "thou being able to know that it is not more than twelve days to me since I went up to worship in Jerusalem,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27782,
+        "text": "and neither in the temple did they find me reasoning with any one, or making a dissension of the multitude, nor in the synagogues, nor in the city;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27783,
+        "text": "nor are they able to prove against me the things concerning which they now accuse me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27784,
+        "text": "'And I confess this to thee, that, according to the way that they call a sect, so serve I the God of the fathers, believing all things that in the law and the prophets have been written,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27785,
+        "text": "having hope toward God, which they themselves also wait for, [that] there is about to be a rising again of the dead, both of righteous and unrighteous;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27786,
+        "text": "and in this I do exercise myself, to have a conscience void of offence toward God and men always.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27787,
+        "text": "'And after many years I came, about to do kind acts to my nation, and offerings,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27788,
+        "text": "in which certain Jews from Asia did find me purified in the temple, not with multitude, nor with tumult,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27789,
+        "text": "whom it behoveth to be present before thee, and to accuse, if they had anything against me,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27790,
+        "text": "or let these same say if they found any unrighteousness in me in my standing before the sanhedrim,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27791,
+        "text": "except concerning this one voice, in which I cried, standing among them -- Concerning a rising again of the dead I am judged to-day by you.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27792,
+        "text": "And having heard these things, Felix delayed them -- having known more exactly of the things concerning the way -- saying, 'When Lysias the chief captain may come down, I will know fully the things concerning you;'",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 27793,
+        "text": "having given also a direction to the centurion to keep Paul, to let [him] also have liberty, and to forbid none of his own friends to minister or to come near to him.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27794,
+        "text": "And after certain days, Felix having come with Drusilla his wife, being a Jewess, he sent for Paul, and heard him concerning the faith toward Christ,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27795,
+        "text": "and he reasoning concerning righteousness, and temperance, and the judgment that is about to be, Felix, having become afraid, answered, 'For the present be going, and having got time, I will call for thee;'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27796,
+        "text": "and at the same time also hoping that money shall be given to him by Paul, that he may release him, therefore, also sending for him the oftener, he was conversing with him;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27797,
+        "text": "and two years having been fulfilled, Felix received a successor, Porcius Festus; Felix also willing to lay a favour on the Jews, left Paul bound.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

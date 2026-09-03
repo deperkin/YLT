@@ -1,0 +1,348 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 934,
+    "MaxVerses": 48,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23236,
+        "text": "And having seen the multitudes, he went up to the mount, and he having sat down, his disciples came to him,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23237,
+        "text": "and having opened his mouth, he was teaching them, saying:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23238,
+        "text": "'Happy the poor in spirit -- because theirs is the reign of the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 23239,
+        "text": "'Happy the mourning -- because they shall be comforted.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23240,
+        "text": "'Happy the meek -- because they shall inherit the land.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23241,
+        "text": "'Happy those hungering and thirsting for righteousness -- because they shall be filled.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23242,
+        "text": "'Happy the kind -- because they shall find kindness.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23243,
+        "text": "'Happy the clean in heart -- because they shall see God.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23244,
+        "text": "'Happy the peacemakers -- because they shall be called Sons of God.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23245,
+        "text": "'Happy those persecuted for righteousness' sake -- because theirs is the reign of the heavens.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23246,
+        "text": "'Happy are ye whenever they may reproach you, and may persecute, and may say any evil thing against you falsely for my sake --",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23247,
+        "text": "rejoice ye and be glad, because your reward [is] great in the heavens, for thus did they persecute the prophets who were before you.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23248,
+        "text": "'Ye are the salt of the land, but if the salt may lose savour, in what shall it be salted? for nothing is it good henceforth, except to be cast without, and to be trodden down by men.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23249,
+        "text": "'Ye are the light of the world, a city set upon a mount is not able to be hid;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23250,
+        "text": "nor do they light a lamp, and put it under the measure, but on the lamp-stand, and it shineth to all those in the house;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23251,
+        "text": "so let your light shine before men, that they may see your good works, and may glorify your Father who [is] in the heavens.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23252,
+        "text": "'Do not suppose that I came to throw down the law or the prophets -- I did not come to throw down, but to fulfil;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 23253,
+        "text": "for, verily I say to you, till that the heaven and the earth may pass away, one iota or one tittle may not pass away from the law, till that all may come to pass.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23254,
+        "text": "'Whoever therefore may loose one of these commands -- the least -- and may teach men so, least he shall be called in the reign of the heavens, but whoever may do and may teach [them], he shall be called great in the reign of the heavens.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23255,
+        "text": "'For I say to you, that if your righteousness may not abound above that of the scribes and Pharisees, ye may not enter to the reign of the heavens.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23256,
+        "text": "'Ye heard that it was said to the ancients: Thou shalt not kill, and whoever may kill shall be in danger of the judgment;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 23257,
+        "text": "but I -- I say to you, that every one who is angry at his brother without cause, shall be in danger of the judgment, and whoever may say to his brother, Empty fellow! shall be in danger of the sanhedrim, and whoever may say, Rebel! shall be in danger of the gehenna of the fire.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23258,
+        "text": "'If, therefore, thou mayest bring thy gift to the altar, and there mayest remember that thy brother hath anything against thee,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23259,
+        "text": "leave there thy gift before the altar, and go -- first be reconciled to thy brother, and then having come bring thy gift.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23260,
+        "text": "'Be agreeing with thy opponent quickly, while thou art in the way with him, that the opponent may not deliver thee to the judge, and the judge may deliver thee to the officer, and to prison thou mayest be cast,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23261,
+        "text": "verily I say to thee, thou mayest not come forth thence till that thou mayest pay the last farthing.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23262,
+        "text": "'Ye heard that it was said to the ancients: Thou shalt not commit adultery;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 23263,
+        "text": "but I -- I say to you, that every one who is looking on a woman to desire her, did already commit adultery with her in his heart.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23264,
+        "text": "'But, if thy right eye doth cause thee to stumble, pluck it out and cast from thee, for it is good to thee that one of thy members may perish, and not thy whole body be cast to gehenna.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23265,
+        "text": "'And, if thy right hand doth cause thee to stumble, cut it off, and cast from thee, for it is good to thee that one of thy members may perish, and not thy whole body be cast to gehenna.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23266,
+        "text": "'And it was said, That whoever may put away his wife, let him give to her a writing of divorce;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23267,
+        "text": "but I -- I say to you, that whoever may put away his wife, save for the matter of whoredom, doth make her to commit adultery; and whoever may marry her who hath been put away doth commit adultery.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23268,
+        "text": "'Again, ye heard that it was said to the ancients: Thou shalt not swear falsely, but thou shalt pay to the Lord thine oaths;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 23269,
+        "text": "but I -- I say to you, not to swear at all; neither by the heaven, because it is the throne of God,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 23270,
+        "text": "nor by the earth, because it is His footstool, nor by Jerusalem, because it is a city of a great king,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 23271,
+        "text": "nor by thy head mayest thou swear, because thou art not able one hair to make white or black;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 23272,
+        "text": "but let your word be, Yes, Yes, No, No, and that which is more than these is of the evil.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 23273,
+        "text": "'Ye heard that it was said: Eye for eye, and tooth for tooth;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 23274,
+        "text": "but I -- I say to you, not to resist the evil, but whoever shall slap thee on thy right cheek, turn to him also the other;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 23275,
+        "text": "and whoever is willing to take thee to law, and thy coat to take -- suffer to him also the cloak.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 23276,
+        "text": "'And whoever shall impress thee one mile, go with him two,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 23277,
+        "text": "to him who is asking of thee be giving, and him who is willing to borrow from thee thou mayest not turn away.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 23278,
+        "text": "'Ye heard that it was said: Thou shalt love thy neighbour, and shalt hate thine enemy;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 23279,
+        "text": "but I -- I say to you, Love your enemies, bless those cursing you, do good to those hating you, and pray for those accusing you falsely, and persecuting you,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 23280,
+        "text": "that ye may be sons of your Father in the heavens, because His sun He doth cause to rise on evil and good, and He doth send rain on righteous and unrighteous.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 23281,
+        "text": "'For, if ye may love those loving you, what reward have ye? do not also the tax-gatherers the same?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 23282,
+        "text": "and if ye may salute your brethren only, what do ye abundant? do not also the tax-gatherers so?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 23283,
+        "text": "ye shall therefore be perfect, as your Father who [is] in the heavens is perfect.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

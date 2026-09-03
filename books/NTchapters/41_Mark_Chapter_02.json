@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 41,"name": "Mark","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 959,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24262,
+        "text": "And again he entered into Capernaum, after [some] days, and it was heard that he is in the house,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24263,
+        "text": "and immediately many were gathered together, so that there was no more room, not even at the door, and he was speaking to them the word.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24264,
+        "text": "And they come unto him, bringing a paralytic, borne by four,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24265,
+        "text": "and not being able to come near to him because of the multitude, they uncovered the roof where he was, and, having broken [it] up, they let down the couch on which the paralytic was lying,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24266,
+        "text": "and Jesus having seen their faith, saith to the paralytic, 'Child, thy sins have been forgiven thee.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24267,
+        "text": "And there were certain of the scribes there sitting, and reasoning in their hearts,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24268,
+        "text": "'Why doth this one thus speak evil words? who is able to forgive sins except one -- God?'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24269,
+        "text": "And immediately Jesus, having known in his spirit that they thus reason in themselves, said to them, 'Why these things reason ye in your hearts?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24270,
+        "text": "which is easier, to say to the paralytic, The sins have been forgiven to thee? or to say, Rise, and take up thy couch, and walk?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24271,
+        "text": "'And, that ye may know that the Son of Man hath authority on the earth to forgive sins -- (he saith to the paralytic) --",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24272,
+        "text": "I say to thee, Rise, and take up thy couch, and go away to thy house;'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24273,
+        "text": "and he rose immediately, and having taken up the couch, he went forth before all, so that all were astonished, and do glorify God, saying -- 'Never thus did we see.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24274,
+        "text": "And he went forth again by the sea, and all the multitude was coming unto him, and he was teaching them,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 24275,
+        "text": "and passing by, he saw Levi of Alpheus sitting at the tax-office, and saith to him, 'Be following me,' and he, having risen, did follow him.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24276,
+        "text": "And it came to pass, in his reclining (at meat) in his house, that many tax-gatherers and sinners were reclining (at meat) with Jesus and his disciples, for there were many, and they followed him.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24277,
+        "text": "And the scribes and the Pharisees, having seen him eating with the tax-gatherers and sinners, said to his disciples, 'Why -- that with the tax-gatherers and sinners he doth eat and drink?'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24278,
+        "text": "And Jesus, having heard, saith to them, 'They who are strong have no need of a physician, but they who are ill; I came not to call righteous men, but sinners to reformation.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24279,
+        "text": "And the disciples of John and those of the Pharisees were fasting, and they come and say to him, 'Wherefore do the disciples of John and those of the Pharisees fast, and thy disciples do not fast?'",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 24280,
+        "text": "And Jesus said to them, 'Are the sons of the bride-chamber able, while the bridegroom is with them, to fast? so long time as they have the bridegroom with them they are not able to fast;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24281,
+        "text": "but days shall come when the bridegroom may be taken from them, and then they shall fast -- in those days.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24282,
+        "text": "'And no one a patch of undressed cloth doth sew on an old garment, and if not -- the new filling it up doth take from the old and the rent doth become worse;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 24283,
+        "text": "and no one doth put new wine into old skins, and if not -- the new wine doth burst the skins, and the wine is poured out, and the skins will be destroyed; but new wine into new skins is to be put.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 24284,
+        "text": "And it came to pass -- he is going along on the sabbaths through the corn-fields -- and his disciples began to make a way, plucking the ears,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24285,
+        "text": "and the Pharisees said to him, 'Lo, why do they on the sabbaths that which is not lawful?'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24286,
+        "text": "And he said to them, 'Did ye never read what David did, when he had need and was hungry, he and those with him?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24287,
+        "text": "how he went into the house of God, (at 'Abiathar the chief priest,') and the loaves of the presentation did eat, which it is not lawful to eat, except to the priests, and he gave also to those who were with him?'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 24288,
+        "text": "And he said to them, 'The sabbath for man was made, not man for the sabbath,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24289,
+        "text": "so that the son of man is lord also of the sabbath.'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

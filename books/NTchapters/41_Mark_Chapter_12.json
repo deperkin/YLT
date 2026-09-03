@@ -1,0 +1,320 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 41,"name": "Mark","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 969,
+    "MaxVerses": 44,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24675,
+        "text": "And he began to speak to them in similes: 'A man planted a vineyard, and put a hedge around, and digged an under-wine-vat, and built a tower, and gave it out to husbandmen, and went abroad;",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24676,
+        "text": "and he sent unto the husbandmen at the due time a servant, that from the husbandmen he may receive from the fruit of the vineyard,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24677,
+        "text": "and they, having taken him, did severely beat [him], and did send him away empty.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24678,
+        "text": "'And again he sent unto them another servant, and at that one having cast stones, they wounded [him] in the head, and sent away -- dishonoured.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24679,
+        "text": "'And again he sent another, and that one they killed; and many others, some beating, and some killing.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24680,
+        "text": "'Having yet therefore one son -- his beloved -- he sent also him unto them last, saying -- They will reverence my son;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24681,
+        "text": "and those husbandmen said among themselves -- This is the heir, come, we may kill him, and ours shall be the inheritance;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24682,
+        "text": "and having taken him, they did kill, and cast [him] forth without the vineyard.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24683,
+        "text": "'What therefore shall the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard to others.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24684,
+        "text": "And this Writing did ye not read: A stone that the builders rejected, it did become the head of a corner:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24685,
+        "text": "from the Lord was this, and it is wonderful in our eyes.'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24686,
+        "text": "And they were seeking to lay hold on him, and they feared the multitude, for they knew that against them he spake the simile, and having left him, they went away;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24687,
+        "text": "and they send unto him certain of the Pharisees and of the Herodians, that they may ensnare him in discourse,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 24688,
+        "text": "and they having come, say to him, 'Teacher, we have known that thou art true, and thou art not caring for any one, for thou dost not look to the face of men, but in truth the way of God dost teach; is it lawful to give tribute to Caesar or not? may we give, or may we not give?'",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24689,
+        "text": "And he, knowing their hypocrisy, said to them, 'Why me do ye tempt? bring me a denary, that I may see;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24690,
+        "text": "and they brought, and he saith to them, 'Whose [is] this image, and the inscription?' and they said to him, 'Caesar's;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24691,
+        "text": "and Jesus answering said to them, 'Give back the things of Caesar to Caesar, and the things of God to God;' and they did wonder at him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24692,
+        "text": "And the Sadducees come unto him, who say there is not a rising again, and they questioned him, saying,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 24693,
+        "text": "'Teacher, Moses wrote to us, that if any one's brother may die, and may leave a wife, and may leave no children, that his brother may take his wife, and raise up seed to his brother.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24694,
+        "text": "'There were then seven brothers, and the first took a wife, and dying, he left no seed;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24695,
+        "text": "and the second took her, and died, neither left he seed, and the third in like manner,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 24696,
+        "text": "and the seven took her, and left no seed, last of all died also the woman;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 24697,
+        "text": "in the rising again, then, whenever they may rise, of which of them shall she be wife -- for the seven had her as wife?'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24698,
+        "text": "And Jesus answering said to them, 'Do ye not because of this go astray, not knowing the Writings, nor the power of God?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 24699,
+        "text": "for when they may rise out of the dead, they neither marry nor are they given in marriage, but are as messengers who are in the heavens.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24700,
+        "text": "'And concerning the dead, that they rise: have ye not read in the Book of Moses (at The Bush), how God spake to him, saying, I [am] the God of Abraham, and the God of Isaac, and the God of Jacob;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 24701,
+        "text": "he is not the God of dead men, but a God of living men; ye then go greatly astray.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24702,
+        "text": "And one of the scribes having come near, having heard them disputing, knowing that he answered them well, questioned him, 'Which is the first command of all?'",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 24703,
+        "text": "and Jesus answered him -- 'The first of all the commands [is], Hear, O Israel, the Lord is our God, the Lord is one;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 24704,
+        "text": "and thou shalt love the Lord thy God out of all thy heart, and out of thy soul, and out of all thine understanding, and out of all thy strength -- this [is] the first command;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 24705,
+        "text": "and the second [is] like [it], this, Thou shalt love thy neighbour as thyself; -- greater than these there is no other command.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 24706,
+        "text": "And the scribe said to him, 'Well, Teacher, in truth thou hast spoken that there is one God, and there is none other but He;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 24707,
+        "text": "and to love Him out of all the heart, and out of all the understanding, and out of all the soul, and out of all the strength, and to love one's neighbour as one's self, is more than all the whole burnt-offerings and the sacrifices.'",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 24708,
+        "text": "And Jesus, having seen him that he answered with understanding, said to him, 'Thou art not far from the reign of God;' and no one any more durst question him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 24709,
+        "text": "And Jesus answering said, teaching in the temple, 'How say the scribes that the Christ is son of David?",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 24710,
+        "text": "for David himself said in the Holy Spirit, The Lord said to my lord, Sit thou on My right hand, till I place thine enemies -- thy footstool;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 24711,
+        "text": "therefore David himself saith of him Lord, and whence is he his son?' And the great multitude were hearing him gladly,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 24712,
+        "text": "and he was saying to them in his teaching, 'Beware of the scribes, who will in long robes to walk, and love salutations in the market-places,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 24713,
+        "text": "and first seats in the synagogues, and first couches in suppers,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 24714,
+        "text": "who are devouring the widows' houses, and for a pretence are making long prayers; these shall receive more abundant judgment.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 24715,
+        "text": "And Jesus having sat down over-against the treasury, was beholding how the multitude do put brass into the treasury, and many rich were putting in much,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 24716,
+        "text": "and having come, a poor widow did put in two mites, which are a farthing.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 24717,
+        "text": "And having called near his disciples, he saith to them, 'Verily I say to you, that this poor widow hath put in more than all those putting into the treasury;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 24718,
+        "text": "for all, out of their abundance, put in, but she, out of her want, all that she had put in -- all her living.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

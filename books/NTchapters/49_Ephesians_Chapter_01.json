@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 49,"name": "Ephesians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1098,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29208,
+        "text": "Paul, an apostle of Jesus Christ through the will of God, to the saints who are in Ephesus, and to the faithful in Christ Jesus:",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29209,
+        "text": "Grace to you, and peace from God our Father, and the Lord Jesus Christ!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29210,
+        "text": "Blessed [is] the God and Father of our Lord Jesus Christ, who did bless us in every spiritual blessing in the heavenly places in Christ,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29211,
+        "text": "according as He did choose us in him before the foundation of the world, for our being holy and unblemished before Him, in love,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29212,
+        "text": "having foreordained us to the adoption of sons through Jesus Christ to Himself, according to the good pleasure of His will,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29213,
+        "text": "to the praise of the glory of His grace, in which He did make us accepted in the beloved,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29214,
+        "text": "in whom we have the redemption through his blood, the remission of the trespasses, according to the riches of His grace,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29215,
+        "text": "in which He did abound toward us in all wisdom and prudence,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29216,
+        "text": "having made known to us the secret of His will, according to His good pleasure, that He purposed in Himself,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29217,
+        "text": "in regard to the dispensation of the fulness of the times, to bring into one the whole in the Christ, both the things in the heavens, and the things upon the earth -- in him;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29218,
+        "text": "in whom also we did obtain an inheritance, being foreordained according to the purpose of Him who the all things is working according to the counsel of His will,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29219,
+        "text": "for our being to the praise of His glory, [even] those who did first hope in the Christ,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29220,
+        "text": "in whom ye also, having heard the word of the truth -- the good news of your salvation -- in whom also having believed, ye were sealed with the Holy Spirit of the promise,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29221,
+        "text": "which is an earnest of our inheritance, to the redemption of the acquired possession, to the praise of His glory.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29222,
+        "text": "Because of this I also, having heard of your faith in the Lord Jesus, and the love to all the saints,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 29223,
+        "text": "do not cease giving thanks for you, making mention of you in my prayers,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29224,
+        "text": "that the God of our Lord Jesus Christ, the Father of the glory, may give to you a spirit of wisdom and revelation in the recognition of him,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29225,
+        "text": "the eyes of your understanding being enlightened, for your knowing what is the hope of His calling, and what the riches of the glory of His inheritance in the saints,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29226,
+        "text": "and what the exceeding greatness of His power to us who are believing, according to the working of the power of His might,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29227,
+        "text": "which He wrought in the Christ, having raised him out of the dead, and did set [him] at His right hand in the heavenly [places],",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29228,
+        "text": "far above all principality, and authority, and might, and lordship, and every name named, not only in this age, but also in the coming one;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29229,
+        "text": "and all things He did put under his feet, and did give him -- head over all things to the assembly,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29230,
+        "text": "which is his body, the fulness of Him who is filling the all in all,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

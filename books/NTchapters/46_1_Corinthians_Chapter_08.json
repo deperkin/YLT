@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 1070,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28529,
+        "text": "And concerning the things sacrificed to idols, we have known that we all have knowledge: knowledge puffeth up, but love buildeth up;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28530,
+        "text": "and if any one doth think to know anything, he hath not yet known anything according as it behoveth [him] to know;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28531,
+        "text": "and if any one doth love God, this one hath been known by Him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28532,
+        "text": "Concerning the eating then of the things sacrificed to idols, we have known that an idol [is] nothing in the world, and that there is no other God except one;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 28533,
+        "text": "for even if there are those called gods, whether in heaven, whether upon earth -- as there are gods many and lords many --",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28534,
+        "text": "yet to us [is] one God, the Father, of whom [are] the all things, and we to Him; and one Lord, Jesus Christ, through whom [are] the all things, and we through Him;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28535,
+        "text": "but not in all men [is] the knowledge, and certain with conscience of the idol, till now, as a thing sacrificed to an idol do eat [it], and their conscience, being weak, is defiled.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 28536,
+        "text": "But victuals do not commend us to God, for neither if we may eat are we in advance; nor if we may not eat, are we behind;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28537,
+        "text": "but see, lest this privilege of yours may become a stumbling-block to the infirm,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28538,
+        "text": "for if any one may see thee that hast knowledge in an idol's temple reclining at meat -- shall not his conscience -- he being infirm -- be emboldened to eat the things sacrificed to idols,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28539,
+        "text": "and the brother who is infirm shall perish by thy knowledge, because of whom Christ died?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28540,
+        "text": "and thus sinning in regard to the brethren, and smiting their weak conscience -- in regard to Christ ye sin;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28541,
+        "text": "wherefore, if victuals cause my brother to stumble, I may eat no flesh -- to the age -- that my brother I may not cause to stumble.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

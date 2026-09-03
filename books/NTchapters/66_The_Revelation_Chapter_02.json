@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 66,"name": "The Revelation","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1169,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30719,
+        "text": "'To the messenger of the Ephesian assembly write: These things saith he who is holding the seven stars in his right hand, who is walking in the midst of the seven lamp-stands -- the golden:",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30720,
+        "text": "I have known thy works, and thy labour, and thy endurance, and that thou art not able to bear evil ones, and that thou hast tried those saying themselves to be apostles and are not, and hast found them liars,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30721,
+        "text": "and thou didst bear, and hast endurance, and because of my name hast toiled, and hast not been weary.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30722,
+        "text": "'But I have against thee: That thy first love thou didst leave!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30723,
+        "text": "remember, then, whence thou hast fallen, and reform, and the first works do; and if not, I come to thee quickly, and will remove thy lamp-stand from its place -- if thou mayest not reform;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30724,
+        "text": "but this thou hast, that thou dost hate the works of the Nicolaitans, that I also hate.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30725,
+        "text": "He who is having an ear -- let him hear what the Spirit saith to the assemblies: To him who is overcoming -- I will give to him to eat of the tree of life that is in the midst of the paradise of God.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30726,
+        "text": "'And to the messenger of the assembly of the Smyrneans write: These things saith the First and the Last, who did become dead and did live;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 30727,
+        "text": "I have known thy works, and tribulation, and poverty -- yet thou art rich -- and the evil-speaking of those saying themselves to be Jews, and are not, but [are] a synagogue of the Adversary.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30728,
+        "text": "'Be not afraid of the things that thou art about to suffer; lo, the devil is about to cast of you to prison, that ye may be tried, and ye shall have tribulation ten days; become thou faithful unto death, and I will give to thee the crown of the life.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30729,
+        "text": "He who is having an ear -- let him hear what the Spirit saith to the assemblies: He who is overcoming may not be injured of the second death.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30730,
+        "text": "'And to the messenger of the assembly in Pergamos write: These things saith he who is having the sharp two-edged sword:",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30731,
+        "text": "I have known thy works, and where thou dost dwell -- where the throne of the Adversary [is] -- and thou dost hold fast my name, and thou didst not deny my faith, even in the days in which Antipas [was] my faithful witness, who was put to death beside you, where the Adversary doth dwell.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30732,
+        "text": "'But I have against thee a few things: That thou hast there those holding the teaching of Balaam, who did teach Balak to cast a stumbling-block before the sons of Israel, to eat idol-sacrifices, and to commit whoredom;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30733,
+        "text": "so hast thou, even thou, those holding the teaching of the Nicolaitans -- which thing I hate.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30734,
+        "text": "'Reform! and if not, I come to thee quickly, and will fight against them with the sword of my mouth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30735,
+        "text": "He who is having an ear -- let him hear what the Spirit saith to the assemblies: To him who is overcoming, I will give to him to eat from the hidden manna, and will give to him a white stone, and upon the stone a new name written, that no one knew except him who is receiving [it].",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30736,
+        "text": "'And to the messenger of the assembly of Thyatira write: These things saith the Son of God, who is having his eyes as a flame of fire, and his feet like to fine brass;",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 30737,
+        "text": "I have known thy works, and love, and ministration, and faith, and thy endurance, and thy works -- and the last [are] more than the first.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30738,
+        "text": "'But I have against thee a few things: That thou dost suffer the woman Jezebel, who is calling herself a prophetess, to teach, and to lead astray, my servants to commit whoredom, and idol-sacrifices to eat;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30739,
+        "text": "and I did give to her a time that she might reform from her whoredom, and she did not reform;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30740,
+        "text": "lo, I will cast her into a couch, and those committing adultery with her into great tribulation -- if they may not repent of their works,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30741,
+        "text": "and her children I will kill in death, and know shall all the assemblies that I am he who is searching reins and hearts; and I will give to you -- to each -- according to your works.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30742,
+        "text": "'And to you I say, and to the rest who are in Thyatira, as many as have not this teaching, and who did not know the depths of the Adversary, as they say; I will not put upon you other burden;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30743,
+        "text": "but that which ye have -- hold ye, till I may come;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 30744,
+        "text": "and he who is overcoming, and who is keeping unto the end my works, I will give to him authority over the nations,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 30745,
+        "text": "and he shall rule them with a rod of iron -- as the vessels of the potter they shall be broken -- as I also have received from my Father;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 30746,
+        "text": "and I will give to him the morning star.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 30747,
+        "text": "He who is having an ear -- let him hear what the Spirit saith to the assemblies.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

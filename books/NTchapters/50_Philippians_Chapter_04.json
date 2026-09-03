@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 50,"name": "Philippians","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1107,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29444,
+        "text": "So then, my brethren, beloved and longed for, my joy and crown, so stand ye in the Lord, beloved.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29445,
+        "text": "Euodia I exhort, and Syntyche I exhort, to be of the same mind in the Lord;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29446,
+        "text": "and I ask also thee, genuine yoke-fellow, be assisting those women who in the good news did strive along with me, with Clement also, and the others, my fellow-workers, whose names [are] in the book of life.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29447,
+        "text": "Rejoice in the Lord always; again I will say, rejoice;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29448,
+        "text": "let your forbearance be known to all men; the Lord [is] near;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29449,
+        "text": "for nothing be anxious, but in everything by prayer, and by supplication, with thanksgiving, let your requests be made known unto God;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29450,
+        "text": "and the peace of God, that is surpassing all understanding, shall guard your hearts and your thoughts in Christ Jesus.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29451,
+        "text": "As to the rest, brethren, as many things as are true, as many as [are] grave, as many as [are] righteous, as many as [are] pure, as many as [are] lovely, as many as [are] of good report, if any worthiness, and if any praise, these things think upon;",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29452,
+        "text": "the things that also ye did learn, and receive, and hear, and saw in me, those do, and the God of the peace shall be with you.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29453,
+        "text": "And I rejoiced in the Lord greatly, that now at length ye flourished again in caring for me, for which also ye were caring, and lacked opportunity;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 29454,
+        "text": "not that in respect of want I say [it], for I did learn in the things in which I am -- to be content;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29455,
+        "text": "I have known both to be abased, and I have known to abound; in everything and in all things I have been initiated, both to be full and to be hungry, both to abound and to be in want.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29456,
+        "text": "For all things I have strength, in Christ's strengthening me;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29457,
+        "text": "but ye did well, having communicated with my tribulation;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29458,
+        "text": "and ye have known, even ye Philippians, that in the beginning of the good news when I went forth from Macedonia, no assembly did communicate with me in regard to giving and receiving except ye only;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29459,
+        "text": "because also in Thessalonica, both once and again to my need ye sent;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29460,
+        "text": "not that I seek after the gift, but I seek after the fruit that is overflowing to your account;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29461,
+        "text": "and I have all things, and abound; I am filled, having received from Epaphroditus the things from you -- an odour of a sweet smell -- a sacrifice acceptable, well-pleasing to God:",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29462,
+        "text": "and my God shall supply all your need, according to His riches in glory in Christ Jesus;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29463,
+        "text": "and to God, even our Father, [is] the glory -- to the ages of the ages. Amen.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 29464,
+        "text": "Salute ye every saint in Christ Jesus; there salute you the brethren with me;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29465,
+        "text": "there salute you all the saints, and specially those of Caesar's house;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29466,
+        "text": "the grace of our Lord Jesus Christ [is] with you all. Amen.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

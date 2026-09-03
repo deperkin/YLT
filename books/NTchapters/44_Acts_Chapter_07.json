@@ -1,0 +1,432 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 1025,
+    "MaxVerses": 60,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27118,
+        "text": "And the chief priest said, 'Are then these things so?'",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27119,
+        "text": "and he said, 'Men, brethren, and fathers, hearken: The God of the glory did appear to our father Abraham, being in Mesopotamia, before his dwelling in Haran,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27120,
+        "text": "and He said to him, Go forth out of thy land, and out of thy kindred, and come to a land that I shall shew thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27121,
+        "text": "'Then having come forth out of the land of the Chaldeans, he dwelt in Haran, and from thence, after the death of his father, He did remove him to this land wherein ye now dwell,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27122,
+        "text": "and He gave him no inheritance in it, not even a footstep, and did promise to give it to him for a possession, and to his seed after him -- he having no child.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27123,
+        "text": "'And God spake thus, That his seed shall be sojourning in a strange land, and they shall cause it to serve, and shall do it evil four hundred years,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27124,
+        "text": "and the nation whom they shall serve I will judge, said God; and after these things they shall come forth and shall do Me service in this place.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27125,
+        "text": "'And He gave to him a covenant of circumcision, and so he begat Isaac, and did circumcise him on the eighth day, and Isaac [begat] Jacob, and Jacob -- the twelve patriarchs;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27126,
+        "text": "and the patriarchs, having been moved with jealousy, sold Joseph to Egypt, and God was with him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27127,
+        "text": "and did deliver him out of all his tribulations, and gave him favour and wisdom before Pharaoh king of Egypt, and he did set him -- governor over Egypt and all his house.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27128,
+        "text": "'And there came a dearth upon all the land of Egypt and Canaan, and great tribulation, and our fathers were not finding sustenance,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27129,
+        "text": "and Jacob having heard that there was corn in Egypt, sent forth our fathers a first time;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27130,
+        "text": "and at the second time was Joseph made known to his brethren, and Joseph's kindred became manifest to Pharaoh,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27131,
+        "text": "and Joseph having sent, did call for his father Jacob, and all his kindred -- with seventy and five souls --",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27132,
+        "text": "and Jacob went down to Egypt, and died, himself and our fathers,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27133,
+        "text": "and they were carried over into Sychem, and were laid in the tomb that Abraham bought for a price in money from the sons of Emmor, of Sychem.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27134,
+        "text": "'And according as the time of the promise was drawing nigh, which God did swear to Abraham, the people increased and multiplied in Egypt,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 27135,
+        "text": "till another king rose, who had not known Joseph;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27136,
+        "text": "this one, having dealt subtilely with our kindred, did evil to our fathers, causing to expose their babes, that they might not live;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27137,
+        "text": "in which time Moses was born, and he was fair to God, and he was brought up three months in the house of his father;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27138,
+        "text": "and he having been exposed, the daughter of Pharaoh took him up, and did rear him to herself for a son;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27139,
+        "text": "and Moses was taught in all wisdom of the Egyptians, and he was powerful in words and in works.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27140,
+        "text": "'And when forty years were fulfilled to him, it came upon his heart to look after his brethren, the sons of Israel;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27141,
+        "text": "and having seen a certain one suffering injustice, he did defend, and did justice to the oppressed, having smitten the Egyptian;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27142,
+        "text": "and he was supposing his brethren to understand that God through his hand doth give salvation; and they did not understand.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27143,
+        "text": "'On the succeeding day, also, he shewed himself to them as they are striving, and urged them to peace, saying, Men, brethren are ye, wherefore do ye injustice to one another?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27144,
+        "text": "and he who is doing injustice to the neighbour, did thrust him away, saying, Who set thee a ruler and a judge over us?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27145,
+        "text": "to kill me dost thou wish, as thou didst kill yesterday the Egyptian?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27146,
+        "text": "'And Moses fled at this word, and became a sojourner in the land of Midian, where he begat two sons,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27147,
+        "text": "and forty years having been fulfilled, there appeared to him in the wilderness of mount Sinai a messenger of the Lord, in a flame of fire of a bush,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 27148,
+        "text": "and Moses having seen did wonder at the sight; and he drawing near to behold, there came a voice of the Lord unto him,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27149,
+        "text": "I [am] the God of thy fathers; the God of Abraham, and the God of Isaac, and the God of Jacob. 'And Moses having become terrified, durst not behold,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27150,
+        "text": "and the Lord said to him, Loose the sandal of thy feet, for the place in which thou hast stood is holy ground;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27151,
+        "text": "seeing I have seen the affliction of My people that [is] in Egypt, and their groaning I did hear, and came down to deliver them; and now come, I will send thee to Egypt.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27152,
+        "text": "'This Moses, whom they did refuse, saying, Who did set thee a ruler and a judge? this one God a ruler and a redeemer did send, in the hand of a messenger who appeared to him in the bush;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 27153,
+        "text": "this one did bring them forth, having done wonders and signs in the land of Egypt, and in the Red Sea, and in the wilderness forty years;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 27154,
+        "text": "this is the Moses who did say to the sons of Israel: A prophet to you shall the Lord your God raise up out of your brethren, like to me, him shall ye hear.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27155,
+        "text": "'This is he who was in the assembly in the wilderness, with the messenger who is speaking to him in the mount Sinai, and with our fathers who did receive the living oracles to give to us;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 27156,
+        "text": "to whom our fathers did not wish to become obedient, but did thrust away, and turned back in their hearts to Egypt,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 27157,
+        "text": "saying to Aaron, Make to us gods who shall go on before us, for this Moses, who brought us forth out of the land of Egypt, we have not known what hath happened to him.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 27158,
+        "text": "'And they made a calf in those days, and brought a sacrifice to the idol, and were rejoicing in the works of their hands,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 27159,
+        "text": "and God did turn, and did give them up to do service to the host of the heaven, according as it hath been written in the scroll of the prophets: Slain beasts and sacrifices did ye offer to Me forty years in the wilderness, O house of Israel?",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 43,
+        "count": 27160,
+        "text": "and ye took up the tabernacle of Moloch, and the star of your god Remphan -- the figures that ye made to bow before them, and I will remove your dwelling beyond Babylon.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 27161,
+        "text": "'The tabernacle of the testimony was among our fathers in the wilderness, according as He did direct, who is speaking to Moses, to make it according to the figure that he had seen;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 27162,
+        "text": "which also our fathers having in succession received, did bring in with Joshua, into the possession of the nations whom God did drive out from the presence of our fathers, till the days of David,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 27163,
+        "text": "who found favour before God, and requested to find a tabernacle for the God of Jacob;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 27164,
+        "text": "and Solomon built Him an house.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 27165,
+        "text": "'But the Most High in sanctuaries made with hands doth not dwell, according as the prophet saith:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 27166,
+        "text": "The heaven [is] My throne, and the earth My footstool; what house will ye build to Me? saith the Lord, or what [is] the place of My rest?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 27167,
+        "text": "hath not My hand made all these things?",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 27168,
+        "text": "'Ye stiff-necked and uncircumcised in heart and in ears! ye do always the Holy Spirit resist; as your fathers -- also ye;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 52,
+        "count": 27169,
+        "text": "which of the prophets did not your fathers persecute? and they killed those who declared before about the coming of the Righteous One, of whom now ye betrayers and murderers have become,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 27170,
+        "text": "who received the law by arrangement of messengers, and did not keep [it].'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 27171,
+        "text": "And hearing these things, they were cut to the hearts, and did gnash the teeth at him;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 55,
+        "count": 27172,
+        "text": "and being full of the Holy Spirit, having looked stedfastly to the heaven, he saw the glory of God, and Jesus standing on the right hand of God,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 27173,
+        "text": "and he said, 'Lo, I see the heavens having been opened, and the Son of Man standing on the right hand of God.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 27174,
+        "text": "And they, having cried out with a loud voice, stopped their ears, and did rush with one accord upon him,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 27175,
+        "text": "and having cast him forth outside of the city, they were stoning [him] -- and the witnesses did put down their garments at the feet of a young man called Saul --",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 27176,
+        "text": "and they were stoning Stephen, calling and saying, 'Lord Jesus, receive my spirit;'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 27177,
+        "text": "and having bowed the knees, he cried with a loud voice, 'Lord, mayest thou not lay to them this sin;' and this having said, he fell asleep.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

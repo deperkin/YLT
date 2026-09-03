@@ -1,0 +1,264 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 943,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23599,
+        "text": "At that time did Herod the tetrarch hear the fame of Jesus,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23600,
+        "text": "and said to his servants, 'This is John the Baptist, he did rise from the dead, and because of this the mighty energies are working in him.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23601,
+        "text": "For Herod having laid hold on John, did bind him, and did put him in prison, because of Herodias his brother Philip's wife,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23602,
+        "text": "for John was saying to him, 'It is not lawful to thee to have her,'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23603,
+        "text": "and, willing to kill him, he feared the multitude, because as a prophet they were holding him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23604,
+        "text": "But the birthday of Herod being kept, the daughter of Herodias danced in the midst, and did please Herod,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23605,
+        "text": "whereupon with an oath he professed to give her whatever she might ask.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23606,
+        "text": "And she having been instigated by her mother -- 'Give me (says she) here upon a plate the head of John the Baptist;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23607,
+        "text": "and the king was grieved, but because of the oaths and of those reclining with him, he commanded [it] to be given;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23608,
+        "text": "and having sent, he beheaded John in the prison,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23609,
+        "text": "and his head was brought upon a plate, and was given to the damsel, and she brought [it] nigh to her mother.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23610,
+        "text": "And his disciples having come, took up the body, and buried it, and having come, they told Jesus,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23611,
+        "text": "and Jesus having heard, withdrew thence in a boat to a desolate place by himself, and the multitudes having heard did follow him on land from the cities.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 23612,
+        "text": "And Jesus having come forth, saw a great multitude, and was moved with compassion upon them, and did heal their infirm;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23613,
+        "text": "and evening having come, his disciples came to him, saying, 'The place is desolate, and the hour hath now past, let away the multitudes that, having gone to the villages, they may buy to themselves food.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23614,
+        "text": "And Jesus said to them, 'They have no need to go away -- give ye them to eat.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23615,
+        "text": "And they say to him, 'We have not here except five loaves, and two fishes.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23616,
+        "text": "And he said, 'Bring ye them to me hither.'",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23617,
+        "text": "And having commanded the multitudes to recline upon the grass, and having taken the five loaves and the two fishes, having looked up to the heaven, he did bless, and having broken, he gave the loaves to the disciples, and the disciples to the multitudes,",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23618,
+        "text": "and they did all eat, and were filled, and they took up what was over of the broken pieces twelve hand-baskets full;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23619,
+        "text": "and those eating were about five thousand men, apart from women and children.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23620,
+        "text": "And immediately Jesus constrained his disciples to go into the boat, and to go before him to the other side, till he might let away the multitudes;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 23621,
+        "text": "and having let away the multitudes, he went up to the mountain by himself to pray, and evening having come, he was there alone,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23622,
+        "text": "and the boat was now in the midst of the sea, distressed by the waves, for the wind was contrary.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23623,
+        "text": "And in the fourth watch of the night Jesus went away to them, walking upon the sea,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23624,
+        "text": "and the disciples having seen him walking upon the sea, were troubled saying -- 'It is an apparition,' and from the fear they cried out;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23625,
+        "text": "and immediately Jesus spake to them, saying, 'Be of good courage, I am [he], be not afraid.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23626,
+        "text": "And Peter answering him said, 'Sir, if it is thou, bid me come to thee upon the waters;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23627,
+        "text": "and he said, 'Come;' and having gone down from the boat, Peter walked upon the waters to come unto Jesus,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23628,
+        "text": "but seeing the wind vehement, he was afraid, and having begun to sink, he cried out, saying, 'Sir, save me.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23629,
+        "text": "And immediately Jesus, having stretched forth the hand, laid hold of him, and saith to him, 'Little faith! for what didst thou waver?'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23630,
+        "text": "and they having gone to the boat the wind lulled,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23631,
+        "text": "and those in the boat having come, did bow to him, saying, 'Truly -- God's Son art thou.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 23632,
+        "text": "And having passed over, they came to the land of Gennesaret,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 23633,
+        "text": "and having recognized him, the men of that place sent forth to all that region round about, and they brought to him all who were ill,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 23634,
+        "text": "and were calling on him that they might only touch the fringe of his garment, and as many as did touch were saved.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

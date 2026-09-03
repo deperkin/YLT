@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1050,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28024,
+        "text": "What, then, shall we say Abraham our father, to have found, according to flesh?",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28025,
+        "text": "for if Abraham by works was declared righteous, he hath to boast -- but not before God;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28026,
+        "text": "for what doth the writing say? 'And Abraham did believe God, and it was reckoned to him -- to righteousness;'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28027,
+        "text": "and to him who is working, the reward is not reckoned of grace, but of debt;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28028,
+        "text": "and to him who is not working, and is believing upon Him who is declaring righteous the impious, his faith is reckoned -- to righteousness:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28029,
+        "text": "even as David also doth speak of the happiness of the man to whom God doth reckon righteousness apart from works:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28030,
+        "text": "'Happy they whose lawless acts were forgiven, and whose sins were covered;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28031,
+        "text": "happy the man to whom the Lord may not reckon sin.'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28032,
+        "text": "[Is] this happiness, then, upon the circumcision, or also upon the uncircumcision -- for we say that the faith was reckoned to Abraham -- to righteousness?",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 28033,
+        "text": "how then was it reckoned? he being in circumcision, or in uncircumcision? not in circumcision, but in uncircumcision;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28034,
+        "text": "and a sign he did receive of circumcision, a seal of the righteousness of the faith in the uncircumcision, for his being father of all those believing through uncircumcision, for the righteousness also being reckoned to them,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28035,
+        "text": "and father of circumcision to those not of circumcision only, but who also walk in the steps of the faith, that [is] in the uncircumcision of our father Abraham.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28036,
+        "text": "For not through law [is] the promise to Abraham, or to his seed, of his being heir of the world, but through the righteousness of faith;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28037,
+        "text": "for if they who are of law [are] heirs, the faith hath been made void, and the promise hath been made useless;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28038,
+        "text": "for the law doth work wrath; for where law is not, neither [is] transgression.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28039,
+        "text": "Because of this [it is] of faith, that [it may be] according to grace, for the promise being sure to all the seed, not to that which [is] of the law only, but also to that which [is] of the faith of Abraham,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28040,
+        "text": "who is father of us all (according as it hath been written -- 'A father of many nations I have set thee,') before Him whom he did believe -- God, who is quickening the dead, and is calling the things that be not as being.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 28041,
+        "text": "Who, against hope in hope did believe, for his becoming father of many nations according to that spoken: 'So shall thy seed be;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28042,
+        "text": "and not having been weak in the faith, he did not consider his own body, already become dead, (being about a hundred years old,) and the deadness of Sarah's womb,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28043,
+        "text": "and at the promise of God did not stagger in unbelief, but was strengthened in faith, having given glory to God,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28044,
+        "text": "and having been fully persuaded that what He hath promised He is able also to do:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 28045,
+        "text": "wherefore also it was reckoned to him to righteousness.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28046,
+        "text": "And it was not written on his account alone, that it was reckoned to him,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 28047,
+        "text": "but also on ours, to whom it is about to be reckoned -- to us believing on Him who did raise up Jesus our Lord out of the dead,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 28048,
+        "text": "who was delivered up because of our offences, and was raised up because of our being declared righteous.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

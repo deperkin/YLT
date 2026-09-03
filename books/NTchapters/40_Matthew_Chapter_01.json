@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 930,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23146,
+        "text": "A roll of the birth of Jesus Christ, son of David, son of Abraham.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23147,
+        "text": "Abraham begat Isaac, and Isaac begat Jacob, and Jacob begat Judah and his brethren,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23148,
+        "text": "and Judah begat Pharez and Zarah of Tamar, and Pharez begat Hezron, and Hezron begat Ram,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23149,
+        "text": "and Ram begat Amminadab, and Amminadab begat Nahshon, and Nahshon begat Salmon,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23150,
+        "text": "and Salmon begat Boaz of Rahab, and Boaz begat Obed of Ruth, and Obed begat Jesse,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23151,
+        "text": "and Jesse begat David the king. And David the king begat Solomon, of her [who had been] Uriah's,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23152,
+        "text": "and Solomon begat Rehoboam, and Rehoboam begat Abijah, and Abijah begat Asa,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23153,
+        "text": "and Asa begat Jehoshaphat, and Jehoshaphat begat Joram, and Joram begat Uzziah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23154,
+        "text": "and Uzziah begat Jotham, and Jotham begat Ahaz, and Ahaz begat Hezekiah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23155,
+        "text": "and Hezekiah begat Manasseh, and Manasseh begat Amon, and Amon begat Josiah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23156,
+        "text": "and Josiah begat Jeconiah and his brethren, at the Babylonian removal.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23157,
+        "text": "And after the Babylonian removal, Jeconiah begat Shealtiel, and Shealtiel begat Zerubbabel,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23158,
+        "text": "and Zerubbabel begat Abiud, and Abiud begat Eliakim, and Eliakim begat Azor,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23159,
+        "text": "and Azor begat Sadok, and Sadok begat Achim, and Achim begat Eliud,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23160,
+        "text": "and Eliud begat Eleazar, and Eleazar begat Matthan, and Matthan begat Jacob,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23161,
+        "text": "and Jacob begat Joseph, the husband of Mary, of whom was begotten Jesus, who is named Christ.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23162,
+        "text": "All the generations, therefore, from Abraham unto David [are] fourteen generations, and from David unto the Babylonian removal fourteen generations, and from the Babylonian removal unto the Christ, fourteen generations.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23163,
+        "text": "And of Jesus Christ, the birth was thus: For his mother Mary having been betrothed to Joseph, before their coming together she was found to have conceived from the Holy Spirit,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 23164,
+        "text": "and Joseph her husband being righteous, and not willing to make her an example, did wish privately to send her away.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23165,
+        "text": "And on his thinking of these things, lo, a messenger of the Lord in a dream appeared to him, saying, 'Joseph, son of David, thou mayest not fear to receive Mary thy wife, for that which in her was begotten [is] of the Holy Spirit,",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23166,
+        "text": "and she shall bring forth a son, and thou shalt call his name Jesus, for he shall save his people from their sins.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23167,
+        "text": "And all this hath come to pass, that it may be fulfilled that was spoken by the Lord through the prophet, saying,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23168,
+        "text": "'Lo, the virgin shall conceive, and she shall bring forth a son, and they shall call his name Emmanuel,' which is, being interpreted 'With us [he is] God.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23169,
+        "text": "And Joseph, having risen from the sleep, did as the messenger of the Lord directed him, and received his wife,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23170,
+        "text": "and did not know her till she brought forth her son -- the first-born, and he called his name Jesus.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

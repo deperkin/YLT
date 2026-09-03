@@ -1,0 +1,299 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 1033,
+    "MaxVerses": 41,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27444,
+        "text": "And certain having come down from Judea, were teaching the brethren -- 'If ye be not circumcised after the custom of Moses, ye are not able to be saved;'",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27445,
+        "text": "there having been, therefore, not a little dissension and disputation to Paul and Barnabas with them, they arranged for Paul and Barnabas, and certain others of them, to go up unto the apostles and elders to Jerusalem about this question,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27446,
+        "text": "they indeed, then, having been sent forward by the assembly, were passing through Phenice and Samaria, declaring the conversion of the nations, and they were causing great joy to all the brethren.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27447,
+        "text": "And having come to Jerusalem, they were received by the assembly, and the apostles, and the elders, they declared also as many things as God did with them;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27448,
+        "text": "and there rose up certain of those of the sect of the Pharisees who believed, saying -- 'It behoveth to circumcise them, to command them also to keep the law of Moses.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27449,
+        "text": "And there were gathered together the apostles and the elders, to see about this matter,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 27450,
+        "text": "and there having been much disputing, Peter having risen up said unto them, 'Men, brethren, ye know that from former days, God among us did make choice, through my mouth, for the nations to hear the word of the good news, and to believe;",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27451,
+        "text": "and the heart-knowing God did bare them testimony, having given to them the Holy Spirit, even as also to us,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27452,
+        "text": "and did put no difference also between us and them, by the faith having purified their hearts;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27453,
+        "text": "now, therefore, why do ye tempt God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27454,
+        "text": "but, through the grace of the Lord Jesus Christ, we believe to be saved, even as also they.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27455,
+        "text": "And all the multitude did keep silence, and were hearkening to Barnabas and Paul, declaring as many signs and wonders as God did among the nations through them;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27456,
+        "text": "and after they are silent, James answered, saying, 'Men, brethren, hearken to me;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27457,
+        "text": "Simeon did declare how at first God did look after to take out of the nations a people for His name,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27458,
+        "text": "and to this agree the words of the prophets, as it hath been written:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27459,
+        "text": "After these things I will turn back, and I will build again the tabernacle of David, that is fallen down, and its ruins I will build again, and will set it upright --",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27460,
+        "text": "that the residue of men may seek after the Lord, and all the nations, upon whom My name hath been called, saith the Lord, who is doing all these things.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27461,
+        "text": "'Known from the ages to God are all His works;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27462,
+        "text": "wherefore I judge: not to trouble those who from the nations do turn back to God,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27463,
+        "text": "but to write to them to abstain from the pollutions of the idols, and the whoredom, and the strangled thing; and the blood;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27464,
+        "text": "for Moses from former generations in every city hath those preaching him -- in the synagogues every sabbath being read.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27465,
+        "text": "Then it seemed good to the apostles and the elders, with the whole assembly, chosen men out of themselves to send to Antioch with Paul and Barnabas -- Judas surnamed Barsabas, and Silas, leading men among the brethren --",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 27466,
+        "text": "having written through their hand thus: 'The apostles, and the elders, and the brethren, to those in Antioch, and Syria, and Cilicia, brethren, who [are] of the nations, greeting;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27467,
+        "text": "seeing we have heard that certain having gone forth from us did trouble you with words, subverting your souls, saying to be circumcised and to keep the law, to whom we did give no charge,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27468,
+        "text": "it seemed good to us, having come together with one accord, chosen men to send unto you, with our beloved Barnabas and Paul --",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27469,
+        "text": "men who have given up their lives for the name of our Lord Jesus Christ --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27470,
+        "text": "we have sent, therefore, Judas and Silas, and they by word are telling the same things.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27471,
+        "text": "'For it seemed good to the Holy Spirit, and to us, no more burden to lay upon you, except these necessary things:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27472,
+        "text": "to abstain from things offered to idols, and blood, and a strangled thing, and whoredom; from which keeping yourselves, ye shall do well; be strong!'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27473,
+        "text": "They then, indeed, having been let go, went to Antioch, and having brought the multitude together, did deliver the epistle,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27474,
+        "text": "and they having read, did rejoice for the consolation;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27475,
+        "text": "Judas also and Silas, being themselves also prophets, through much discourse did exhort the brethren, and confirm,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27476,
+        "text": "and having passed some time, they were let go with peace from the brethren unto the apostles;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27477,
+        "text": "and it seemed good to Silas to remain there still.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27478,
+        "text": "And Paul and Barnabas continued in Antioch, teaching and proclaiming good news -- with many others also -- the word of the Lord;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 27479,
+        "text": "and after certain days, Paul said unto Barnabas, 'Having turned back again, we may look after our brethren, in every city in which we have preached the word of the Lord -- how they are.'",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 27480,
+        "text": "And Barnabas counselled to take with [them] John called Mark,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27481,
+        "text": "and Paul was not thinking it good to take him with them who withdrew from them from Pamphylia, and did not go with them to the work;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 27482,
+        "text": "there came, therefore, a sharp contention, so that they were parted from one another, and Barnabas having taken Mark, did sail to Cyprus,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 27483,
+        "text": "and Paul having chosen Silas, went forth, having been given up to the grace of God by the brethren;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 27484,
+        "text": "and he went through Syria and Cilicia, confirming the assemblies.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

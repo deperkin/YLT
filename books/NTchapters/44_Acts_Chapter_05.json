@@ -1,0 +1,306 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 1023,
+    "MaxVerses": 42,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27061,
+        "text": "And a certain man, Ananias by name, with Sapphira his wife, sold a possession,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27062,
+        "text": "and did keep back of the price -- his wife also knowing -- and having brought a certain part, at the feet of the apostles he laid [it].",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27063,
+        "text": "And Peter said, 'Ananias, wherefore did the Adversary fill thy heart, for thee to lie to the Holy Spirit, and to keep back of the price of the place?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27064,
+        "text": "while it remained, did it not remain thine? and having been sold, in thy authority was it not? why [is] it that thou didst put in thy heart this thing? thou didst not lie to men, but to God;'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27065,
+        "text": "and Ananias hearing these words, having fallen down, did expire, and great fear came upon all who heard these things,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27066,
+        "text": "and having risen, the younger men wound him up, and having carried forth, they buried [him].",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27067,
+        "text": "And it came to pass, about three hours after, that his wife, not knowing what hath happened, came in,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27068,
+        "text": "and Peter answered her, 'Tell me if for so much ye sold the place;' and she said, 'Yes, for so much.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27069,
+        "text": "And Peter said unto her, 'How was it agreed by you, to tempt the Spirit of the Lord? lo, the feet of those who did bury thy husband [are] at the door, and they shall carry thee forth;'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27070,
+        "text": "and she fell down presently at his feet, and expired, and the young men having come in, found her dead, and having carried forth, they buried [her] by her husband;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27071,
+        "text": "and great fear came upon all the assembly, and upon all who heard these things.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27072,
+        "text": "And through the hands of the apostles came many signs and wonders among the people, and they were with one accord all in the porch of Solomon;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 27073,
+        "text": "and of the rest no one was daring to join himself to them, but the people were magnifying them,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27074,
+        "text": "(and the more were believers added to the Lord, multitudes both of men and women,)",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27075,
+        "text": "so as into the broad places to bring forth the ailing, and to lay [them] upon couches and mats, that at the coming of Peter, even [his] shadow might overshadow some one of them;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27076,
+        "text": "and there were coming together also the people of the cities round about to Jerusalem, bearing ailing persons, and those harassed by unclean spirits -- who were all healed.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27077,
+        "text": "And having risen, the chief priest, and all those with him -- being the sect of the Sadducees -- were filled with zeal,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 27078,
+        "text": "and laid their hands upon the apostles, and did put them in a public prison;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27079,
+        "text": "and a messenger of the Lord through the night opened the doors of the prison, having also brought them forth, he said,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27080,
+        "text": "'Go on, and standing, speak in the temple to the people all the sayings of this life;'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27081,
+        "text": "and having heard, they did enter at the dawn into the temple, and were teaching. And the chief priest having come, and those with him, they called together the sanhedrim and all the senate of the sons of Israel, and they sent to the prison to have them brought,",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27082,
+        "text": "and the officers having come, did not find them in the prison, and having turned back, they told,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27083,
+        "text": "saying -- 'The prison indeed we found shut in all safety, and the keepers standing without before the doors, and having opened -- within we found no one.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27084,
+        "text": "And as the priest, and the magistrate of the temple, and the chief priests, heard these words, they were doubting concerning them to what this would come;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27085,
+        "text": "and coming near, a certain one told them, saying -- 'Lo, the men whom ye did put in the prison are in the temple standing and teaching the people;'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27086,
+        "text": "then the magistrate having gone away with officers, brought them without violence, for they were fearing the people, lest they should be stoned;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 27087,
+        "text": "and having brought them, they set [them] in the sanhedrim, and the chief priest questioned them,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27088,
+        "text": "saying, 'Did not we strictly command you not to teach in this name? and lo, ye have filled Jerusalem with your teaching, and ye intend to bring upon us the blood of this man.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27089,
+        "text": "And Peter and the apostles answering, said, 'To obey God it behoveth, rather than men;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27090,
+        "text": "and the God of our fathers did raise up Jesus, whom ye slew, having hanged upon a tree;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27091,
+        "text": "this one God, a Prince and a Saviour, hath exalted with His right hand, to give reformation to Israel, and forgiveness of sins;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27092,
+        "text": "and we are His witnesses of these sayings, and the Holy Spirit also, whom God gave to those obeying him.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27093,
+        "text": "And they having heard, were cut [to the heart], and were taking counsel to slay them,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27094,
+        "text": "but a certain one, having risen up in the sanhedrim -- a Pharisee, by name Gamaliel, a teacher of law honoured by all the people -- commanded to put the apostles forth a little,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27095,
+        "text": "and said unto them, 'Men, Israelites, take heed to yourselves about these men, what ye are about to do,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 27096,
+        "text": "for before these days rose up Theudas, saying, that himself was some one, to whom a number of men did join themselves, as it were four hundred, who was slain, and all, as many as were obeying him, were scattered, and came to nought.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 27097,
+        "text": "'After this one rose up, Judas the Galilean, in the days of the enrolment, and drew away much people after him, and that one perished, and all, as many as were obeying him, were scattered;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27098,
+        "text": "and now I say to you, Refrain from these men, and let them alone, because if this counsel or this work may be of men, it will be overthrown,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 27099,
+        "text": "and if it be of God, ye are not able to overthrow it, lest perhaps also ye be found fighting against God.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 27100,
+        "text": "And to him they agreed, and having called near the apostles, having beaten [them], they commanded [them] not to speak in the name of Jesus, and let them go;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 27101,
+        "text": "they, indeed, then, departed from the presence of the sanhedrim, rejoicing that for his name they were counted worthy to suffer dishonour,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 27102,
+        "text": "every day also in the temple, and in every house, they were not ceasing teaching and proclaiming good news -- Jesus the Christ.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

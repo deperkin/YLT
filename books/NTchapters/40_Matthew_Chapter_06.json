@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 935,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23284,
+        "text": "'Take heed your kindness not to do before men, to be seen by them, and if not -- reward ye have not from your Father who [is] in the heavens;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23285,
+        "text": "whenever, therefore, thou mayest do kindness, thou mayest not sound a trumpet before thee as the hypocrites do, in the synagogues, and in the streets, that they may have glory from men; verily I say to you -- they have their reward!",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23286,
+        "text": "'But thou, doing kindness, let not thy left hand know what thy right hand doth,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23287,
+        "text": "that thy kindness may be in secret, and thy Father who is seeing in secret Himself shall reward thee manifestly.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23288,
+        "text": "'And when thou mayest pray, thou shalt not be as the hypocrites, because they love in the synagogues, and in the corners of the broad places -- standing -- to pray, that they may be seen of men; verily I say to you, that they have their reward.",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 23289,
+        "text": "'But thou, when thou mayest pray, go into thy chamber, and having shut thy door, pray to thy Father who [is] in secret, and thy Father who is seeing in secret, shall reward thee manifestly.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23290,
+        "text": "'And -- praying -- ye may not use vain repetitions like the nations, for they think that in their much speaking they shall be heard,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23291,
+        "text": "be ye not therefore like to them, for your Father doth know those things that ye have need of before your asking him;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23292,
+        "text": "thus therefore pray ye: 'Our Father who [art] in the heavens! hallowed be Thy name.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 23293,
+        "text": "'Thy reign come: Thy will come to pass, as in heaven also on the earth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23294,
+        "text": "'Our appointed bread give us to-day.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23295,
+        "text": "'And forgive us our debts, as also we forgive our debtors.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23296,
+        "text": "'And mayest Thou not lead us to temptation, but deliver us from the evil, because Thine is the reign, and the power, and the glory -- to the ages. Amen.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23297,
+        "text": "'For, if ye may forgive men their trespasses He also will forgive you -- your Father who [is] in the heavens;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 23298,
+        "text": "but if ye may not forgive men their trespasses, neither will your Father forgive your trespasses.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23299,
+        "text": "'And when ye may fast, be ye not as the hypocrites, of sour countenances, for they disfigure their faces, that they may appear to men fasting; verily I say to you, that they have their reward.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 23300,
+        "text": "'But thou, fasting, anoint thy head, and wash thy face,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23301,
+        "text": "that thou mayest not appear to men fasting, but to thy Father who [is] in secret, and thy Father, who is seeing in secret, shall reward thee manifestly.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 23302,
+        "text": "'Treasure not up to yourselves treasures on the earth, where moth and rust disfigure, and where thieves break through and steal,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 23303,
+        "text": "but treasure up to yourselves treasures in heaven, where neither moth nor rust doth disfigure, and where thieves do not break through nor steal,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23304,
+        "text": "for where your treasure is, there will be also your heart.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23305,
+        "text": "'The lamp of the body is the eye, if, therefore, thine eye may be perfect, all thy body shall be enlightened,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23306,
+        "text": "but if thine eye may be evil, all thy body shall be dark; if, therefore, the light that [is] in thee is darkness -- the darkness, how great!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 23307,
+        "text": "'None is able to serve two lords, for either he will hate the one and love the other, or he will hold to the one, and despise the other; ye are not able to serve God and Mammon.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23308,
+        "text": "'Because of this I say to you, be not anxious for your life, what ye may eat, and what ye may drink, nor for your body, what ye may put on. Is not the life more than the nourishment, and the body than the clothing?",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 23309,
+        "text": "look to the fowls of the heaven, for they do not sow, nor reap, nor gather into storehouses, and your heavenly Father doth nourish them; are not ye much better than they?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23310,
+        "text": "'And who of you, being anxious, is able to add to his age one cubit?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23311,
+        "text": "and about clothing why are ye anxious? consider well the lilies of the field; how do they grow? they do not labour, nor do they spin;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 23312,
+        "text": "and I say to you, that not even Solomon in all his glory was arrayed as one of these.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23313,
+        "text": "'And if the herb of the field, that to-day is, and to-morrow is cast to the furnace, God doth so clothe -- not much more you, O ye of little faith?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23314,
+        "text": "therefore ye may not be anxious, saying, What may we eat? or, What may we drink? or, What may we put round?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23315,
+        "text": "for all these do the nations seek for, for your heavenly Father doth know that ye have need of all these;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23316,
+        "text": "but seek ye first the reign of God and His righteousness, and all these shall be added to you.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 23317,
+        "text": "Be not therefore anxious for the morrow, for the morrow shall be anxious for its own things; sufficient for the day [is] the evil of it.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

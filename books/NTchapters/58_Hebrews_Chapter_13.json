@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 58,"name": "Hebrews","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 1146,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30243,
+        "text": "Let brotherly love remain;",
+        "WordCount": 4,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30244,
+        "text": "of the hospitality be not forgetful, for through this unawares certain did entertain messengers;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30245,
+        "text": "be mindful of those in bonds, as having been bound with them, of those maltreated, as also yourselves being in the body;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30246,
+        "text": "honourable [is] the marriage in all, and the bed undefiled, and whoremongers and adulterers God shall judge.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30247,
+        "text": "Without covetousness the behaviour, being content with the things present, for He hath said, 'No, I will not leave, no, nor forsake thee,'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30248,
+        "text": "so that we do boldly say, 'The Lord [is] to me a helper, and I will not fear what man shall do to me.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30249,
+        "text": "Be mindful of those leading you, who did speak to you the word of God, whose faith -- considering the issue of the behaviour -- be imitating,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30250,
+        "text": "Jesus Christ yesterday and to-day the same, and to the ages;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30251,
+        "text": "with teachings manifold and strange be not carried about, for [it is] good that by grace the heart be confirmed, not with meats, in which they who were occupied were not profited;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30252,
+        "text": "we have an altar, of which to eat they have no authority who the tabernacle are serving,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30253,
+        "text": "for of those beasts whose blood is brought for sin into the holy places through the chief priest -- of these the bodies are burned without the camp.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30254,
+        "text": "Wherefore, also Jesus -- that he might sanctify through [his] own blood the people -- without the gate did suffer;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30255,
+        "text": "now, then, may we go forth unto him without the camp, his reproach bearing;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30256,
+        "text": "for we have not here an abiding city, but the coming one we seek;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30257,
+        "text": "through him, then, we may offer up a sacrifice of praise always to God, that is, the fruit of lips, giving thanks to His name;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30258,
+        "text": "and of doing good, and of fellowship, be not forgetful, for with such sacrifices God is well-pleased.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30259,
+        "text": "Be obedient to those leading you, and be subject, for these do watch for your souls, as about to give account, that with joy they may do this, and not sighing, for this [is] unprofitable to you.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30260,
+        "text": "Pray for us, for we trust that we have a good conscience, in all things willing to behave well,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 30261,
+        "text": "and more abundantly do I call upon [you] to do this, that more quickly I may be restored to you.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30262,
+        "text": "And the God of the peace, who did bring up out of the dead the great shepherd of the sheep -- in the blood of an age-during covenant -- our Lord Jesus,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30263,
+        "text": "make you perfect in every good work to do His will, doing in you that which is well-pleasing before Him, through Jesus Christ, to whom [is] the glory -- to the ages of the ages! Amen.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30264,
+        "text": "And I entreat you, brethren, suffer the word of the exhortation, for also through few words I have written to you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30265,
+        "text": "Know ye that the brother Timotheus is released, with whom, if he may come more shortly, I will see you.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30266,
+        "text": "Salute all those leading you, and all the saints; salute you doth those from Italy:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30267,
+        "text": "the grace [is] with you all! Amen.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

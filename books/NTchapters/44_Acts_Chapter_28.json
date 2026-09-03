@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 1046,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27901,
+        "text": "And having been saved, then they knew that the island is called Melita,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27902,
+        "text": "and the foreigners were shewing us no ordinary kindness, for having kindled a fire, they received us all, because of the pressing rain, and because of the cold;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27903,
+        "text": "but Paul having gathered together a quantity of sticks, and having laid [them] upon the fire, a viper -- out of the heat having come -- did fasten on his hand.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27904,
+        "text": "And when the foreigners saw the beast hanging from his hand, they said unto one another, 'Certainly this man is a murderer, whom, having been saved out of the sea, the justice did not suffer to live;'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27905,
+        "text": "he then, indeed, having shaken off the beast into the fire, suffered no evil,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27906,
+        "text": "and they were expecting him to be about to be inflamed, or to fall down suddenly dead, and they, expecting [it] a long time, and seeing nothing uncommon happening to him, changing [their] minds, said he was a god.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27907,
+        "text": "And in the neighbourhood of that place were lands of the principal man of the island, by name Publius, who, having received us, three days did courteously lodge [us];",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27908,
+        "text": "and it came to pass, the father of Publius with feverish heats and dysentery pressed, was laid, unto whom Paul having entered, and having prayed, having laid [his] hands on him, healed him;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27909,
+        "text": "this, therefore, being done, the others also in the island having infirmities were coming and were healed;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27910,
+        "text": "who also with many honours did honour us, and we setting sail -- they were lading [us] with the things that were necessary.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27911,
+        "text": "And after three months, we set sail in a ship (that had wintered in the isle) of Alexandria, with the sign Dioscuri,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 27912,
+        "text": "and having landed at Syracuse, we remained three days,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27913,
+        "text": "thence having gone round, we came to Rhegium, and after one day, a south wind having sprung up, the second [day] we came to Puteoli;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27914,
+        "text": "where, having found brethren, we were called upon to remain with them seven days, and thus to Rome we came;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27915,
+        "text": "and thence, the brethren having heard the things concerning us, came forth to meet us, unto Appii Forum, and Three Taverns -- whom Paul having seen, having given thanks to God, took courage.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27916,
+        "text": "And when we came to Rome, the centurion delivered up the prisoners to the captain of the barrack, but Paul was suffered to remain by himself, with the soldier guarding him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27917,
+        "text": "And it came to pass after three days, Paul called together those who are the principal men of the Jews, and they having come together, he said unto them: 'Men, brethren, I -- having done nothing contrary to the people, or to the customs of the fathers -- a prisoner from Jerusalem, was delivered up to the hands of the Romans;",
+        "WordCount": 61,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 27918,
+        "text": "who, having examined me, were wishing to release [me], because of their being no cause of death in me,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27919,
+        "text": "and the Jews having spoken against [it], I was constrained to appeal unto Caesar -- not as having anything to accuse my nation of;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27920,
+        "text": "for this cause, therefore, I called for you to see and to speak with [you], for because of the hope of Israel with this chain I am bound.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27921,
+        "text": "And they said unto him, 'We did neither receive letters concerning thee from Judea, nor did any one who came of the brethren declare or speak any evil concerning thee,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27922,
+        "text": "and we think it good from thee to hear what thou dost think, for, indeed, concerning this sect it is known to us that everywhere it is spoken against;'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27923,
+        "text": "and having appointed him a day, they came, more of them unto him, to the lodging, to whom he was expounding, testifying fully the reign of God, persuading them also of the things concerning Jesus, both from the law of Moses, and the prophets, from morning till evening,",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 27924,
+        "text": "and, some, indeed, were believing the things spoken, and some were not believing.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27925,
+        "text": "And not being agreed with one another, they were going away, Paul having spoken one word -- 'Well did the Holy Spirit speak through Isaiah the prophet unto our fathers,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27926,
+        "text": "saying, Go on unto this people and say, With hearing ye shall hear, and ye shall not understand, and seeing ye shall see, and ye shall not perceive,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27927,
+        "text": "for made gross was the heart of this people, and with the ears they heard heavily, and their eyes they did close, lest they may see with the eyes, and with the heart may understand, and be turned back, and I may heal them.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27928,
+        "text": "'Be it known, therefore, to you, that to the nations was sent the salvation of God, these also will hear it;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27929,
+        "text": "and he having said these things, the Jews went away, having much disputation among themselves;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27930,
+        "text": "and Paul remained an entire two years in his own hired [house], and was receiving all those coming in unto him,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 27931,
+        "text": "preaching the reign of God, and teaching the things concerning the Lord Jesus Christ with all boldness -- unforbidden.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

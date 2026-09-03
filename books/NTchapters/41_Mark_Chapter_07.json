@@ -1,0 +1,271 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 41,"name": "Mark","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 964,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 24465,
+        "text": "And gathered together unto him are the Pharisees, and certain of the scribes, having come from Jerusalem,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 24466,
+        "text": "and having seen certain of his disciples with defiled hands -- that is, unwashed -- eating bread, they found fault;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 24467,
+        "text": "for the Pharisees, and all the Jews, if they do not wash the hands to the wrist, do not eat, holding the tradition of the elders,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 24468,
+        "text": "and, [coming] from the market-place, if they do not baptize themselves, they do not eat; and many other things there are that they received to hold, baptisms of cups, and pots, and brazen vessels, and couches.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 24469,
+        "text": "Then question him do the Pharisees and the scribes, 'Wherefore do thy disciples not walk according to the tradition of the elders, but with unwashed hands do eat the bread?'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 24470,
+        "text": "and he answering said to them -- 'Well did Isaiah prophesy concerning you, hypocrites, as it hath been written, This people with the lips doth honour Me, and their heart is far from Me;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 24471,
+        "text": "and in vain do they worship Me, teaching teachings, commands of men;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 24472,
+        "text": "for, having put away the command of God, ye hold the tradition of men, baptisms of pots and cups; and many other such like things ye do.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 24473,
+        "text": "And he said to them, 'Well do ye put away the command of God that your tradition ye may keep;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 24474,
+        "text": "for Moses said, Honour thy father and thy mother; and, He who is speaking evil of father or mother -- let him die the death;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 24475,
+        "text": "and ye say, If a man may say to father or to mother, Korban (that is, a gift), [is] whatever thou mayest be profited out of mine,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 24476,
+        "text": "and no more do ye suffer him to do anything for his father or for his mother,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 24477,
+        "text": "setting aside the word of God for your tradition that ye delivered; and many such like things ye do.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 24478,
+        "text": "And having called near all the multitude, he said to them, 'Hearken to me, ye all, and understand;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 24479,
+        "text": "there is nothing from without the man entering into him that is able to defile him, but the things coming out from him, those are the things defiling the man.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 24480,
+        "text": "If any hath ears to hear -- let him hear.'",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 24481,
+        "text": "And when he entered into a house from the multitude, his disciples were questioning him about the simile,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 24482,
+        "text": "and he saith to them, 'So also ye are without understanding! Do ye not perceive that nothing from without entering into the man is able to defile him?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 24483,
+        "text": "because it doth not enter into his heart, but into the belly, and into the drain it doth go out, purifying all the meats.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 24484,
+        "text": "And he said -- 'That which is coming out from the man, that doth defile the man;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 24485,
+        "text": "for from within, out of the heart of men, the evil reasonings do come forth, adulteries, whoredoms, murders,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 24486,
+        "text": "thefts, covetous desires, wickedness, deceit, arrogance, an evil eye, evil speaking, pride, foolishness;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 24487,
+        "text": "all these evils do come forth from within, and they defile the man.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24488,
+        "text": "And from thence having risen, he went away to the borders of Tyre and Sidon, and having entered into the house, he wished none to know, and he was not able to be hid,",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 24489,
+        "text": "for a woman having heard about him, whose little daughter had an unclean spirit, having come, fell at his feet, --",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 24490,
+        "text": "and the woman was a Greek, a Syro-Phenician by nation -- and was asking him, that the demon he may cast forth out of her daughter.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 24491,
+        "text": "And Jesus said to her, 'Suffer first the children to be filled, for it is not good to take the children's bread, and to cast [it] to the little dogs.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 24492,
+        "text": "And she answered and saith to him, 'Yes, sir; for the little dogs also under the table do eat of the children's crumbs.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 24493,
+        "text": "And he said to her, 'Because of this word go; the demon hath gone forth out of thy daughter;'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 24494,
+        "text": "and having come away to her house, she found the demon gone forth, and the daughter laid upon the couch.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 24495,
+        "text": "And again, having gone forth from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis,",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 24496,
+        "text": "and they bring to him a deaf, stuttering man, and they call on him that he may put the hand on him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 24497,
+        "text": "And having taken him away from the multitude by himself, he put his fingers to his ears, and having spit, he touched his tongue,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 24498,
+        "text": "and having looked to the heaven, he sighed, and saith to him, 'Ephphatha,' that is, 'Be thou opened;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 24499,
+        "text": "and immediately were his ears opened, and the string of his tongue was loosed, and he was speaking plain.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 24500,
+        "text": "And he charged them that they may tell no one, but the more he was charging them, the more abundantly they were proclaiming [it],",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 24501,
+        "text": "and they were being beyond measure astonished, saying, 'Well hath he done all things; both the deaf he doth make to hear, and the dumb to speak.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 54,"name": "1 Timothy","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1121,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29718,
+        "text": "I exhort, then, first of all, there be made supplications, prayers, intercessions, thanksgivings, for all men:",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29719,
+        "text": "for kings, and all who are in authority, that a quiet and peaceable life we may lead in all piety and gravity,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29720,
+        "text": "for this [is] right and acceptable before God our Saviour,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29721,
+        "text": "who doth will all men to be saved, and to come to the full knowledge of the truth;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29722,
+        "text": "for one [is] God, one also [is] mediator of God and of men, the man Christ Jesus,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29723,
+        "text": "who did give himself a ransom for all -- the testimony in its own times --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29724,
+        "text": "in regard to which I was set a preacher and apostle -- truth I say in Christ, I do not lie -- a teacher of nations, in faith and truth.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29725,
+        "text": "I wish, therefore, that men pray in every place, lifting up kind hands, apart from anger and reasoning;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29726,
+        "text": "in like manner also the women, in becoming apparel, with modesty and sobriety to adorn themselves, not in braided hair, or gold, or pearls, or garments of great price,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29727,
+        "text": "but -- which becometh women professing godly piety -- through good works.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29728,
+        "text": "Let a woman in quietness learn in all subjection,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29729,
+        "text": "and a woman I do not suffer to teach, nor to rule a husband, but to be in quietness,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29730,
+        "text": "for Adam was first formed, then Eve,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29731,
+        "text": "and Adam was not deceived, but the woman, having been deceived, into transgression came,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29732,
+        "text": "and she shall be saved through the child-bearing, if they remain in faith, and love, and sanctification, with sobriety.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

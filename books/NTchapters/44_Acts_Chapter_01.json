@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1019,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26925,
+        "text": "The former account, indeed, I made concerning all things, O Theophilus, that Jesus began both to do and to teach,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26926,
+        "text": "till the day in which, having given command, through the Holy Spirit, to the apostles whom he did choose out, he was taken up,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26927,
+        "text": "to whom also he did present himself alive after his suffering, in many certain proofs, through forty days being seen by them, and speaking the things concerning the reign of God.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26928,
+        "text": "And being assembled together with them, he commanded them not to depart from Jerusalem, but to wait for the promise of the Father, which, [saith he,] 'Ye did hear of me;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26929,
+        "text": "because John, indeed, baptized with water, and ye shall be baptized with the Holy Spirit -- after not many days.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26930,
+        "text": "They, therefore, indeed, having come together, were questioning him, saying, 'Lord, dost thou at this time restore the reign to Israel?'",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 26931,
+        "text": "and he said unto them, 'It is not yours to know times or seasons that the Father did appoint in His own authority;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 26932,
+        "text": "but ye shall receive power at the coming of the Holy Spirit upon you, and ye shall be witnesses to me both in Jerusalem, and in all Judea, and Samaria, and unto the end of the earth.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26933,
+        "text": "And these things having said -- they beholding -- he was taken up, and a cloud did receive him up from their sight;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26934,
+        "text": "and as they were looking stedfastly to the heaven in his going on, then, lo, two men stood by them in white apparel,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26935,
+        "text": "who also said, 'Men, Galileans, why do ye stand gazing into the heaven? this Jesus who was received up from you into the heaven, shall so come in what manner ye saw him going on to the heaven.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26936,
+        "text": "Then did they return to Jerusalem from the mount that is called of Olives, that is near Jerusalem, a sabbath's journey;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 26937,
+        "text": "and when they came in, they went up to the upper room, where were abiding both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James, of Alphaeus, and Simon the Zelotes, and Judas, of James;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26938,
+        "text": "these all were continuing with one accord in prayer and supplication, with women, and Mary the mother of Jesus, and with his brethren.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26939,
+        "text": "And in these days, Peter having risen up in the midst of the disciples, said, (the multitude also of the names at the same place was, as it were, an hundred and twenty,)",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 26940,
+        "text": "'Men, brethren, it behoved this Writing that it be fulfilled that beforehand the Holy Spirit spake through the mouth of David, concerning Judas, who became guide to those who took Jesus,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 26941,
+        "text": "because he was numbered among us, and did receive the share in this ministration,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26942,
+        "text": "this one, indeed, then, purchased a field out of the reward of unrighteousness, and falling headlong, burst asunder in the midst, and all his bowels gushed forth,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26943,
+        "text": "and it became known to all those dwelling in Jerusalem, insomuch that that place is called, in their proper dialect, Aceldama, that is, field of blood,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26944,
+        "text": "for it hath been written in the book of Psalms: Let his lodging-place become desolate, and let no one be dwelling in it, and his oversight let another take.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26945,
+        "text": "'It behoveth, therefore, of the men who did go with us during all the time in which the Lord Jesus went in and went out among us,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26946,
+        "text": "beginning from the baptism of John, unto the day in which he was received up from us, one of these to become with us a witness of his rising again.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26947,
+        "text": "And they set two, Joseph called Barsabas, who was surnamed Justus, and Matthias,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 26948,
+        "text": "and having prayed, they said, 'Thou, Lord, who art knowing the heart of all, shew which one thou didst choose of these two",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26949,
+        "text": "to receive the share of this ministration and apostleship, from which Judas, by transgression, did fall, to go on to his proper place;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26950,
+        "text": "and they gave their lots, and the lot fell upon Matthias, and he was numbered with the eleven apostles.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

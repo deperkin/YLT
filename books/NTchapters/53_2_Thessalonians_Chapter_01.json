@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 53,"name": "2 Thessalonians","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1117,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29651,
+        "text": "Paul, and Silvanus, and Timotheus, to the assembly of Thessalonians in God our Father, and the Lord Jesus Christ:",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29652,
+        "text": "Grace to you, and peace, from God our Father, and the Lord Jesus Christ!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29653,
+        "text": "We ought to give thanks to God always for you, brethren, as it is meet, because increase greatly doth your faith, and abound doth the love of each one of you all, to one another;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29654,
+        "text": "so that we ourselves do glory in you in the assemblies of God, for your endurance and faith in all your persecutions and tribulations that ye bear;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29655,
+        "text": "a token of the righteous judgment of God, for your being counted worthy of the reign of God, for which also ye suffer,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29656,
+        "text": "since [it is] a righteous thing with God to give back to those troubling you -- trouble,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29657,
+        "text": "and to you who are troubled -- rest with us in the revelation of the Lord Jesus from heaven, with messengers of his power,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29658,
+        "text": "in flaming fire, giving vengeance to those not knowing God, and to those not obeying the good news of our Lord Jesus Christ;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29659,
+        "text": "who shall suffer justice -- destruction age-during -- from the face of the Lord, and from the glory of his strength,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29660,
+        "text": "when He may come to be glorified in his saints, and to be wondered at in all those believing -- because our testimony was believed among you -- in that day;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29661,
+        "text": "for which also we do pray always for you, that our God may count you worthy of the calling, and may fulfil all the good pleasure of goodness, and the work of the faith in power,",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29662,
+        "text": "that the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and Lord Jesus Christ.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

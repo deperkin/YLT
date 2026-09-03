@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 52,"name": "1 Thessalonians","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1115,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29605,
+        "text": "As to the rest, then, brethren, we request you, and call upon you in the Lord Jesus, as ye did receive from us how it behoveth you to walk and to please God, that ye may abound the more,",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29606,
+        "text": "for ye have known what commands we gave you through the Lord Jesus,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29607,
+        "text": "for this is the will of God -- your sanctification; that ye abstain from the whoredom,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29608,
+        "text": "that each of you know his own vessel to possess in sanctification and honour,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29609,
+        "text": "not in the affection of desire, as also the nations that were not knowing God,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29610,
+        "text": "that no one go beyond and defraud in the matter his brother, because an avenger [is] the Lord of all these, as also we spake before to you and testified,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29611,
+        "text": "for God did not call us on uncleanness, but in sanctification;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29612,
+        "text": "he, therefore, who is despising -- doth not despise man, but God, who also did give His Holy Spirit to us.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29613,
+        "text": "And concerning the brotherly love, ye have no need of [my] writing to you, for ye yourselves are God-taught to love one another,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29614,
+        "text": "for ye do it also to all the brethren who [are] in all Macedonia; and we call upon you, brethren, to abound still more,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29615,
+        "text": "and to study to be quiet, and to do your own business, and to work with your own hands, as we did command you,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29616,
+        "text": "that ye may walk becomingly unto those without, and may have lack of nothing.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29617,
+        "text": "And I do not wish you to be ignorant, brethren, concerning those who have fallen asleep, that ye may not sorrow, as also the rest who have not hope,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29618,
+        "text": "for if we believe that Jesus died and rose again, so also God those asleep through Jesus he will bring with him,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29619,
+        "text": "for this to you we say in the word of the Lord, that we who are living -- who do remain over to the presence of the Lord -- may not precede those asleep,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29620,
+        "text": "because the Lord himself, in a shout, in the voice of a chief-messenger, and in the trump of God, shall come down from heaven, and the dead in Christ shall rise first,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29621,
+        "text": "then we who are living, who are remaining over, together with them shall be caught away in clouds to meet the Lord in air, and so always with the Lord we shall be;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29622,
+        "text": "so, then, comfort ye one another in these words.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

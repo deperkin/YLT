@@ -1,0 +1,236 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 49,"name": "Ephesians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1101,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29274,
+        "text": "Call upon you, then, do I -- the prisoner of the Lord -- to walk worthily of the calling with which ye were called,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29275,
+        "text": "with all lowliness and meekness, with long-suffering, forbearing one another in love,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 29276,
+        "text": "being diligent to keep the unity of the Spirit in the bond of the peace;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29277,
+        "text": "one body and one Spirit, according as also ye were called in one hope of your calling;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29278,
+        "text": "one Lord, one faith, one baptism,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29279,
+        "text": "one God and Father of all, who [is] over all, and through all, and in you all,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29280,
+        "text": "and to each one of you was given the grace, according to the measure of the gift of Christ,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29281,
+        "text": "wherefore, he saith, 'Having gone up on high he led captive captivity, and gave gifts to men,' --",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29282,
+        "text": "and that, he went up, what is it except that he also went down first to the lower parts of the earth?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29283,
+        "text": "he who went down is the same also who went up far above all the heavens, that He may fill all things --",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29284,
+        "text": "and He gave some [as] apostles, and some [as] prophets, and some [as] proclaimers of good news, and some [as] shepherds and teachers,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29285,
+        "text": "unto the perfecting of the saints, for a work of ministration, for a building up of the body of the Christ,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29286,
+        "text": "till we may all come to the unity of the faith and of the recognition of the Son of God, to a perfect man, to a measure of stature of the fulness of the Christ,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29287,
+        "text": "that we may no more be babes, tossed and borne about by every wind of the teaching, in the sleight of men, in craftiness, unto the artifice of leading astray,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29288,
+        "text": "and, being true in love, we may increase to Him [in] all things, who is the head -- the Christ;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29289,
+        "text": "from whom the whole body, being fitly joined together and united, through the supply of every joint, according to the working in the measure of each single part, the increase of the body doth make for the building up of itself in love.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29290,
+        "text": "This, then, I say, and I testify in the Lord; ye are no more to walk, as also the other nations walk, in the vanity of their mind,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 29291,
+        "text": "being darkened in the understanding, being alienated from the life of God, because of the ignorance that is in them, because of the hardness of their heart,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29292,
+        "text": "who, having ceased to feel, themselves did give up to the lasciviousness, for the working of all uncleanness in greediness;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29293,
+        "text": "and ye did not so learn the Christ,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29294,
+        "text": "if so be ye did hear him, and in him were taught, as truth is in Jesus;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29295,
+        "text": "ye are to put off concerning the former behaviour the old man, that is corrupt according to the desires of the deceit,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29296,
+        "text": "and to be renewed in the spirit of your mind,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29297,
+        "text": "and to put on the new man, which, according to God, was created in righteousness and kindness of the truth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29298,
+        "text": "Wherefore, putting away the lying, speak truth each with his neighbour, because we are members one of another;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29299,
+        "text": "be angry and do not sin; let not the sun go down upon your wrath,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29300,
+        "text": "neither give place to the devil;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29301,
+        "text": "whoso is stealing let him no more steal, but rather let him labour, working the thing that is good with the hands, that he may have to impart to him having need.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29302,
+        "text": "Let no corrupt word out of your mouth go forth, but what is good unto the needful building up, that it may give grace to the hearers;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 29303,
+        "text": "and make not sorrowful the Holy Spirit of God, in which ye were sealed to a day of redemption.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 29304,
+        "text": "Let all bitterness, and wrath, and anger, and clamour, and evil-speaking, be put away from you, with all malice,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 29305,
+        "text": "and become one to another kind, tender-hearted, forgiving one another, according as also God in Christ did forgive you.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

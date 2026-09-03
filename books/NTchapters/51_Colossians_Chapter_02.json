@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 51,"name": "Colossians","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 1109,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29496,
+        "text": "For I wish you to know how great a conflict I have for you and those in Laodicea, and as many as have not seen my face in the flesh,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29497,
+        "text": "that their hearts may be comforted, being united in love, and to all riches of the full assurance of the understanding, to the full knowledge of the secret of the God and Father, and of the Christ,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29498,
+        "text": "in whom are all the treasures of the wisdom and the knowledge hid,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29499,
+        "text": "and this I say, that no one may beguile you in enticing words,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 29500,
+        "text": "for if even in the flesh I am absent -- yet in the spirit I am with you, joying and beholding your order, and the stedfastness of your faith in regard to Christ;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29501,
+        "text": "as, then, ye did receive Christ Jesus the Lord, in him walk ye,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29502,
+        "text": "being rooted and built up in him, and confirmed in the faith, as ye were taught -- abounding in it in thanksgiving.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29503,
+        "text": "See that no one shall be carrying you away as spoil through the philosophy and vain deceit, according to the deliverance of men, according to the rudiments of the world, and not according to Christ,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29504,
+        "text": "because in him doth tabernacle all the fulness of the Godhead bodily,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29505,
+        "text": "and ye are in him made full, who is the head of all principality and authority,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29506,
+        "text": "in whom also ye were circumcised with a circumcision not made with hands, in the putting off of the body of the sins of the flesh in the circumcision of the Christ,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29507,
+        "text": "being buried with him in the baptism, in which also ye rose with [him] through the faith of the working of God, who did raise him out of the dead.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29508,
+        "text": "And you -- being dead in the trespasses and the uncircumcision of your flesh -- He made alive together with him, having forgiven you all the trespasses,",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29509,
+        "text": "having blotted out the handwriting in the ordinances that is against us, that was contrary to us, and he hath taken it out of the way, having nailed it to the cross;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29510,
+        "text": "having stripped the principalities and the authorities, he made a shew of them openly -- having triumphed over them in it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29511,
+        "text": "Let no one, then, judge you in eating or in drinking, or in respect of a feast, or of a new moon, or of sabbaths,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29512,
+        "text": "which are a shadow of the coming things, and the body [is] of the Christ;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29513,
+        "text": "let no one beguile you of your prize, delighting in humble-mindedness and [in] worship of the messengers, intruding into the things he hath not seen, being vainly puffed up by the mind of his flesh,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29514,
+        "text": "and not holding the head, from which all the body -- through the joints and bands gathering supply, and being knit together -- may increase with the increase of God.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29515,
+        "text": "If, then, ye did die with the Christ from the rudiments of the world, why, as living in the world, are ye subject to ordinances?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29516,
+        "text": "-- thou mayest not touch, nor taste, nor handle --",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29517,
+        "text": "which are all for destruction with the using, after the commands and teachings of men,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29518,
+        "text": "which are, indeed, having a matter of wisdom in will-worship, and humble-mindedness, and neglecting of body -- not in any honour, unto a satisfying of the flesh.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

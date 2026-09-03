@@ -1,0 +1,320 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 1045,
+    "MaxVerses": 44,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27857,
+        "text": "And when our sailing to Italy was determined, they were delivering up both Paul and certain others, prisoners, to a centurion, by name Julius, of the band of Sebastus,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27858,
+        "text": "and having embarked in a ship of Adramyttium, we, being about to sail by the coasts of Asia, did set sail, there being with us Aristarchus, a Macedonian of Thessalonica,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27859,
+        "text": "on the next [day] also we touched at Sidon, and Julius, courteously treating Paul, did permit [him], having gone on unto friends, to receive [their] care.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27860,
+        "text": "And thence, having set sail, we sailed under Cyprus, because of the winds being contrary,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27861,
+        "text": "and having sailed over the sea over-against Cilicia and Pamphylia, we came to Myria of Lycia,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27862,
+        "text": "and there the centurion having found a ship of Alexandria, sailing to Italy, did put us into it,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27863,
+        "text": "and having sailed slowly many days, and with difficulty coming over-against Cnidus, the wind not suffering us, we sailed under Crete, over-against Salmone,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27864,
+        "text": "and hardly passing it, we came to a certain place called 'Fair Havens,' nigh to which was the city [of] Lasaea.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27865,
+        "text": "And much time being spent, and the sailing being now dangerous -- because of the fast also being already past -- Paul was admonishing,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27866,
+        "text": "saying to them, 'Men, I perceive that with hurt, and much damage, not only of the lading and of the ship, but also of our lives -- the voyage is about to be;'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27867,
+        "text": "but the centurion to the pilot and to the shipowner gave credence more than to the things spoken by Paul;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27868,
+        "text": "and the haven being incommodious to winter in, the more part gave counsel to sail thence also, if by any means they might be able, having attained to Phenice, [there] to winter, [which is] a haven of Crete, looking to the south-west and north-west,",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 27869,
+        "text": "and a south wind blowing softly, having thought they had obtained [their] purpose, having lifted anchor, they sailed close by Crete,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27870,
+        "text": "and not long after there arose against it a tempestuous wind, that is called Euroclydon,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27871,
+        "text": "and the ship being caught, and not being able to bear up against the wind, having given [her] up, we were borne on,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27872,
+        "text": "and having run under a certain little isle, called Clauda, we were hardly able to become masters of the boat,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27873,
+        "text": "which having taken up, they were using helps, undergirding the ship, and fearing lest they may fall on the quicksand, having let down the mast -- so were borne on.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27874,
+        "text": "And we, being exceedingly tempest-tossed, the succeeding [day] they were making a clearing,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27875,
+        "text": "and on the third [day] with our own hands the tackling of the ship we cast out,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27876,
+        "text": "and neither sun nor stars appearing for more days, and not a little tempest lying upon us, thenceforth all hope was taken away of our being saved.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27877,
+        "text": "And there having been long fasting, then Paul having stood in the midst of them, said, 'It behoved [you], indeed, O men -- having hearkened to me -- not to set sail from Crete, and to save this hurt and damage;",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 27878,
+        "text": "and now I exhort you to be of good cheer, for there shall be no loss of life among you -- but of the ship;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27879,
+        "text": "for there stood by me this night a messenger of God -- whose I am, and whom I serve --",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27880,
+        "text": "saying, Be not afraid Paul; before Caesar it behoveth thee to stand; and, lo, God hath granted to thee all those sailing with thee;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27881,
+        "text": "wherefore be of good cheer, men! for I believe God, that so it shall be, even as it hath been spoken to me,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27882,
+        "text": "and on a certain island it behoveth us to be cast.'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27883,
+        "text": "And when the fourteenth night came -- we being borne up and down in the Adria -- toward the middle of the night the sailors were supposing that some country drew nigh to them;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27884,
+        "text": "and having sounded they found twenty fathoms, and having gone a little farther, and again having sounded, they found fifteen fathoms,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27885,
+        "text": "and fearing lest on rough places we may fall, out of the stern having cast four anchors, they were wishing day to come.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27886,
+        "text": "And the sailors seeking to flee out of the ship, and having let down the boat to the sea, in pretence as [if] out of the foreship they are about to cast anchors,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27887,
+        "text": "Paul said to the centurion and to the soldiers, 'If these do not remain in the ship -- ye are not able to be saved;'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27888,
+        "text": "then the soldiers did cut off the ropes of the boat, and suffered it to fall off.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27889,
+        "text": "And till the day was about to be, Paul was calling upon all to partake of nourishment, saying, 'Fourteen days to-day, waiting, ye continue fasting, having taken nothing,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27890,
+        "text": "wherefore I call upon you to take nourishment, for this is for your safety, for of not one of you shall a hair from the head fall;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27891,
+        "text": "and having said these things, and having taken bread, he gave thanks to God before all, and having broken [it], he began to eat;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 27892,
+        "text": "and all having become of good cheer, themselves also took food,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 27893,
+        "text": "(and we were -- all the souls in the ship -- two hundred, seventy and six),",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27894,
+        "text": "and having eaten sufficient nourishment, they were lightening the ship, casting forth the wheat into the sea.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 27895,
+        "text": "And when the day came, they were not discerning the land, but a certain creek were perceiving having a beach, into which they took counsel, if possible, to thrust forward the ship,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 27896,
+        "text": "and the anchors having taken up, they were committing [it] to the sea, at the same time -- having loosed the bands of the rudders, and having hoisted up the mainsail to the wind -- they were making for the shore,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 27897,
+        "text": "and having fallen into a place of two seas, they ran the ship aground, and the fore-part, indeed, having stuck fast, did remain immoveable, but the hinder-part was broken by the violence of the waves.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 27898,
+        "text": "And the soldiers' counsel was that they should kill the prisoners, lest any one having swam out should escape,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 27899,
+        "text": "but the centurion, wishing to save Paul, hindered them from the counsel, and did command those able to swim, having cast themselves out first -- to get unto the land,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 27900,
+        "text": "and the rest, some indeed upon boards, and some upon certain things of the ship; and thus it came to pass that all came safe unto the land.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

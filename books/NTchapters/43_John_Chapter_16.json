@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 43,"name": "John","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 1013,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 26728,
+        "text": "'These things I have spoken to you, that ye may not be stumbled,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 26729,
+        "text": "out of the synagogues they will put you; but an hour doth come, that every one who hath killed you, may think to offer service unto God;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 26730,
+        "text": "and these things they will do to you, because they did not know the Father, nor me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 26731,
+        "text": "'But these things I have spoken to you, that when the hour may come, ye may remember them, that I said [them] to you, and these things to you from the beginning I did not say, because I was with you;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 26732,
+        "text": "and now I go away to Him who sent me, and none of you doth ask me, Whither dost thou go?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 26733,
+        "text": "but because these things I have said to you, the sorrow hath filled your heart.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 26734,
+        "text": "'But I tell you the truth; it is better for you that I go away, for if I may not go away, the Comforter will not come unto you, and if I go on, I will send Him unto you;",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 26735,
+        "text": "and having come, He will convict the world concerning sin, and concerning righteousness, and concerning judgment;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 26736,
+        "text": "concerning sin indeed, because they do not believe in me;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 26737,
+        "text": "and concerning righteousness, because unto my Father I go away, and no more do ye behold me;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 26738,
+        "text": "and concerning judgment, because the ruler of this world hath been judged.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 26739,
+        "text": "'I have yet many things to say to you, but ye are not able to bear [them] now;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 26740,
+        "text": "and when He may come -- the Spirit of truth -- He will guide you to all the truth, for He will not speak from Himself, but as many things as He will hear He will speak, and the coming things He will tell you;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 26741,
+        "text": "He will glorify me, because of mine He will take, and will tell to you.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 26742,
+        "text": "'All things, as many as the Father hath, are mine; because of this I said, That of mine He will take, and will tell to you;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 26743,
+        "text": "a little while, and ye do not behold me, and again a little while, and ye shall see me, because I go away unto the Father.'",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 26744,
+        "text": "Therefore said [some] of his disciples one to another, 'What is this that he saith to us, A little while, and ye do not behold me, and again a little while, and ye shall see me, and, Because I go away unto the Father?'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 26745,
+        "text": "they said then, 'What is this he saith -- the little while? we have not known what he saith.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 26746,
+        "text": "Jesus, therefore, knew that they were wishing to ask him, and he said to them, 'Concerning this do ye seek one with another, because I said, A little while, and you do not behold me, and again a little while, and ye shall see me?",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 26747,
+        "text": "verily, verily, I say to you, that ye shall weep and lament, and the world will rejoice; and ye shall be sorrowful, but your sorrow joy will become.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 26748,
+        "text": "'The woman, when she may bear, hath sorrow, because her hour did come, and when she may bear the child, no more doth she remember the anguish, because of the joy that a man was born to the world.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 26749,
+        "text": "'And ye, therefore, now, indeed, have sorrow; and again I will see you, and your heart shall rejoice, and your joy no one doth take from you,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 26750,
+        "text": "and in that day ye will question me nothing; verily, verily, I say to you, as many things as ye may ask of the Father in my name, He will give you;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 26751,
+        "text": "till now ye did ask nothing in my name; ask, and ye shall receive, that your joy may be full.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 26752,
+        "text": "'These things in similitudes I have spoken to you, but there cometh an hour when no more in similitudes will I speak to you, but freely of the Father, will tell you.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26753,
+        "text": "'In that day, in my name ye will make request, and I do not say to you that I will ask the Father for you,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 26754,
+        "text": "for the Father himself doth love you, because me ye have loved, and ye have believed that I from God came forth;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 26755,
+        "text": "I came forth from the Father, and have come to the world; again I leave the world, and go on unto the Father.'",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 26756,
+        "text": "His disciples say to him, 'Lo, now freely thou dost speak, and no similitude speakest thou;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 26757,
+        "text": "now we have known that thou hast known all things, and hast no need that any one do question thee; in this we believe that from God thou didst come forth.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 26758,
+        "text": "Jesus answered them, 'Now do ye believe? lo, there doth come an hour,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 26759,
+        "text": "and now it hath come, that ye may be scattered, each to his own things, and me ye may leave alone, and I am not alone, because the Father is with me;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 26760,
+        "text": "these things I have spoken to you, that in me ye may have peace, in the world ye shall have tribulation, but take courage -- I have overcome the world.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

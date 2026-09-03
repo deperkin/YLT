@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 1058,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28247,
+        "text": "I call upon you, therefore, brethren, through the compassions of God, to present your bodies a sacrifice -- living, sanctified, acceptable to God -- your intelligent service;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28248,
+        "text": "and be not conformed to this age, but be transformed by the renewing of your mind, for your proving what [is] the will of God -- the good, and acceptable, and perfect.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28249,
+        "text": "For I say, through the grace that was given to me, to every one who is among you, not to think above what it behoveth to think; but to think so as to think wisely, as to each God did deal a measure of faith,",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28250,
+        "text": "for as in one body we have many members, and all the members have not the same office,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28251,
+        "text": "so we, the many, one body are in Christ, and members each one of one another.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 28252,
+        "text": "And having gifts, different according to the grace that was given to us; whether prophecy -- 'According to the proportion of faith!'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28253,
+        "text": "or ministration -- 'In the ministration!' or he who is teaching -- 'In the teaching!'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28254,
+        "text": "or he who is exhorting -- 'In the exhortation!' he who is sharing -- 'In simplicity!' he who is leading -- 'In diligence?' he who is doing kindness -- 'In cheerfulness.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28255,
+        "text": "The love unfeigned: abhorring the evil; cleaving to the good;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28256,
+        "text": "in the love of brethren, to one another kindly affectioned: in the honour going before one another;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28257,
+        "text": "in the diligence not slothful; in the spirit fervent; the Lord serving;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 28258,
+        "text": "in the hope rejoicing; in the tribulation enduring; in the prayer persevering;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28259,
+        "text": "to the necessities of the saints communicating; the hospitality pursuing.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28260,
+        "text": "Bless those persecuting you; bless, and curse not;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28261,
+        "text": "to rejoice with the rejoicing, and to weep with the weeping,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28262,
+        "text": "of the same mind one toward another, not minding the high things, but with the lowly going along; become not wise in your own conceit;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 28263,
+        "text": "giving back to no one evil for evil; providing right things before all men.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28264,
+        "text": "If possible -- so far as in you -- with all men being in peace;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 28265,
+        "text": "not avenging yourselves, beloved, but give place to the wrath, for it hath been written, 'Vengeance [is] Mine,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28266,
+        "text": "I will recompense again, saith the Lord;' if, then, thine enemy doth hunger, feed him; if he doth thirst, give him drink; for this doing, coals of fire thou shalt heap upon his head;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28267,
+        "text": "Be not overcome by the evil, but overcome, in the good, the evil.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

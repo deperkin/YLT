@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 52,"name": "1 Thessalonians","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1114,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29592,
+        "text": "Wherefore no longer forbearing, we thought good to be left in Athens alone,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29593,
+        "text": "and did send Timotheus -- our brother, and a ministrant of God, and our fellow-workman in the good news of the Christ -- to establish you, and to comfort you concerning your faith,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29594,
+        "text": "that no one be moved in these tribulations, for yourselves have known that for this we are set,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29595,
+        "text": "for even when we were with you, we said to you beforehand, that we are about to suffer tribulation, as also it did come to pass, and ye have known [it];",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29596,
+        "text": "because of this also, I, no longer forbearing, did send to know your faith, lest he who is tempting did tempt you, and in vain might be our labour.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29597,
+        "text": "And now Timotheus having come unto us from you, and having declared good news to us of your faith and love, and that ye have a good remembrance of us always, desiring much to see us, as we also [to see] you,",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29598,
+        "text": "because of this we were comforted, brethren, over you, in all our tribulation and necessity, through your faith,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29599,
+        "text": "because now we live, if ye may stand fast in the Lord;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29600,
+        "text": "for what thanks are we able to recompense to God for you, for all the joy with which we do joy because of you in the presence of our God?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29601,
+        "text": "night and day exceedingly beseeching, that we might see your face, and perfect the things lacking in your faith.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29602,
+        "text": "And our God and Father Himself, and our Lord Jesus Christ, direct our way unto you,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29603,
+        "text": "and you the Lord cause to increase and to abound in the love to one another, and to all, even as we also to you,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29604,
+        "text": "to the establishing your hearts blameless in sanctification before our God and Father, in the presence of our Lord Jesus Christ with all His saints.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 59,"name": "James","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 1150,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30339,
+        "text": "Whence [are] wars and fightings among you? not thence -- out of your passions, that are as soldiers in your members?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30340,
+        "text": "ye desire, and ye have not; ye murder, and are zealous, and are not able to attain; ye fight and war, and ye have not, because of your not asking;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30341,
+        "text": "ye ask, and ye receive not, because evilly ye ask, that in your pleasures ye may spend [it].",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 30342,
+        "text": "Adulterers and adulteresses! have ye not known that friendship of the world is enmity with God? whoever, then, may counsel to be a friend of the world, an enemy of God he is set.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30343,
+        "text": "Do ye think that emptily the Writing saith, 'To envy earnestly desireth the spirit that did dwell in us,'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30344,
+        "text": "and greater grace he doth give, wherefore he saith, 'God against proud ones doth set Himself up, and to lowly ones He doth give grace?'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30345,
+        "text": "be subject, then, to God; stand up against the devil, and he will flee from you;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30346,
+        "text": "draw nigh to God, and He will draw nigh to you; cleanse hands, ye sinners! and purify hearts, ye two-souled!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30347,
+        "text": "be exceeding afflicted, and mourn, and weep, let your laughter to mourning be turned, and the joy to heaviness;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30348,
+        "text": "be made low before the Lord, and He shall exalt you.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30349,
+        "text": "Speak not one against another, brethren; he who is speaking against a brother, and is judging his brother, doth speak against law, and doth judge law, and if law thou dost judge, thou art not a doer of law but a judge;",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 30350,
+        "text": "one is the lawgiver, who is able to save and to destroy; thou -- who art thou that dost judge the other?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30351,
+        "text": "Go, now, ye who are saying, 'To-day and to-morrow we will go on to such a city, and will pass there one year, and traffic, and make gain;'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30352,
+        "text": "who do not know the thing of the morrow; for what is your life? for it is a vapour that is appearing for a little, and then is vanishing;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30353,
+        "text": "instead of your saying, 'If the Lord may will, we shall live, and do this or that;'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30354,
+        "text": "and now ye glory in your pride; all such glorying is evil;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30355,
+        "text": "to him, then, knowing to do good, and not doing, sin it is to him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 47,"name": "2 Corinthians","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 1090,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29024,
+        "text": "To boast, really, is not profitable for me, for I will come to visions and revelations of the Lord.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29025,
+        "text": "I have known a man in Christ, fourteen years ago -- whether in the body I have not known, whether out of the body I have not known, God hath known -- such an one being caught away unto the third heaven;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29026,
+        "text": "and I have known such a man -- whether in the body, whether out of the body, I have not known, God hath known, --",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29027,
+        "text": "that he was caught away to the paradise, and heard unutterable sayings, that it is not possible for man to speak.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29028,
+        "text": "Of such an one I will boast, and of myself I will not boast, except in my infirmities,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29029,
+        "text": "for if I may wish to boast, I shall not be a fool, for truth I will say; but I forebear, lest any one in regard to me may think anything above what he doth see me, or doth hear anything of me;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29030,
+        "text": "and that by the exceeding greatness of the revelations I might not be exalted overmuch, there was given to me a thorn in the flesh, a messenger of the Adversary, that he might buffet me, that I might not be exalted overmuch.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29031,
+        "text": "Concerning this thing thrice the Lord did I call upon, that it might depart from me,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29032,
+        "text": "and He said to me, 'Sufficient for thee is My grace, for My power in infirmity is perfected;' most gladly, therefore, will I rather boast in my infirmities, that the power of the Christ may rest on me:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29033,
+        "text": "wherefore I am well pleased in infirmities, in damages, in necessities, in persecutions, in distresses -- for Christ; for whenever I am infirm, then I am powerful;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29034,
+        "text": "I have become a fool -- boasting; ye -- ye did compel me; for I ought by you to have been commended, for in nothing was I behind the very chiefest apostles -- even if I am nothing.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29035,
+        "text": "The signs, indeed, of the apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29036,
+        "text": "for what is there in which ye were inferior to the rest of the assemblies, except that I myself was not a burden to you? forgive me this injustice!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29037,
+        "text": "Lo, a third time I am ready to come unto you, and I will not be a burden to you, for I seek not yours, but you, for the children ought not for the parents to lay up, but the parents for the children,",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29038,
+        "text": "and I most gladly will spend and be entirely spent for your souls, even if, more abundantly loving you, less I am loved.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29039,
+        "text": "And be it [so], I -- I did not burden you, but being crafty, with guile I did take you;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29040,
+        "text": "any one of those whom I have sent unto you -- by him did I take advantage of you?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29041,
+        "text": "I entreated Titus, and did send with [him] the brother; did Titus take advantage of you? in the same spirit did we not walk? -- did we not in the same steps?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29042,
+        "text": "Again, think ye that to you we are making defence? before God in Christ do we speak; and the all things, beloved, [are] for your up-building,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29043,
+        "text": "for I fear lest, having come, not such as I wish I may find you, and I -- I may be found by you such as ye do not wish, lest there be strifes, envyings, wraths, revelries, evil-speakings, whisperings, puffings up, insurrections,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29044,
+        "text": "lest again having come, my God may humble me in regard to you, and I may bewail many of those having sinned before, and not having reformed concerning the uncleanness, and whoredom, and lasciviousness, that they did practise.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

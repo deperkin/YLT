@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 46,"name": "1 Corinthians","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1065,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 28412,
+        "text": "And I, brethren, was not able to speak to you as to spiritual, but as to fleshly -- as to babes in Christ;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 28413,
+        "text": "with milk I fed you, and not with meat, for ye were not yet able, but not even yet are ye now able,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 28414,
+        "text": "for yet ye are fleshly, for where [there is] among you envying, and strife, and divisions, are ye not fleshly, and in the manner of men do walk?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 28415,
+        "text": "for when one may say, 'I, indeed, am of Paul;' and another, 'I -- of Apollos;' are ye not fleshly?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 28416,
+        "text": "Who, then, is Paul, and who Apollos, but ministrants through whom ye did believe, and to each as the Lord gave?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 28417,
+        "text": "I planted, Apollos watered, but God was giving growth;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 28418,
+        "text": "so that neither is he who is planting anything, nor he who is watering, but He who is giving growth -- God;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 28419,
+        "text": "and he who is planting and he who is watering are one, and each his own reward shall receive, according to his own labour,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 28420,
+        "text": "for of God we are fellow-workmen; God's tillage, God's building ye are.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 28421,
+        "text": "According to the grace of God that was given to me, as a wise master-builder, a foundation I have laid, and another doth build on [it],",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 28422,
+        "text": "for other foundation no one is able to lay except that which is laid, which is Jesus the Christ;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 28423,
+        "text": "and if any one doth build upon this foundation gold, silver, precious stones, wood, hay, straw --",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 28424,
+        "text": "of each the work shall become manifest, for the day shall declare [it], because in fire it is revealed, and the work of each, what kind it is, the fire shall prove;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 28425,
+        "text": "if of any one the work doth remain that he built on [it], a wage he shall receive;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 28426,
+        "text": "if of any the work is burned up, he shall suffer loss; and himself shall be saved, but so as through fire.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 28427,
+        "text": "have ye not known that ye are a sanctuary of God, and the Spirit of God doth dwell in you?",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 28428,
+        "text": "if any one the sanctuary of God doth waste, him shall God waste; for the sanctuary of God is holy, the which ye are.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 28429,
+        "text": "Let no one deceive himself; if any one doth seem to be wise among you in this age -- let him become a fool, that he may become wise,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 28430,
+        "text": "for the wisdom of this world is foolishness with God, for it hath been written, 'Who is taking the wise in their craftiness;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 28431,
+        "text": "and again, 'The Lord doth know the reasonings of the wise, that they are vain.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 28432,
+        "text": "So then, let no one glory in men, for all things are yours,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 28433,
+        "text": "whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things about to be -- all are yours,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 28434,
+        "text": "and ye [are] Christ's, and Christ [is] God's.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

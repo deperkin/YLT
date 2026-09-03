@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 40,"name": "Matthew","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 937,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23347,
+        "text": "And when he came down from the mount, great multitudes did follow him,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23348,
+        "text": "and lo, a leper having come, was bowing to him, saying, 'Sir, if thou art willing, thou art able to cleanse me;'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23349,
+        "text": "and having stretched forth the hand, Jesus touched him, saying, 'I will, be thou cleansed,' and immediately his leprosy was cleansed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23350,
+        "text": "And Jesus saith to him, 'See, thou mayest tell no one, but go, thyself shew to the priest, and bring the gift that Moses commanded for a testimony to them.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23351,
+        "text": "And Jesus having entered into Capernaum, there came to him a centurion calling upon him,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 23352,
+        "text": "and saying, 'Sir, my young man hath been laid in the house a paralytic, fearfully afflicted,'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23353,
+        "text": "and Jesus saith to him, 'I, having come, will heal him.'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23354,
+        "text": "And the centurion answering said, 'Sir, I am not worthy that thou mayest enter under my roof, but only say a word, and my servant shall be healed;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23355,
+        "text": "for I also am a man under authority, having under myself soldiers, and I say to this one, Go, and he goeth, and to another, Be coming, and he cometh, and to my servant, Do this, and he doth [it].'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23356,
+        "text": "And Jesus having heard, did wonder, and said to those following, 'Verily I say to you, not even in Israel so great faith have I found;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23357,
+        "text": "and I say to you, that many from east and west shall come and recline (at meat) with Abraham, and Isaac, and Jacob, in the reign of the heavens,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23358,
+        "text": "but the sons of the reign shall be cast forth to the outer darkness -- there shall be the weeping and the gnashing of the teeth.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23359,
+        "text": "And Jesus said to the centurion, 'Go, and as thou didst believe let it be to thee;' and his young man was healed in that hour.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23360,
+        "text": "And Jesus having come into the house of Peter, saw his mother-in-law laid, and fevered,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 23361,
+        "text": "and he touched her hand, and the fever left her, and she arose, and was ministering to them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 23362,
+        "text": "And evening having come, they brought to him many demoniacs, and he did cast out the spirits with a word, and did heal all who were ill,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 23363,
+        "text": "that it might be fulfilled that was spoken through Isaiah the prophet, saying, 'Himself took our infirmities, and the sicknesses he did bear.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 23364,
+        "text": "And Jesus having seen great multitudes about him, did command to depart to the other side;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 23365,
+        "text": "and a certain scribe having come, said to him, 'Teacher, I will follow thee wherever thou mayest go;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 23366,
+        "text": "and Jesus saith to him, 'The foxes have holes, and the birds of the heaven places of rest, but the Son of Man hath not where he may lay the head.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 23367,
+        "text": "And another of his disciples said to him, 'Sir, permit me first to depart and to bury my father;'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 23368,
+        "text": "and Jesus said to him, 'Follow me, and suffer the dead to bury their own dead.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23369,
+        "text": "And when he entered into the boat his disciples did follow him,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 23370,
+        "text": "and lo, a great tempest arose in the sea, so that the boat was being covered by the waves, but he was sleeping,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 23371,
+        "text": "and his disciples having come to him, awoke him, saying, 'Sir, save us; we are perishing.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 23372,
+        "text": "And he saith to them, 'Why are ye fearful, O ye of little faith?' Then having risen, he rebuked the winds and the sea, and there was a great calm;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 23373,
+        "text": "and the men wondered, saying, 'What kind -- is this, that even the wind and the sea do obey him?'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 23374,
+        "text": "And he having come to the other side, to the region of the Gergesenes, there met him two demoniacs, coming forth out of the tombs, very fierce, so that no one was able to pass over by that way,",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 23375,
+        "text": "and lo, they cried out, saying, 'What -- to us and to thee, Jesus, Son of God? didst thou come hither, before the time, to afflict us?'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 23376,
+        "text": "And there was far off from them a herd of many swine feeding,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 23377,
+        "text": "and the demons were calling on him, saying, 'If thou dost cast us forth, permit us to go away to the herd of the swine;'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 23378,
+        "text": "and he saith to them, 'Go.' And having come forth, they went to the herd of the swine, and lo, the whole herd of the swine rushed down the steep, to the sea, and died in the waters,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 23379,
+        "text": "and those feeding did flee, and, having gone to the city, they declared all, and the matter of the demoniacs.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 23380,
+        "text": "And lo, all the city came forth to meet Jesus, and having seen him, they called on [him] that he might depart from their borders.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

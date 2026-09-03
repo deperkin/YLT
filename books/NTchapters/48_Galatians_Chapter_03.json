@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 48,"name": "Galatians","MaxChapters": 6},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1094,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29104,
+        "text": "O thoughtless Galatians, who did bewitch you, not to obey the truth -- before whose eyes Jesus Christ was described before among you crucified?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29105,
+        "text": "this only do I wish to learn from you -- by works of law the Spirit did ye receive, or by the hearing of faith?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29106,
+        "text": "so thoughtless are ye! having begun in the Spirit, now in the flesh do ye end?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29107,
+        "text": "so many things did ye suffer in vain! if, indeed, even in vain.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29108,
+        "text": "He, therefore, who is supplying to you the Spirit, and working mighty acts among you -- by works of law or by the hearing of faith [is it]?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29109,
+        "text": "according as Abraham did believe God, and it was reckoned to him -- to righteousness;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29110,
+        "text": "know ye, then, that those of faith -- these are sons of Abraham,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29111,
+        "text": "and the Writing having foreseen that by faith God doth declare righteous the nations did proclaim before the good news to Abraham --",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29112,
+        "text": "'Blessed in thee shall be all the nations;' so that those of faith are blessed with the faithful Abraham,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29113,
+        "text": "for as many as are of works of law are under a curse, for it hath been written, 'Cursed [is] every one who is not remaining in all things that have been written in the Book of the Law -- to do them,'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29114,
+        "text": "and that in law no one is declared righteous with God, is evident, because 'The righteous by faith shall live;'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29115,
+        "text": "and the law is not by faith, but -- 'The man who did them shall live in them.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29116,
+        "text": "Christ did redeem us from the curse of the law, having become for us a curse, for it hath been written, 'Cursed is every one who is hanging on a tree,'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29117,
+        "text": "that to the nations the blessing of Abraham may come in Christ Jesus, that the promise of the Spirit we may receive through the faith.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29118,
+        "text": "Brethren, as a man I say [it], even of man a confirmed covenant no one doth make void or doth add to,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29119,
+        "text": "and to Abraham were the promises spoken, and to his seed; He doth not say, 'And to seeds,' as of many, but as of one, 'And to thy seed,' which is Christ;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29120,
+        "text": "and this I say, A covenant confirmed before by God to Christ, the law, that came four hundred and thirty years after, doth not set aside, to make void the promise,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29121,
+        "text": "for if by law [be] the inheritance, [it is] no more by promise, but to Abraham through promise did God grant [it].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29122,
+        "text": "Why, then, the law? on account of the transgressions it was added, till the seed might come to which the promise hath been made, having been set in order through messengers in the hand of a mediator --",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 29123,
+        "text": "and the mediator is not of one, and God is one --",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29124,
+        "text": "the law, then, [is] against the promises of God? -- let it not be! for if a law was given that was able to make alive, truly by law there would have been the righteousness,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29125,
+        "text": "but the Writing did shut up the whole under sin, that the promise by faith of Jesus Christ may be given to those believing.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29126,
+        "text": "And before the coming of the faith, under law we were being kept, shut up to the faith about to be revealed,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29127,
+        "text": "so that the law became our child-conductor -- to Christ, that by faith we may be declared righteous,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29128,
+        "text": "and the faith having come, no more under a child-conductor are we,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29129,
+        "text": "for ye are all sons of God through the faith in Christ Jesus,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29130,
+        "text": "for as many as to Christ were baptized did put on Christ;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29131,
+        "text": "there is not here Jew or Greek, there is not here servant nor freeman, there is not here male and female, for all ye are one in Christ Jesus;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29132,
+        "text": "and if ye [are] of Christ then of Abraham ye are seed, and according to promise -- heirs.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

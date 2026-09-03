@@ -1,0 +1,236 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 45,"name": "Romans","MaxChapters": 16},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1047,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27932,
+        "text": "Paul, a servant of Jesus Christ, a called apostle, having been separated to the good news of God --",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27933,
+        "text": "which He announced before through His prophets in holy writings --",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27934,
+        "text": "concerning His Son, (who is come of the seed of David according to the flesh,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27935,
+        "text": "who is marked out Son of God in power, according to the Spirit of sanctification, by the rising again from the dead,) Jesus Christ our Lord;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27936,
+        "text": "through whom we did receive grace and apostleship, for obedience of faith among all the nations, in behalf of his name;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27937,
+        "text": "among whom are also ye, the called of Jesus Christ;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27938,
+        "text": "to all who are in Rome, beloved of God, called saints; Grace to you, and peace, from God our Father, and [from] the Lord Jesus Christ!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27939,
+        "text": "first, indeed, I thank my God through Jesus Christ for you all, that your faith is proclaimed in the whole world;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 27940,
+        "text": "for God is my witness, whom I serve in my spirit in the good news of His Son, how unceasingly I make mention of you,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27941,
+        "text": "always in my prayers beseeching, if by any means now at length I shall have a prosperous journey, by the will of God, to come unto you,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27942,
+        "text": "for I long to see you, that I may impart to you some spiritual gift, that ye may be established;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27943,
+        "text": "and that is, that I may be comforted together among you, through the faith in one another, both yours and mine.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27944,
+        "text": "And I do not wish you to be ignorant, brethren, that many times I did purpose to come unto you -- and was hindered till the present time -- that some fruit I might have also among you, even as also among the other nations.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27945,
+        "text": "Both to Greeks and to foreigners, both to wise and to thoughtless, I am a debtor,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27946,
+        "text": "so, as much as in me is, I am ready also to you who [are] in Rome to proclaim good news,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27947,
+        "text": "for I am not ashamed of the good news of the Christ, for it is the power of God to salvation to every one who is believing, both to Jew first, and to Greek.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 27948,
+        "text": "For the righteousness of God in it is revealed from faith to faith, according as it hath been written, 'And the righteous one by faith shall live,'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27949,
+        "text": "for revealed is the wrath of God from heaven upon all impiety and unrighteousness of men, holding down the truth in unrighteousness.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27950,
+        "text": "Because that which is known of God is manifest among them, for God did manifest [it] to them,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 27951,
+        "text": "for the invisible things of Him from the creation of the world, by the things made being understood, are plainly seen, both His eternal power and Godhead -- to their being inexcusable;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27952,
+        "text": "because, having known God they did not glorify [Him] as God, nor gave thanks, but were made vain in their reasonings, and their unintelligent heart was darkened,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27953,
+        "text": "professing to be wise, they were made fools,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27954,
+        "text": "and changed the glory of the incorruptible God into the likeness of an image of corruptible man, and of fowls, and of quadrupeds, and of reptiles.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27955,
+        "text": "Wherefore also God did give them up, in the desires of their hearts, to uncleanness, to dishonour their bodies among themselves;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27956,
+        "text": "who did change the truth of God into a falsehood, and did honour and serve the creature rather than the Creator, who is blessed to the ages. Amen.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27957,
+        "text": "Because of this did God give them up to dishonourable affections, for even their females did change the natural use into that against nature;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27958,
+        "text": "and in like manner also the males having left the natural use of the female, did burn in their longing toward one another; males with males working shame, and the recompense of their error that was fit, in themselves receiving.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27959,
+        "text": "And, according as they did not approve of having God in knowledge, God gave them up to a disapproved mind, to do the things not seemly;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27960,
+        "text": "having been filled with all unrighteousness, whoredom, wickedness, covetousness, malice; full of envy, murder, strife, deceit, evil dispositions; whisperers,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27961,
+        "text": "evil-speakers, God-haters, insulting, proud, boasters, inventors of evil things, disobedient to parents,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27962,
+        "text": "unintelligent, faithless, without natural affection, implacable, unmerciful;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27963,
+        "text": "who the righteous judgment of God having known -- that those practising such things are worthy of death -- not only do them, but also have delight with those practising them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

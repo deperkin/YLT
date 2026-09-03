@@ -1,0 +1,278 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 1038,
+    "MaxVerses": 38,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27628,
+        "text": "And after the ceasing of the tumult, Paul having called near the disciples, and having embraced [them], went forth to go on to Macedonia;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27629,
+        "text": "and having gone through those parts, and having exhorted them with many words, he came to Greece;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27630,
+        "text": "having made also three months' [stay] -- a counsel of the Jews having been against him -- being about to set forth to Syria, there came [to him] a resolution of returning through Macedonia.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27631,
+        "text": "And there were accompanying him unto Asia, Sopater of Berea, and of Thessalonians Aristarchus and Secundus, and Gaius of Derbe, and Timotheus, and of Asiatics Tychicus and Trophimus;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27632,
+        "text": "these, having gone before, did remain for us in Troas,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 27633,
+        "text": "and we sailed, after the days of the unleavened food, from Philippi, and came unto them to Troas in five days, where we abode seven days.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27634,
+        "text": "And on the first of the week, the disciples having been gathered together to break bread, Paul was discoursing to them, about to depart on the morrow, he was also continuing the discourse till midnight,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 27635,
+        "text": "and there were many lamps in the upper chamber where they were gathered together,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27636,
+        "text": "and there was sitting a certain youth, by name Eutychus, upon the window -- being borne down by a deep sleep, Paul discoursing long -- he having sunk down from the sleep, fell down from the third story, and was lifted up dead.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27637,
+        "text": "And Paul, having gone down, fell upon him, and having embraced [him], said, 'Make no tumult, for his life is in him;'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27638,
+        "text": "and having come up, and having broken bread, and having tasted, for a long time also having talked -- till daylight, so he went forth,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27639,
+        "text": "and they brought up the lad alive, and were comforted in no ordinary measure.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27640,
+        "text": "And we having gone before unto the ship, did sail to Assos, thence intending to take in Paul, for so he had arranged, intending himself to go on foot;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 27641,
+        "text": "and when he met with us at Assos, having taken him up, we came to Mitylene,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27642,
+        "text": "and thence having sailed, on the morrow we came over-against Chios, and the next day we arrived at Samos, and having remained in Trogyllium, on the following day we came to Miletus,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27643,
+        "text": "for Paul decided to sail past Ephesus, that there may not be to him a loss of time in Asia, for he hasted, if it were possible for him, on the day of the Pentecost to be at Jerusalem.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27644,
+        "text": "And from Miletus, having sent to Ephesus, he called for the elders of the assembly,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 27645,
+        "text": "and when they were come unto him, he said to them, 'Ye -- ye know from the first day in which I came to Asia, how, with you at all times I was;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27646,
+        "text": "serving the Lord with all humility, and many tears, and temptations, that befell me in the counsels of the Jews against [me];",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27647,
+        "text": "how nothing I did keep back of what things are profitable, not to declare to you, and to teach you publicly, and in every house,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 27648,
+        "text": "testifying fully both to Jews and Greeks, toward God reformation, and faith toward our Lord Jesus Christ.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27649,
+        "text": "'And now, lo, I -- bound in the Spirit -- go on to Jerusalem, the things that shall befall me in it not knowing,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27650,
+        "text": "save that the Holy Spirit in every city doth testify fully, saying, that for me bonds and tribulations remain;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27651,
+        "text": "but I make account of none of these, neither do I count my life precious to myself, so that I finish my course with joy, and the ministration that I received from the Lord Jesus, to testify fully the good news of the grace of God.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27652,
+        "text": "'And now, lo, I have known that no more shall ye see my face, -- ye all among whom I did go preaching the reign of God;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 27653,
+        "text": "wherefore I take you to witness this day, that I [am] clear from the blood of all,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 27654,
+        "text": "for I did not keep back from declaring to you all the counsel of God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 27655,
+        "text": "'Take heed, therefore, to yourselves, and to all the flock, among which the Holy Spirit made you overseers, to feed the assembly of God that He acquired through His own blood,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 27656,
+        "text": "for I have known this, that there shall enter in, after my departing, grievous wolves unto you, not sparing the flock,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 27657,
+        "text": "and of your own selves there shall arise men, speaking perverse things, to draw away the disciples after them.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 27658,
+        "text": "'Therefore, watch, remembering that three years, night and day, I did not cease with tears warning each one;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 27659,
+        "text": "and now, I commend you, brethren, to God, and to the word of His grace, that is able to build up, and to give you an inheritance among all those sanctified.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 27660,
+        "text": "'The silver or gold or garments of no one did I covet;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 27661,
+        "text": "and ye yourselves know that to my necessities, and to those who were with me, minister did these hands;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 27662,
+        "text": "all things I did shew you, that, thus labouring, it behoveth [us] to partake with the ailing, to be mindful also of the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 27663,
+        "text": "And these things having said, having bowed his knees, with them all, he did pray,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 27664,
+        "text": "and there came a great weeping to all, and having fallen upon the neck of Paul, they were kissing him,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 27665,
+        "text": "sorrowing most of all for the word that he had said -- that they are about no more to see his face; and they were accompanying him to the ship.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

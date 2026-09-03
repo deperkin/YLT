@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 61,"name": "2 Peter","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 1159,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30524,
+        "text": "This, now, beloved, a second letter to you I write, in both which I stir up your pure mind in reminding [you],",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30525,
+        "text": "to be mindful of the sayings said before by the holy prophets, and of the command of us the apostles of the Lord and Saviour,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30526,
+        "text": "this first knowing, that there shall come in the latter end of the days scoffers, according to their own desires going on,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30527,
+        "text": "and saying, 'Where is the promise of his presence? for since the fathers did fall asleep, all things so remain from the beginning of the creation;'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30528,
+        "text": "for this is unobserved by them willingly, that the heavens were of old, and the earth out of water and through water standing together by the word of God,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30529,
+        "text": "through which the then world, by water having been deluged, was destroyed;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30530,
+        "text": "and the present heavens and the earth, by the same word are treasured, for fire being kept to a day of judgment and destruction of the impious men.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30531,
+        "text": "And this one thing let not be unobserved by you, beloved, that one day with the Lord [is] as a thousand years, and a thousand years as one day;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 30532,
+        "text": "the Lord is not slow in regard to the promise, as certain count slowness, but is long-suffering to us, not counselling any to be lost but all to pass on to reformation,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 30533,
+        "text": "and it will come -- the day of the Lord -- as a thief in the night, in which the heavens with a rushing noise will pass away, and the elements with burning heat be dissolved, and earth and the works in it shall be burnt up.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30534,
+        "text": "All these, then, being dissolved, what kind of persons doth it behove you to be in holy behaviours and pious acts?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 30535,
+        "text": "waiting for and hasting to the presence of the day of God, by which the heavens, being on fire, shall be dissolved, and the elements with burning heat shall melt;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30536,
+        "text": "and for new heavens and a new earth according to His promise we do wait, in which righteousness doth dwell;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30537,
+        "text": "wherefore, beloved, these things waiting for, be diligent, spotless and unblameable, by Him to be found in peace,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30538,
+        "text": "and the long-suffering of our Lord count ye salvation, according as also our beloved brother Paul -- according to the wisdom given to him -- did write to you,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 30539,
+        "text": "as also in all the epistles, speaking in them concerning these things, among which things are certain hard to be understood, which the untaught and unstable do wrest, as also the other Writings, unto their own destruction.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30540,
+        "text": "Ye, then, beloved, knowing before, take heed, lest, together with the error of the impious being led away, ye may fall from your own stedfastness,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30541,
+        "text": "and increase ye in grace, and in the knowledge of our Lord and Saviour Jesus Christ; to him [is] the glory both now, and to the day of the age! Amen.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

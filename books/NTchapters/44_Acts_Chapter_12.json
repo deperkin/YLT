@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 44,"name": "Acts","MaxChapters": 28},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 1030,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 27339,
+        "text": "And about that time, Herod the king put forth his hands, to do evil to certain of those of the assembly,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 27340,
+        "text": "and he killed James, the brother of John, with the sword,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 27341,
+        "text": "and having seen that it is pleasing to the Jews, he added to lay hold of Peter also -- and they were the days of the unleavened food --",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 27342,
+        "text": "whom also having seized, he did put in prison, having delivered [him] to four quaternions of soldiers to guard him, intending after the passover to bring him forth to the people.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 27343,
+        "text": "Peter, therefore, indeed, was kept in the prison, and fervent prayer was being made by the assembly unto God for him,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 27344,
+        "text": "and when Herod was about to bring him forth, the same night was Peter sleeping between two soldiers, having been bound with two chains, guards also before the door were keeping the prison,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 27345,
+        "text": "and lo, a messenger of the Lord stood by, and a light shone in the buildings, and having smitten Peter on the side, he raised him up, saying, 'Rise in haste,' and his chains fell from off [his] hands.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 27346,
+        "text": "The messenger also said to him, 'Gird thyself, and bind on thy sandals;' and he did so; and he saith to him, 'Put thy garment round and be following me;'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 27347,
+        "text": "and having gone forth, he was following him, and he knew not that it is true that which is done through the messenger, and was thinking he saw a vision,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 27348,
+        "text": "and having passed through a first ward, and a second, they came unto the iron gate that is leading to the city, which of its own accord did open to them, and having gone forth, they went on through one street, and immediately the messenger departed from him.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 27349,
+        "text": "And Peter having come to himself, said, 'Now I have known of a truth that the Lord did sent forth His messenger, and did deliver me out of the hand of Herod, and all the expectation of the people of the Jews;'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 27350,
+        "text": "also, having considered, he came unto the house of Mary, the mother of John, who is surnamed Mark, where there were many thronged together and praying.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 27351,
+        "text": "And Peter having knocked at the door of the porch, there came a damsel to hearken, by name Rhoda,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 27352,
+        "text": "and having known the voice of Peter, from the joy she did not open the porch, but having run in, told of the standing of Peter before the porch,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 27353,
+        "text": "and they said unto her, 'Thou art mad;' and she was confidently affirming [it] to be so, and they said, 'It is his messenger;'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 27354,
+        "text": "and Peter was continuing knocking, and having opened, they saw him, and were astonished,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 27355,
+        "text": "and having beckoned to them with the hand to be silent, he declared to them how the Lord brought him out of the prison, and he said, 'Declare to James and to the brethren these things;' and having gone forth, he went on to another place.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 27356,
+        "text": "And day having come, there was not a little stir among the soldiers what then was become of Peter,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 27357,
+        "text": "and Herod having sought for him, and not having found, having examined the guards, did command [them] to be led away to punishment, and having gone down from Judea to Caesarea, he was abiding [there].",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 27358,
+        "text": "And Herod was highly displeased with the Tyrians and Sidonians, and with one accord they came unto him, and having made a friend of Blastus, who [is] over the bed-chambers of the king, they were asking peace, because of their country being nourished from the king's;",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 27359,
+        "text": "and on a set day, Herod having arrayed himself in kingly apparel, and having sat down upon the tribunal, was making an oration unto them,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 27360,
+        "text": "and the populace were shouting, 'The voice of a god, and not of a man;'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 27361,
+        "text": "and presently there smote him a messenger of the Lord, because he did not give the glory to God, and having been eaten of worms, he expired.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 27362,
+        "text": "And the word of God did grow and did multiply,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 27363,
+        "text": "and Barnabas and Saul did turn back out of Jerusalem, having fulfilled the ministration, having taken also with [them] John, who was surnamed Mark.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}
