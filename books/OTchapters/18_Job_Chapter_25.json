@@ -1,0 +1,54 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 461,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13463,
+        "text": "And Bildad the Shuhite answereth and saith: --",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13464,
+        "text": "The rule and fear [are] with Him, Making peace in His high places.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13465,
+        "text": "Is their [any] number to His troops? And on whom ariseth not His light?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13466,
+        "text": "And what? is man righteous with God? And what? is he pure -- born of a woman?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13467,
+        "text": "Lo -- unto the moon, and it shineth not, And stars have not been pure in His eyes.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13468,
+        "text": "How much less man -- a grub, And the son of man -- a worm!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

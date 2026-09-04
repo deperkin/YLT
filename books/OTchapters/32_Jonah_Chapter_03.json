@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 32,"name": "Jonah","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 892,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22560,
+        "text": "And there is a word of Jehovah unto Jonah a second time, saying,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22561,
+        "text": "'Rise, go unto Nineveh, the great city, and proclaim unto it the proclamation that I am speaking unto thee;'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22562,
+        "text": "and Jonah riseth, and he goeth unto Nineveh, according to the word of Jehovah. And Nineveh hath been a great city before God, a journey of three days.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22563,
+        "text": "And Jonah beginneth to go in to the city a journey of one day, and proclaimeth, and saith, 'Yet forty days -- and Nineveh is overturned.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22564,
+        "text": "And the men of Nineveh believe in God, and proclaim a fast, and put on sackcloth, from their greatest even unto their least,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22565,
+        "text": "seeing the word doth come unto the king of Nineveh, and he riseth from his throne, and removeth his honourable robe from off him, and spreadeth out sackcloth, and sitteth on the ashes,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22566,
+        "text": "and he crieth and saith in Nineveh by a decree of the king and his great ones, saying, 'Man and beast, herd and flock -- let them not taste anything, let them not feed, even water let them not drink;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22567,
+        "text": "and cover themselves [with] sackcloth let man and beast, and let them call unto God mightily, and let them turn back each from his evil way, and from the violence that [is] in their hands.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22568,
+        "text": "Who knoweth? He doth turn back, and God hath repented, and hath turned back from the heat of His anger, and we do not perish.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22569,
+        "text": "And God seeth their works, that they have turned back from their evil way, and God repenteth of the evil that He spake of doing to them, and he hath not done [it].",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

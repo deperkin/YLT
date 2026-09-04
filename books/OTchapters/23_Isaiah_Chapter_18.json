@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 697,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17999,
+        "text": "Ho, land shadowed [with] wings, That [is] beyond the rivers of Cush,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18000,
+        "text": "That is sending by sea ambassadors, Even with implements of reed on the face of the waters, -- Go, ye light messengers, Unto a nation drawn out and peeled, Unto a people fearful from its beginning and onwards, A nation meeting out by line, and treading down, Whose land floods have spoiled.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18001,
+        "text": "All ye inhabitants of the world, And ye dwellers of earth, At the lifting up of an ensign on hills ye look, And at the blowing of a trumpet ye hear.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18002,
+        "text": "For thus said Jehovah unto me, 'I rest, and I look on My settled place, As a clear heat on an herb. As a thick cloud of dew in the heat of harvest.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18003,
+        "text": "For before harvest, when the flower is perfect, And the blossom is producing unripe fruit, Then hath [one] cut the sprigs with pruning hooks, And the branches he hath turned aside, cut down.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18004,
+        "text": "They are left together to the ravenous fowl of the mountains, And to the beast of the earth, And summered on them hath the ravenous fowl, And every beast of the earth wintereth on them.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18005,
+        "text": "At that time brought is a present to Jehovah of Hosts, A nation drawn out and peeled. Even of a people fearful from the beginning hitherto, A nation meting out by line, and treading down, Whose land floods have spoiled, Unto the place of the name of Jehovah of Hosts -- mount Zion!'",
+        "WordCount": 53,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 103,
+    "count": 581,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15551,
+        "text": "By David. Bless, O my soul, Jehovah, And all my inward parts -- His Holy Name.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15552,
+        "text": "Bless, O my soul, Jehovah, And forget not all His benefits,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15553,
+        "text": "Who is forgiving all thine iniquities, Who is healing all thy diseases,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15554,
+        "text": "Who is redeeming from destruction thy life, Who is crowning thee -- kindness and mercies,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15555,
+        "text": "Who is satisfying with good thy desire, Renew itself as an eagle doth thy youth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15556,
+        "text": "Jehovah is doing righteousness and judgments For all the oppressed.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15557,
+        "text": "He maketh known His ways to Moses, To the sons of Israel His acts.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15558,
+        "text": "Merciful and gracious [is] Jehovah, Slow to anger, and abundant in mercy.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15559,
+        "text": "Not for ever doth He strive, Nor to the age doth He watch.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15560,
+        "text": "Not according to our sins hath He done to us, Nor according to our iniquities Hath He conferred benefits upon us.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15561,
+        "text": "For, as the height of the heavens [is] above the earth, His kindness hath been mighty over those fearing Him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15562,
+        "text": "As the distance of east from west He hath put far from us our transgressions.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15563,
+        "text": "As a father hath mercy on sons, Jehovah hath mercy on those fearing Him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15564,
+        "text": "For He hath known our frame, Remembering that we [are] dust.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15565,
+        "text": "Mortal man! as grass [are] his days, As a flower of the field so he flourisheth;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15566,
+        "text": "For a wind hath passed over it, and it is not, And its place doth not discern it any more.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15567,
+        "text": "And the kindness of Jehovah [Is] from age even unto age on those fearing Him, And His righteousness to sons' sons,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15568,
+        "text": "To those keeping His covenant, And to those remembering His precepts to do them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15569,
+        "text": "Jehovah in the heavens Hath established His throne, And His kingdom over all hath ruled.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 15570,
+        "text": "Bless Jehovah, ye His messengers, Mighty in power -- doing His word, To hearken to the voice of His Word.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15571,
+        "text": "Bless Jehovah, all ye His hosts, His ministers -- doing His pleasure.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15572,
+        "text": "Bless Jehovah, all ye His works, In all places of His dominion. Bless, O my soul, Jehovah!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 72,
+    "count": 550,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15002,
+        "text": "By Solomon. O God, Thy judgments to the king give, And Thy righteousness to the king's son.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15003,
+        "text": "He judgeth Thy people with righteousness, And Thy poor with judgment.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 15004,
+        "text": "The mountains bear peace to the people, And the heights by righteousness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15005,
+        "text": "He judgeth the poor of the people, Giveth deliverance to the sons of the needy, And bruiseth the oppressor.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15006,
+        "text": "They fear Thee with the sun, and before the moon, Generation -- generations.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15007,
+        "text": "He cometh down as rain on mown grass, As showers -- sprinkling the earth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15008,
+        "text": "Flourish in his days doth the righteous, And abundance of peace till the moon is not.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15009,
+        "text": "And he ruleth from sea unto sea, And from the river unto the ends of earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15010,
+        "text": "Before him bow do the inhabitants of the dry places, And his enemies lick the dust.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15011,
+        "text": "Kings of Tarshish and of the isles send back a present. Kings of Sheba and Seba a reward bring near.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15012,
+        "text": "And all kings do bow themselves to him, All nations do serve him,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15013,
+        "text": "For he delivereth the needy who crieth, And the poor when he hath no helper,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15014,
+        "text": "He hath pity on the poor and needy, And the souls of the needy he saveth,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15015,
+        "text": "From fraud and from violence he redeemeth their soul, And precious is their blood in his eyes.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15016,
+        "text": "And he liveth, and giveth to him of the gold of Sheba, And prayeth for him continually, All the day he doth bless him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15017,
+        "text": "There is a handful of corn in the earth, On the top of mountains, Shake like Lebanon doth its fruit, And they flourish out of the city as the herb of the earth.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15018,
+        "text": "His name is to the age, Before the sun is his name continued, And they bless themselves in him, All nations do pronounce him happy.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15019,
+        "text": "Blessed is Jehovah God, God of Israel, He alone is doing wonders,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 15020,
+        "text": "And blessed [is] the Name of His honour to the age, And the whole earth is filled [with] His honour. Amen, and amen!",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15021,
+        "text": "The prayers of David son of Jesse have been ended.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 867,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22154,
+        "text": "'Hear this, O priests, and attend, O house of Israel, And, O house of the king, give ear, For the judgment [is] for you, For, a snare ye have been on Mizpah, And a net spread out on Tabor.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22155,
+        "text": "And to slaughter sinners have gone deep, And I [am] a fetter to them all.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22156,
+        "text": "I have known Ephraim, And Israel hath not been hid from me, For now thou hast gone a-whoring, Ephraim, Defiled is Israel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22157,
+        "text": "They give not up their habitual doings, To turn back unto their God, For a spirit of whoredoms [is] in their midst, And Jehovah they have not known.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22158,
+        "text": "And humbled hath been the excellency of Israel to his face, And Israel and Ephraim stumble by their iniquity, Stumbled also hath Judah with them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22159,
+        "text": "With their flock and with their herd, They go to seek Jehovah, and do not find, He hath withdrawn from them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22160,
+        "text": "Against Jehovah they dealt treacherously, For strange sons they have begotten, Now consume them doth a month [with] their portions.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22161,
+        "text": "Blow ye a cornet in Gibeah, a trumpet in Ramah, Shout, O Beth-Aven, after thee, O Benjamin.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22162,
+        "text": "Ephraim is for a desolation in a day of reproof, Among the tribes of Israel I have made known a sure thing.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22163,
+        "text": "Princes of Judah have been as those removing a border, On them I do pour out as water My wrath.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22164,
+        "text": "Oppressed is Ephraim, broken in judgment, When he pleased he went after the command.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22165,
+        "text": "And I [am] as a moth to Ephraim, And as a rotten thing to the house of Judah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22166,
+        "text": "And see doth Ephraim his sickness, and Judah his wound, And Ephraim goeth unto Asshur, And sendeth unto a warlike king, And he is not able to give healing to you, Nor doth he remove from you a scar.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22167,
+        "text": "For I [am] as a lion to Ephraim, And as a young lion to the house of Judah, I -- I tear and go, I bear away, and there is no deliverer.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22168,
+        "text": "I go -- I turn back unto My place, Till that they are desolate, and have sought My face. In their distress they do seek Me speedily!'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

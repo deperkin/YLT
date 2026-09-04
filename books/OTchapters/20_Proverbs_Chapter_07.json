@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 635,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16577,
+        "text": "My son! keep my sayings, And my commands lay up with thee.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16578,
+        "text": "Keep my commands, and live, And my law as the pupil of thine eye.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16579,
+        "text": "Bind them on thy fingers, Write them on the tablet of thy heart.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16580,
+        "text": "Say to wisdom, 'My sister Thou [art].' And cry to understanding, 'Kinswoman!'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16581,
+        "text": "To preserve thee from a strange woman, From a stranger who hath made smooth her sayings.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16582,
+        "text": "For, at a window of my house, Through my casement I have looked out,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16583,
+        "text": "And I do see among the simple ones, I discern among the sons, A young man lacking understanding,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16584,
+        "text": "Passing on in the street, near her corner, And the way [to] her house he doth step,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16585,
+        "text": "In the twilight -- in the evening of day, In the darkness of night and blackness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16586,
+        "text": "And, lo, a woman to meet him -- (A harlot's dress, and watchful of heart,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16587,
+        "text": "Noisy she [is], and stubborn, In her house her feet rest not.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16588,
+        "text": "Now in an out-place, now in broad places, And near every corner she lieth in wait) --",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16589,
+        "text": "And she laid hold on him, and kissed him, She hath hardened her face, and saith to him,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16590,
+        "text": "'Sacrifices of peace-offerings [are] by me, To-day I have completed my vows.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16591,
+        "text": "Therefore I have come forth to meet thee, To seek earnestly thy face, and I find thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16592,
+        "text": "[With] ornamental coverings I decked my couch, Carved works -- cotton of Egypt.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16593,
+        "text": "I sprinkled my bed -- myrrh, aloes, and cinnamon.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16594,
+        "text": "Come, we are filled [with] loves till the morning, We delight ourselves in loves.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16595,
+        "text": "For the man is not in his house, He hath gone on a long journey.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16596,
+        "text": "A bag of money he hath taken in his hand, At the day of the new moon he cometh to his house.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16597,
+        "text": "She turneth him aside with the abundance of her speech, With the flattery of her lips she forceth him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16598,
+        "text": "He is going after her straightway, As an ox unto the slaughter he cometh, And as a fetter unto the chastisement of a fool,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16599,
+        "text": "Till an arrow doth split his liver, As a bird hath hastened unto a snare, And hath not known that it [is] for its life.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16600,
+        "text": "And now, ye sons, hearken to me, And give attention to sayings of my mouth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16601,
+        "text": "Let not thy heart turn unto her ways, Do not wander in her paths,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 16602,
+        "text": "For many [are] the wounded she caused to fall, And mighty [are] all her slain ones.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 16603,
+        "text": "The ways of Sheol -- her house, Going down unto inner chambers of death!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

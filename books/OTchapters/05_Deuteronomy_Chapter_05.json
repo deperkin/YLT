@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 158,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5055,
+        "text": "And Moses calleth unto all Israel, and saith unto them, 'Hear, Israel, the statutes and the judgments which I am speaking in your ears to-day, and ye have learned them, and have observed to do them.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5056,
+        "text": "Jehovah our God made with us a covenant in Horeb;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5057,
+        "text": "not with our fathers hath Jehovah made this covenant, but with us; we -- these -- here to-day -- all of us alive.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5058,
+        "text": "Face to face hath Jehovah spoken with you, in the mount, out of the midst of the fire;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5059,
+        "text": "I am standing between Jehovah and you, at that time, to declare to you the word of Jehovah, for ye have been afraid from the presence of the fire, and ye have not gone up into the mount; saying:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5060,
+        "text": "'I Jehovah [am] thy God, who hath brought thee out from the land of Egypt, from a house of servants.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 5061,
+        "text": "'Thou hast no other gods in My presence.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5062,
+        "text": "'Thou dost not make to thee a graven image, any similitude which [is] in the heavens above, and which [is] in the earth beneath, and which [is] in the waters under the earth;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5063,
+        "text": "thou dost not bow thyself to them nor serve them, for I Jehovah thy God [am] a zealous God, charging iniquity of fathers on children, and on a third [generation], and on a fourth, to those hating Me;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5064,
+        "text": "and doing kindness to thousands, to those loving Me, and to those keeping My commands.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5065,
+        "text": "'Thou dost not take up the Name of Jehovah thy God for a vain thing, for Jehovah doth not acquit him who taketh up His Name for a vain thing.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5066,
+        "text": "'Observe the day of the sabbath -- to sanctify it, as Jehovah thy God hath commanded thee;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5067,
+        "text": "six days thou dost labour, and hast done all thy work,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5068,
+        "text": "and the seventh day [is] a sabbath to Jehovah thy God; thou dost not do any work, thou, and thy son, and thy daughter, and thy man-servant, and thy handmaid, and thine ox, and thine ass, and all thy cattle, and thy sojourner who [is] within thy gates; so that thy man-servant, and thy handmaid doth rest like thyself;",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5069,
+        "text": "and thou hast remembered that a servant thou hast been in the land of Egypt, and Jehovah thy God is bringing thee out thence by a strong hand, and by a stretched-out arm; therefore hath Jehovah thy God commanded thee to keep the day of the sabbath.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5070,
+        "text": "'Honour thy father and thy mother, as Jehovah thy God hath commanded thee, so that thy days are prolonged, and so that it is well with thee, on the ground which Jehovah thy God is giving to thee.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5071,
+        "text": "'Thou dost not murder.",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5072,
+        "text": "'Thou dost not commit adultery.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5073,
+        "text": "'Thou dost not steal.",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5074,
+        "text": "'Thou dost not answer against thy neighbour -- a false testimony.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5075,
+        "text": "'Thou dost not desire thy neighbour's wife; nor dost thou covet thy neighbour's house, his field, and his man-servant, and his handmaid, his ox, and his ass, and anything which [is] thy neighbour's.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5076,
+        "text": "'These words hath Jehovah spoken unto all your assembly, in the mount out of the midst of the fire, of the cloud, and of the thick darkness -- a great voice; and He hath not added, and He writeth them on two tables of stone, and giveth them unto me.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5077,
+        "text": "'And it cometh to pass as ye hear the voice out of the midst of the darkness, and of the mountain burning with fire, that ye come near unto me, all the heads of your tribes, and your elders,",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 5078,
+        "text": "and say, Lo, Jehovah our God hath shewed us His honour, and His greatness; and His voice we have heard out of the midst of the fire; this day we have seen that God doth speak with man -- and he hath lived.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5079,
+        "text": "'And, now, why do we die? for consume us doth this great fire -- if we add to hear the voice of Jehovah our God any more -- then we have died.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5080,
+        "text": "For who of all flesh [is] he who hath heard the voice of the living God speaking out of the midst of the fire like us -- and doth live?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 5081,
+        "text": "Draw near thou, and hear all that which Jehovah our God saith, and thou, thou dost speak unto us all that which Jehovah our God speaketh unto thee, and we have hearkened, and done it.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5082,
+        "text": "'And Jehovah heareth the voice of your words, in your speaking unto me, and Jehovah saith unto me, I have heard the voice of the words of this people which they have spoken unto thee; they have done well [in] all that they have spoken.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5083,
+        "text": "O that their heart had been thus to them, to fear Me, and to keep My commands all the days, that it may be well with them, and with their sons -- to the age!",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 5084,
+        "text": "'Go, say to them, Turn back for yourselves, to your tents;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 5085,
+        "text": "and thou here stand thou with Me, and let Me speak unto thee all the command, and the statutes, and the judgments which thou dost teach them, and they have done in the land which I am giving to them to possess it.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 5086,
+        "text": "'And ye have observed to do as Jehovah your God hath commanded you, ye turn not aside -- right or left;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 5087,
+        "text": "in all the way which Jehovah your God hath commanded you ye walk, so that ye live, and [it is] well with you, and ye have prolonged days in the land which ye possess.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

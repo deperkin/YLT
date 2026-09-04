@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 295,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8846,
+        "text": "And king Solomon is king over all Israel,",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8847,
+        "text": "and these [are] the heads whom he hath: Azariah son of Zadok [is] the priest;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8848,
+        "text": "Elihoreph and Ahiah sons of Shisha [are] scribes; Jehoshaphat son of Ahilud [is] remembrancer;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8849,
+        "text": "and Benaiah son of Jehoiada [is] over the host; and Zadok and Abiathar [are] priests;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8850,
+        "text": "and Azariah son of Nathan [is] over the officers; and Zabud son of Nathan [is] minister, friend of the king;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8851,
+        "text": "And Ahishar [is] over the household, and Adoniram son of Abda [is] over the tribute.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8852,
+        "text": "And Solomon hath twelve officers over all Israel, and they have sustained the king and his household -- a month in the year is on each one for sustenance;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8853,
+        "text": "and these [are] their names: Ben-Hur in the hill-country of Ephraim;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8854,
+        "text": "Ben-Dekar in Makaz, and Shaalbim, and Beth-Shemesh, and Elon-Beth-Hanan.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8855,
+        "text": "Ben-Hesed [is] in Aruboth, hath Sochoh and all the land of Hepher;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8856,
+        "text": "Ben-Abinadab [hath] all the elevation of Dor, Taphath daughter of Solomon became his wife.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8857,
+        "text": "Baana Ben-Ahilud [hath] Taanach and Megiddo, and all Beth-Shean, which [is] by Zartanah beneath Jezreel, from Beth-Shean unto Abel-Meholah, unto beyond Jokneam.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8858,
+        "text": "Ben-Geber, in Ramoth-Gilead, hath the small towns of Jair son of Manasseh, which [are] in Gilead; he hath a portion of Argob that [is] in Bashan, sixty great cities [with] wall and brazen bar.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8859,
+        "text": "Ahinadab son of Iddo [hath] Mahanaim.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8860,
+        "text": "Ahimaaz [is] in Naphtali; he also hath taken Basemath daughter of Solomon for a wife.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8861,
+        "text": "Baanah Ben-Hushai [is] in Asher, and in Aloth.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8862,
+        "text": "Jehoshaphat Ben-Paruah [is] in Issachar.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8863,
+        "text": "Shimei Ben-Elah [is] in Benjamin.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8864,
+        "text": "Geber Ben-Uri [is] in the land of Gilead, the land of Sihon king of the Amorite, and of Og king of Bashan: and one officer who [is] in the land.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8865,
+        "text": "Judah and Israel [are] many, as the sand that [is] by the sea for multitude, eating and drinking and rejoicing.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 8866,
+        "text": "And Solomon hath been ruling over all the kingdoms, from the River [to] the land of the Philistines and unto the border of Egypt: they are bringing nigh a present, and serving Solomon, all days of his life.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8867,
+        "text": "And the provision of Solomon for one day is thirty cors of flour, and sixty cors of meal;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8868,
+        "text": "ten fat oxen, and twenty feeding oxen, and a hundred sheep, apart from hart, and roe, and fallow-deer, and fatted beasts of the stalls,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8869,
+        "text": "for he is ruling over all beyond the river, from Tiphsah and unto Gaza, over all the kings beyond the river, and he hath peace from all his servants round about.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8870,
+        "text": "And Judah dwelleth -- and Israel -- in confidence, each under his vine, and under his fig-tree, from Dan even unto Beer-Sheba, all the days of Solomon.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8871,
+        "text": "And Solomon hath forty thousand stalls of horses for his chariots, and twelve thousand horsemen.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8872,
+        "text": "And these officers have sustained king Solomon and every one drawing near unto the table of king Solomon, each [in] his month; they let nothing be lacking.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8873,
+        "text": "And the barley and the straw, for horses and for dromedaries, they bring in unto the place where they are, each according to his ordinance.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8874,
+        "text": "And God giveth wisdom to Solomon, and understanding, very much, and breadth of heart, as the sand that [is] on the edge of the sea;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 8875,
+        "text": "and the wisdom of Solomon is greater than the wisdom of any of the sons of the east, and than all the wisdom of Egypt;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8876,
+        "text": "and he is wiser than all men, than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, sons of Mahol, and his name is in all the nations round about.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 8877,
+        "text": "And he speaketh three thousand similes, and his songs [are] five, and the chief one;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 8878,
+        "text": "and he speaketh concerning the trees, from the cedar that [is] in Lebanon, even unto the hyssop that is coming out in the wall, and he speaketh concerning the cattle, and concerning the fowl, and concerning the creeping things, and concerning the fishes,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 8879,
+        "text": "and there come out of all the peoples to hear the wisdom of Solomon, from all kings of the earth who have heard of his wisdom.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

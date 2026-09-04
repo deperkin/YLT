@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 480,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13947,
+        "text": "Why have nations tumultuously assembled? And do peoples meditate vanity?",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13948,
+        "text": "Station themselves do kings of the earth, And princes have been united together, Against Jehovah, and against His Messiah:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13949,
+        "text": "'Let us draw off Their cords, And cast from us Their thick bands.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13950,
+        "text": "He who is sitting in the heavens doth laugh, The Lord doth mock at them.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13951,
+        "text": "Then doth He speak unto them in His anger, And in His wrath He doth trouble them:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13952,
+        "text": "'And I -- I have anointed My King, Upon Zion -- My holy hill.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13953,
+        "text": "I declare concerning a statute: Jehovah said unto me, 'My Son Thou [art], I to-day have brought thee forth.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13954,
+        "text": "Ask of Me and I give nations -- thy inheritance, And thy possession -- the ends of earth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13955,
+        "text": "Thou dost rule them with a sceptre of iron, As a vessel of a potter Thou dost crush them.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13956,
+        "text": "And now, O kings, act wisely, Be instructed, O judges of earth,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13957,
+        "text": "Serve ye Jehovah with fear, And rejoice with trembling.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13958,
+        "text": "Kiss the Chosen One, lest He be angry, And ye lose the way, When His anger burneth but a little, O the happiness of all trusting in Him!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

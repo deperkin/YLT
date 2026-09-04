@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 17,"name": "Esther","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 430,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12764,
+        "text": "And Mordecai hath known all that hath been done, and Mordecai rendeth his garments, and putteth on sackcloth and ashes, and goeth forth into the midst of the city and crieth -- a cry loud and bitter,",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12765,
+        "text": "and he cometh in unto the front of the gate of the king, but none is to come in unto the gate of the king with a sackcloth-garment.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12766,
+        "text": "And in every province and province, the place where the word of the king, even his law, is coming, a great mourning have the Jews, and fasting, and weeping, and lamenting: sackcloth and ashes are spread for many.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12767,
+        "text": "And young women of Esther come in and her eunuchs, and declare [it] to her, and the queen is exceedingly pained, and sendeth garments to clothe Mordecai, and to turn aside his sackcloth from off him, and he hath not received [them].",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12768,
+        "text": "And Esther calleth to Hatach, of the eunuchs of the king, whom he hath stationed before her, and giveth him a charge for Mordecai, to know what this [is], and wherefore this [is].",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 12769,
+        "text": "And Hatach goeth out unto Mordecai, unto a broad place of the city, that [is] before the gate of the king,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12770,
+        "text": "and Mordecai declareth to him all that hath met him, and the explanation of the money that Haman said to weigh to the treasuries of the king for the Jews, to destroy them,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12771,
+        "text": "and the copy of the writing of the law that had been given in Shushan to destroy them he hath given to him, to shew Esther, and to declare [it] to her, and to lay a charge on her to go in unto the king, to make supplication to him, and to seek from before him, for her people.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12772,
+        "text": "And Hatach cometh in and declareth to Esther the words of Mordecai,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12773,
+        "text": "and Esther speaketh to Hatach, and chargeth him for Mordecai:",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12774,
+        "text": "'All servants of the king, and people of the provinces of the king, do know that any man and woman, who cometh in unto the king, unto the inner court, who is not called -- one law [of] his [is] to put [them] to death, apart from him to whom the king holdeth out the golden sceptre, then he hath lived; and I -- I have not been called to come in unto the king these thirty days.'",
+        "WordCount": 78,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12775,
+        "text": "And they declare to Mordecai the words of Esther,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12776,
+        "text": "and Mordecai speaketh to send back unto Esther: 'Do not think in thy soul to be delivered [in] the house of the king, more than all the Jews,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12777,
+        "text": "but if thou keep entirely silent at this time, respite and deliverance remaineth to the Jews from another place, and thou and the house of thy fathers are destroyed; and who knoweth whether for a time like this thou hast come to the kingdom?'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12778,
+        "text": "And Esther speaketh to send back unto Mordecai:",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12779,
+        "text": "'Go, gather all the Jews who are found in Shushan, and fast for me, and do not eat nor drink three days, by night and by day; also I and my young women do fast likewise, and so I go in unto the king, that [is] not according to law, and when I have perished -- I have perished.'",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12780,
+        "text": "And Mordecai passeth on, and doth according to all that Esther hath charged upon him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

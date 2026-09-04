@@ -1,0 +1,145 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 179,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5568,
+        "text": "'And it hath been, when thou comest in unto the land which Jehovah thy God is giving to thee -- an inheritance, and thou hast possessed it, and dwelt in it,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5569,
+        "text": "that thou hast taken of the first of all the fruits of the ground which thou dost bring in out of thy land which Jehovah thy God is giving to thee, and hast put [it] in a basket, and gone unto the place which Jehovah thy God doth choose to cause His name to tabernacle there.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5570,
+        "text": "'And thou hast come in unto the priest who is in those days, and hast said unto him, I have declared to-day to Jehovah thy God, that I have come in unto the land which Jehovah hath sworn to our fathers to give to us;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5571,
+        "text": "and the priest hath taken the basket out of thy hand, and placed it before the altar of Jehovah thy God.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5572,
+        "text": "'And thou hast answered and said before Jehovah thy God, A perishing Aramaean [is] my father! and he goeth down to Egypt, and sojourneth there with few men, and becometh there a nation, great, mighty, and numerous;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5573,
+        "text": "and the Egyptians do us evil, and afflict us, and put on us hard service;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5574,
+        "text": "and we cry unto Jehovah, God of our fathers, and Jehovah heareth our voice, and seeth our affliction, and our labour, and our oppression;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5575,
+        "text": "and Jehovah bringeth us out from Egypt, by a strong hand, and by a stretched-out arm, and by great fear, and by signs, and by wonders,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5576,
+        "text": "and he bringeth us in unto this place, and giveth to us this land -- a land flowing with milk and honey.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5577,
+        "text": "'And now, lo, I have brought in the first of the fruits of the ground which thou hast given to me, O Jehovah; -- and thou hast placed it before Jehovah thy God, and bowed thyself before Jehovah thy God,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5578,
+        "text": "and rejoiced in all the good which Jehovah thy God hath given to thee, and to thy house, thou, and the Levite, and the sojourner who [is] in thy midst.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5579,
+        "text": "'When thou dost complete to tithe all the tithe of thine increase in the third year, the year of the tithe, then thou hast given to the Levite, to the sojourner, to the fatherless, and to the widow, and they have eaten within thy gates, and been satisfied,",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 5580,
+        "text": "and thou hast said before Jehovah thy God, I have put away the separated thing out of the house, and also have given it to the Levite, and to the sojourner, and to the orphan, and to the widow, according to all Thy command which Thou hast commanded me; I have not passed over from Thy commands, nor have I forgotten.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5581,
+        "text": "I have not eaten in mine affliction of it, nor have I put away of it for uncleanness, nor have I given of it for the dead; I have hearkened to the voice of Jehovah my God; I have done according to all that Thou hast commanded me;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5582,
+        "text": "look from Thy holy habitation, from the heavens, and bless Thy people Israel, and the ground which Thou hast given to us, as Thou hast sworn to our fathers -- a land flowing [with] milk and honey.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5583,
+        "text": "'This day Jehovah thy God is commanding thee to do these statutes and judgments; and thou hast hearkened and done them with all thy heart, and with all thy soul,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 5584,
+        "text": "Jehovah thou hast caused to promise to-day to become thy God, and to walk in His ways, and to keep His statutes, and His commands, and His judgments, and to hearken to His voice.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5585,
+        "text": "'And Jehovah hath caused thee to promise to-day to become His people, a peculiar treasure, as He hath spoken to thee, and to keep all His commands;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5586,
+        "text": "so as to make thee uppermost above all the nations whom He hath made for a praise, and for a name, and for beauty, and for thy being a holy people to Jehovah thy God, as He hath spoken.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

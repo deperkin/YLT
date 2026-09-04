@@ -1,0 +1,222 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 442,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12980,
+        "text": "And Job answereth and saith: --",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12981,
+        "text": "O that my provocation were thoroughly weighed, And my calamity in balances They would lift up together!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12982,
+        "text": "For now, than the sands of the sea it is heavier, Therefore my words have been rash.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12983,
+        "text": "For arrows of the Mighty [are] with me, Whose poison is drinking up my spirit. Terrors of God array themselves [for] me!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12984,
+        "text": "Brayeth a wild ass over tender grass? Loweth an ox over his provender?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12985,
+        "text": "Eaten is an insipid thing without salt? Is there sense in the drivel of dreams?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12986,
+        "text": "My soul is refusing to touch! They [are] as my sickening food.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12987,
+        "text": "O that my request may come, That God may grant my hope!",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 12988,
+        "text": "That God would please -- and bruise me, Loose His hand and cut me off!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12989,
+        "text": "And yet it is my comfort, (And I exult in pain -- He doth not spare,) That I have not hidden The sayings of the Holy One.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12990,
+        "text": "What [is] my power that I should hope? And what mine end That I should prolong my life?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12991,
+        "text": "Is my strength the strength of stones? Is my flesh brazen?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12992,
+        "text": "Is not my help with me, And substance driven from me?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12993,
+        "text": "To a despiser of his friends [is] shame, And the fear of the Mighty he forsaketh.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 12994,
+        "text": "My brethren have deceived as a brook, As a stream of brooks they pass away.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12995,
+        "text": "That are black because of ice, By them doth snow hide itself.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12996,
+        "text": "By the time they are warm they have been cut off, By its being hot they have been Extinguished from their place.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12997,
+        "text": "Turn aside do the paths of their way, They ascend into emptiness, and are lost.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12998,
+        "text": "Passengers of Tema looked expectingly, Travellers of Sheba hoped for them.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12999,
+        "text": "They were ashamed that one hath trusted, They have come unto it and are confounded.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13000,
+        "text": "Surely now ye have become the same! Ye see a downfall, and are afraid.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13001,
+        "text": "Is it because I said, Give to me? And, By your power bribe for me?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 13002,
+        "text": "And, Deliver me from the hand of an adversary? And, From the hand of terrible ones ransom me?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13003,
+        "text": "Shew me, and I -- I keep silent, And what I have erred, let me understand.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13004,
+        "text": "How powerful have been upright sayings, And what doth reproof from you reprove?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13005,
+        "text": "For reproof -- do you reckon words? And for wind -- sayings of the desperate.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13006,
+        "text": "Anger on the fatherless ye cause to fall, And are strange to your friend.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13007,
+        "text": "And, now, please, look upon me, Even to your face do I lie?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13008,
+        "text": "Turn back, I pray you, let it not be perverseness, Yea, turn back again -- my righteousness [is] in it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13009,
+        "text": "Is there in my tongue perverseness? Discerneth not my palate desirable things?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

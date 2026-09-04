@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 133,
+    "count": 611,
+    "MaxVerses": 3,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16171,
+        "text": "A Song of the Ascents, by David. Lo, how good and how pleasant The dwelling of brethren -- even together!",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16172,
+        "text": "As the good oil on the head, Coming down on the beard, the beard of Aaron, That cometh down on the skirt of his robes,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16173,
+        "text": "As dew of Hermon -- That cometh down on hills of Zion, For there Jehovah commanded the blessing -- Life unto the age!",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

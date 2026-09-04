@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 48,
+    "count": 727,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18616,
+        "text": "Hear ye this, O house of Jacob, Who are called by the name of Israel, And from the waters of Judah came out, Who are swearing by the name of Jehovah, And of the God of Israel make mention, Not in truth nor in righteousness.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18617,
+        "text": "For from the Holy City they have been called, And on the God of Israel been supported, Jehovah of Hosts [is] His name.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18618,
+        "text": "The former things from that time I declared, And from my mouth they have gone forth, And I proclaim them, Suddenly I have done, and it cometh.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18619,
+        "text": "From my knowing that thou art obstinate, And a sinew of iron thy neck, And thy forehead brass,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18620,
+        "text": "And I declare to thee from that time, Before it cometh I have caused thee to hear, Lest thou say, 'Mine idol hath done them, And my graven image, And my molten image did command them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18621,
+        "text": "Thou hast heard, see the whole of it, And ye, do ye not declare? I have caused thee to hear new things from this time, And things reserved that ye knew not.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18622,
+        "text": "Now they have been produced and not from that time, Yea, before the day, and thou hast not heard them, Lest thou say, 'Lo, I have known them.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18623,
+        "text": "Yea, thou hast not heard, Yea, thou hast not known, Yea, from that time not opened hath thine ear, For I have known thou dealest treacherously, And 'Transgressor from the belly,' One is crying to thee.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18624,
+        "text": "For My name's sake I defer Mine anger, And My praise I restrain for thee, So as not to cut thee off.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18625,
+        "text": "Lo, I have refined thee, and not with silver, I have chosen thee in a furnace of affliction.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18626,
+        "text": "For My sake, for Mine own sake, I do [it], For how is it polluted? And Mine honour to another I give not.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18627,
+        "text": "Hearken to me, O Jacob, and Israel, My called one, I [am] He, I [am] first, and I [am] last;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18628,
+        "text": "Also, My hand hath founded earth, And My right hand stretched out the heavens, I am calling unto them, they stand together.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18629,
+        "text": "Be gathered all of you, and hear, Who among them did declare these things? Jehovah hath loved him, He doth His pleasure on Babylon, And His arm [is on] the Chaldeans.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18630,
+        "text": "I -- I have spoken, yea, I have called him, I have brought him in, And he hath made prosperous his way.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18631,
+        "text": "Come ye near unto me, hear this, Not from the beginning in secret spake I, From the time of its being, there [am] I, And now the Lord Jehovah hath sent me, and His Spirit.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 18632,
+        "text": "Thus said Jehovah, thy redeemer, The Holy One of Israel, 'I [am] Jehovah thy God, teaching thee to profit, Causing thee to tread in the way thou goest.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18633,
+        "text": "O that thou hadst attended to My commands, Then as a river is thy peace, And thy righteousness as billows of the sea,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18634,
+        "text": "And as sand is thy seed, And the offspring of thy bowels as its gravel, Not cut off nor destroyed his name before Me.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18635,
+        "text": "Go out from Babylon, flee from the Chaldeans, With a voice of singing declare, Cause ye this to be heard, Bring it forth unto the end of the earth, Say, Redeemed hath Jehovah His servant Jacob.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18636,
+        "text": "And they have not thirsted in waste places, He hath caused them to go on, Waters from a rock he hath caused to flow to them, Yea, he cleaveth a rock, and flow do waters.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 18637,
+        "text": "There is no peace, said Jehovah, to the wicked!",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

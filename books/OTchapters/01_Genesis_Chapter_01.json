@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 1,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1,
+        "text": "In the beginning of God's preparing the heavens and the earth --",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2,
+        "text": "the earth hath existed waste and void, and darkness [is] on the face of the deep, and the Spirit of God fluttering on the face of the waters,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3,
+        "text": "and God saith, 'Let light be;' and light is.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 4,
+        "text": "And God seeth the light that [it is] good, and God separateth between the light and the darkness,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5,
+        "text": "and God calleth to the light 'Day,' and to the darkness He hath called 'Night;' and there is an evening, and there is a morning -- day one.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6,
+        "text": "And God saith, 'Let an expanse be in the midst of the waters, and let it be separating between waters and waters.'",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 7,
+        "text": "And God maketh the expanse, and it separateth between the waters which [are] under the expanse, and the waters which [are] above the expanse: and it is so.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8,
+        "text": "And God calleth to the expanse 'Heavens;' and there is an evening, and there is a morning -- day second.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9,
+        "text": "And God saith, 'Let the waters under the heavens be collected unto one place, and let the dry land be seen:' and it is so.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 10,
+        "text": "And God calleth to the dry land 'Earth,' and to the collection of the waters He hath called 'Seas;' and God seeth that [it is] good.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11,
+        "text": "And God saith, 'Let the earth yield tender grass, herb sowing seed, fruit-tree (whose seed [is] in itself) making fruit after its kind, on the earth:' and it is so.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12,
+        "text": "And the earth bringeth forth tender grass, herb sowing seed after its kind, and tree making fruit (whose seed [is] in itself) after its kind; and God seeth that [it is] good;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13,
+        "text": "and there is an evening, and there is a morning -- day third.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14,
+        "text": "And God saith, 'Let luminaries be in the expanse of the heavens, to make a separation between the day and the night, then they have been for signs, and for seasons, and for days and years,",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 15,
+        "text": "and they have been for luminaries in the expanse of the heavens to give light upon the earth:' and it is so.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16,
+        "text": "And God maketh the two great luminaries, the great luminary for the rule of the day, and the small luminary -- and the stars -- for the rule of the night;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17,
+        "text": "and God giveth them in the expanse of the heavens to give light upon the earth,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18,
+        "text": "and to rule over day and over night, and to make a separation between the light and the darkness; and God seeth that [it is] good;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19,
+        "text": "and there is an evening, and there is a morning -- day fourth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20,
+        "text": "And God saith, 'Let the waters teem with the teeming living creature, and fowl let fly on the earth on the face of the expanse of the heavens.'",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 21,
+        "text": "And God prepareth the great monsters, and every living creature that is creeping, which the waters have teemed with, after their kind, and every fowl with wing, after its kind, and God seeth that [it is] good.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 22,
+        "text": "And God blesseth them, saying, 'Be fruitful, and multiply, and fill the waters in the seas, and the fowl let multiply in the earth:'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 23,
+        "text": "and there is an evening, and there is a morning -- day fifth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 24,
+        "text": "And God saith, 'Let the earth bring forth the living creature after its kind, cattle and creeping thing, and beast of the earth after its kind:' and it is so.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 25,
+        "text": "And God maketh the beast of the earth after its kind, and the cattle after their kind, and every creeping thing of the ground after its kind, and God seeth that [it is] good.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 26,
+        "text": "And God saith, 'Let Us make man in Our image, according to Our likeness, and let them rule over fish of the sea, and over fowl of the heavens, and over cattle, and over all the earth, and over every creeping thing that is creeping on the earth.'",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 27,
+        "text": "And God prepareth the man in His image; in the image of God He prepared him, a male and a female He prepared them.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 28,
+        "text": "And God blesseth them, and God saith to them, 'Be fruitful, and multiply, and fill the earth, and subdue it, and rule over fish of the sea, and over fowl of the heavens, and over every living thing that is creeping upon the earth.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29,
+        "text": "And God saith, 'Lo, I have given to you every herb sowing seed, which [is] upon the face of all the earth, and every tree in which [is] the fruit of a tree sowing seed, to you it is for food;",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 30,
+        "text": "and to every beast of the earth, and to every fowl of the heavens, and to every creeping thing on the earth, in which [is] breath of life, every green herb [is] for food:' and it is so.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 31,
+        "text": "And God seeth all that He hath done, and lo, very good; and there is an evening, and there is a morning -- day the sixth.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

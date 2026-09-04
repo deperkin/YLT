@@ -1,0 +1,89 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 15,"name": "Ezra","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 404,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12018,
+        "text": "And in the first year of Cyrus king of Persia, at the completion of the word of Jehovah from the mouth of Jeremiah, hath Jehovah waked up the spirit of Cyrus king of Persia, and he causeth an intimation to pass over into all his kingdom, and also in writing, saying,",
+        "WordCount": 51,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12019,
+        "text": "'Thus said Cyrus king of Persia, All kingdoms of the earth hath Jehovah, God of the heavens, given to me, and He hath laid a charge on me to build to Him a house in Jerusalem, that [is] in Judah;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12020,
+        "text": "who [is] among you of all His people? His God is with him, and he doth go up to Jerusalem, that [is] in Judah, and build the house of Jehovah, God of Israel -- He [is] God -- that [is] in Jerusalem.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12021,
+        "text": "'And every one who is left, of any of the places where he [is] a sojourner, assist him do the men of his place with silver, and with gold, and with goods, and with beasts, along with a free-will offering for the house of God, that [is] in Jerusalem.'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12022,
+        "text": "And heads of the fathers of Judah and Benjamin rise, and the priests and the Levites, even every one whose spirit God hath waked, to go up to build the house of Jehovah, that [is] in Jerusalem;",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 12023,
+        "text": "and all those round about them have strengthened [them] with their hands, with vessels of silver, with gold, with goods, and with beasts, and with precious things, apart from all that hath been offered willingly.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12024,
+        "text": "And the king Cyrus hath brought out the vessels of the house of Jehovah that Nebuchadnezzar hath brought out of Jerusalem, and putteth them in the house of his gods;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12025,
+        "text": "yea, Cyrus king of Persia bringeth them out by the hand of Mithredath the treasurer, and numbereth them to Sheshbazzar the prince of Judah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12026,
+        "text": "And this [is] their number: dishes of gold thirty, dishes of silver a thousand, knives nine and twenty,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12027,
+        "text": "basins of gold thirty, basins of silver (seconds) four hundred and ten, other vessels a thousand.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12028,
+        "text": "All the vessels of gold and of silver [are] five thousand and four hundred; the whole hath Sheshbazzar brought up with the going up of the removal from Babylon to Jerusalem.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

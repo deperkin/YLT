@@ -1,0 +1,411 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 41,
+    "count": 41,
+    "MaxVerses": 57,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1197,
+        "text": "And it cometh to pass, at the end of two years of days that Pharaoh is dreaming, and lo, he is standing by the River,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1198,
+        "text": "and lo, from the River coming up are seven kine, of fair appearance, and fat [in] flesh, and they feed among the reeds;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1199,
+        "text": "and lo, seven other kine are coming up after them out of the River, of bad appearance, and lean [in] flesh, and they stand near the kine on the edge of the River,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1200,
+        "text": "and the kine of bad appearance and lean [in] flesh eat up the seven kine of fair appearance, and fat -- and Pharaoh awaketh.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1201,
+        "text": "And he sleepeth, and dreameth a second time, and lo, seven ears are coming up on one stalk, fat and good,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1202,
+        "text": "and lo, seven ears, thin, and blasted with an east wind, are springing up after them;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1203,
+        "text": "and the thin ears swallow the seven fat and full ears -- and Pharaoh awaketh, and lo, a dream.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1204,
+        "text": "And it cometh to pass in the morning, that his spirit is moved, and he sendeth and calleth all the scribes of Egypt, and all its wise men, and Pharaoh recounteth to them his dream, and there is no interpreter of them to Pharaoh.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1205,
+        "text": "And the chief of the butlers speaketh with Pharaoh, saying, 'My sin I mention this day:",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 1206,
+        "text": "Pharaoh hath been wroth against his servants, and giveth me into charge in the house of the chief of the executioners, me and the chief of the bakers;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1207,
+        "text": "and we dream a dream in one night, I and he, each according to the interpretation of his dream we have dreamed.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1208,
+        "text": "And there [is] with us a youth, a Hebrew, servant to the chief of the executioners, and we recount to him, and he interpreteth to us our dreams, [to] each according to his dream hath he interpreted,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1209,
+        "text": "and it cometh to pass, as he hath interpreted to us so it hath been, me he put back on my station, and him he hanged.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1210,
+        "text": "And Pharaoh sendeth and calleth Joseph, and they cause him to run out of the pit, and he shaveth, and changeth his garments, and cometh in unto Pharaoh.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1211,
+        "text": "And Pharaoh saith unto Joseph, 'A dream I have dreamed, and there is no interpreter of it, and I -- I have heard concerning thee, saying, Thou understandest a dream to interpret it,'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1212,
+        "text": "and Joseph answereth Pharaoh, saying, 'Without me -- God doth answer Pharaoh with peace.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1213,
+        "text": "And Pharaoh speaketh unto Joseph: 'In my dream, lo, I am standing by the edge of the River,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 1214,
+        "text": "and lo, out of the River coming up are seven kine, fat [in] flesh, and of fair form, and they feed among the reeds;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1215,
+        "text": "and lo, seven other kine are coming up after them, thin, and of very bad form, and lean [in] flesh; I have not seen like these in all the land of Egypt for badness.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1216,
+        "text": "'And the lean and the bad kine eat up the first seven fat kine,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1217,
+        "text": "and they come in unto their midst, and it hath not been known that they have come in unto their midst, and their appearance [is] bad as at the commencement; and I awake.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1218,
+        "text": "'And I see in my dream, and lo, seven ears are coming up on one stalk, full and good;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1219,
+        "text": "and lo, seven ears, withered, thin, blasted with an east wind, are springing up after them;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1220,
+        "text": "and the thin ears swallow the seven good ears; and I tell unto the scribes, and there is none declaring to me.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1221,
+        "text": "And Joseph saith unto Pharaoh, 'The dream of Pharaoh is one: that which God is doing he hath declared to Pharaoh;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1222,
+        "text": "the seven good kine are seven years, and the seven good ears are seven years, the dream is one;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1223,
+        "text": "and the seven thin and bad kine which are coming up after them are seven years, and the seven empty ears, blasted with an east wind, are seven years of famine;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1224,
+        "text": "this [is] the thing which I have spoken unto Pharaoh: That which God is doing, he hath shewn Pharaoh.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1225,
+        "text": "'Lo, seven years are coming of great abundance in all the land of Egypt,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1226,
+        "text": "and seven years of famine have arisen after them, and all the plenty is forgotten in the land of Egypt, and the famine hath finished the land,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1227,
+        "text": "and the plenty is not known in the land because of that famine afterwards, for it [is] very grievous.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 1228,
+        "text": "'And because of the repeating of the dream unto Pharaoh twice, surely the thing is established by God, and God is hastening to do it.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 1229,
+        "text": "'And now, let Pharaoh provide a man, intelligent and wise, and set him over the land of Egypt;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 1230,
+        "text": "let Pharaoh make and appoint overseers over the land, and receive a fifth of the land of Egypt in the seven years of plenty,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 1231,
+        "text": "and they gather all the food of these good years that are coming, and heap up corn under the hand of Pharaoh -- food in the cities; and they have kept [it],",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 1232,
+        "text": "and the food hath been for a store for the land, for the seven years of famine which are in the land of Egypt; and the land is cut off by the famine.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 1233,
+        "text": "And the thing is good in the eyes of Pharaoh, and in the eyes of all his servants,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 1234,
+        "text": "and Pharaoh saith unto his servants, 'Do we find like this, a man in whom the spirit of God [is]?'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 1235,
+        "text": "and Pharaoh saith unto Joseph, 'After God's causing thee to know all this, there is none intelligent and wise as thou;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 1236,
+        "text": "thou -- thou art over my house, and at thy mouth do all my people kiss; only in the throne I am greater than thou.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 1237,
+        "text": "And Pharaoh saith unto Joseph, 'See, I have put thee over all the land of Egypt.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 1238,
+        "text": "And Pharaoh turneth aside his seal-ring from off his hand, and putteth it on the hand of Joseph, and clotheth him [with] garments of fine linen, and placeth a chain of gold on his neck,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 1239,
+        "text": "and causeth him to ride in the second chariot which he hath, and they proclaim before him, 'Bow the knee!' and -- to put him over all the land of Egypt.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 1240,
+        "text": "And Pharaoh saith unto Joseph, 'I [am] Pharaoh, and without thee a man doth not lift up his hand and his foot in all the land of Egypt;'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 1241,
+        "text": "and Pharaoh calleth Joseph's name Zaphnath-Paaneah, and he giveth to him Asenath daughter of Poti-Pherah, priest of On, for a wife, and Joseph goeth out over the land of Egypt.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 1242,
+        "text": "And Joseph [is] a son of thirty years in his standing before Pharaoh king of Egypt, and Joseph goeth out from the presence of Pharaoh, and passeth over through all the land of Egypt;",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 47,
+        "count": 1243,
+        "text": "and the land maketh in the seven years of plenty by handfuls.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 1244,
+        "text": "And he gathereth all the food of the seven years which have been in the land of Egypt, and putteth food in the cities; the food of the field which [is] round about [each] city hath he put in its midst;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 1245,
+        "text": "and Joseph gathereth corn as sand of the sea, multiplying exceedingly, until that he hath ceased to number, for there is no number.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 1246,
+        "text": "And to Joseph were born two sons before the year of famine cometh, whom Asenath daughter of Poti-Pherah, priest of On, hath borne to him,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 1247,
+        "text": "and Joseph calleth the name of the first-born Manasseh: 'for, God hath made me to forget all my labour, and all the house of my father;'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 1248,
+        "text": "and the name of the second he hath called Ephraim: 'for, God hath caused me to be fruitful in the land of mine affliction.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 1249,
+        "text": "And the seven years of plenty are completed which have been in the land of Egypt,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 1250,
+        "text": "and the seven years of famine begin to come, as Joseph said, and famine is in all the lands, but in all the land of Egypt hath been bread;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 1251,
+        "text": "and all the land of Egypt is famished, and the people crieth unto Pharaoh for bread, and Pharaoh saith to all the Egyptians, 'Go unto Joseph; that which he saith to you -- do.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 1252,
+        "text": "And the famine has been over all the face of the land, and Joseph openeth all [places] which have [corn] in them, and selleth to the Egyptians; and the famine is severe in the land of Egypt,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 1253,
+        "text": "and all the earth hath come to Egypt, to buy, unto Joseph, for the famine was severe in all the earth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

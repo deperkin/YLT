@@ -1,0 +1,47 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 70,
+    "count": 548,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14973,
+        "text": "To the Overseer, by David. -- 'To cause to remember.' O God, to deliver me, O Jehovah, for my help, haste.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14974,
+        "text": "Let them be ashamed and confounded Who are seeking my soul, Let them be turned backward and blush Who are desiring my evil.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14975,
+        "text": "Let them turn back because of their shame, Who are saying, 'Aha, aha.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14976,
+        "text": "Let all those seeking Thee joy and be glad in Thee, And let those loving Thy salvation Say continually, 'God is magnified.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14977,
+        "text": "And I [am] poor and needy, O God, haste to me, My help and my deliverer [art] Thou, O Jehovah, tarry Thou not!",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

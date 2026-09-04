@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 134,
+    "count": 612,
+    "MaxVerses": 3,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16174,
+        "text": "A Song of the Ascents. Lo, bless Jehovah, all servants of Jehovah, Who are standing in the house of Jehovah by night.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16175,
+        "text": "Lift up your hands [in] the sanctuary, And bless ye Jehovah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16176,
+        "text": "Jehovah doth bless thee out of Zion, The maker of the heavens and earth!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

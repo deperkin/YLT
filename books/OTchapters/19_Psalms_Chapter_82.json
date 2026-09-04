@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 82,
+    "count": 560,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15235,
+        "text": "-- A Psalm of Asaph. God hath stood in the company of God, In the midst God doth judge.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15236,
+        "text": "Till when do ye judge perversely? And the face of the wicked lift up? Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15237,
+        "text": "Judge ye the weak and fatherless, The afflicted and the poor declare righteous.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15238,
+        "text": "Let the weak and needy escape, From the hand of the wicked deliver them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15239,
+        "text": "They knew not, nor do they understand, In darkness they walk habitually, Moved are all the foundations of earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15240,
+        "text": "I -- I have said, 'Gods ye [are], And sons of the Most High -- all of you,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15241,
+        "text": "But as man ye die, and as one of the heads ye fall,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15242,
+        "text": "Rise, O God, judge the earth, For Thou hast inheritance among all the nations!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

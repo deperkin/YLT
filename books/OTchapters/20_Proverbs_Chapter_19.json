@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 647,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16927,
+        "text": "Better [is] the poor walking in his integrity, Than the perverse [in] his lips, who [is] a fool.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16928,
+        "text": "Also, without knowledge the soul [is] not good, And the hasty in feet is sinning.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16929,
+        "text": "The folly of man perverteth his way, And against Jehovah is his heart wroth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16930,
+        "text": "Wealth addeth many friends, And the poor from his neighbour is separated.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16931,
+        "text": "A false witness is not acquitted, Whoso breatheth out lies is not delivered.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16932,
+        "text": "Many entreat the face of the noble, And all have made friendship to a man of gifts.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16933,
+        "text": "All the brethren of the poor have hated him, Surely also his friends have been far from him, He is pursuing words -- they are not!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16934,
+        "text": "Whoso is getting heart is loving his soul, He is keeping understanding to find good.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16935,
+        "text": "A false witness is not acquitted, And whoso breatheth out lies perisheth.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16936,
+        "text": "Luxury is not comely for a fool, Much less for a servant to rule among princes.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16937,
+        "text": "The wisdom of a man hath deferred his anger, And his glory [is] to pass over transgression.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16938,
+        "text": "The wrath of a king [is] a growl as of a young lion, And as dew on the herb his good-will.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16939,
+        "text": "A calamity to his father [is] a foolish son, And the contentions of a wife [are] a continual dropping.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16940,
+        "text": "House and wealth [are] the inheritance of fathers, And from Jehovah [is] an understanding wife.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16941,
+        "text": "Sloth causeth deep sleep to fall, And an indolent soul doth hunger.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16942,
+        "text": "Whoso is keeping the command is keeping his soul, Whoso is despising His ways dieth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16943,
+        "text": "Whoso is lending [to] Jehovah is favouring the poor, And his deed He repayeth to him.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16944,
+        "text": "Chastise thy son, for there is hope, And to put him to death lift not up thy soul.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16945,
+        "text": "A man of great wrath is bearing punishment, For, if thou dost deliver, yet again thou dost add.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16946,
+        "text": "Hear counsel and receive instruction, So that thou art wise in thy latter end.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16947,
+        "text": "Many [are] the purposes in a man's heart, And the counsel of Jehovah it standeth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16948,
+        "text": "The desirableness of a man [is] his kindness, And better [is] the poor than a liar.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16949,
+        "text": "The fear of Jehovah [is] to life, And satisfied he remaineth -- he is not charged with evil.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16950,
+        "text": "The slothful hath hidden his hand in a dish, Even unto his mouth he bringeth it not back.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16951,
+        "text": "A scorner smite, and the simple acts prudently, And give reproof to the intelligent, He understandeth knowledge.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16952,
+        "text": "Whoso is spoiling a father causeth a mother to flee, A son causing shame, and bringing confusion.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16953,
+        "text": "Cease, my son, to hear instruction -- To err from sayings of knowledge.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16954,
+        "text": "A worthless witness scorneth judgment, And the mouth of the wicked swalloweth iniquity.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 16955,
+        "text": "Judgments have been prepared for scorners, And stripes for the back of fools!",
+        "WordCount": 13,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 300,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9053,
+        "text": "And it cometh to pass, at Solomon's finishing to build the house of Jehovah, and the house of the king, and all the desire of Solomon that he delighted to do,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9054,
+        "text": "that Jehovah appeareth unto Solomon a second time, as He appeared unto him in Gibeon,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9055,
+        "text": "and Jehovah saith unto him, 'I have heard thy prayer and thy supplication with which thou hast made supplication before Me; I have hallowed this house that thou hast built to put My name there -- unto the age, and Mine eyes and My heart have been there all the days.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9056,
+        "text": "'And thou -- if thou dost walk before Me as David thy father walked, in simplicity of heart, and in uprightness, to do according to all that I have commanded thee -- My statutes and My judgments thou dost keep --",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9057,
+        "text": "then I have established the throne of thy kingdom over Israel -- to the age, as I spake unto David thy father, saying, There is not cut off to thee a man from [being] on the throne of Israel.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9058,
+        "text": "'If ye at all turn back -- you and your sons -- from after Me, and keep not My commands -- My statutes, that I have set before you, and ye have gone and served other gods, and bowed yourselves to them,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9059,
+        "text": "then I have cut off Israel from the face of the ground that I have given to them, and the house that I have hallowed for My name I send away from My presence, and Israel hath been for a simile and for a byword among all the peoples;",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9060,
+        "text": "as to this house, [that] is high, every one passing by it is astonished, and hath hissed, and they have said, Wherefore hath Jehovah done thus to this land and to this house?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9061,
+        "text": "and they have said, Because that they have forsaken Jehovah their God, who brought out their fathers from the land of Egypt, and they lay hold on other gods, and bow themselves to them, and serve them; therefore hath Jehovah brought in upon them all this evil.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9062,
+        "text": "And it cometh to pass, at the end of twenty years, that Solomon hath built the two houses, the house of Jehovah, and the house of the king.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 9063,
+        "text": "Hiram king of Tyre hath assisted Solomon with cedar-trees, and with fir-trees, and with gold, according to all his desire; then doth king Solomon give to Hiram twenty cities in the land of Galilee.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9064,
+        "text": "And Hiram cometh out from Tyre to see the cities that Solomon hath given to him, and they have not been right in his eyes,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9065,
+        "text": "and he saith, 'What [are] these cities that thou hast given to me, my brother?' and one calleth them the land of Cabul unto this day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9066,
+        "text": "And Hiram sendeth to the king a hundred and twenty talents of gold.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9067,
+        "text": "And this [is] the matter of the tribute that king Solomon hath lifted up, to build the house of Jehovah, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer,",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 9068,
+        "text": "(Pharaoh king of Egypt hath gone up and doth capture Gezer, and doth burn it with fire, and the Canaanite who is dwelling in the city he hath slain, and giveth it [with] presents to his daughter, wife of Solomon.)",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9069,
+        "text": "And Solomon buildeth Gezer, and Beth-Horon the lower,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9070,
+        "text": "and Baalath, and Tadmor in the wilderness, in the land;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9071,
+        "text": "and all the cities of stores that king Solomon hath, and the cities of the chariots, and the cities of the horsemen, and the desire of Solomon that he desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9072,
+        "text": "The whole of the people that is left of the Amorite, the Hittite, the Perizzite, the Hivite, and the Jebusite, who [are] not of the sons of Israel --",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9073,
+        "text": "their sons who are left behind them in the land, whom the sons of Israel have not been able to devote -- he hath even lifted up [on] them a tribute of service unto this day.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9074,
+        "text": "And out of the sons of Israel Solomon hath not appointed a servant, for they [are] the men of war, and his servants, and his heads, and his captains, and the heads of his chariots, and his horsemen.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9075,
+        "text": "These [are] the heads of the officers who [are] over the work of Solomon, fifty and five hundred, those ruling among the people who are labouring in the work.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9076,
+        "text": "Only, the daughter of Pharaoh went up out of the city of David unto her house that [Solomon] built for her; then he built Millo.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9077,
+        "text": "And Solomon caused to ascend, three times in a year, burnt-offerings and peace-offerings on the altar that he built to Jehovah, and he perfumed it with that which [is] before Jehovah, and finished the house.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9078,
+        "text": "And a navy hath king Solomon made in Ezion-Geber, that is beside Eloth, on the edge of the Sea of Suph, in the land of Edom.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9079,
+        "text": "And Hiram sendeth in the navy his servants, shipmen knowing the sea, with servants of Solomon,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9080,
+        "text": "and they come in to Ophir and take thence gold, four hundred and twenty talents, and bring [it] in unto king Solomon.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

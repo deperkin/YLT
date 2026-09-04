@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 15,"name": "Ezra","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 410,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12175,
+        "text": "And after these things, in the reign of Artaxerxes king of Persia, Ezra son of Seraiah, son of Azariah, son of Hilkiah,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12176,
+        "text": "son of Shallum, son of Zadok, son of Ahitub,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12177,
+        "text": "son of Amariah, son of Azariah, son of Meraioth,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12178,
+        "text": "son of Zerahiah, son of Uzzi, son of Bukki,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12179,
+        "text": "son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the head priest;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12180,
+        "text": "Ezra himself hath come up from Babylon, and he [is] a scribe ready in the law of Moses, that Jehovah God of Israel gave, and the king giveth to him -- according to the hand of Jehovah his God upon him -- all his request.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12181,
+        "text": "And there go up of the sons of Israel, and of the priests, and the Levites, and the singers, and the gatekeepers, and the Nethinim, unto Jerusalem, in the seventh year of Artaxerxes the king.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12182,
+        "text": "And he cometh in to Jerusalem in the fifth month, that [is in] the seventh year of the king,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12183,
+        "text": "for on the first of the month he hath founded the ascent from Babylon, and on the first of the fifth month he hath come in unto Jerusalem, according to the good hand of his God upon him,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12184,
+        "text": "for Ezra hath prepared his heart to seek the law of Jehovah, and to do, and to teach in Israel statute and judgment.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12185,
+        "text": "And this [is] a copy of the letter that the king Artaxerxes gave to Ezra the priest, the scribe, a scribe of the words of the commands of Jehovah, and of His statutes on Israel:",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 12186,
+        "text": "'Artaxerxes, king of kings, to Ezra the priest, a perfect scribe of the law of the God of heaven, and at such a time:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12187,
+        "text": "By me hath been made a decree that every one who is willing, in my kingdom, of the people of Israel and of its priests and Levites, to go to Jerusalem with thee, doth go;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12188,
+        "text": "because that from the king and his seven counsellors thou art sent, to inquire concerning Judah and concerning Jerusalem, with the law of God that [is] in thy hand,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12189,
+        "text": "and to carry silver and gold that the king and his counsellors willingly offered to the God of Israel, whose tabernacle [is] in Jerusalem,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12190,
+        "text": "and all the silver and gold that thou findest in all the province of Babylon, with the free-will offerings of the people, and of the priests, offering willingly, for the house of their God that [is] in Jerusalem,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12191,
+        "text": "therefore thou dost speedily buy with this money, bullocks, rams, lambs, and their presents, and their libations, and dost bring them near to the altar of the house of your God that [is] in Jerusalem,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12192,
+        "text": "and that which to thee and to thy brethren is good to do with the rest of the silver and gold, according to the will of your God ye do.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12193,
+        "text": "'And the vessels that are given to thee, for the service of the house of thy God, make perfect before the God of Jerusalem;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12194,
+        "text": "and the rest of the needful things of the house of thy God, that it falleth to thee to give, thou dost give from the treasure-house of the king.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12195,
+        "text": "'And by me -- I Artaxerxes the king -- is made a decree to all treasurers who [are] beyond the river, that all that Ezra the priest, scribe of the law of the God of heaven, doth ask of you, be done speedily:",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12196,
+        "text": "Unto silver a hundred talents, and unto wheat a hundred cors, and unto wine a hundred baths, and unto oil a hundred baths, and salt without reckoning;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12197,
+        "text": "all that [is] by the decree of the God of heaven, let be done diligently for the house of the God of heaven; for why is there wrath against the kingdom of the king and his sons?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12198,
+        "text": "'And to you we are making known, that upon any of the priests and Levites, singers, gatekeepers, Nethinim, and servants of the house of God, tribute and custom there is no authority to lift up.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12199,
+        "text": "'And thou, Ezra, according to the wisdom of thy God, that [is] in thy hand, appoint magistrates and judges who may be judges to all the people who are beyond the river, to all knowing the law of thy God, and he who hath not known ye cause to know;",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12200,
+        "text": "and any who doth not do the law of thy God, and the law of the king, speedily is judgment done upon him, whether to death, or to banishment, or to confiscation of riches, and to bonds.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12201,
+        "text": "Blessed [is] Jehovah, God of our fathers, who hath given such a thing as this in the heart of the king, to beautify the house of Jehovah that [is] in Jerusalem,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 12202,
+        "text": "and unto me hath stretched out kindness before the king and his counsellors, and before all the mighty heads of the king: and I have strengthened myself as the hand of Jehovah my God [is] upon me, and I gather out of Israel heads to go up with me.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

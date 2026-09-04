@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 481,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13959,
+        "text": "A Psalm of David, in his fleeing from the face of Absalom his son. Jehovah, how have my distresses multiplied! Many are rising up against me.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13960,
+        "text": "Many are saying of my soul, 'There is no salvation for him in God.' Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13961,
+        "text": "And Thou, O Jehovah, [art] a shield for me, My honour, and lifter up of my head.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13962,
+        "text": "My voice [is] unto Jehovah: I call: And He answereth me from his holy hill, Selah.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 13963,
+        "text": "I -- I have lain down, and I sleep, I have waked, for Jehovah sustaineth me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13964,
+        "text": "I am not afraid of myriads of people, That round about they have set against me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13965,
+        "text": "Rise, O Jehovah! save me, my God. Because Thou hast smitten All mine enemies [on] the cheek. The teeth of the wicked Thou hast broken.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13966,
+        "text": "Of Jehovah [is] this salvation; On Thy people [is] Thy blessing! Selah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

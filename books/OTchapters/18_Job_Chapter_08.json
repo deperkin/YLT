@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 444,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13031,
+        "text": "And Bildad the Shuhite answereth and saith: --",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13032,
+        "text": "Till when dost thou speak these things? And a strong wind -- sayings of thy mouth?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13033,
+        "text": "Doth God pervert judgment? And doth the Mighty One pervert justice?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13034,
+        "text": "If thy sons have sinned before Him, And He doth send them away, By the hand of their transgression,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13035,
+        "text": "If thou dost seek early unto God, And unto the Mighty makest supplication,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13036,
+        "text": "If pure and upright thou [art], Surely now He waketh for thee, And hath completed The habitation of thy righteousness.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13037,
+        "text": "And thy beginning hath been small, And thy latter end is very great.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13038,
+        "text": "For, ask I pray thee of a former generation, And prepare to a search of their fathers,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13039,
+        "text": "(For of yesterday we [are], and we know not, For a shadow [are] our days on earth.)",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13040,
+        "text": "Do they not shew thee -- speak to thee, And from their heart bring forth words?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13041,
+        "text": "'Doth a rush wise without mire? A reed increase without water?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13042,
+        "text": "While it [is] in its budding -- uncropped, Even before any herb it withereth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13043,
+        "text": "So [are] the paths of all forgetting God, And the hope of the profane doth perish,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13044,
+        "text": "Whose confidence is loathsome, And the house of a spider his trust.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13045,
+        "text": "He leaneth on his house -- and it standeth not: He taketh hold on it -- and it abideth not.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13046,
+        "text": "Green he [is] before the sun, And over his garden his branch goeth out.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13047,
+        "text": "By a heap his roots are wrapped, A house of stones he looketh for.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13048,
+        "text": "If [one] doth destroy him from his place, Then it hath feigned concerning him, I have not seen thee!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13049,
+        "text": "Lo, this [is] the joy of his way, And from the dust others spring up.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13050,
+        "text": "Lo, God doth not reject the perfect, Nor taketh hold on the hand of evil doers.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 13051,
+        "text": "While he filleth with laughter thy mouth, And thy lips with shouting,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13052,
+        "text": "Those hating thee do put on shame, And the tent of the wicked is not!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

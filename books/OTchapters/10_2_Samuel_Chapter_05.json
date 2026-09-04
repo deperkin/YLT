@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 272,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8134,
+        "text": "And all the tribes of Israel come unto David, to Hebron, and speak, saying, 'Lo, we [are] thy bone and thy flesh;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8135,
+        "text": "also heretofore, in Saul's being king over us, thou hast been he who is bringing out and bringing in Israel, and Jehovah saith to thee, Thou dost feed My people Israel, and thou art for leader over Israel.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8136,
+        "text": "And all the elders of Israel come unto the king, to Hebron, and king David maketh with them a covenant in Hebron before Jehovah, and they anoint David for king over Israel.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8137,
+        "text": "A son of thirty years [is] David in his being king; forty years he hath reigned;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8138,
+        "text": "in Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty and three years, over all Israel and Judah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8139,
+        "text": "And the king goeth, and his men, to Jerusalem, unto the Jebusite, the inhabitant of the land, and they speak to David, saying, 'Thou dost not come in hither, except thou turn aside the blind and the lame;' saying, 'David doth not come in hither.'",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 8140,
+        "text": "And David captureth the fortress of Zion, it [is] the city of David.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8141,
+        "text": "And David saith on that day, 'Any one smiting the Jebusite, (let him go up by the watercourse), and the lame and the blind -- the hated of David's soul,' -- because the blind and lame say, 'He doth not come into the house.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8142,
+        "text": "And David dwelleth in the fortress, and calleth it -- City of David, and David buildeth round about, from Millo and inward,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8143,
+        "text": "and David goeth, going on and becoming great, and Jehovah, God of Hosts, [is] with him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8144,
+        "text": "And Hiram king of Tyre sendeth messengers unto David, and cedar-trees, and artificers of wood, and artificers of stone, for walls, and they build a house for David,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 8145,
+        "text": "and David knoweth that Jehovah hath established him for king over Israel, and that He hath lifted up his kingdom, because of His people Israel.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8146,
+        "text": "And David taketh again concubines and wives out of Jerusalem, after his coming from Hebron, and there are born again to David sons and daughters.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8147,
+        "text": "And these [are] the names of those born to him in Jerusalem: Shammuah, and Shobab, and Nathan, and Solomon,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8148,
+        "text": "and Ibhar, and Elishua, and Nepheg, and Japhia,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8149,
+        "text": "and Elishama, and Eliada, and Eliphalet.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8150,
+        "text": "And the Philistines hear that they have anointed David for king over Israel, and all the Philistines come up to seek David, and David heareth, and goeth down unto the fortress,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 8151,
+        "text": "and the Philistines have come, and are spread out in the valley of Rephaim.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8152,
+        "text": "And David asketh of Jehovah, saying, 'Do I go up unto the Philistines? dost Thou give them into my hand?' And Jehovah saith unto David, 'Go up, for I certainly give the Philistines into thy hand.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8153,
+        "text": "And David cometh in to Baal-Perazim, and David smiteth them there, and saith, 'Jehovah hath broken forth [on] mine enemies before me, as the breaking forth of waters;' therefore he hath called the name of that place Baal-Perazim.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8154,
+        "text": "And they forsake there their idols, and David and his men lift them up.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8155,
+        "text": "And the Philistines add again to come up, and are spread out in the valley of Rephaim,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8156,
+        "text": "and David asketh of Jehovah, and He saith, 'Thou dost not go up, turn round unto their rear, and thou hast come to them over-against the mulberries,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8157,
+        "text": "and it cometh to pass, in thy hearing the sound of a stepping in the tops of the mulberries, then thou dost move sharply, for then hath Jehovah gone out before thee to smite in the camp of the Philistines.'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8158,
+        "text": "And David doth so, as Jehovah commanded him, and smiteth the Philistines from Geba unto thy coming to Gazer.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

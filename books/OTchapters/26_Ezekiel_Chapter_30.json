@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 832,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21206,
+        "text": "And there is a word of Jehovah unto me, saying:",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21207,
+        "text": "'Son of man, prophesy, and thou hast said: Thus said the Lord Jehovah: Howl ye, ha! for the day!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21208,
+        "text": "For near [is] a day, near [is] a day to Jehovah! A day of clouds, the time of nations it is.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21209,
+        "text": "And come in hath a sword to Egypt, And there hath been great pain in Cush, In the falling of the wounded in Egypt, And they have taken its store, And broken down have been its foundations.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21210,
+        "text": "Cush, and Phut, and Lud, and all the mixture, and Chub, And the sons of the land of the covenant with them by sword do fall,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21211,
+        "text": "Thus said Jehovah: And -- fallen have supporters of Egypt, And come down hath the arrogance of her strength, From Migdol to Syene, by sword they fall in her, An affirmation of the Lord Jehovah.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21212,
+        "text": "And they have been desolated in the midst of desolate lands, And its cities are in the midst of wasted cities.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21213,
+        "text": "And they have known that I [am] Jehovah, In My giving fire against Egypt, And broken have been all her helpers.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21214,
+        "text": "In that day go forth do messengers from before Me in ships, To trouble confident Cush, And there hath been great pain among them, As the day of Egypt, for lo, it hath come.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21215,
+        "text": "Thus said the Lord Jehovah: I have caused the multitude of Egypt to cease, By the hand of Nebuchadrezzar king of Babylon,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21216,
+        "text": "He and his people with him -- the terrible of nations, Are brought in to destroy the land, And they have drawn their swords against Egypt, And have filled the land [with] the wounded.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21217,
+        "text": "And I have made floods a dry place, And I have sold the land into the hand of evil doers, And I have made desolate the land, And its fulness, by the hand of strangers, I, Jehovah, have spoken.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21218,
+        "text": "Thus said the Lord Jehovah: And -- I have destroyed idols, And caused vain things to cease from Noph, And a prince of the land of Egypt there is no more, And I give fear in the land of Egypt.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21219,
+        "text": "And I have made Pathros desolate, And I have given fire against Zoan, And I have done judgments in No,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21220,
+        "text": "And I have poured out My fury on Sin, the stronghold of Egypt, And I have cut off the multitude of No.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21221,
+        "text": "And I have given fire against Egypt, Greatly pained is Sin, and No is to be rent, And Noph hath daily distresses.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21222,
+        "text": "The youths of Aven and Pi-Beseth by sword do fall, And these into captivity do go.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21223,
+        "text": "And in Tehaphnehes hath the day been dark, In My breaking there the yokes of Egypt, And ceased in her hath the excellency of her strength, She -- a cloud doth cover her, And her daughters into captivity do go.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21224,
+        "text": "And I have done judgments in Egypt, And they have known that I [am] Jehovah.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21225,
+        "text": "And it cometh to pass, in the eleventh year, in the first [month], in the seventh of the month, hath a word of Jehovah been unto me, saying: 'Son of man,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 21226,
+        "text": "The arm of Pharaoh, king of Egypt, I have broken, And lo, it hath not been bound up to give healing, To put a bandage to bind it, To strengthen it -- to lay hold on the sword.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21227,
+        "text": "Therefore, thus said the Lord Jehovah: Lo, I [am] against Pharaoh, king of Egypt, And I have broken his arms, The strong one and the broken one, And have caused the sword to fall out of his hand,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21228,
+        "text": "And scattered the Egyptians among nations, And I have spread them through lands,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21229,
+        "text": "And strengthened the arms of the king of Babylon, And I have given My sword into his hand, And I have broken the arms of Pharaoh, And he hath groaned the groans of a pierced one -- before him.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21230,
+        "text": "And I have strengthened the arms of the king of Babylon, And the arms of Pharaoh do fall down, And they have known that I [am] Jehovah, In My giving My sword into the hand of the king of Babylon, And he hath stretched it out toward the land of Egypt.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21231,
+        "text": "And I have scattered the Egyptians among nations, And I have spread them through lands, And they have known that I [am] Jehovah!'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

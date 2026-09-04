@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 923,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23047,
+        "text": "The burden of a word of Jehovah on Israel. An affirmation of Jehovah, Stretching out heaven, and founding earth, And forming the spirit of man in his midst.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23048,
+        "text": "Lo, I am making Jerusalem a cup of reeling To all the peoples round about, And also against Judah it is, In the siege against Jerusalem.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23049,
+        "text": "And it hath come to pass, in that day, I make Jerusalem a burdensome stone to all the peoples, All loading it are completely pressed down, And gathered against it have been all nations of the earth.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23050,
+        "text": "In that day -- an affirmation of Jehovah, I do smite every horse with astonishment, And its rider with madness, And on the house of Judah I open My eyes, And every horse of the peoples I smite with blindness.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23051,
+        "text": "And leaders of Judah have said in their heart, 'Strength to me [are] the inhabitants of Jerusalem, In Jehovah of Hosts their God.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23052,
+        "text": "In that day I make the leaders of Judah As a hearth of fire among trees, And as a torch of fire in a sheaf, And they have consumed -- on the right and on the left -- all the peoples round about, And Jerusalem hath inhabited again her place in Jerusalem.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23053,
+        "text": "And saved hath Jehovah the tents of Judah first, So that become not great against Judah Doth the beauty of the house of David, And the beauty of the inhabitant of Jerusalem.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23054,
+        "text": "In that day cover over doth Jehovah the inhabitant of Jerusalem, And the stumbling among them hath been in that day as David, And the house of David as God -- As a messenger of Jehovah -- before them.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23055,
+        "text": "And it hath come to pass, in that day, I seek to destroy all the nations Who are coming in against Jerusalem,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 23056,
+        "text": "And I have poured on the house of David, And on the inhabitant of Jerusalem, A spirit of grace and supplications, And they have looked unto Me whom they pierced, And they have mourned over it, Like a mourning over the only one, And they have been in bitterness for it, Like a bitterness over the first-born.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23057,
+        "text": "In that day, great is the mourning of Jerusalem, As the mourning of Hadadrimmon in the valley of Megiddon,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23058,
+        "text": "And mourned hath the land -- every family apart, The family of the house of David apart, And their women apart; The family of the house of Nathan apart, And their women apart;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23059,
+        "text": "The family of the house of Levi apart, And their women apart; The family of Shimei apart, And their women apart,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23060,
+        "text": "All the families that are left, Every family apart, and their women apart!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

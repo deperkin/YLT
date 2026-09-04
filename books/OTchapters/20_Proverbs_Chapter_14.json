@@ -1,0 +1,257 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 642,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16774,
+        "text": "Every wise woman hath builded her house, And the foolish with her hands breaketh it down.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16775,
+        "text": "Whoso is walking in his uprightness is fearing Jehovah, And the perverted [in] his ways is despising Him.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16776,
+        "text": "In the mouth of a fool [is] a rod of pride, And the lips of the wise preserve them.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16777,
+        "text": "Without oxen a stall [is] clean, And great [is] the increase by the power of the ox.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16778,
+        "text": "A faithful witness lieth not, And a false witness breatheth out lies.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16779,
+        "text": "A scorner hath sought wisdom, and it is not, And knowledge to the intelligent [is] easy.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16780,
+        "text": "Go from before a foolish man, Or thou hast not known the lips of knowledge.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16781,
+        "text": "The wisdom of the prudent [is] to understand his way, And the folly of fools [is] deceit.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16782,
+        "text": "Fools mock at a guilt-offering, And among the upright -- a pleasing thing.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16783,
+        "text": "The heart knoweth its own bitterness, And with its joy a stranger doth not intermeddle.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16784,
+        "text": "The house of the wicked is destroyed, And the tent of the upright flourisheth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16785,
+        "text": "There is a way -- right before a man, And its latter end [are] ways of death.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16786,
+        "text": "Even in laughter is the heart pained, And the latter end of joy [is] affliction.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16787,
+        "text": "From his ways is the backslider in heart filled, And a good man -- from his fruits.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16788,
+        "text": "The simple giveth credence to everything, And the prudent attendeth to his step.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16789,
+        "text": "The wise is fearing and turning from evil, And a fool is transgressing and is confident.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16790,
+        "text": "Whoso is short of temper doth folly, And a man of wicked devices is hated.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16791,
+        "text": "The simple have inherited folly, And the prudent are crowned [with] knowledge.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16792,
+        "text": "The evil have bowed down before the good, And the wicked at the gates of the righteous.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16793,
+        "text": "Even of his neighbour is the poor hated, And those loving the rich [are] many.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16794,
+        "text": "Whoso is despising his neighbour sinneth, Whoso is favouring the humble, O his happiness.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16795,
+        "text": "Do not they err who are devising evil? And kindness and truth [are] to those devising good,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16796,
+        "text": "In all labour there is advantage, And a thing of the lips [is] only to want.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16797,
+        "text": "The crown of the wise is their wealth, The folly of fools [is] folly.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16798,
+        "text": "A true witness is delivering souls, And a deceitful one breatheth out lies.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16799,
+        "text": "In the fear of Jehovah [is] strong confidence, And to His sons there is a refuge.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16800,
+        "text": "The fear of Jehovah [is] a fountain of life, To turn aside from snares of death.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 16801,
+        "text": "In the multitude of a people [is] the honour of a king, And in lack of people the ruin of a prince.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 16802,
+        "text": "Whoso is slow to anger [is] of great understanding, And whoso is short in temper is exalting folly.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 16803,
+        "text": "A healed heart [is] life to the flesh, And rottenness to the bones [is] envy.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 16804,
+        "text": "An oppressor of the poor reproacheth his Maker, And whoso is honouring Him Is favouring the needy.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 16805,
+        "text": "In his wickedness is the wicked driven away, And trustful in his death [is] the righteous.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 16806,
+        "text": "In the heart of the intelligent wisdom doth rest. And in the midst of fools it is known.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 16807,
+        "text": "Righteousness exalteth a nation, And the goodliness of peoples [is] a sin-offering.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 16808,
+        "text": "The favour of a king [is] to a wise servant, And an object of his wrath is one causing shame!",
+        "WordCount": 20,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

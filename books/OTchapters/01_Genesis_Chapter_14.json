@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 14,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 338,
+        "text": "And it cometh to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goyim,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 339,
+        "text": "they have made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboim, and the king of Bela, which [is] Zoar.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 340,
+        "text": "All these have been joined together unto the valley of Siddim, which [is] the Salt Sea;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 341,
+        "text": "twelve years they served Chedorlaomer, and the thirteenth year they rebelled.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 342,
+        "text": "And in the fourteenth year came Chedorlaomer, and the kings who [are] with him, and they smite the Rephaim in Ashteroth Karnaim, and the Zuzim in Ham, and the Emim in Shaveh Kiriathaim,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 343,
+        "text": "and the Horites in their mount Seir, unto El-Paran, which [is] by the wilderness;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 344,
+        "text": "and they turn back and come in unto En-Mishpat, which [is] Kadesh, and smite the whole field of the Amalekite, and also the Amorite who is dwelling in Hazezon-Tamar.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 345,
+        "text": "And the king of Sodom goeth out, and the king of Gomorrah, and the king of Admah, and the king of Zeboim, and the king of Bela, which [is] Zoar; and they set the battle in array with them in the valley of Siddim,",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 346,
+        "text": "with Chedorlaomer king of Elam, and Tidal king of Goyim, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with the five.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 347,
+        "text": "And the valley of Siddim [is] full of bitumen-pits; and the kings of Sodom and Gomorrah flee, and fall there, and those left have fled to the mountain.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 348,
+        "text": "And they take the whole substance of Sodom and Gomorrah, and the whole of their food, and go away;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 349,
+        "text": "and they take Lot, Abram's brother's son (seeing he is dwelling in Sodom), and his substance, and go away.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 350,
+        "text": "And one who is escaping cometh and declareth to Abram the Hebrew, and he is dwelling among the oaks of Mamre the Amorite, brother of Eshcol, and brother of Aner, and they [are] Abram's allies.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 351,
+        "text": "And Abram heareth that his brother hath been taken captive, and he draweth out his trained domestics, three hundred and eighteen, and pursueth unto Dan.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 352,
+        "text": "And he divideth himself against them by night, he and his servants, and smiteth them, and pursueth them unto Hobah, which [is] at the left of Damascus;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 353,
+        "text": "and he bringeth back the whole of the substance, and also Lot his brother and his substance hath he brought back, and also the women and the people.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 354,
+        "text": "And the king of Sodom goeth out to meet him (after his turning back from the smiting of Chedorlaomer, and of the kings who [are] with him), unto the valley of Shaveh, which [is] the king's valley.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 355,
+        "text": "And Melchizedek king of Salem hath brought out bread and wine, and he [is] priest of God Most High;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 356,
+        "text": "and he blesseth him, and saith, 'Blessed [is] Abram to God Most High, possessing heaven and earth;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 357,
+        "text": "and blessed [is] God Most High, who hath delivered thine adversaries into thy hand;' and he giveth to him a tenth of all.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 358,
+        "text": "And the king of Sodom saith unto Abram, 'Give to me the persons, and the substance take to thyself,'",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 359,
+        "text": "and Abram saith unto the king of Sodom, 'I have lifted up my hand unto Jehovah, God Most High, possessing heaven and earth --",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 360,
+        "text": "from a thread even unto a shoe-latchet I take not of anything which thou hast, that thou say not, I -- I have made Abram rich;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 361,
+        "text": "save only that which the young men have eaten, and the portion of the men who have gone with me -- Aner, Eshcol, and Mamre -- they take their portion.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

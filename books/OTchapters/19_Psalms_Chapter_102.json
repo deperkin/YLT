@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 102,
+    "count": 580,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15523,
+        "text": "A Prayer of the afflicted when he is feeble, and before Jehovah poureth out his plaint. O Jehovah, hear my prayer, yea, my cry to Thee cometh.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15524,
+        "text": "Hide not Thou Thy face from me, In a day of mine adversity, Incline unto me Thine ear, In the day I call, haste, answer me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15525,
+        "text": "For consumed in smoke have been my days, And my bones as a fire-brand have burned.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15526,
+        "text": "Smitten as the herb, and withered, is my heart, For I have forgotten to eat my bread.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15527,
+        "text": "From the voice of my sighing Hath my bone cleaved to my flesh.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15528,
+        "text": "I have been like to a pelican of the wilderness, I have been as an owl of the dry places.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15529,
+        "text": "I have watched, and I am As a bird alone on the roof.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15530,
+        "text": "All the day mine enemies reproached me, Those mad at me have sworn against me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15531,
+        "text": "Because ashes as bread I have eaten, And my drink with weeping have mingled,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15532,
+        "text": "From Thine indignation and Thy wrath, For Thou hast lifted me up, And dost cast me down.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15533,
+        "text": "My days as a shadow [are] stretched out, And I -- as the herb I am withered.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15534,
+        "text": "And Thou, O Jehovah, to the age abidest, And Thy memorial to all generations.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 15535,
+        "text": "Thou -- Thou risest -- Thou pitiest Zion, For the time to favour her, For the appointed time hath come.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15536,
+        "text": "For Thy servants have been pleased with her stones, And her dust they favour.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15537,
+        "text": "And nations fear the name of Jehovah, And all kings of the earth Thine honour,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15538,
+        "text": "For Jehovah hath builded Zion, He hath been seen in His honour,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15539,
+        "text": "He turned unto the prayer of the destitute, And He hath not despised their prayer.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15540,
+        "text": "This is written for a later generation, And the people created do praise Jah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15541,
+        "text": "For He hath looked From the high place of His sanctuary. Jehovah from heaven unto earth looked attentively,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15542,
+        "text": "To hear the groan of the prisoner, To loose sons of death,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15543,
+        "text": "To declare in Zion the name of Jehovah, And His praise in Jerusalem,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15544,
+        "text": "In the peoples being gathered together, And the kingdoms -- to serve Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15545,
+        "text": "He hath humbled in the way my power, He hath shortened my days.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 15546,
+        "text": "I say, 'My God, take me not up in the midst of my days,' Through all generations [are] Thine years.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15547,
+        "text": "Beforetime the earth Thou didst found, And the work of Thy hands [are] the heavens.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15548,
+        "text": "They -- They perish, and Thou remainest, And all of them as a garment become old, As clothing Thou changest them, And they are changed.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15549,
+        "text": "And Thou [art] the same, and Thine years are not finished.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15550,
+        "text": "The sons of Thy servants do continue, And their seed before Thee is established!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

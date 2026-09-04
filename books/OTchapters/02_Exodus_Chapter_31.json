@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 31,
+    "count": 81,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2422,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2423,
+        "text": "'See, I have called by name Bezaleel, son of Uri, son of Hur, of the tribe of Judah,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2424,
+        "text": "and I fill him [with] the Spirit of God, in wisdom, and in understanding, and in knowledge, and in all work,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2425,
+        "text": "to devise devices to work in gold, and in silver, and in brass,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2426,
+        "text": "and in graving of stone for settings, and in graving of wood to work in all work.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2427,
+        "text": "'And I, lo, I have given with him Aholiab, son of Ahisamach, of the tribe of Dan, and in the heart of every wise-hearted one I have given wisdom, and they have made all that which I have commanded thee.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2428,
+        "text": "'The tent of meeting, and the ark of testimony, and the mercy-seat which [is] on it, and all the vessels of the tent,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2429,
+        "text": "and the table and its vessels, and the pure candlestick and all its vessels, and the altar of the perfume,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2430,
+        "text": "and the altar of the burnt-offering and all its vessels, and the laver and its base,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2431,
+        "text": "and the coloured garments, and the holy garments for Aaron the priest, and the garments of his sons, for acting as priests in;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2432,
+        "text": "and the anointing oil, and the perfume of the spices for the sanctuary; according to all that I have commanded thee -- they do.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2433,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 2434,
+        "text": "'And thou, speak unto the sons of Israel, saying, Only, My sabbaths ye do keep, for it [is] a sign between Me and you, to your generations, to know that I, Jehovah, am sanctifying you;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2435,
+        "text": "and ye have kept the sabbath, for it [is] holy to you, he who is polluting it is certainly put to death -- for any who doeth work in it -- that person hath even been cut off from the midst of his people.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2436,
+        "text": "'Six days is work done, and in the seventh day [is] a sabbath of holy rest to Jehovah; any who doeth work in the sabbath-day is certainly put to death,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2437,
+        "text": "and the sons of Israel have observed the sabbath; to keep the sabbath to their generations [is] a covenant age-during,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2438,
+        "text": "between Me and the sons of Israel it [is] a sign -- to the age; for six days Jehovah made the heavens and the earth, and in the seventh day He hath ceased, and is refreshed.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2439,
+        "text": "And He giveth unto Moses, when He finisheth speaking with him in mount Sinai, two tables of the testimony, tables of stone, written by the finger of God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

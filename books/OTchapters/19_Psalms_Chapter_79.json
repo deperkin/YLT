@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 79,
+    "count": 557,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15187,
+        "text": "A Psalm of Asaph. O God, nations have come into Thy inheritance, They have defiled Thy holy temple, They made Jerusalem become heaps,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15188,
+        "text": "They gave the dead bodies of Thy servants Food for the fowls of the heavens, The flesh of Thy saints For the wild beast of the earth.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15189,
+        "text": "They have shed their blood As water round about Jerusalem, And there is none burying.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15190,
+        "text": "We have been a reproach to our neighbours, A scorn and a derision to our surrounders.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15191,
+        "text": "Till when, O Jehovah? art Thou angry for ever? Thy jealousy doth burn as fire.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15192,
+        "text": "Pour Thy fury on the nations who have not known Thee, And on kingdoms that have not called in Thy name.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15193,
+        "text": "For [one] hath devoured Jacob, And his habitation they have made desolate.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15194,
+        "text": "Remember not for us the iniquities of forefathers, Haste, let Thy mercies go before us, For we have been very weak.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15195,
+        "text": "Help us, O God of our salvation, Because of the honour of Thy name, And deliver us, and cover over our sins, For Thy name's sake.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15196,
+        "text": "Why do the nations say, 'Where [is] their God?' Let be known among the nations before our eyes, The vengeance of the blood of Thy servants that is shed.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15197,
+        "text": "Let the groaning of the prisoner come in before Thee, According to the greatness of Thine arm, Leave Thou the sons of death.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15198,
+        "text": "And turn Thou back to our neighbours, Sevenfold unto their bosom, their reproach, Wherewith they reproached Thee, O Lord.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15199,
+        "text": "And we, Thy people, and the flock of Thy pasture, We give thanks to Thee to the age, To all generations we recount Thy praise!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 127,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3990,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3991,
+        "text": "'Make to thee two trumpets of silver; beaten work thou dost make them, and they have been to thee for the convocation of the company, and for the journeying of the camps;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3992,
+        "text": "and they have blown with them, and all the company have met together unto thee, unto the opening of the tent of meeting.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3993,
+        "text": "And if with one they blow, then have the princes, heads of the thousands of Israel, met together unto thee;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3994,
+        "text": "'And ye have blown -- a shout, and the camps which are encamping eastward have journeyed.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3995,
+        "text": "'And ye have blown -- a second shout, and the camps which are encamping southward have journeyed; a shout they blow for their journeys.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3996,
+        "text": "'And in the assembling of the assembly ye blow, and do not shout;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3997,
+        "text": "and sons of Aaron, the priests, blow with the trumpets; and they have been to you for a statute age-during to your generations.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3998,
+        "text": "'And when ye go into battle in your land against the adversary who is distressing you, then ye have shouted with the trumpets, and ye have been remembered before Jehovah your God, and ye have been saved from your enemies.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3999,
+        "text": "'And in the day of your gladness, and in your appointed seasons, and in the beginnings of your months, ye have blown also with the trumpets over your burnt-offerings, and over the sacrifices of your peace-offerings, and they have been to you for a memorial before your God; I, Jehovah, [am] your God.'",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4000,
+        "text": "And it cometh to pass -- in the second year, in the second month, in the twentieth of the month -- the cloud hath gone up from off the tabernacle of the testimony,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 4001,
+        "text": "and the sons of Israel journey in their journeyings from the wilderness of Sinai, and the cloud doth tabernacle in the wilderness of Paran;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4002,
+        "text": "and they journey at first, by the command of Jehovah, in the hand of Moses.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4003,
+        "text": "And the standard of the camp of the sons of Judah journeyeth in the first [place], by their hosts, and over its host [is] Nahshon son of Amminadab.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4004,
+        "text": "And over the host of the tribe of the sons of Issachar [is] Nathaneel son of Zuar.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4005,
+        "text": "And over the host of the tribe of the sons of Zebulun [is] Eliab son of Helon;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4006,
+        "text": "And the tabernacle hath been taken down, and the sons of Gershon and the sons of Merari have journeyed, bearing the tabernacle.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4007,
+        "text": "And the standard of the camp of Reuben hath journeyed, by their hosts, and over its host [is] Elizur son of Shedeur.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4008,
+        "text": "And over the host of the tribe of the sons of Simeon [is] Shelumiel son of Zurishaddai.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4009,
+        "text": "And over the host of the tribe of the sons of Gad [is] Eliasaph son of Deuel;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4010,
+        "text": "And the Kohathites have journeyed, bearing the tabernacle, and the [others] have raised up the tabernacle until their coming in.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4011,
+        "text": "And the standard of the camp of the sons of Ephraim hath journeyed, by their hosts, and over its host [is] Elishama son of Ammihud.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4012,
+        "text": "And over the host of the tribe of the sons of Manasseh [is] Gamalial son of Pedahzur.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4013,
+        "text": "And over the host of the tribe of the sons of Benjamin [is] Abidan son of Gideoni.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4014,
+        "text": "And the standard of the camp of the sons of Dan hath journeyed (rearward to all the camps), by their hosts, and over its host [is] Ahiezer son of Ammishaddai.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4015,
+        "text": "And over the host of the tribe of the sons of Asher [is] Pagiel son of Ocran.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4016,
+        "text": "And over the host of the tribe of the sons of Naphtali [is] Ahira son of Enan.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4017,
+        "text": "These [are] journeyings of the sons of Israel by their hosts -- and they journey.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4018,
+        "text": "And Moses saith to Hobab son of Raguel the Midianite, father-in-law of Moses, 'We are journeying unto the place of which Jehovah hath said, I give it to you; go with us, and we have done good to thee; for Jehovah hath spoken good concerning Israel.'",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 4019,
+        "text": "And he saith unto him, 'I do not go; but unto my land and unto my kindred do I go.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4020,
+        "text": "And he saith, 'I pray thee, forsake us not, because thou hast known our encamping in the wilderness, and thou hast been to us for eyes;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4021,
+        "text": "and it hath come to pass when thou goest with us, yea, it hath come to pass -- that good which Jehovah doth kindly with us -- it we have done kindly to thee.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4022,
+        "text": "And they journey from the mount of Jehovah a journey of three days; and the ark of the covenant of Jehovah is journeying before them the journey of three days, to spy out for them a resting-place;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4023,
+        "text": "and the cloud of Jehovah [is] on them by day, in their journeying from the camp.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4024,
+        "text": "And it cometh to pass in the journeying of the ark, that Moses saith, 'Rise, O Jehovah, and Thine enemies are scattered, and those hating Thee flee from Thy presence.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4025,
+        "text": "And in its resting he saith, 'Return, O Jehovah, [to] the myriads, the thousands of Israel.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

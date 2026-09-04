@@ -1,0 +1,278 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 40,
+    "count": 90,
+    "MaxVerses": 38,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2709,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2710,
+        "text": "'On the first day of the month, in the first month, thou dost raise up the tabernacle of the tent of meeting,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2711,
+        "text": "and hast set there the ark of the testimony, and hast covered over the ark with the vail,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2712,
+        "text": "and hast brought in the table, and set its arrangement in order, and hast brought in the candlestick, and caused its lamps to go up.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2713,
+        "text": "'And thou hast put the golden altar for perfume before the ark of the testimony, and hast put the covering of the opening to the tabernacle,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2714,
+        "text": "and hast put the altar of the burnt-offering before the opening of the tabernacle of the tent of meeting,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2715,
+        "text": "and hast put the laver between the tent of meeting and the altar, and hast put water there.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2716,
+        "text": "'And thou hast set the court round about, and hast placed the covering of the gate of the court,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2717,
+        "text": "and hast taken the anointing oil, and anointed the tabernacle, and all that [is] in it, and hallowed it, and all its vessels, and it hath been holy;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2718,
+        "text": "and thou hast anointed the altar of the burnt-offering, and all its vessels, and sanctified the altar, and the altar hath been most holy;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2719,
+        "text": "and thou hast anointed the laver and its base, and sanctified it.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2720,
+        "text": "'And thou hast brought near Aaron and his sons unto the opening of the tent of meeting, and hast bathed them with water;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2721,
+        "text": "and thou hast clothed Aaron with the holy garments, and anointed him, and sanctified him, and he hath acted as priest to Me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2722,
+        "text": "'And his sons thou dost bring near, and hast clothed them with coats,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2723,
+        "text": "and anointed them as thou hast anointed their father, and they have acted as priests to Me, and their anointing hath been to be to them for a priesthood age-during, to their generations.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2724,
+        "text": "And Moses doth according to all that Jehovah hath commanded him; so he hath done.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 2725,
+        "text": "And it cometh to pass, in the first month, in the second year, in the first of the month, the tabernacle hath been raised up;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2726,
+        "text": "and Moses raiseth up the tabernacle, and setteth its sockets, and placeth its boards, and placeth its bars, and raiseth its pillars,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2727,
+        "text": "and spreadeth the tent over the tabernacle, and putteth the covering of the tent upon it above, as Jehovah hath commanded Moses.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2728,
+        "text": "And he taketh and putteth the testimony unto the ark, and setteth the staves on the ark, and putteth the mercy-seat on the ark above;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2729,
+        "text": "and bringeth in the ark unto the tabernacle, and placeth the vail of the covering, and covereth over the ark of the testimony, as Jehovah hath commanded Moses.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2730,
+        "text": "And he putteth the table in the tent of meeting, on the side of the tabernacle northward, at the outside of the vail,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2731,
+        "text": "and setteth in order upon it the arrangement of bread, before Jehovah, as Jehovah hath commanded Moses.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2732,
+        "text": "And he putteth the candlestick in the tent of meeting, over-against the table, on the side of the tabernacle southward,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2733,
+        "text": "and causeth the lamps to go up before Jehovah, as Jehovah hath commanded Moses.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2734,
+        "text": "And he setteth the golden altar in the tent of meeting, before the vail,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2735,
+        "text": "and maketh perfume on it -- spice-perfume -- as Jehovah hath commanded Moses.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2736,
+        "text": "And he setteth the covering of the opening to the tabernacle,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2737,
+        "text": "and the altar of the burnt-offering he hath set at the opening of the tabernacle of the tent of meeting, and causeth the burnt-offering to go up upon it, and the present, as Jehovah hath commanded Moses.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2738,
+        "text": "And he putteth the laver between the tent of meeting and the altar, and putteth water there for washing,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 2739,
+        "text": "and Moses and Aaron and his sons have washed their hands and their feet at the same;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 2740,
+        "text": "in their going in unto the tent of meeting, and in their drawing near unto the altar, they wash, as Jehovah hath commanded Moses.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 2741,
+        "text": "And he raiseth up the court round about the tabernacle, and about the altar, and placeth the covering of the gate of the court; and Moses completeth the work.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 2742,
+        "text": "And the cloud covereth the tent of meeting, and the honour of Jehovah hath filled the tabernacle;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 2743,
+        "text": "and Moses hath not been able to go in unto the tent of meeting, for the cloud hath tabernacled on it, and the honour of Jehovah hath filled the tabernacle.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 2744,
+        "text": "And in the going up of the cloud from off the tabernacle the sons of Israel journey in all their journeys;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 2745,
+        "text": "and if the cloud go not up then they journey not, until the day of its going up:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 2746,
+        "text": "for the cloud of Jehovah [is] on the tabernacle by day, and fire is in it by night, before the eyes of all the house of Israel in all their journeys.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

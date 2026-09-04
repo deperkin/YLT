@@ -1,0 +1,124 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 676,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17600,
+        "text": "I have come in to my garden, my sister-spouse, I have plucked my myrrh with my spice, I have eaten my comb with my honey, I have drunk my wine with my milk. Eat, O friends, drink, Yea, drink abundantly, O beloved ones!",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17601,
+        "text": "I am sleeping, but my heart waketh: The sound of my beloved knocking! 'Open to me, my sister, my friend, My dove, my perfect one, For my head is filled [with] dew, My locks [with] drops of the night.'",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17602,
+        "text": "I have put off my coat, how do I put it on? I have washed my feet, how do I defile them?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17603,
+        "text": "My beloved sent his hand from the net-work, And my bowels were moved for him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17604,
+        "text": "I rose to open to my beloved, And my hands dropped myrrh, Yea, my fingers flowing myrrh, On the handles of the lock.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17605,
+        "text": "I opened to my beloved, But my beloved withdrew -- he passed on, My soul went forth when he spake, I sought him, and found him not. I called him, and he answered me not.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17606,
+        "text": "The watchmen who go round about the city, Found me, smote me, wounded me, Keepers of the walls lifted up my veil from off me.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17607,
+        "text": "I have adjured you, daughters of Jerusalem, If ye find my beloved -- What do ye tell him? that I [am] sick with love!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17608,
+        "text": "What [is] thy beloved above [any] beloved, O fair among women? What [is] thy beloved above [any] beloved, That thus thou hast adjured us?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17609,
+        "text": "My beloved [is] clear and ruddy, Conspicuous above a myriad!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17610,
+        "text": "His head [is] pure gold -- fine gold, His locks flowing, dark as a raven,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17611,
+        "text": "His eyes as doves by streams of water, Washing in milk, sitting in fulness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17612,
+        "text": "His cheeks as a bed of the spice, towers of perfumes, His lips [are] lilies, dropping flowing myrrh,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17613,
+        "text": "His hands rings of gold, set with beryl, His heart bright ivory, covered with sapphires,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17614,
+        "text": "His limbs pillars of marble, Founded on sockets of fine gold, His appearance as Lebanon, choice as the cedars.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17615,
+        "text": "His mouth is sweetness -- and all of him desirable, This [is] my beloved, and this my friend, O daughters of Jerusalem!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

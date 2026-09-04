@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 120,
+    "count": 598,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16076,
+        "text": "A Song of the Ascents. Unto Jehovah in my distress I have called, And He answereth me.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16077,
+        "text": "O Jehovah, deliver my soul from a lying lip, From a deceitful tongue!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16078,
+        "text": "What doth He give to thee? And what doth He add to thee? O deceitful tongue!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16079,
+        "text": "Sharp arrows of a mighty one, with broom-coals.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16080,
+        "text": "Woe to me, for I have inhabited Mesech, I have dwelt with tents of Kedar.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16081,
+        "text": "Too much hath my soul dwelt with him who is hating peace.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16082,
+        "text": "I [am] peace, and when I speak they [are] for war!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

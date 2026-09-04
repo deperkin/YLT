@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 17,"name": "Esther","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 432,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12795,
+        "text": "On that night hath the sleep of the king fled away, and he saith to bring in the book of memorials of the Chronicles, and they are read before the king,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12796,
+        "text": "and it is found written that Mordecai had declared concerning Bigthana and Teresh, two of the eunuchs of the king, of the keepers of the threshold, who sought to put forth a hand on king Ahasuerus.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12797,
+        "text": "And the king saith, 'What honour and greatness hath been done to Mordecai for this?' And the servants of the king, his ministers, say, 'Nothing hath been done with him.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12798,
+        "text": "And the king saith, 'Who [is] in the court?' -- and Haman hath come in to the outer court of the house of the king, to say to the king to hang Mordecai on the tree that he had prepared for him --",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 12799,
+        "text": "and the servants of the king say unto him, 'Lo, Haman is standing in the court;' and the king saith, 'Let him come in.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12800,
+        "text": "And Haman cometh in, and the king saith to him, 'What -- to do with the man in whose honour the king hath delighted?' And Haman saith in his heart, 'To whom doth the king delight to do honour more than myself?'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12801,
+        "text": "And Haman saith unto the king, 'The man in whose honour the king hath delighted,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12802,
+        "text": "let them bring in royal clothing that the king hath put on himself, and a horse on which the king hath ridden, and that the royal crown be put on his head,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12803,
+        "text": "and to give the clothing and the horse into the hand of a man of the heads of the king, the chiefs, and they have clothed the man in whose honour the king hath delighted, and caused him to ride on the horse in a broad place of the city, and called before him: Thus it is done to the man in whose honour the king hath delighted.'",
+        "WordCount": 68,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12804,
+        "text": "And the king saith to Haman, 'Haste, take the clothing and the horse, as thou hast spoken, and do so to Mordecai the Jew, who is sitting in the gate of the king; there doth not fall a thing of all that thou hast spoken.'",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12805,
+        "text": "And Haman taketh the clothing, and the horse, and clothed Mordecai, and causeth him to ride in a broad place of the city, and calleth before him, 'Thus it is done to the man in whose honour the king hath delighted.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12806,
+        "text": "And Mordecai turneth back unto the gate of the king, and Haman hath been hastened unto his house mourning, and with covered head,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 12807,
+        "text": "and Haman recounteth to Zeresh his wife, and to all his friends, all that hath met him, and his wise men say to him, and Zeresh his wife, 'If Mordecai [is] of the seed of the Jews, before whom thou hast begun to fall, thou art not able for him, but dost certainly fall before him.'",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12808,
+        "text": "They are yet speaking with him, and eunuchs of the king have come, and haste to bring in Haman unto the banquet that Esther hath made.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

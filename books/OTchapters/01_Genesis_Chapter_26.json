@@ -1,0 +1,257 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 26,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 694,
+        "text": "And there is a famine in the land, besides the first famine which was in the days of Abraham, and Isaac goeth unto Abimelech king of the Philistines, to Gerar.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 695,
+        "text": "And Jehovah appeareth unto him, and saith, 'Go not down towards Egypt, tabernacle in the land concerning which I speak unto thee,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 696,
+        "text": "sojourn in this land, and I am with thee, and bless thee, for to thee and to thy seed I give all these lands, and I have established the oath which I have sworn to Abraham thy father;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 697,
+        "text": "and I have multiplied thy seed as stars of the heavens, and I have given to thy seed all these lands; and blessed themselves in thy seed have all nations of the earth;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 698,
+        "text": "because that Abraham hath hearkened to My voice, and keepeth My charge, My commands, My statutes, and My laws.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 699,
+        "text": "And Isaac dwelleth in Gerar;",
+        "WordCount": 5,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 700,
+        "text": "and men of the place ask him of his wife, and he saith, 'She [is] my sister:' for he hath been afraid to say, 'My wife -- lest the men of the place kill me for Rebekah, for she [is] of good appearance.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 701,
+        "text": "And it cometh to pass, when the days have been prolonged to him there, that Abimelech king of the Philistines looketh through the window, and seeth, and lo, Isaac is playing with Rebekah his wife.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 702,
+        "text": "And Abimelech calleth for Isaac, and saith, 'Lo, she [is] surely thy wife; and how hast thou said, She [is] my sister?' and Isaac saith unto him, 'Because I said, Lest I die for her.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 703,
+        "text": "And Abimelech saith, 'What [is] this thou hast done to us? as a little thing one of the people had lain with thy wife, and thou hadst brought upon us guilt;'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 704,
+        "text": "and Abimelech commandeth all the people, saying, 'He who cometh against this man or against his wife, dying doth die.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 705,
+        "text": "And Isaac soweth in that land, and findeth in that year a hundredfold, and Jehovah blesseth him;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 706,
+        "text": "and the man is great, and goeth on, going on and becoming great, till that he hath been very great,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 707,
+        "text": "and he hath possession of a flock, and possession of a herd, and an abundant service; and the Philistines envy him,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 708,
+        "text": "and all the wells which his father's servants digged in the days of Abraham his father, the Philistines have stopped them, and fill them with dust.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 709,
+        "text": "And Abimelech saith unto Isaac, 'Go from us; for thou hast become much mightier than we;'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 710,
+        "text": "and Isaac goeth from thence, and encampeth in the valley of Gerar, and dwelleth there;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 711,
+        "text": "and Isaac turneth back, and diggeth the wells of water which they digged in the days of Abraham his father, which the Philistines do stop after the death of Abraham, and he calleth to them names according to the names which his father called them.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 712,
+        "text": "And Isaac's servants dig in the valley, and find there a well of living water,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 713,
+        "text": "and shepherds of Gerar strive with shepherds of Isaac, saying, 'The water [is] ours;' and he calleth the name of the well 'Strife,' because they have striven habitually with him;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 714,
+        "text": "and they dig another well, and they strive also for it, and he calleth its name 'Hatred.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 715,
+        "text": "And he removeth from thence, and diggeth another well, and they have not striven for it, and he calleth its name Enlargements, and saith, 'For -- now hath Jehovah given enlargement to us, and we have been fruitful in the land.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 716,
+        "text": "And he goeth up from thence [to] Beer-Sheba,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 717,
+        "text": "and Jehovah appeareth unto him during that night, and saith, 'I [am] the God of Abraham thy father, fear not, for I [am] with thee, and have blessed thee, and have multiplied thy seed, because of Abraham My servant;'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 718,
+        "text": "and he buildeth there an altar, and preacheth in the name of Jehovah, and stretcheth out there his tent, and there Isaac's servants dig a well.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 719,
+        "text": "And Abimelech hath gone unto him from Gerar, and Ahuzzath his friend, and Phichol head of his host;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 720,
+        "text": "and Isaac saith unto them, 'Wherefore have ye come unto me, and ye have hated me, and ye send me away from you?'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 721,
+        "text": "And they say, 'We have certainly seen that Jehovah hath been with thee, and we say, 'Let there be, we pray thee, an oath between us, between us and thee, and let us make a covenant with thee;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 722,
+        "text": "do not evil with us, as we have not touched thee, and as we have only done good with thee, and send thee away in peace; thou [art] now blessed of Jehovah.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 723,
+        "text": "And he maketh for them a banquet, and they eat and drink,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 724,
+        "text": "and rise early in the morning, and swear one to another, and Isaac sendeth them away, and they go from him in peace.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 725,
+        "text": "And it cometh to pass during that day that Isaac's servants come and declare to him concerning the circumstances of the well which they have digged, and say to him, 'We have found water;'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 726,
+        "text": "and he calleth it Shebah, [oath,] therefore the name of the city [is] Beer-Sheba, [well of the oath,] unto this day.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 727,
+        "text": "And Esau is a son of forty years, and he taketh a wife, Judith, daughter of Beeri the Hittite, and Bashemath, daughter of Elon the Hittite,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 35,
+        "count": 728,
+        "text": "and they are a bitterness of spirit to Isaac and to Rebekah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

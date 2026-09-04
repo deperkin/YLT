@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 31,
+    "count": 267,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8011,
+        "text": "And the Philistines are fighting against Israel, and the men of Israel flee from the face of the Philistines, and fall wounded in mount Gilboa,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8012,
+        "text": "and the Philistines follow Saul and his sons, and the Philistines smite Jonathan, and Abinadab, and Malchishua, sons of Saul.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8013,
+        "text": "And the battle is hard against Saul, and the archers find him -- men with bow -- and he is pained greatly by the archers;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8014,
+        "text": "and Saul saith to the bearer of his weapons, 'Draw thy sword, and pierce me with it, lest they come -- these uncircumcised -- and have pierced me, and rolled themselves on me;' and the bearer of his weapons hath not been willing, for he is greatly afraid, and Saul taketh the sword, and falleth upon it.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8015,
+        "text": "And the bearer of his weapons seeth that Saul [is] dead, and he falleth -- he also -- on his sword, and dieth with him;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8016,
+        "text": "and Saul dieth, and three of his sons, and the bearer of his weapons, also all his men, on that day together.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8017,
+        "text": "And they see -- the men of Israel, who [are] beyond the valley, and who [are] beyond the Jordan -- that the men of Israel have fled, and that Saul and his sons have died, and they forsake the cities and flee, and Philistines come in, and dwell in them.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8018,
+        "text": "And it cometh to pass on the morrow, that the Philistines come to strip the wounded, and they find Saul and his three sons fallen on mount Gilboa,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 8019,
+        "text": "and they cut off his head, and strip off his weapons, and send into the land of the Philistines round about, to proclaim tidings [in] the house of their idols, and [among] the people;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8020,
+        "text": "and they place his weapons [in] the house of Ashtaroth, and his body they have fixed on the wall of Beth-Shan.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8021,
+        "text": "And they hear regarding it -- the inhabitants of Jabesh-Gilead -- that which the Philistines have done to Saul,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8022,
+        "text": "and all the men of valour arise, and go all the night, and take the body of Saul, and the bodies of his sons, from the wall of Beth-Shan, and come in to Jabesh, and burn them there,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8023,
+        "text": "and they take their bones, and bury [them] under the tamarisk in Jabesh, and fast seven days.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

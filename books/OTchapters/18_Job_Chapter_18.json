@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 454,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13278,
+        "text": "And Bildad the Shuhite answereth and saith: --",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13279,
+        "text": "When do ye set an end to words? Consider ye, and afterwards do we speak.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13280,
+        "text": "Wherefore have we been reckoned as cattle? We have been defiled in your eyes!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13281,
+        "text": "(He is tearing himself in his anger.) For thy sake is earth forsaken? And removed is a rock from its place?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13282,
+        "text": "Also, the light of the wicked is extinguished. And there doth not shine a spark of his fire.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 13283,
+        "text": "The light hath been dark in his tent, And his lamp over him is extinguished.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13284,
+        "text": "Straitened are the steps of his strength, And cast him down doth his own counsel.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13285,
+        "text": "For he is sent into a net by his own feet, And on a snare he doth walk habitually.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13286,
+        "text": "Seize on the heel doth a gin, Prevail over him do the designing.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13287,
+        "text": "Hidden in the earth is his cord, And his trap on the path.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13288,
+        "text": "Round about terrified him have terrors, And they have scattered him -- at his feet.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 13289,
+        "text": "Hungry is his sorrow, And calamity is ready at his side.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13290,
+        "text": "It consumeth the parts of his skin, Consume his parts doth death's first-born.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13291,
+        "text": "Drawn from his tent is his confidence, And it causeth him to step to the king of terrors.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13292,
+        "text": "It dwelleth in his tent -- out of his provender, Scattered over his habitation is sulphur.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13293,
+        "text": "From beneath his roots are dried up, And from above cut off is his crop.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13294,
+        "text": "His memorial hath perished from the land, And he hath no name on the street.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13295,
+        "text": "They thrust him from light unto darkness, And from the habitable earth cast him out.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13296,
+        "text": "He hath no continuator, Nor successor among his people, And none is remaining in his dwellings.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13297,
+        "text": "At this day westerns have been astonished And easterns have taken fright.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13298,
+        "text": "Only these [are] tabernacles of the perverse, And this the place God hath not known.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 504,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14275,
+        "text": "By David. Judge me, O Jehovah, for I in mine integrity have walked, And in Jehovah I have trusted, I slide not.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14276,
+        "text": "Try me, O Jehovah, and prove me, Purified [are] my reins and my heart.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14277,
+        "text": "For Thy kindness [is] before mine eyes, And I have walked habitually in Thy truth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14278,
+        "text": "I have not sat with vain men, And with dissemblers I enter not.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14279,
+        "text": "I have hated the assembly of evil doers, And with the wicked I sit not.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14280,
+        "text": "I wash in innocency my hands, And I compass Thine altar, O Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14281,
+        "text": "To sound with a voice of confession, And to recount all Thy wonders.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14282,
+        "text": "Jehovah, I have loved the habitation of Thy house, And the place of the tabernacle of Thine honour.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14283,
+        "text": "Do not gather with sinners my soul, And with men of blood my life,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14284,
+        "text": "In whose hand [is] a wicked device, And their right hand [is] full of bribes.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14285,
+        "text": "And I, in mine integrity I walk, Redeem me, and favour me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14286,
+        "text": "My foot hath stood in uprightness, In assemblies I bless Jehovah!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

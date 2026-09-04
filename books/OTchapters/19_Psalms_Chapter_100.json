@@ -1,0 +1,47 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 100,
+    "count": 578,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15510,
+        "text": "A Psalm of Thanksgiving. Shout to Jehovah, all the earth.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15511,
+        "text": "Serve Jehovah with joy, come before him with singing.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15512,
+        "text": "Know that Jehovah He [is] God, He made us, and we are His, His people -- and the flock of His pasture.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15513,
+        "text": "Enter ye His gates with thanksgiving, His courts with praise, Give ye thanks to Him, bless ye His Name.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15514,
+        "text": "For good [is] Jehovah, to the age His kindness, And to generation and generation His faithfulness!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 41,
+    "count": 843,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21528,
+        "text": "And he bringeth me in unto the temple, and he measureth the posts, six cubits the breadth on this side, and six cubits the breadth on that side -- the breadth of the tent.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21529,
+        "text": "And the breadth of the opening [is] ten cubits; and the sides of the opening [are] five cubits on this side, and five cubits on that side; and he measureth its length forty cubits, and the breadth twenty cubits.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21530,
+        "text": "And he hath gone inward, and measureth the post of the opening two cubits, and the opening six cubits, and the breadth of the opening seven cubits.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21531,
+        "text": "And he measureth its length twenty cubits, and the breadth twenty cubits, unto the front of the temple, and he saith unto me, 'This [is] the holy of holies.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21532,
+        "text": "And he measureth the wall of the house six cubits, and the breadth of the side-chamber four cubits, all round the house round about.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21533,
+        "text": "And the side-chambers [are] side-chamber by side-chamber, three and thirty times; and they are entering into the wall -- which the house hath for the side-chambers all round about -- to be taken hold of, and they are not taken hold of by the wall of the house.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21534,
+        "text": "And a broad place and a turning place still upwards [are] to the side-chambers, for the turning round of the house [is] still upwards all round about the house: therefore the breadth of the house [is] upwards, and so the lower one goeth up unto the higher by the midst.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21535,
+        "text": "And I have looked at the house, the height all round about: the foundations of the side-chambers [are] the fulness of the reed, six cubits by the joining.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21536,
+        "text": "The breadth of the wall that [is] to the side-chamber at the outside [is] five cubits; and that which is left [is] the place of the side-chambers that [are] to the house.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21537,
+        "text": "And between the chambers [is] a breadth of twenty cubits round about the house, all round about.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21538,
+        "text": "And the opening of the side-chamber [is] to the place left, one opening northward, and one opening southward, and the breadth of the place that is left [is] five cubits all round about.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21539,
+        "text": "As to the building that [is] at the front of the separate place [at] the corner westward, the breadth [is] seventy cubits, and the wall of the building five cubits broad all round about, and its length ninety cubits.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 21540,
+        "text": "And he hath measured the house, the length [is] a hundred cubits; and the separate place, and the building, and its walls, the length [is] a hundred cubits;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21541,
+        "text": "and the breadth of the front of the house, and of the separate place eastward, a hundred cubits.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21542,
+        "text": "And he hath measured the length of the building unto the front of the separate place that [is] at its hinder part, and its galleries on this side and on that side, a hundred cubits, and the inner temple and the porches of the court,",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21543,
+        "text": "the thresholds, and the narrow windows, and the galleries round about them three, over-against the threshold, a ceiling of wood all round about, and the ground unto the windows and the covered windows,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21544,
+        "text": "over above the opening, and unto the inner-house, and at the outside, and by all the wall all round about within and without [by] measure.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21545,
+        "text": "And it is made [with] cherubs and palm-trees, and a palm-tree [is] between cherub and cherub, and two faces [are] to the cherub;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21546,
+        "text": "and the face of man [is] unto the palm-tree on this side, and the face of a young lion unto the palm-tree on that side; it is made unto all the house all round about.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21547,
+        "text": "from the earth unto above the opening [are] the cherubs and the palm-trees made, and [on] the wall of the temple.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21548,
+        "text": "Of the temple the side post [is] square, and of the front of the sanctuary, the appearance [is] as the appearance.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21549,
+        "text": "Of the altar, the wood [is] three cubits in height, and its length two cubits; and its corners [are] to it, and its length, and its walls [are] of wood, and he speaketh unto me, 'This [is] the table that [is] before Jehovah.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21550,
+        "text": "And two doors [are] to the temple and to the sanctuary;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21551,
+        "text": "and two leaves [are] to the doors, two turning leaves [are] to the doors, two to the one door, and two leaves to the other.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21552,
+        "text": "And made on them, on the doors of the temple, [are] cherubs and palm-trees as are made on the walls, and a thickness of wood [is] at the front of the porch on the outside.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21553,
+        "text": "And narrow windows and palm-trees [are] on this side, and on that side, at the sides of the porch, and the side-chambers of the house, and the thick places.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 808,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20565,
+        "text": "And there is a word of Jehovah unto me, saying:",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20566,
+        "text": "'Son of man, set thy face unto mountains of Israel, and prophesy concerning them:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20567,
+        "text": "And thou hast said: Mountains of Israel, Hear ye a word of the Lord Jehovah: Thus said the Lord Jehovah To the mountains, and to the hills, To the streams, and to the valleys, Lo, I, I am bringing in against you a sword, And I have destroyed your high places.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20568,
+        "text": "And desolated have been your altars, And broken your images, And I have caused your wounded to fall before your idols,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20569,
+        "text": "And put the carcases of the sons of Israel before their idols, And scattered your bones round about your altars.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20570,
+        "text": "In all your dwellings the cities are laid waste, And the high places are desolate, So that waste and desolate are your altars, And broken and ceased have your idols, And cut down have been your images, And blotted out have been your works.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20571,
+        "text": "And fallen hath the wounded in your midst, And ye have known that I [am] Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20572,
+        "text": "And I have caused [some] to remain, In their being to you the escaped of the sword among nations, In your being scattered through lands.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 20573,
+        "text": "And remembered Me have your escaped among nations, Whither they have been taken captive, Because I have been broken with their heart that is going a-whoring, That hath turned aside from off Me, And with their eyes they are going a-whoring after their idols, And they have been loathsome in their own faces, For the evils that they have done -- all their abominations.",
+        "WordCount": 64,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20574,
+        "text": "And they have known that I [am] Jehovah, Not for nought have I spoken to do to them this evil.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20575,
+        "text": "Thus said the Lord Jehovah: 'Smite with thy palm, and stamp with thy foot, And say: Alas, for all the evil abominations of the house of Israel, Who by sword, by famine, and by pestilence do fall.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 20576,
+        "text": "The far-off by pestilence dieth, And the near by sword falleth, And the left and the besieged by famine dieth, And I have completed my fury upon them.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20577,
+        "text": "And ye have known that I [am] Jehovah, In their wounded being in the midst of their idols, Round about their altars, On every high hill, on all tops of mountains, And under every green tree, and under every thick oak, The place where they gave sweet fragrance to all their idols.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20578,
+        "text": "And I have stretched out my hand against them, And have made the land a desolation, Even a desolation from the wilderness to Diblath, In all their dwellings, And they have known that I [am] Jehovah!'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

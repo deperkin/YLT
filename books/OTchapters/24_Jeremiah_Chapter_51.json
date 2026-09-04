@@ -1,0 +1,460 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 51,
+    "count": 796,
+    "MaxVerses": 64,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20214,
+        "text": "Thus said Jehovah: Lo, I am stirring up against Babylon, And the inhabitants of Leb -- My withstanders, A destroying wind,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20215,
+        "text": "And I have sent to Babylon fanners, And they have fanned it, and they empty its land, For they have been against it, Round about -- in the day of evil.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20216,
+        "text": "Let not the treader tread his bow, Nor lift himself up in his coat of mail, Nor have ye pity on her young men, Devote ye to destruction all her host.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20217,
+        "text": "And fallen have the wounded in the land of the Chaldeans, And the pierced-through in her streets.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20218,
+        "text": "For, not forsaken is Israel and Judah, By its God -- by Jehovah of Hosts, For their land hath been full of guilt, Against the Holy One of Israel.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20219,
+        "text": "Flee ye from the midst of Babylon, And deliver ye each his soul, Be not cut off in its iniquity, For a time of vengeance it [is] to Jehovah, Recompence He is rendering to her.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20220,
+        "text": "A golden cup [is] Babylon in the hand of Jehovah, Making drunk all the earth, Of its wine drunk have nations, Therefore boast themselves do nations.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20221,
+        "text": "Suddenly hath Babylon fallen, Yea, it is broken, howl ye for it, Take balm for her pain, if so be it may be healed.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20222,
+        "text": "We healed Babylon, and she was not healed, Forsake her, and we go, each to his land, For come unto the heavens hath its judgment, And it hath been lifted up unto the clouds.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20223,
+        "text": "Jehovah hath brought forth our righteousnesses, Come, and we recount in Zion the work of Jehovah our God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20224,
+        "text": "Cleanse ye the arrows, fill the shields, Stirred up hath Jehovah the spirit of the kings of Madia, For against Babylon His device [is] to destroy it, For the vengeance of Jehovah it [is], The vengeance of His temple.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20225,
+        "text": "Unto the walls of Babylon lift up an ensign, Strengthen the watch, Establish the watchers, prepare the ambush, For Jehovah hath both devised and done that which He spake, Concerning the inhabitants of Babylon.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20226,
+        "text": "O dweller on many waters, abundant in treasures, Come in hath thine end, the measure of thy dishonest gain.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20227,
+        "text": "Sworn hath Jehovah of Hosts by Himself, That, Surely I have filled thee [with] men as the cankerworm, And they have cried against thee -- shouting.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20228,
+        "text": "The maker of earth by His power, The establisher of the world by His wisdom, Who by His understanding stretched out the heavens,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20229,
+        "text": "At the voice He giveth forth, A multitude of waters [are] in the heavens, And He causeth vapours to come up from the end of the earth, Lightnings for rain He hath made, And He bringeth out wind from His treasures.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20230,
+        "text": "Brutish hath been every man by knowledge, Put to shame hath been every refiner by a graven image, For false [is] his molten image, And there is no breath in them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20231,
+        "text": "Vanity [are] they -- work of errors, In the time of their inspection they perish.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20232,
+        "text": "Not like these [is] the portion of Jacob, For He [is] former of all things, And [Israel is] the rod of His inheritance, Jehovah of Hosts [is] His name.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20233,
+        "text": "An axe [art] thou to me -- weapons of war, And I have broken in pieces by thee nations, And I have destroyed by thee kingdoms,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20234,
+        "text": "And I have broken in pieces by thee horse and its rider, And I have broken in pieces by thee chariot and its charioteer,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20235,
+        "text": "And I have broken in pieces by thee man and woman, And I have broken in pieces by thee old and young, And I have broken in pieces by thee young man and virgin,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20236,
+        "text": "And I have broken in pieces by thee shepherd and his drove, And I have broken in pieces by thee husbandman and his team, And I have broken in pieces by thee governors and prefects.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20237,
+        "text": "And I have recompensed to Babylon, And to all inhabitants of Chaldea, All the evil that they have done in Zion, Before your eyes -- an affirmation of Jehovah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20238,
+        "text": "Lo, I [am] against thee, O destroying mount, An affirmation of Jehovah, That is destroying all the earth, And I have stretched out My hand against thee, And I have rolled thee from the rocks, And given thee for a burnt mountain.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20239,
+        "text": "And they take not out of thee a stone for a corner, And a stone for foundations, For desolations age-during art thou, An affirmation of Jehovah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20240,
+        "text": "Lift ye up an ensign in the land, Blow a trumpet among nations, Sanctify against it nations, Summon against it the kingdoms of Ararat, Minni, and Ashkenaz, Appoint against it an infant head, Cause the horse to ascend as the rough cankerworm.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 20241,
+        "text": "Sanctify against it the nations with the kings of Media, Its governors and all its prefects, And all the land of its dominion.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 20242,
+        "text": "And shake doth the land, and it is pained, For stood against Babylon have the purposes of Jehovah, To make the land of Babylon a desolation without inhabitant.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 20243,
+        "text": "Ceased have the mighty of Babylon to fight, They have remained in strongholds, Failed hath their might, they have become woman, They have burnt her tabernacles, Broken have been her bars.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 20244,
+        "text": "Runner to meet runner doth run, And announcer to meet announcer, To announce to the king of Babylon, For, captured hath been his city -- at the extremity.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 20245,
+        "text": "And the passages have been captured, And the reeds they have burnt with fire, And the men of war have been troubled.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 20246,
+        "text": "For thus said Jehovah of Hosts, God of Israel, The daughter of Babylon [is] as a threshing-floor, The time of her threshing -- yet a little, And come hath the time of her harvest.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 20247,
+        "text": "Devoured us, crushed us, hath Nebuchadrezzar king of Babylon, He hath set us [as] an empty vessel, He hath swallowed us as a dragon, He hath filled his belly with my dainties, He hath driven us away.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 20248,
+        "text": "My wrong, and [that of] my flesh [is] on Babylon, Say doth the inhabitant of Zion, And my blood [is] on the inhabitants of Chaldea, Say doth Jerusalem.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 20249,
+        "text": "Therefore, thus said Jehovah: Lo, I am pleading thy cause, And I have avenged thy vengeance, And dried up its sea, and made its fountains dry.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 20250,
+        "text": "And Babylon hath been for heaps, A habitation of dragons, An astonishment, and a hissing, without inhabitant.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 20251,
+        "text": "Together as young lions they roar, They have shaken themselves as lions' whelps.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 20252,
+        "text": "In their heat I make their banquets, And I have caused them to drink, so that they exult, And have slept a sleep age-during, And awake not -- an affirmation of Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 20253,
+        "text": "I cause them to go down as lambs to slaughter, As rams with he-goats.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 20254,
+        "text": "How hath Sheshach been captured, Yea, caught is the praise of the whole earth, How hath Babylon been for an astonishment among nations.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 20255,
+        "text": "Come up against Babylon hath the sea, With a multitude of its billows it hath been covered.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 20256,
+        "text": "Its cities have been for a desolation, A dry land, and a wilderness, A land -- none doth dwell in them, Nor pass over into them doth a son of man.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 20257,
+        "text": "And I have seen after Bel in Babylon, And I have brought forth that which he swallowed -- from his mouth, And flow no more unto him do nations, Also the wall of Babylon hath fallen.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 20258,
+        "text": "Go forth from its midst, O My people, And deliver ye, each his soul, Because of the fierceness of the anger of Jehovah,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 20259,
+        "text": "And lest your heart be tender, And ye be afraid of the report that is heard in the land, And come in a year hath the report, And after it in a year the report, And violence [is] in the land, ruler against ruler;",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 20260,
+        "text": "Therefore, lo, days are coming, And I have seen after the graven images of Babylon. And all its land is ashamed, And all its pierced ones do fall in its midst.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 20261,
+        "text": "And cried aloud against Babylon Have heavens and earth, and all that [is] in them, For, from the north come to it do the spoilers, An affirmation of Jehovah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 20262,
+        "text": "Even Babylon [is] to fall, ye pierced of Israel, Even they of Babylon have fallen, Ye pierced of all the earth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 20263,
+        "text": "Ye escaped of the sword, go on, stand not, Remember ye from afar Jehovah, And let Jerusalem come up on your heart.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 20264,
+        "text": "We have been ashamed, for we heard reproach, Covered hath shame our faces, For come in have strangers, against the sanctuaries of the house of Jehovah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 20265,
+        "text": "Therefore, lo, days are coming, An affirmation of Jehovah, And I have seen after its graven images, And in all its land groan doth the wounded.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 20266,
+        "text": "Because Babylon goeth up to the heavens, And because it fenceth the high place of its strength, From Me come into it do spoilers, An affirmation of Jehovah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 20267,
+        "text": "A voice of a cry [is] from Babylon, And of great destruction from the land of the Chaldean.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 20268,
+        "text": "For Jehovah is spoiling Babylon, And hath destroyed out of it a great voice, And sounded have its billows as many waters, Given forth a noise hath their voice.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 20269,
+        "text": "For come in against it -- against Babylon -- hath a spoiler, And captured have been its mighty ones, Broken have been their bows, For the God of recompences -- Jehovah -- doth certainly repay.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 20270,
+        "text": "And I have caused its princes to drink, And its wise men, its governors, And its prefects, and its mighty ones, And they have slept a sleep age-during, And they awake not -- an affirmation of the king, Jehovah of Hosts [is] His name.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 20271,
+        "text": "Thus said Jehovah of Hosts, the wall of Babylon -- The broad one -- is utterly made bare, And her high gates with fire are burnt, And peoples labour in vain, And nations in fire, and have been weary!",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 20272,
+        "text": "The word that Jeremiah the prophet hath commanded Seraiah son of Neriah, son of Maaseiah, in his going with Zedekiah king of Judah to Babylon, in the fourth year of his reign -- and Seraiah [is] a quiet prince;",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 60,
+        "count": 20273,
+        "text": "and Jeremiah writeth all the evil that cometh unto Babylon on one book -- all these words that are written concerning Babylon.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 20274,
+        "text": "And Jeremiah saith unto Seraiah, 'When thou dost enter Babylon, then thou hast seen, and hast read all these words,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 20275,
+        "text": "and hast said: Jehovah, Thou, Thou hast spoken concerning this place, to cut it off, that there is none dwelling in it, from man even unto cattle, for it is a desolation age-during.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 20276,
+        "text": "And it hath come to pass, when thou dost finish reading this book, thou dost bind to it a stone, and hast cast it into the midst of Phrat,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 20277,
+        "text": "and said, Thus sink doth Babylon, and it doth not arise, because of the evil that I am bringing in against it, and they have been weary.' Hitherto [are] words of Jeremiah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

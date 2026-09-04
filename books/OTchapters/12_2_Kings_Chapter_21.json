@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 334,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10121,
+        "text": "A son of twelve years [is] Manasseh in his reigning, and fifty and five years he hath reigned in Jerusalem, and the name of his mother [is] Hephzi-Bah;",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10122,
+        "text": "and he doth the evil thing in the eyes of Jehovah, according to the abominations of the nations that Jehovah dispossessed from the presence of the sons of Israel,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10123,
+        "text": "and he turneth and buildeth the high places that Hezekiah his father destroyed, and raiseth altars for Baal, and maketh a shrine, as did Ahab king of Israel, and boweth himself to all the host of the heavens, and serveth them.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10124,
+        "text": "And he hath built altars in the house of Jehovah, of which Jehovah said, 'In Jerusalem I put My name.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10125,
+        "text": "And he buildeth altars to all the host of the heavens in the two courts of the house of Jehovah;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10126,
+        "text": "and he hath caused his son to pass through fire, and observed clouds, and used enchantment, and dealt with a familiar spirit and wizards; he hath multiplied to do the evil thing in the eyes of Jehovah -- to provoke to anger.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10127,
+        "text": "And he setteth the graven image of the shrine that he made in the house of which Jehovah said unto David and unto Solomon his son, 'In this house, and in Jerusalem, that I have chosen out of all the tribes of Israel, I put My name -- to the age;",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10128,
+        "text": "and I do not add to cause the foot of Israel to move from the ground that I gave to their fathers, only, if they observe to do according to all that I commanded them, and to all the law that My servant Moses commanded them.'",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10129,
+        "text": "And they have not hearkened, and Manasseh causeth them to err, to do the evil thing above the nations that Jehovah destroyed from the presence of the sons of Israel.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10130,
+        "text": "And Jehovah speaketh by the hand of his servants the prophets, saying,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 10131,
+        "text": "'Because that Manasseh king of Judah hath done these abominations -- he hath done evil above all that the Amorites have done who [are] before him, and causeth also Judah to sin by his idols;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10132,
+        "text": "therefore thus said Jehovah, God of Israel, Lo, I am bringing in evil on Jerusalem and Judah, that whoever heareth of it, tingle do his two ears.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10133,
+        "text": "And I have stretched out over Jerusalem the line of Samaria, and the plummet of the house of Ahab, and wiped Jerusalem as one wipeth the dish -- he hath wiped, and hath turned [it] on its face.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10134,
+        "text": "'And I have left the remnant of Mine inheritance, and given them into the hand of their enemies, and they have been for a prey and for a spoil to all their enemies,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10135,
+        "text": "because that they have done the evil thing in Mine eyes, and are provoking Me to anger from the day that their fathers came out of Egypt, even unto this day.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10136,
+        "text": "And also, innocent blood hath Manasseh shed very much, till that he hath filled Jerusalem -- mouth to mouth; apart from his sin that he hath caused Judah to sin, to do the evil thing in the eyes of Jehovah.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10137,
+        "text": "And the rest of the matters of Manasseh, and all that he did, and his sin that he sinned, are they not written on the book of the Chronicles of the kings of Judah?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10138,
+        "text": "And Manasseh lieth with his fathers, and is buried in the garden of his house, in the garden of Uzza, and reign doth Amon his son in his stead.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10139,
+        "text": "A son of twenty and two years [is] Amon in his reigning, and two years he hath reigned in Jerusalem, and the name of his mother [is] Meshullemeth daughter of Haruz of Jotbah,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 10140,
+        "text": "and he doth the evil thing in the eyes of Jehovah, as did Manasseh his father,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10141,
+        "text": "and walketh in all the way that his father walked in, and serveth the idols that his father served, and boweth himself to them,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10142,
+        "text": "and forsaketh Jehovah, God of his fathers, and hath not walked in the way of Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10143,
+        "text": "And the servants of Amon conspire against him, and put the king to death in his own house,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10144,
+        "text": "and the people of the land smite all those conspiring against king Amon, and the people of the land cause Josiah his son to reign in his stead.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10145,
+        "text": "And the rest of the matters of Amon that he did, are they not written on the book of the Chronicles of the kings of Judah?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10146,
+        "text": "and [one] burieth him in his burying-place in the garden of Uzza, and reign doth Josiah his son in his stead.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

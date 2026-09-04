@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 7,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 161,
+        "text": "And Jehovah saith to Noah, 'Come in, thou and all thy house, unto the ark, for thee I have seen righteous before Me in this generation;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 162,
+        "text": "of all the clean beasts thou dost take to thee seven pairs, a male and its female; and of the beasts which are not clean two, a male and its female;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 163,
+        "text": "also, of fowl of the heavens seven pairs, a male and a female, to keep alive seed on the face of all the earth;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 164,
+        "text": "for after other seven days I am sending rain on the earth forty days and forty nights, and have wiped away all the substance that I have made from off the face of the ground.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 165,
+        "text": "And Noah doth according to all that Jehovah hath commanded him:",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 166,
+        "text": "and Noah [is] a son of six hundred years, and the deluge of waters hath been upon the earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 167,
+        "text": "And Noah goeth in, and his sons, and his wife, and his sons' wives with him, unto the ark, from the presence of the waters of the deluge;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 168,
+        "text": "of the clean beasts and of the beasts that [are] not clean, and of the fowl, and of every thing that is creeping upon the ground,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 169,
+        "text": "two by two they have come in unto Noah, unto the ark, a male and a female, as God hath commanded Noah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 170,
+        "text": "And it cometh to pass, after the seventh of the days, that waters of the deluge have been on the earth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 171,
+        "text": "In the six hundredth year of the life of Noah, in the second month, in the seventeenth day of the month, in this day have been broken up all fountains of the great deep, and the net-work of the heavens hath been opened,",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 172,
+        "text": "and the shower is on the earth forty days and forty nights.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 173,
+        "text": "In this self-same day went in Noah, and Shem, and Ham, and Japheth, sons of Noah, and Noah's wife and the three wives of his sons with them, unto the ark;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 174,
+        "text": "they, and every living creature after its kind, and every beast after its kind, and every creeping thing that is creeping on the earth after its kind, and every fowl after its kind, every bird -- every wing.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 175,
+        "text": "And they come in unto Noah, unto the ark, two by two of all the flesh in which [is] a living spirit;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 176,
+        "text": "and they that are coming in, male and female of all flesh, have come in as God hath commanded him, and Jehovah doth close [it] for him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 177,
+        "text": "And the deluge is forty days on the earth, and the waters multiply, and lift up the ark, and it is raised up from off the earth;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 178,
+        "text": "and the waters are mighty, and multiply exceedingly upon the earth; and the ark goeth on the face of the waters.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 179,
+        "text": "And the waters have been very very mighty on the earth, and covered are all the high mountains which [are] under the whole heavens;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 180,
+        "text": "fifteen cubits upwards have the waters become mighty, and the mountains are covered;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 181,
+        "text": "and expire doth all flesh that is moving on the earth, among fowl, and among cattle, and among beasts, and among all the teeming things which are teeming on the earth, and all mankind;",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 182,
+        "text": "all in whose nostrils [is] breath of a living spirit -- of all that [is] in the dry land -- have died.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 183,
+        "text": "And wiped away is all the substance that is on the face of the ground, from man unto beast, unto creeping thing, and unto fowl of the heavens; yea, they are wiped away from the earth, and only Noah is left, and those who [are] with him in the ark;",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 184,
+        "text": "and the waters are mighty on the earth a hundred and fifty days.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

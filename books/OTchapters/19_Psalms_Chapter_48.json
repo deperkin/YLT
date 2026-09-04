@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 48,
+    "count": 526,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14636,
+        "text": "A Song, a Psalm, by sons of Korah. Great [is] Jehovah, and praised greatly, In the city of our God -- His holy hill.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14637,
+        "text": "Beautiful [for] elevation, A joy of all the land, [is] Mount Zion, The sides of the north, the city of a great king.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14638,
+        "text": "God in her high places is known for a tower.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14639,
+        "text": "For, lo, the kings met, they passed by together,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14640,
+        "text": "They have seen -- so they have marvelled, They have been troubled, they were hastened away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14641,
+        "text": "Trembling hath seized them there, Pain, as of a travailing woman.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14642,
+        "text": "By an east wind Thou shiverest ships of Tarshish.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14643,
+        "text": "As we have heard, so we have seen, In the city of Jehovah of hosts, In the city of our God, God doth establish her -- to the age. Selah.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14644,
+        "text": "We have thought, O God, of Thy kindness, In the midst of Thy temple,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14645,
+        "text": "As [is] Thy name, O God, so [is] Thy praise, Over the ends of the earth, Righteousness hath filled Thy right hand.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14646,
+        "text": "Rejoice doth Mount Zion, The daughters of Judah are joyful, For the sake of Thy judgments.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14647,
+        "text": "Compass Zion, and go round her, count her towers,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14648,
+        "text": "Set your heart to her bulwark, Consider her high places, So that ye recount to a later generation,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14649,
+        "text": "That this God [is] our God -- To the age and for ever, He -- he doth lead us over death!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

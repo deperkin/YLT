@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 161,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5139,
+        "text": "'All the command which I am commanding thee to-day ye observe to do, so that ye live, and have multiplied, and gone in, and possessed the land which Jehovah hath sworn to your fathers;",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5140,
+        "text": "and thou hast remembered all the way which Jehovah thy God hath caused thee to go these forty years in the wilderness, in order to humble thee to try thee, to know that which [is] in thy heart, whether thou dost keep His commands or not.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5141,
+        "text": "'And He doth humble thee, and cause thee to hunger and doth cause thee to eat the manna (which thou hast not known, even thy fathers have not known), in order to cause thee to know that not by bread alone doth man live, but by every produce of the mouth of Jehovah man doth live.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5142,
+        "text": "'Thy raiment hath not worn out from off thee, and thy foot hath not swelled these forty years,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5143,
+        "text": "and thou hast known, with thy heart, that as a man chastiseth his son Jehovah thy God is chastising thee,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5144,
+        "text": "and thou hast kept the commands of Jehovah thy God, to walk in His ways, and to fear Him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5145,
+        "text": "'For Jehovah thy God is bringing thee in unto a good land, a land of brooks of waters, of fountains, and of depths coming out in valley and in mountain:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5146,
+        "text": "a land of wheat, and barley, and vine, and fig, and pomegranate; a land of oil olive and honey;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5147,
+        "text": "a land in which without scarcity thou dost eat bread, thou dost not lack anything in it; a land whose stones [are] iron, and out of its mountains thou dost dig brass;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5148,
+        "text": "and thou hast eaten, and been satisfied, and hast blessed Jehovah thy God, on the good land which he hath given to thee.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 5149,
+        "text": "'Take heed to thyself, lest thou forget Jehovah thy God so as not to keep His commands, and His judgments, and His statutes which I am commanding thee to-day;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5150,
+        "text": "lest thou eat, and hast been satisfied, and good houses dost build, and hast inhabited;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5151,
+        "text": "and thy herd and thy flock be multiplied, and silver and gold be multiplied to thee; and all that is thine be multiplied:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5152,
+        "text": "'And thy heart hath been high, and thou hast forgotten Jehovah thy God (who is bringing thee out of the land of Egypt, out of a house of servants;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5153,
+        "text": "who is causing thee to go in the great and the terrible wilderness -- burning serpent, and scorpion, and thirst -- where there is no water; who is bringing out to thee waters from the flinty rock;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5154,
+        "text": "who is causing thee to eat manna in the wilderness, which thy fathers have not known, in order to humble thee, and in order to try thee, to do thee good in thy latter end),",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5155,
+        "text": "and thou hast said in thy heart, My power, and the might of my hand, hath made for me this wealth:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5156,
+        "text": "'And thou hast remembered Jehovah thy God, for He it [is] who is giving to thee power to make wealth, in order to establish His covenant which He hath sworn to thy fathers as [at] this day.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5157,
+        "text": "'And it hath been -- if thou really forget Jehovah thy God, and hast gone after other gods, and served them, and bowed thyself to them, I have testified against you to-day that ye do utterly perish;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5158,
+        "text": "as the nations whom Jehovah is destroying from your presence, so ye perish; because ye hearken not to the voice of Jehovah your God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

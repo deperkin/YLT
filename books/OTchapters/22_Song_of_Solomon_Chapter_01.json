@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 672,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17539,
+        "text": "The Song of Songs, that [is] Solomon's.",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17540,
+        "text": "Let him kiss me with kisses of his mouth, For better [are] thy loves than wine.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17541,
+        "text": "For fragrance [are] thy perfumes good. Perfume emptied out -- thy name, Therefore have virgins loved thee!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17542,
+        "text": "Draw me: after thee we run, The king hath brought me into his inner chambers, We do joy and rejoice in thee, We mention thy loves more than wine, Uprightly they have loved thee!",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17543,
+        "text": "Dark [am] I, and comely, daughters of Jerusalem, As tents of Kedar, as curtains of Solomon.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17544,
+        "text": "Fear me not, because I [am] very dark, Because the sun hath scorched me, The sons of my mother were angry with me, They made me keeper of the vineyards, My vineyard -- my own -- I have not kept.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17545,
+        "text": "Declare to me, thou whom my soul hath loved, Where thou delightest, Where thou liest down at noon, For why am I as one veiled, By the ranks of thy companions?",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17546,
+        "text": "If thou knowest not, O fair among women, Get thee forth by the traces of the flock, And feed thy kids by the shepherds' dwellings!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17547,
+        "text": "To my joyous one in chariots of Pharaoh, I have compared thee, my friend,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17548,
+        "text": "Comely have been thy cheeks with garlands, Thy neck with chains.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17549,
+        "text": "Garlands of gold we do make for thee, With studs of silver!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17550,
+        "text": "While the king [is] in his circle, My spikenard hath given its fragrance.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17551,
+        "text": "A bundle of myrrh [is] my beloved to me, Between my breasts it lodgeth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17552,
+        "text": "A cluster of cypress [is] my beloved to me, In the vineyards of En-Gedi!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17553,
+        "text": "Lo, thou [art] fair, my friend, Lo, thou [art] fair, thine eyes [are] doves!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17554,
+        "text": "Lo, thou [art] fair, my love, yea, pleasant, Yea, our couch [is] green,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17555,
+        "text": "The beams of our houses [are] cedars, Our rafters [are] firs, I [am] a rose of Sharon, a lily of the valleys!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

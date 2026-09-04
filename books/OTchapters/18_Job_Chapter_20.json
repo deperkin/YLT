@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 456,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13328,
+        "text": "And Zophar the Naamathite answereth and saith: --",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13329,
+        "text": "Therefore my thoughts cause me to answer, And because of my sensations in me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13330,
+        "text": "The chastisement of my shame I hear, And the spirit of mine understanding Doth cause me to answer:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13331,
+        "text": "This hast thou known from antiquity? Since the placing of man on earth?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13332,
+        "text": "That the singing of the wicked [is] short, And the joy of the profane for a moment,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13333,
+        "text": "Though his excellency go up to the heavens, And his head against a cloud he strike --",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13334,
+        "text": "As his own dung for ever he doth perish, His beholders say: 'Where [is] he?'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13335,
+        "text": "As a dream he fleeth, and they find him not, And he is driven away as a vision of the night,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13336,
+        "text": "The eye hath not seen him, and addeth not. And not again doth his place behold him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13337,
+        "text": "His sons do the poor oppress, And his hands give back his wealth.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13338,
+        "text": "His bones have been full of his youth, And with him on the dust it lieth down.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13339,
+        "text": "Though he doth sweeten evil in his mouth, Doth hide it under his tongue,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13340,
+        "text": "Hath pity on it, and doth not forsake it, And keep it back in the midst of his palate,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13341,
+        "text": "His food in his bowels is turned, The bitterness of asps [is] in his heart.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13342,
+        "text": "Wealth he hath swallowed, and doth vomit it. From his belly God driveth it out.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13343,
+        "text": "Gall of asps he sucketh, Slay him doth the tongue of a viper.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13344,
+        "text": "He looketh not on rivulets, Flowing of brooks of honey and butter.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13345,
+        "text": "He is giving back [what] he laboured for, And doth not consume [it]; As a bulwark [is] his exchange, and he exults not.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13346,
+        "text": "For he oppressed -- he forsook the poor, A house he hath taken violently away, And he doth not build it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13347,
+        "text": "For he hath not known ease in his belly. With his desirable thing he delivereth not himself.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13348,
+        "text": "There is not a remnant to his food, Therefore his good doth not stay.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13349,
+        "text": "In the fulness of his sufficiency he is straitened. Every perverse hand doth meet him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13350,
+        "text": "It cometh to pass, at the filling of his belly, He sendeth forth against him The fierceness of His anger, Yea, He raineth on him in his eating.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 13351,
+        "text": "He fleeth from an iron weapon, Pass through him doth a bow of brass.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13352,
+        "text": "One hath drawn, And it cometh out from the body, And a glittering weapon from his gall proceedeth. On him [are] terrors.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13353,
+        "text": "All darkness is hid for his treasures, Consume him doth a fire not blown, Broken is the remnant in his tent.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13354,
+        "text": "Reveal do the heavens his iniquity, And earth is raising itself against him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13355,
+        "text": "Remove doth the increase of his house, Poured forth in a day of His anger.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13356,
+        "text": "This [is] the portion of a wicked man from God. And an inheritance appointed him by God.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

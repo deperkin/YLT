@@ -1,0 +1,54 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 150,
+    "count": 628,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16396,
+        "text": "Praise ye Jah! Praise ye God in His holy place, Praise Him in the expanse of His strength.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16397,
+        "text": "Praise Him in His mighty acts, Praise Him according to the abundance of His greatness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16398,
+        "text": "Praise Him with blowing of trumpet, Praise Him with psaltery and harp.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16399,
+        "text": "Praise Him with timbrel and dance, Praise Him with stringed instruments and organ.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16400,
+        "text": "Praise Him with cymbals of sounding, Praise Him with cymbals of shouting.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16401,
+        "text": "All that doth breathe doth praise Jah! Praise ye Jah!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

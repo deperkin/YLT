@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 65,
+    "count": 543,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14862,
+        "text": "To the Overseer. -- A Psalm of David. A Song. To Thee, silence -- praise, O God, [is] in Zion, And to Thee is a vow completed.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14863,
+        "text": "Hearer of prayer, to Thee all flesh cometh.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14864,
+        "text": "Matters of iniquities were mightier than I, Our transgressions -- Thou dost cover them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14865,
+        "text": "O the happiness of [him whom] Thou choosest, And drawest near, he inhabiteth Thy courts, We are satisfied with the goodness of Thy house, Thy holy temple.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14866,
+        "text": "By fearful things in righteousness Thou answerest us, O God of our salvation, The confidence of all far off ends of earth and sea.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14867,
+        "text": "Establishing mountains by His power, He hath been girded with might,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14868,
+        "text": "Restraining the noise of seas, the noise of their billows, And the multitude of the peoples.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14869,
+        "text": "And the inhabitants of the uttermost parts From Thy signs are afraid, The outgoings of morning and evening Thou causest to sing.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14870,
+        "text": "Thou hast inspected the earth, and waterest it, Thou makest it very rich, the rivulet of God [is] full of water, Thou preparest their corn, When thus Thou dost prepare it,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14871,
+        "text": "Its ridges have been filled, Deepened hath been its furrow, With showers Thou dost soften it, Its springing up Thou blessest.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14872,
+        "text": "Thou hast crowned the year of Thy goodness, And Thy paths drop fatness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14873,
+        "text": "Drop do the pastures of a wilderness, And joy of the heights Thou girdest on.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14874,
+        "text": "Clothed have lambs the flock, And valleys are covered with corn, They shout -- yea, they sing!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

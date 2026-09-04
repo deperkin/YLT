@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 249,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7487,
+        "text": "A son of a year [is] Saul in his reigning, yea, two years he hath reigned over Israel,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7488,
+        "text": "and Saul chooseth for himself three thousand [men] out of Israel; and two thousand are with Saul in Michmash, and in the hill-country of Beth-El; and a thousand have been with Jonathan in Gibeah of Benjamin; and the remnant of the people he hath sent each to his tents.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7489,
+        "text": "And Jonathan smiteth the garrison of the Philistines which [is] in Geba, and the Philistines hear, and Saul hath blown with a trumpet through all the land, saying, 'Let the Hebrews hear.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7490,
+        "text": "And all Israel have heard, saying, 'Saul hath smitten the garrison of the Philistines,' and also, 'Israel hath been abhorred by the Philistines;' and the people are called after Saul to Gilgal.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7491,
+        "text": "And the Philistines have been gathered to fight with Israel; thirty thousand chariots, and six thousand horsemen, and a people as the sand which [is] on the sea-shore for multitude; and they come up and encamp in Michmash, east of Beth-Aven.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7492,
+        "text": "And the men of Israel have seen that they are distressed, that the people hath been oppressed, and the people hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7493,
+        "text": "And Hebrews have passed over the Jordan to the land of Gad and Gilead; and Saul [is] yet in Gilgal, and all the people have trembled after him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7494,
+        "text": "And he waiteth seven days, according to the appointment with Samuel, and Samuel hath not come to Gilgal, and the people are scattered from off him.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 7495,
+        "text": "And Saul saith, 'Bring nigh unto me the burnt-offering, and the peace-offerings;' and he causeth the burnt-offering to ascend.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7496,
+        "text": "And it cometh to pass at his completing to cause the burnt-offering to ascend, that lo, Samuel hath come, and Saul goeth out to meet him, to bless him;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7497,
+        "text": "and Samuel saith, 'What hast thou done?' And Saul saith, 'Because I saw that the people were scattered from off me, and thou hadst not come at the appointment of the days, and the Philistines are gathered to Michmash,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7498,
+        "text": "and I say, Now do the Philistines come down unto me to Gilgal, and the face of Jehovah I have not appeased; and I force myself, and cause the burnt-offering to ascend.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7499,
+        "text": "And Samuel saith unto Saul, 'Thou hast been foolish; thou hast not kept the command of Jehovah thy God, which He commanded thee, for now had Jehovah established thy kingdom over Israel unto the age;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7500,
+        "text": "and, now, thy kingdom doth not stand, Jehovah hath sought for Himself a man according to His own heart, and Jehovah chargeth him for leader over His people, for thou hast not kept that which Jehovah commanded thee.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7501,
+        "text": "And Samuel riseth, and goeth up from Gilgal to Gibeah of Benjamin; and Saul inspecteth the people who are found with him, about six hundred men,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 7502,
+        "text": "and Saul, and Jonathan his son, and the people who are found with them, are abiding in Gibeah of Benjamin, and the Philistines have encamped in Michmash.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7503,
+        "text": "And the destroyer goeth out from the camp of the Philistines -- three detachments; the one detachment turneth unto the way of Ophrah, unto the land of Shual;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7504,
+        "text": "and the one detachment turneth the way of Beth-Horon, and the one detachment turneth the way of the border which is looking on the valley of the Zeboim, toward the wilderness.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7505,
+        "text": "And an artificer is not found in all the land of Israel, for the Philistines said, 'Lest the Hebrews make sword or spear;'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7506,
+        "text": "and all Israel go down to the Philistines, to sharpen each his ploughshare, and his coulter, and his axe, and his mattock;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7507,
+        "text": "and there hath been the file for mattocks, and for coulters, and for three-pronged rakes, and for the axes, and to set up the goads.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7508,
+        "text": "And it hath been, in the day of battle, that there hath not been found sword and spear in the hand of any of the people who [are] with Saul and with Jonathan -- and there is found to Saul and to Jonathan his son.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 7509,
+        "text": "And the station of the Philistines goeth out unto the passage of Michmash.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

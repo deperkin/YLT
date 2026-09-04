@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 314,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9535,
+        "text": "And Moab transgresseth against Israel after the death of Ahab,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9536,
+        "text": "and Ahaziah falleth through the lattice in his upper chamber that [is] in Samaria, and is sick, and sendeth messengers, and saith unto them, 'Go ye, inquire of Baal-Zebub god of Ekron if I recover from this sickness.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9537,
+        "text": "And a messenger of Jehovah hath spoken unto Elijah the Tishbite, 'Rise, go up to meet the messengers of the king of Samaria, and speak unto them, Is it because there is not a God in Israel -- ye are going to inquire of Baal Zebub god of Ekron?",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9538,
+        "text": "and therefore, thus said Jehovah, The bed whither thou hast gone up, thou dost not come down from it, for thou dost certainly die;' and Elijah goeth on.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9539,
+        "text": "And the messengers turn back unto him, and he saith unto them, 'What [is] this -- ye have turned back!'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9540,
+        "text": "And they say unto him, 'A man hath come up to meet us, and saith unto us, Go, turn back unto the king who sent you, and ye have said unto him, Thus said Jehovah, Is it because there is not a God in Israel -- thou art sending to inquire of Baal-Zebub god of Ekron? therefore, the bed whither thou hast gone up, thou dost not come down from it, for thou dost certainly die.'",
+        "WordCount": 76,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9541,
+        "text": "And he saith unto them, 'What [is] the fashion of the man who hath come up to meet you, and speaketh unto you these words?'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9542,
+        "text": "And they say unto him, 'A man -- hairy, and a girdle of skin girt about his loins;' and he saith, 'He [is] Elijah the Tishbite.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9543,
+        "text": "And he sendeth unto him a head of fifty and his fifty, and he goeth up unto him (and lo, he is sitting on the top of the hill), and he speaketh unto him, 'O man of God, the king hath spoken, Come down.'",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 9544,
+        "text": "And Elijah answereth and speaketh unto the head of the fifty, 'And if I [am] a man of God, fire doth come down from the heavens, and consume thee and thy fifty;' and fire cometh down from the heavens, and consumeth him and his fifty.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9545,
+        "text": "And he turneth and sendeth unto him another head of fifty and his fifty, and he answereth and speaketh unto him, 'O man of God, thus said the king, Haste, come down.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9546,
+        "text": "And Elijah answereth and speaketh unto them, 'If I [am] a man of God, fire doth come down from the heavens, and consume thee and thy fifty;' and fire of God cometh down from the heavens, and consumeth him and his fifty.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9547,
+        "text": "And he turneth and sendeth a third head of fifty and his fifty, and the third head of fifty goeth up, and cometh in, and boweth on his knees over-against Elijah, and maketh supplication unto him, and speaketh unto him, 'O man of God, let be precious, I pray thee, my soul and the soul of thy servants -- these fifty -- in thine eyes.",
+        "WordCount": 65,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9548,
+        "text": "Lo, come down hath fire from the heavens, and consumeth the two heads of the former fifties and their fifties; and, now, let my soul be precious in thine eyes.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9549,
+        "text": "And a messenger of Jehovah speaketh unto Elijah, 'Go down with him, be not afraid of him;' and he riseth and goeth down with him unto the king,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 9550,
+        "text": "and speaketh unto him, 'Thus said Jehovah, Because that thou hast sent messengers to inquire of Baal-Zebub god of Ekron -- is it because there is not a God in Israel to inquire of His word? therefore, the bed whither thou hast gone up -- thou dost not come down from it, for thou dost certainly die.'",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9551,
+        "text": "And he dieth, according to the word of Jehovah that Elijah spake, and Jehoram reigneth in his stead, in the second year of Jehoram son of Jehoshaphat king of Judah, for he had no son.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9552,
+        "text": "And the rest of the matters of Ahaziah that he did, are they not written on the book of the Chronicles of the kings of Israel?",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

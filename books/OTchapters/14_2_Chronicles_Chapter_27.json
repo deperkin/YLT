@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 394,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11757,
+        "text": "A son of twenty and five years [is] Jotham in his reigning, and sixteen years he hath reigned in Jerusalem, and the name of his mother [is] Jerushah daughter of Zadok.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11758,
+        "text": "And he doth that which is right in the eyes of Jehovah, according to all that Uzziah his father did; only, he hath not come in unto the temple of Jehovah; and again are the people doing corruptly.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11759,
+        "text": "He hath built the upper gate of the house of Jehovah, and in the wall of Ophel he hath built abundantly;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11760,
+        "text": "and cities he hath built in the hill-country of Judah, and in the forests he hath built palaces and towers.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11761,
+        "text": "And he hath fought with the king of the sons of Ammon, and prevaileth over them, and the sons of Ammon give to him in that year a hundred talents of silver, and ten thousand cors of wheat, and of barley ten thousand; this have the sons of Ammon returned to him both in the second year, and in the third.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11762,
+        "text": "And Jotham doth strengthen himself, for he hath prepared his ways before Jehovah his God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11763,
+        "text": "And the rest of the matters of Jotham, and all his battles, and his ways, lo, they are written on the book of the kings of Israel and Judah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11764,
+        "text": "A son of twenty and five years was he in his reigning, and sixteen years he hath reigned in Jerusalem;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11765,
+        "text": "and Jotham lieth with his fathers, and they bury him in the city of David, and reign doth Ahaz his son in his stead.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

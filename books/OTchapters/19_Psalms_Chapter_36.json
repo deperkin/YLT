@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 36,
+    "count": 514,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14440,
+        "text": "To the Overseer. -- By a servant of Jehovah, by David. The transgression of the wicked Is affirming within my heart, 'Fear of God is not before his eyes,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14441,
+        "text": "For he made [it] smooth to himself in his eyes, To find his iniquity to be hated.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14442,
+        "text": "The words of his mouth [are] iniquity and deceit, He ceased to act prudently -- to do good.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14443,
+        "text": "Iniquity he deviseth on his bed, He stationeth himself on a way not good, Evil he doth not refuse.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14444,
+        "text": "O Jehovah, in the heavens [is] Thy kindness, Thy faithfulness [is] unto the clouds.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 14445,
+        "text": "Thy righteousness [is] as mountains of God, Thy judgments [are] a great deep. Man and beast Thou savest, O Jehovah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14446,
+        "text": "How precious [is] Thy kindness, O God, And the sons of men In the shadow of Thy wings do trust.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14447,
+        "text": "They are filled from the fatness of Thy house, And the stream of Thy delights Thou dost cause them to drink.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14448,
+        "text": "For with Thee [is] a fountain of life, In Thy light we see light.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14449,
+        "text": "Draw out Thy kindness to those knowing Thee, And Thy righteousness to the upright of heart.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14450,
+        "text": "Let not a foot of pride meet me, And a hand of the wicked let not move me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14451,
+        "text": "There have workers of iniquity fallen, They have been overthrown, And have not been able to arise!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

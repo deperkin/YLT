@@ -1,0 +1,264 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 71,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2079,
+        "text": "'And these [are] the judgments which thou dost set before them:",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2080,
+        "text": "'When thou buyest a Hebrew servant -- six years he doth serve, and in the seventh he goeth out as a freeman for nought;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2081,
+        "text": "if by himself he cometh in, by himself he goeth out; if he [is] owner of a wife, then his wife hath gone out with him;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2082,
+        "text": "if his lord give to him a wife, and she hath borne to him sons or daughters -- the wife and her children are her lord's, and he goeth out by himself.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2083,
+        "text": "'And if the servant really say: I have loved my lord, my wife, and my sons -- I do not go out free;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2084,
+        "text": "then hath his lord brought him nigh unto God, and hath brought him nigh unto the door, or unto the side-post, and his lord hath bored his ear with an awl, and he hath served him -- to the age.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2085,
+        "text": "'And when a man selleth his daughter for a handmaid, she doth not go out according to the going out of the men-servants;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2086,
+        "text": "if evil in the eyes of her lord, so that he hath not betrothed her, then he hath let her be ransomed; to a strange people he hath not power to sell her, in his dealing treacherously with her.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2087,
+        "text": "'And if to his son he betroth her, according to the right of daughters he doth to her.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2088,
+        "text": "'If another [woman] he take for him, her food, her covering, and her habitation, he doth not withdraw;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2089,
+        "text": "and if these three he do not to her, then she hath gone out for nought, without money.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2090,
+        "text": "'He who smiteth a man so that he hath died, is certainly put to death;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 2091,
+        "text": "as to him who hath not laid wait, and God hath brought to his hand, I have even set for thee a place whither he doth flee.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2092,
+        "text": "'And when a man doth presume against his neighbour to slay him with subtilty, from Mine altar thou dost take him to die.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2093,
+        "text": "'And he who smiteth his father or his mother is certainly put to death.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2094,
+        "text": "'And he who stealeth a man, and hath sold him, and he hath been found in his hand, is certainly put to death.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2095,
+        "text": "'And he who is reviling his father or his mother is certainly put to death.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2096,
+        "text": "'And when men contend, and a man hath smitten his neighbour with a stone, or with the fist, and he die not, but hath fallen on the bed;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2097,
+        "text": "if he rise, and hath gone up and down without on his staff, then hath the smiter been acquitted; only his cessation he giveth, and he is thoroughly healed.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2098,
+        "text": "'And when a man smiteth his man-servant or his handmaid, with a rod, and he hath died under his hand -- he is certainly avenged;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2099,
+        "text": "only if he remain a day, or two days, he is not avenged, for he [is] his money.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2100,
+        "text": "'And when men strive, and have smitten a pregnant woman, and her children have come out, and there is no mischief, he is certainly fined, as the husband of the woman doth lay upon him, and he hath given through the judges;",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 2101,
+        "text": "and if there is mischief, then thou hast given life for life,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2102,
+        "text": "eye for eye, tooth for tooth, hand for hand, foot for foot,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2103,
+        "text": "burning for burning, wound for wound, stripe for stripe.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2104,
+        "text": "'And when a man smiteth the eye of his man-servant, or the eye of his handmaid, and hath destroyed it, as a freeman he doth send him away for his eye;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2105,
+        "text": "and if a tooth of his man-servant or a tooth of his handmaid he knock out, as a freeman he doth send him away for his tooth.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2106,
+        "text": "'And when an ox doth gore man or woman, and they have died, the ox is certainly stoned, and his flesh is not eaten, and the owner of the ox [is] acquitted;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2107,
+        "text": "and if the ox is [one] accustomed to gore heretofore, and it hath been testified to its owner, and he doth not watch it, and it hath put to death a man or woman, the ox is stoned, and its owner also is put to death.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2108,
+        "text": "'If atonement is laid upon him, then he hath given the ransom of his life, according to all that is laid upon him;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 2109,
+        "text": "whether it gore a son or gore a daughter, according to this judgment it is done to him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 2110,
+        "text": "'If the ox gore a man-servant or a handmaid, thirty silver shekels he doth give to their lord, and the ox is stoned.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 2111,
+        "text": "'And when a man doth open a pit, or when a man doth dig a pit, and doth not cover it, and an ox or ass hath fallen thither, --",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 2112,
+        "text": "the owner of the pit doth repay, money he doth give back to its owner, and the dead is his.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 2113,
+        "text": "'And when a man's ox doth smite the ox of his neighbour, and it hath died, then they have sold the living ox, and halved its money, and also the dead one they do halve;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 2114,
+        "text": "or, it hath been known that the ox is [one] accustomed to gore heretofore, and its owner doth not watch it, he certainly repayeth ox for ox, and the dead is his.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

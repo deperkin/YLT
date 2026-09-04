@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 41,
+    "count": 519,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14544,
+        "text": "To the Overseer. -- A Psalm of David. O the happiness of him Who is acting wisely unto the poor, In a day of evil doth Jehovah deliver him.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14545,
+        "text": "Jehovah doth preserve him and revive him, He is happy in the land, And Thou givest him not into the will of his enemies.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14546,
+        "text": "Jehovah supporteth on a couch of sickness, All his bed Thou hast turned in his weakness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14547,
+        "text": "I -- I said, 'O Jehovah, favour me, Heal my soul, for I did sin against Thee,'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14548,
+        "text": "Mine enemies say evil of me: When he dieth -- his name hath perished!",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 14549,
+        "text": "And if he came to see -- vanity he speaketh, His heart gathereth iniquity to itself, He goeth out -- at the street he speaketh.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14550,
+        "text": "All hating me whisper together against me, Against me they devise evil to me:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14551,
+        "text": "A thing of Belial is poured out on him, And because he lay down he riseth not again.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14552,
+        "text": "Even mine ally, in whom I trusted, One eating my bread, made great the heel against me,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14553,
+        "text": "And Thou, Jehovah, favour me, And cause me to rise, And I give recompence to them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14554,
+        "text": "By this I have known, That Thou hast delighted in me, Because my enemy shouteth not over me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14555,
+        "text": "As to me, in mine integrity, Thou hast taken hold upon me, And causest me to stand before Thee to the age.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14556,
+        "text": "Blessed [is] Jehovah, God of Israel, From the age -- and unto the age. Amen and Amen.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

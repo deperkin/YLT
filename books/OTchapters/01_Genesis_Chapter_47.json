@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 47,
+    "count": 47,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1422,
+        "text": "And Joseph cometh, and declareth to Pharaoh, and saith, 'My father, and my brethren, and their flock, and their herd, and all they have, have come from the land of Canaan, and lo, they [are] in the land of Goshen.'",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1423,
+        "text": "And out of his brethren he hath taken five men, and setteth them before Pharaoh;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1424,
+        "text": "and Pharaoh saith unto his brethren, 'What [are] your works?' and they say unto Pharaoh, 'Thy servants [are] feeders of a flock, both we and our fathers;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1425,
+        "text": "and they say unto Pharaoh, 'To sojourn in the land we have come, for there is no pasture for the flock which thy servants have, for grievous [is] the famine in the land of Canaan; and now, let thy servants, we pray thee, dwell in the land of Goshen.'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1426,
+        "text": "And Pharaoh speaketh unto Joseph, saying, 'Thy father and thy brethren have come unto thee:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1427,
+        "text": "the land of Egypt is before thee; in the best of the land cause thy father and thy brethren to dwell -- they dwell in the land of Goshen, and if thou hast known, and there are among them men of ability, then thou hast set them heads over the cattle I have.'",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1428,
+        "text": "And Joseph bringeth in Jacob his father, and causeth him to stand before Pharaoh; and Jacob blesseth Pharaoh.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1429,
+        "text": "And Pharaoh saith unto Jacob, 'How many [are] the days of the years of thy life?'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1430,
+        "text": "And Jacob saith unto Pharaoh, 'The days of the years of my sojournings [are] an hundred and thirty years; few and evil have been the days of the years of my life, and they have not reached the days of the years of the life of my fathers, in the days of their sojournings.'",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1431,
+        "text": "And Jacob blesseth Pharaoh, and goeth out from before Pharaoh.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1432,
+        "text": "And Joseph settleth his father and his brethren, and giveth to them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh commanded;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1433,
+        "text": "and Joseph nourisheth his father, and his brethren, and all the house of his father [with] bread, according to the mouth of the infants.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1434,
+        "text": "And there is no bread in all the land, for the famine [is] very grievous, and the land of Egypt and the land of Canaan are feeble because of the famine;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 1435,
+        "text": "and Joseph gathereth all the silver that is found in the land of Egypt, and in the land of Canaan, for the corn that they are buying, and Joseph bringeth the silver into the house of Pharaoh.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1436,
+        "text": "And the silver is consumed out of the land of Egypt, and out of the land of Canaan, and all the Egyptians come in unto Joseph, saying, 'Give to us bread -- why do we die before thee, though the money hath ceased?'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1437,
+        "text": "and Joseph saith, 'Give your cattle; and I give to you for your cattle, if the money hath ceased.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1438,
+        "text": "And they bring in their cattle unto Joseph, and Joseph giveth to them bread, for the horses, and for the cattle of the flock, and for the cattle of the herd, and for the asses; and he tendeth them with bread, for all their cattle, during that year.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1439,
+        "text": "And that year is finished, and they come in unto him on the second year, and say to him, 'We do not hide from my lord, that since the money hath been finished, and possession of the cattle [is] unto my lord, there hath not been left before my lord save our bodies, and our ground;",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1440,
+        "text": "why do we die before thine eyes, both we and our ground? buy us and our ground for bread, and we and our ground are servants to Pharaoh; and give seed, and we live, and die not, and the ground is not desolate.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1441,
+        "text": "And Joseph buyeth all the ground of Egypt for Pharaoh, for the Egyptians have sold each his field, for the famine hath been severe upon them, and the land becometh Pharaoh's;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1442,
+        "text": "as to the people he hath removed them to cities from the [one] end of the border of Egypt even unto its [other] end.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1443,
+        "text": "Only the ground of the priests he hath not bought, for the priests have a portion from Pharaoh, and they have eaten their portion which Pharaoh hath given to them, therefore they have not sold their ground.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1444,
+        "text": "And Joseph saith unto the people, 'Lo, I have bought you to-day and your ground for Pharaoh; lo, seed for you, and ye have sown the ground,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1445,
+        "text": "and it hath come to pass in the increases, that ye have given a fifth to Pharaoh, and four of the parts are for yourselves, for seed of the field, and for your food, and for those who [are] in your houses, and for food for your infants.'",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1446,
+        "text": "And they say, 'Thou hast revived us; we find grace in the eyes of my lord, and have been servants to Pharaoh;'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1447,
+        "text": "and Joseph setteth it for a statute unto this day, concerning the ground of Egypt, [that] Pharaoh hath a fifth; only the ground of the priests alone hath not become Pharaoh's.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1448,
+        "text": "And Israel dwelleth in the land of Egypt, in the land of Goshen, and they have possession in it, and are fruitful, and multiply exceedingly;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 1449,
+        "text": "and Jacob liveth in the land of Egypt seventeen years, and the days of Jacob, the years of his life, are an hundred and forty and seven years.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1450,
+        "text": "And the days of Israel are near to die, and he calleth for his son, for Joseph, and saith to him, 'If, I pray thee, I have found grace in thine eyes, put, I pray thee, thy hand under my thigh, and thou hast done with me kindness and truth; bury me not, I pray thee, in Egypt,",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1451,
+        "text": "and I have lain with my fathers, and thou hast borne me out of Egypt, and buried me in their burying-place.' And he saith, 'I -- I do according to thy word;'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1452,
+        "text": "and he saith, 'Swear to me;' and he sweareth to him, and Israel boweth himself on the head of the bed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

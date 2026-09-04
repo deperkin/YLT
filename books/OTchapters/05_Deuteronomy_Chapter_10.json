@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 163,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5188,
+        "text": "'At that time hath Jehovah said unto me, Grave for thee two tables of stone, like the first, and come up unto Me, into the mount, and thou hast made for thee an ark of wood,",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5189,
+        "text": "and I write on the tables the words which were on the first tables, which thou hast broken, and thou hast placed them in the ark;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5190,
+        "text": "and I make an ark of shittim wood, and grave two tables of stone like the first, and go up to the mount, and the two tables in my hand.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5191,
+        "text": "'And He writeth on the tables, according to the first writing, the Ten Matters, which Jehovah hath spoken unto you in the mount, out of the midst of the fire, in the day of the assembly, and Jehovah giveth them unto me,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5192,
+        "text": "and I turn and come down from the mount, and put the tables in the ark which I had made, and they are there, as Jehovah commanded me.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5193,
+        "text": "'And the sons of Israel have journeyed from Beeroth of the sons of Jaakan to Mosera, there Aaron died, and he is buried there, and Eleazar his son doth act as priest in his stead;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5194,
+        "text": "thence they journeyed to Gudgodah, and from Gudgodah to Jotbathah, a land of brooks of water.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5195,
+        "text": "'At that time hath Jehovah separated the tribe of Levi, to bear the ark of the covenant of Jehovah, to stand before Jehovah, to serve Him, and to bless in His name, unto this day,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5196,
+        "text": "therefore there hath not been to Levi a portion and inheritance with his brethren; Jehovah Himself [is] his inheritance, as Jehovah thy God hath spoken to him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5197,
+        "text": "'And I -- I have stood in the mount, as the former days, forty days and forty nights, and Jehovah hearkeneth unto me also at that time; Jehovah hath not willed to destroy thee.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5198,
+        "text": "'And Jehovah saith unto me, Rise, go to journey before the people, and they go in and possess the land which I have sworn to their fathers to give to them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5199,
+        "text": "'And now, Israel, what is Jehovah thy God asking from thee, except to fear Jehovah thy God, to walk in all His ways, and to love Him, and to serve Jehovah thy God with all thy heart, and with all thy soul,",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 5200,
+        "text": "to keep the commands of Jehovah, and His statutes which I am commanding thee to-day, for good to thee?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5201,
+        "text": "'Lo, to Jehovah thy God [are] the heavens and the heavens of the heavens, the earth and all that [is] in it;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5202,
+        "text": "only in thy fathers hath Jehovah delighted -- to love them, and He doth fix on their seed after them -- on you, out of all the peoples as [at] this day;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5203,
+        "text": "and ye have circumcised the foreskin of your heart, and your neck ye do not harden any more;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5204,
+        "text": "for Jehovah your God -- He [is] God of the gods, and Lord of the lords; God, the great, the mighty, and the fearful; who accepteth not persons, nor taketh a bribe;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5205,
+        "text": "He is doing the judgment of fatherless and widow, and loving the sojourner, to give to him bread and raiment.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5206,
+        "text": "'And ye have loved the sojourner, for sojourners ye were in the land of Egypt.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5207,
+        "text": "'Jehovah thy God thou dost fear, Him thou dost serve, and to Him thou dost cleave, and by His name thou dost swear.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5208,
+        "text": "He [is] thy praise, and He [is] thy God, who hath done with thee these great and fearful [things] which thine eyes have seen:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5209,
+        "text": "with seventy persons did thy fathers go down to Egypt, and now hath Jehovah thy God made thee as stars of the heavens for multitude.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

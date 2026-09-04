@@ -1,0 +1,257 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 651,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17046,
+        "text": "When thou sittest to eat with a ruler, Thou considerest diligently that which [is] before thee,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17047,
+        "text": "And thou hast put a knife to thy throat, If thou [art] a man of appetite.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17048,
+        "text": "Have no desire to his dainties, seeing it [is] lying food.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17049,
+        "text": "Labour not to make wealth, From thine own understanding cease, Dost thou cause thine eyes to fly upon it? Then it is not.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17050,
+        "text": "For wealth maketh to itself wings, As an eagle it flieth to the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17051,
+        "text": "Eat not the bread of an evil eye, And have no desire to his dainties,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17052,
+        "text": "For as he hath thought in his soul, so [is] he, 'Eat and drink,' saith he to thee, And his heart [is] not with thee.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17053,
+        "text": "Thy morsel thou hast eaten thou dost vomit up, And hast marred thy words that [are] sweet.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17054,
+        "text": "In the ears of a fool speak not, For he treadeth on the wisdom of thy words.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17055,
+        "text": "Remove not a border of olden times, And into fields of the fatherless enter not,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17056,
+        "text": "For their Redeemer [is] strong, He doth plead their cause with thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17057,
+        "text": "Bring in to instruction thy heart, And thine ear to sayings of knowledge.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17058,
+        "text": "Withhold not from a youth chastisement, When thou smitest him with a rod he dieth not.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17059,
+        "text": "Thou with a rod smitest him, And his soul from Sheol thou deliverest.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17060,
+        "text": "My son, if thy heart hath been wise, My heart rejoiceth, even mine,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17061,
+        "text": "And my reins exult when thy lips speak uprightly.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17062,
+        "text": "Let not thy heart be envious at sinners, But -- in the fear of Jehovah all the day.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17063,
+        "text": "For, is there a posterity? Then thy hope is not cut off.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17064,
+        "text": "Hear thou, my son, and be wise, And make happy in the way thy heart,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 17065,
+        "text": "Be not thou among quaffers of wine, Among gluttonous ones of flesh,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17066,
+        "text": "For the quaffer and glutton become poor, And drowsiness clotheth with rags.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17067,
+        "text": "Hearken to thy father, who begat thee, And despise not thy mother when she hath become old.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17068,
+        "text": "Truth buy, and sell not, Wisdom, and instruction, and understanding,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17069,
+        "text": "The father of the righteous rejoiceth greatly, The begetter of the wise rejoiceth in him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 17070,
+        "text": "Rejoice doth thy father and thy mother, Yea, she that bare thee is joyful.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17071,
+        "text": "Give, my son, thy heart to me, And let thine eyes watch my ways.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17072,
+        "text": "For a harlot [is] a deep ditch, And a strange woman [is] a strait pit.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 17073,
+        "text": "She also, as catching prey, lieth in wait, And the treacherous among men she increaseth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 17074,
+        "text": "Who hath woe? who hath sorrow? Who hath contentions? who hath plaint? Who hath wounds without cause? Who hath redness of eyes?",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 17075,
+        "text": "Those tarrying by the wine, Those going in to search out mixed wine.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 17076,
+        "text": "See not wine when it showeth itself red, When it giveth in the cup its colour, It goeth up and down through the upright.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 17077,
+        "text": "Its latter end -- as a serpent it biteth, And as a basilisk it stingeth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 17078,
+        "text": "Thine eyes see strange women, And thy heart speaketh perverse things.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 17079,
+        "text": "And thou hast been as one lying down in the heart of the sea, And as one lying down on the top of a mast.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 17080,
+        "text": "'They smote me, I have not been sick, They beat me, I have not known. When I awake -- I seek it yet again!'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

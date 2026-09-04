@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 873,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22242,
+        "text": "Because Israel [is] a youth, and I love him, Out of Egypt I have called for My Son.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22243,
+        "text": "They have called to them rightly, They have gone from before them, To lords they do sacrifice, And to graven images they make perfume.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22244,
+        "text": "And I have caused Ephraim to go on foot, Taking them by their arms, And they have not known that I strengthened them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22245,
+        "text": "With cords of man I do draw them, With thick cords of love, And I am to them as a raiser up of a yoke on their jaws, And I incline unto him -- I feed [him].",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22246,
+        "text": "He turneth not back unto the land of Egypt, And Asshur -- he [is] his king, For they have refused to return.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22247,
+        "text": "Grievous hath been the sword in his cities, And it hath ended his bars, and consumed -- from their own counsels.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22248,
+        "text": "And My people are hanging in suspense, about My returning, And unto the Most High they do call, Together they exalt not.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22249,
+        "text": "How do I give thee up, O Ephraim? Do I deliver thee up, O Israel? How do I make thee as Admah? Do I set thee as Zeboim? Turned in Me is My heart, kindled together have been My repentings.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22250,
+        "text": "I do not the fierceness of My anger, I turn not back to destroy Ephraim, For God I [am], and not a man. In thy midst the Holy One, and I enter not in enmity,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22251,
+        "text": "After Jehovah they go -- as a lion He roareth, When He doth roar, then tremble do the sons from the west.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22252,
+        "text": "They tremble as a sparrow out of Egypt, And as a dove out of the land of Asshur, And I have caused them to dwell in their own houses, An affirmation of Jehovah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22253,
+        "text": "Compassed Me with feigning hath Ephraim, And with deceit the house of Israel. And Judah again is ruling with God, And with the Holy Ones [is] faithful!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

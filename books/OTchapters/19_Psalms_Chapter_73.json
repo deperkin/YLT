@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 73,
+    "count": 551,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15022,
+        "text": "A Psalm of Asaph. Only -- good to Israel [is] God, to the clean of heart. And I -- as a little thing, My feet have been turned aside,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15023,
+        "text": "As nothing, have my steps slipped, For I have been envious of the boastful,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15024,
+        "text": "The peace of the wicked I see, That there are no bands at their death,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15025,
+        "text": "And their might [is] firm.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15026,
+        "text": "In the misery of mortals they are not, And with common men they are not plagued.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15027,
+        "text": "Therefore hath pride encircled them, Violence covereth them as a dress.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15028,
+        "text": "Their eye hath come out from fat. The imaginations of the heart transgressed;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15029,
+        "text": "They do corruptly, And they speak in the wickedness of oppression, From on high they speak.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15030,
+        "text": "They have set in the heavens their mouth, And their tongue walketh in the earth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15031,
+        "text": "Therefore do His people return hither, And waters of fulness are wrung out to them.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15032,
+        "text": "And they have said, 'How hath God known? And is there knowledge in the Most High?'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15033,
+        "text": "Lo, these [are] the wicked and easy ones of the age, They have increased strength.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15034,
+        "text": "Only -- a vain thing! I have purified my heart, And I wash in innocency my hands,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15035,
+        "text": "And I am plagued all the day, And my reproof [is] every morning.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15036,
+        "text": "If I have said, 'I recount thus,' Lo, a generation of Thy sons I have deceived.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 15037,
+        "text": "And I think to know this, Perverseness it [is] in mine eyes,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15038,
+        "text": "Till I come in to the sanctuaries of God, I attend to their latter end.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15039,
+        "text": "Only, in slippery places Thou dost set them, Thou hast caused them to fall to desolations.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15040,
+        "text": "How have they become a desolation as in a moment, They have been ended -- consumed from terrors.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15041,
+        "text": "As a dream from awakening, O Lord, In awaking, their image Thou despisest.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15042,
+        "text": "For my heart doth show itself violent, And my reins prick themselves,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 15043,
+        "text": "And I am brutish, and do not know. A beast I have been with Thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15044,
+        "text": "And I [am] continually with Thee, Thou hast laid hold on my right hand.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15045,
+        "text": "With Thy counsel Thou dost lead me, And after honour dost receive me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15046,
+        "text": "Whom have I in the heavens? And with Thee none I have desired in earth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15047,
+        "text": "Consumed hath been my flesh and my heart, The rock of my heart and my portion [is] God to the age.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15048,
+        "text": "For, lo, those far from Thee do perish, Thou hast cut off every one, Who is going a whoring from Thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15049,
+        "text": "And I -- nearness of God to me [is] good, I have placed in the Lord Jehovah my refuge, To recount all Thy works!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

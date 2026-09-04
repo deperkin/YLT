@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 110,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3320,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3321,
+        "text": "'And unto the sons of Israel thou dost say, Any man of the sons of Israel, and of the sojourners who is sojourning in Israel, who giveth of his seed to the Molech, is certainly put to death; the people of the land do stone him with stones;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3322,
+        "text": "and I -- I set My face against that man, and have cut him off from the midst of his people, for of his seed he hath given to the Molech, so as to defile My sanctuary, and to pollute My holy name.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3323,
+        "text": "'And if the people of the land really hide their eyes from that man, in his giving of his seed to the Molech, so as not to put him to death,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3324,
+        "text": "then I have set My face against that man, and against his family, and have cut him off, and all who are going a-whoring after him, even going a-whoring after the Molech, from the midst of their people.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3325,
+        "text": "'And the person who turneth unto those having familiar spirits, and unto the wizards, to go a-whoring after them, I have even set My face against that person, and cut him off from the midst of his people.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3326,
+        "text": "'And ye have sanctified yourselves, and ye have been holy, for I [am] Jehovah your God;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3327,
+        "text": "and ye have kept My statutes and have done them; I [am] Jehovah, sanctifying you.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3328,
+        "text": "'For any man who revileth his father and his mother is certainly put to death; his father and his mother he hath reviled: his blood [is] on him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3329,
+        "text": "'And a man who committeth adultery with a man's wife -- who committeth adultery with the wife of his neighbour -- the adulterer and the adulteress are surely put to death.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 3330,
+        "text": "'And a man who lieth with his father's wife -- the nakedness of his father he hath uncovered -- both of them are certainly put to death; their blood [is] on them.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3331,
+        "text": "'And a man who lieth with his daughter-in-law -- both of them are certainly put to death; confusion they have made; their blood [is] on them.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3332,
+        "text": "'And a man who lieth with a male as one lieth with a woman; abomination both of them have done; they are certainly put to death; their blood [is] on them.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3333,
+        "text": "'And a man who taketh the woman and her mother -- it [is] wickedness; with fire they burn him and them, and there is no wickedness in your midst.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3334,
+        "text": "'And a man who giveth his lying with a beast is certainly put to death, and the beast ye do slay.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3335,
+        "text": "'And a woman who draweth near unto any beast to lie with it -- thou hast even slain the woman and the beast; they are certainly put to death; their blood [is] on them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3336,
+        "text": "'And a man who taketh his sister, a daughter of his father or daughter of his mother, and he hath seen her nakedness, and she seeth his nakedness: it is a shame; and they have been cut off before the eyes of the sons of their people; the nakedness of his sister he hath uncovered; his iniquity he beareth.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3337,
+        "text": "'And a man who lieth with a sick woman, and hath uncovered her nakedness, her fountain he hath made bare, and she hath uncovered the fountain of her blood, -- even both of them have been cut off from the midst of their people.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3338,
+        "text": "'And the nakedness of thy mother's sister, and of thy father's sister, thou dost not uncover; because his relation he hath made bare; their iniquity they bear.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3339,
+        "text": "'And a man who lieth with his aunt, the nakedness of his uncle he hath uncovered; their sin they bear; childless they die.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3340,
+        "text": "'And a man who taketh his brother's wife -- it [is] impurity; the nakedness of his brother he hath uncovered; childless they are.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3341,
+        "text": "'And ye have kept all My statutes, and all My judgments, and have done them, and the land vomiteth you not out whither I am bringing you in to dwell in it;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 3342,
+        "text": "and ye walk not in the statutes of the nation which I am sending away from before you, for all these they have done, and I am wearied with them;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3343,
+        "text": "and I say to you, Ye -- ye do possess their ground, and I -- I give it to you to possess it, a land flowing with milk and honey; I [am] Jehovah your God, who hath separated you from the peoples.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3344,
+        "text": "'And ye have made separation between the pure beasts and the unclean, and between the unclean fowl and the pure, and ye do not make yourselves abominable by beast or by fowl, or by anything which creepeth [on] the ground which I have separated to you for unclean;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3345,
+        "text": "and ye have been holy to Me; for holy [am] I, Jehovah; and I separate you from the peoples to become Mine.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3346,
+        "text": "'And a man or woman -- when there is in them a familiar spirit, or who [are] wizards -- are certainly put to death; with stones they stone them; their blood [is] on them.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 453,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13262,
+        "text": "My spirit hath been destroyed, My days extinguished -- graves [are] for me.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13263,
+        "text": "If not -- mockeries [are] with me. And in their provocations mine eye lodgeth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13264,
+        "text": "Place, I pray Thee, my pledge with Thee; Who is he that striketh hand with me?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13265,
+        "text": "For their heart Thou hast hidden From understanding, Therefore Thou dost not exalt them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13266,
+        "text": "For a portion he sheweth friendship, And the eyes of his sons are consumed.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13267,
+        "text": "And he set me up for a proverb of the peoples, And a wonder before them I am.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13268,
+        "text": "And dim from sorrow is mine eye, And my members as a shadow all of them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13269,
+        "text": "Astonished are the upright at this, And the innocent against the profane Stirreth himself up.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13270,
+        "text": "And the righteous layeth hold [on] his way, And the clean of hands addeth strength, And -- dumb are they all.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13271,
+        "text": "Return, and come in, I pray you, And I find not among you a wise man.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13272,
+        "text": "My days have passed by, My devices have been broken off, The possessions of my heart!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13273,
+        "text": "Night for day they appoint, Light [is] near because of darkness.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13274,
+        "text": "If I wait -- Sheol [is] my house, In darkness I have spread out my couch.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13275,
+        "text": "To corruption I have called: -- 'Thou [art] my father.' 'My mother' and 'my sister' -- to the worm.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13276,
+        "text": "And where [is] now my hope? Yea, my hope, who doth behold it?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13277,
+        "text": "[To] the parts of Sheol ye go down, If together on the dust we may rest.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

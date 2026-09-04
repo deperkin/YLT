@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 2,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 32,
+        "text": "And the heavens and the earth are completed, and all their host;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 33,
+        "text": "and God completeth by the seventh day His work which He hath made, and ceaseth by the seventh day from all His work which He hath made.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 34,
+        "text": "And God blesseth the seventh day, and sanctifieth it, for in it He hath ceased from all His work which God had prepared for making.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 35,
+        "text": "These [are] births of the heavens and of the earth in their being prepared, in the day of Jehovah God's making earth and heavens;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 36,
+        "text": "and no shrub of the field is yet in the earth, and no herb of the field yet sprouteth, for Jehovah God hath not rained upon the earth, and a man there is not to serve the ground,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 37,
+        "text": "and a mist goeth up from the earth, and hath watered the whole face of the ground.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 38,
+        "text": "And Jehovah God formeth the man -- dust from the ground, and breatheth into his nostrils breath of life, and the man becometh a living creature.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 39,
+        "text": "And Jehovah God planteth a garden in Eden, at the east, and He setteth there the man whom He hath formed;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 40,
+        "text": "and Jehovah God causeth to sprout from the ground every tree desirable for appearance, and good for food, and the tree of life in the midst of the garden, and the tree of knowledge of good and evil.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 41,
+        "text": "And a river is going out from Eden to water the garden, and from thence it is parted, and hath become four chief [rivers];",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 42,
+        "text": "the name of the one [is] Pison, it [is] that which is surrounding the whole land of the Havilah where the gold [is],",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 43,
+        "text": "and the gold of that land [is] good, there [is] the bdolach and the shoham stone;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 44,
+        "text": "and the name of the second river [is] Gibon, it [is] that which is surrounding the whole land of Cush;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 45,
+        "text": "and the name of the third river [is] Hiddekel, it [is] that which is going east of Asshur; and the fourth river is Phrat.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 46,
+        "text": "And Jehovah God taketh the man, and causeth him to rest in the garden of Eden, to serve it, and to keep it.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 47,
+        "text": "And Jehovah God layeth a charge on the man, saying, 'Of every tree of the garden eating thou dost eat;",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 48,
+        "text": "and of the tree of knowledge of good and evil, thou dost not eat of it, for in the day of thine eating of it -- dying thou dost die.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 49,
+        "text": "And Jehovah God saith, 'Not good for the man to be alone, I do make to him an helper -- as his counterpart.'",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 50,
+        "text": "And Jehovah God formeth from the ground every beast of the field, and every fowl of the heavens, and bringeth in unto the man, to see what he doth call it; and whatever the man calleth a living creature, that [is] its name.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 51,
+        "text": "And the man calleth names to all the cattle, and to fowl of the heavens, and to every beast of the field; and to man hath not been found an helper -- as his counterpart.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 52,
+        "text": "And Jehovah God causeth a deep sleep to fall upon the man, and he sleepeth, and He taketh one of his ribs, and closeth up flesh in its stead.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 53,
+        "text": "And Jehovah God buildeth up the rib which He hath taken out of the man into a woman, and bringeth her in unto the man;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 54,
+        "text": "and the man saith, 'This [is] the [proper] step! bone of my bone, and flesh of my flesh!' for this it is called Woman, for from a man hath this been taken;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 55,
+        "text": "therefore doth a man leave his father and his mother, and hath cleaved unto his wife, and they have become one flesh.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 56,
+        "text": "And they are both of them naked, the man and his wife, and they are not ashamed of themselves.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

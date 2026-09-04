@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 32,"name": "Jonah","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 891,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22550,
+        "text": "And Jonah prayeth unto Jehovah his God from the bowels of the fish.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22551,
+        "text": "And he saith: I called, because of my distress, to Jehovah, And He doth answer me, From the belly of sheol I have cried, Thou hast heard my voice.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22552,
+        "text": "When Thou dost cast me [into] the deep, Into the heart of the seas, Then the flood doth compass me, All Thy breakers and Thy billows have passed over me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22553,
+        "text": "And I -- I said: I have been cast out from before Thine eyes, (Yet I add to look unto Thy holy temple!)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22554,
+        "text": "Compassed me have waters unto the soul, The deep doth compass me, The weed is bound to my head.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22555,
+        "text": "To the cuttings of mountains I have come down, The earth, her bars [are] behind me to the age. And Thou bringest up from the pit my life, O Jehovah my God.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22556,
+        "text": "In the feebleness within me of my soul Jehovah I have remembered, And come in unto Thee doth my prayer, Unto Thy holy temple.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22557,
+        "text": "Those observing lying vanities their own mercy forsake.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22558,
+        "text": "And I -- with a voice of thanksgiving -- I sacrifice to Thee, That which I have vowed I complete, Salvation [is] of Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22559,
+        "text": "And Jehovah saith to the fish, and it vomiteth out Jonah on the dry land.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

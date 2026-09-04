@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 469,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13652,
+        "text": "And yet, I pray thee, O Job, Hear my speech and [to] all my words give ear.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13653,
+        "text": "Lo, I pray thee, I have opened my mouth, My tongue hath spoken in the palate.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13654,
+        "text": "Of the uprightness of my heart [are] my sayings, And knowledge have my lips clearly spoken.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13655,
+        "text": "The Spirit of God hath made me, And the breath of the Mighty doth quicken me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13656,
+        "text": "If thou art able -- answer me, Set in array before me -- station thyself.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13657,
+        "text": "Lo, I [am], according to thy word, for God, From the clay I -- I also, have been formed.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13658,
+        "text": "Lo, my terror doth not frighten thee, And my burden on thee is not heavy.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13659,
+        "text": "Surely -- thou hast said in mine ears, And the sounds of words I hear:",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13660,
+        "text": "'Pure [am] I, without transgression, Innocent [am] I, and I have no iniquity.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13661,
+        "text": "Lo, occasions against me He doth find, He doth reckon me for an enemy to Him,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13662,
+        "text": "He doth put in the stocks my feet, He doth watch all my paths.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13663,
+        "text": "Lo, [in] this thou hast not been righteous, I answer thee, that greater is God than man.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13664,
+        "text": "Wherefore against Him hast thou striven, When [for] all His matters He answereth not?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13665,
+        "text": "For once doth God speak, and twice, (He doth not behold it.)",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 13666,
+        "text": "In a dream -- a vision of night, In the falling of deep sleep on men, In slumberings on a bed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13667,
+        "text": "Then He uncovereth the ear of men, And for their instruction sealeth:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13668,
+        "text": "To turn aside man [from] doing, And pride from man He concealeth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13669,
+        "text": "He keepeth back his soul from corruption, And his life from passing away by a dart.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13670,
+        "text": "And he hath been reproved With pain on his bed, And the strife of his bones [is] enduring.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 13671,
+        "text": "And his life hath nauseated bread, And his soul desirable food.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13672,
+        "text": "His flesh is consumed from being seen, And high are his bones, they were not seen!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13673,
+        "text": "And draw near to the pit doth his soul, And his life to those causing death.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13674,
+        "text": "If there is by him a messenger, An interpreter -- one of a thousand, To declare for man his uprightness:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13675,
+        "text": "Then He doth favour him and saith, 'Ransom him from going down to the pit, I have found an atonement.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13676,
+        "text": "Fresher [is] his flesh than a child's, He returneth to the days of his youth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13677,
+        "text": "He maketh supplication unto God, And He accepteth him. And he seeth His face with shouting, And He returneth to man His righteousness.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13678,
+        "text": "He looketh on men, and saith, 'I sinned, And uprightness I have perverted, And it hath not been profitable to me.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13679,
+        "text": "He hath ransomed my soul From going over into the pit, And my life on the light looketh.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13680,
+        "text": "Lo, all these doth God work, Twice -- thrice with man,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 13681,
+        "text": "To bring back his soul from the pit, To be enlightened with the light of the living.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13682,
+        "text": "Attend, O Job, hearken to me, Keep silent, and I -- I do speak.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 13683,
+        "text": "If there are words -- answer me, Speak, for I have a desire to justify thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13684,
+        "text": "If there are not -- hearken thou to me, Keep silent, and I teach thee wisdom.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

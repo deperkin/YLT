@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 459,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13421,
+        "text": "And Job answereth and saith: --",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13422,
+        "text": "Also -- to-day [is] my complaint bitter, My hand hath been heavy because of my sighing.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13423,
+        "text": "O that I had known -- and I find Him, I come in unto His seat,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13424,
+        "text": "I arrange before Him the cause, And my mouth fill [with] arguments.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13425,
+        "text": "I know the words He doth answer me, And understand what He saith to me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13426,
+        "text": "In the abundance of power doth He strive with me? No! surely He putteth [it] in me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13427,
+        "text": "There the upright doth reason with Him, And I escape for ever from my judge.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13428,
+        "text": "Lo, forward I go -- and He is not, And backward -- and I perceive him not.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13429,
+        "text": "[To] the left in His working -- and I see not, He is covered [on] the right, and I behold not.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13430,
+        "text": "For He hath known the way with me, He hath tried me -- as gold I go forth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13431,
+        "text": "On His step hath my foot laid hold, His way I have kept, and turn not aside,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13432,
+        "text": "The command of His lips, and I depart not. Above my allotted portion I have laid up The sayings of His mouth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13433,
+        "text": "And He [is] in one [mind], And who doth turn Him back? And His soul hath desired -- and He doth [it].",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 13434,
+        "text": "For He doth complete my portion, And many such things [are] with Him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13435,
+        "text": "Therefore, from His presence I am troubled, I consider, and am afraid of Him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13436,
+        "text": "And God hath made my heart soft, And the Mighty hath troubled me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13437,
+        "text": "For I have not been cut off before darkness, And before me He covered thick darkness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

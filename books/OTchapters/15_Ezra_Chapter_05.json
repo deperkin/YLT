@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 15,"name": "Ezra","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 408,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12136,
+        "text": "And prophesied have the prophets, (Haggai the prophet, and Zechariah son of Iddo) unto the Jews who [are] in Judah and in Jerusalem, in the name of the God of Israel -- unto them.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12137,
+        "text": "Then have Zerubbabel son of Shealtiel, and Jeshua son of Jozadak, risen, and begun to build the house of God, that [is] in Jerusalem, and with them are the prophets of God supporting them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12138,
+        "text": "At that time come to them hath Tatnai, governor beyond the river, and Shethar-Boznai, and their companions, and thus they are saying to them, 'Who hath made for you a decree this house to build, and this wall to finish?'",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 12139,
+        "text": "Then thus we have said to them, 'What [are] the names of the men who are building this building?'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12140,
+        "text": "And the eye of their God hath been upon the elders of the Jews, and they have not caused them to cease till the matter goeth to Darius, and then they send back a letter concerning this thing.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12141,
+        "text": "The copy of a letter that Tatnai, governor beyond the river, hath sent, and Shethar-Boznai and his companions, the Apharsachites who [are] beyond the river, unto Darius the king.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12142,
+        "text": "A letter they have sent unto him, and thus is it written in it:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12143,
+        "text": "'To Darius the king, all peace! be it known to the king that we have gone to the province of Judah, to the great house of God, and it is built [with] rolled stones, and wood is placed in the walls, and this work is done speedily, and prospering in their hand.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12144,
+        "text": "Then we have asked of these elders, thus we have said to them, Who hath made for you a decree this house to build, and this wall to finish?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12145,
+        "text": "And also their names we have asked of them, to let thee know, that we might write the names of the men who [are] at their head.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12146,
+        "text": "'And thus they have returned us word, saying, We [are] servants of the God of heaven and earth, and are building the house that was built many years before this, that a great king of Israel built and finished:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12147,
+        "text": "but after that our fathers made the God of heaven angry, he gave them into the hand of Nebuchadnezzar king of Babylon the Chaldean, and this house he destroyed, and the people he removed to Babylon;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12148,
+        "text": "but in the first year of Cyrus king of Babylon, Cyrus the king made a decree to build this house of God,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12149,
+        "text": "and also, the vessels of the house of God, of gold and silver, that Nebuchadnezzar had taken forth out of the temple that [is] in Jerusalem, and brought them to the temple of Babylon, them hath Cyrus the king brought forth out of the temple of Babylon, and they have been given to [one], Sheshbazzar [is] his name, whom he made governor,",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12150,
+        "text": "and said to him, These vessels lift up, go, put them down in the temple that [is] in Jerusalem, and the house of God is builded on its place.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12151,
+        "text": "Then hath this Sheshbazzar come -- he hath laid the foundations of the house of God that [is] in Jerusalem, and from thence even till now it hath been building, and is not finished.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12152,
+        "text": "'And now, if to the king it be good, let search be made in the treasure-house of the king, that [is] there in Babylon, whether it be that of Cyrus the king there was made a decree to build this house of God in Jerusalem, and the will of the king concerning this thing he doth send unto us.'",
+        "WordCount": 59,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

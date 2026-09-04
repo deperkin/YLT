@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 372,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11270,
+        "text": "And all the work that Solomon made for the house of Jehovah is finished, and Solomon bringeth in the sanctified things of David his father, and the silver, and the gold, and all the vessels he hath put among the treasures of the house of God.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11271,
+        "text": "Then doth Solomon assemble the elders of Israel, and all the heads of the tribes, princes of the fathers of the sons of Israel, unto Jerusalem, to bring up the ark of the covenant of Jehovah from the city of David -- it [is] Zion.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11272,
+        "text": "And assembled unto the king are all the men of Israel in the feast -- it [is] the seventh month;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11273,
+        "text": "and all the elders of Israel come in, and the Levites lift up the ark,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11274,
+        "text": "and they bring up the ark, and the tent of meeting, and all the vessels of the sanctuary that [are] in the tent; brought them up have the priests, the Levites;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11275,
+        "text": "and king Solomon and all the company of Israel who are convened unto him before the ark are sacrificing sheep and oxen, that are not counted nor numbered from multitude.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11276,
+        "text": "And the priests bring in the ark of the covenant of Jehovah unto its place, unto the oracle of the house, unto the holy of holies, unto the place of the wings of the cherubs;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11277,
+        "text": "and the cherubs are spreading out wings over the place of the ark, and the cherubs cover over the ark, and over its staves, from above;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11278,
+        "text": "and they lengthen the staves, and the heads of the staves are seen out of the ark on the front of the oracle, and they are not seen without; and it is there unto this day.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11279,
+        "text": "There is nothing in the ark but the two tables that Moses gave in Horeb, where Jehovah covenanted with the sons of Israel, in their going out from Egypt.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11280,
+        "text": "And it cometh to pass, in the going out of the priests from the sanctuary -- for all the priests who are present have sanctified themselves, there is none to watch by courses,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 11281,
+        "text": "and the Levites, the singers, to all of them, to Asaph, to Heman, to Jeduthun, and to their sons, and to their brethren, clothed in white linen, with cymbals, and with psalteries, and harps, are standing on the east of the altar, and with them priests, to a hundred and twenty, blowing with trumpets --",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11282,
+        "text": "yea, it cometh to pass, as one [are] trumpeters and singers, to sound -- one voice -- to praise and to give thanks to Jehovah, and at the lifting up of the sound with trumpets, and with cymbals, and with instruments of song, and at giving praise to Jehovah, for good, for to the age [is] His kindness, that the house is filled with a cloud -- the house of Jehovah,",
+        "WordCount": 71,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11283,
+        "text": "and the priests have not been able to stand to minister from the presence of the cloud, for the honour of Jehovah hath filled the house of God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 15,"name": "Ezra","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 405,
+    "MaxVerses": 70,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12029,
+        "text": "And these [are] sons of the province who are going up -- of the captives of the removal that Nebuchadnezzar king of Babylon removed to Babylon, and they turn back to Jerusalem and Judah, each to his city --",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12030,
+        "text": "who have come in with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah: The number of the men of the people of Israel:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12031,
+        "text": "Sons of Parosh, two thousand a hundred seventy and two.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12032,
+        "text": "Sons of Shephatiah, three hundred seventy and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12033,
+        "text": "Sons of Arah, seven hundred five and seventy.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12034,
+        "text": "Sons of Pahath-Moab, of the sons of Jeshua, Joab, two thousand eight hundred and twelve.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12035,
+        "text": "Sons of Elam, a thousand two hundred fifty and four.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12036,
+        "text": "Sons of Zattu, nine hundred and forty and five.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12037,
+        "text": "Sons of Zaccai, seven hundred and sixty.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12038,
+        "text": "Sons of Bani, six hundred forty and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12039,
+        "text": "Sons of Bebai, six hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12040,
+        "text": "Sons of Azgad, a thousand two hundred twenty and two.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12041,
+        "text": "Sons of Adonikam, six hundred sixty and six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12042,
+        "text": "Sons of Bigvai, two thousand fifty and six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12043,
+        "text": "Sons of Adin, four hundred fifty and four.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12044,
+        "text": "Sons of Ater of Hezekiah, ninety and eight.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12045,
+        "text": "Sons of Bezai, three hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12046,
+        "text": "Sons of Jorah, a hundred and twelve.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12047,
+        "text": "Sons of Hashum, two hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12048,
+        "text": "Sons of Gibbar, ninety and five.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12049,
+        "text": "Sons of Beth-Lehem, a hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12050,
+        "text": "Men of Netophah, fifty and six.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12051,
+        "text": "Men of Anathoth, a hundred twenty and eight.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12052,
+        "text": "Sons of Azmaveth, forty and two.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12053,
+        "text": "Sons of Kirjath-Arim, Chephirah, and Beeroth, seven hundred and forty and three.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12054,
+        "text": "Sons of Ramah and Gaba, six hundred twenty and one.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12055,
+        "text": "Men of Michmas, a hundred twenty and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 12056,
+        "text": "Men of Beth-El and Ai, two hundred twenty and three.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12057,
+        "text": "Sons of Nebo, fifty and two.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12058,
+        "text": "Sons of Magbish, a hundred fifty and six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12059,
+        "text": "Sons of another Elam, a thousand two hundred fifty and four.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 12060,
+        "text": "Sons of Harim, three hundred and twenty.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 12061,
+        "text": "Sons of Lod, Hadid, and Ono, seven hundred twenty and five.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 12062,
+        "text": "Sons of Jericho, three hundred forty and five.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 12063,
+        "text": "Sons of Senaah, three thousand and six hundred and thirty.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 12064,
+        "text": "The Priests: sons of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 12065,
+        "text": "Sons of Imner, a thousand fifty and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 12066,
+        "text": "Sons of Pashhur, a thousand two hundred forty and seven.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 12067,
+        "text": "Sons of Harim, a thousand and seventeen.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 12068,
+        "text": "The Levites; sons of Jeshua and Kadmiel, of the sons of Hodaviah, seventy and four.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 12069,
+        "text": "The singers: sons of Asaph, a hundred twenty and eight.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 12070,
+        "text": "Sons of the gatekeepers; sons of Shallum, sons of Ater, sons of Talmon, sons of Akkub, sons of Hatita, sons of Shobai, the whole [are] a hundred thirty and nine.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 12071,
+        "text": "The Nethinim: sons of Ziha, sons of Hasupha, sons of Tabbaoth,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 12072,
+        "text": "Sons of Keros, sons of Siaha, sons of Padon,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 12073,
+        "text": "Sons of Lebanah, sons of Hagabah, sons of Akkub,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 12074,
+        "text": "Sons of Hagab, sons of Shalmai, sons of Hanan,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 12075,
+        "text": "Sons of Giddel, sons of Gahar, sons of Reaiah,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 12076,
+        "text": "Sons of Rezin, sons of Nekoda, sons of Gazzam,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 12077,
+        "text": "Sons of Uzza, sons of Paseah, sons of Besai,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 12078,
+        "text": "Sons of Asnah, sons of Mehunim, sons of Nephusim,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 12079,
+        "text": "Sons of Bakbuk, sons of Hakupha, sons of Harhur,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 12080,
+        "text": "Sons of Bazluth, sons of Mehida, sons of Harsha,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 12081,
+        "text": "Sons of Barkos, sons of Sisera, sons of Thamah,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 12082,
+        "text": "Sons of Neziah, sons of Hatipha.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 12083,
+        "text": "Sons of the servants of Solomon: sons of Sotai, sons of Sophereth, sons of Peruda,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 12084,
+        "text": "Sons of Jaalah, sons of Darkon, sons of Giddel,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 12085,
+        "text": "Sons of Shephatiah, sons of Hattil, sons of Pochereth of Zebaim, sons of Ami.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 12086,
+        "text": "All the Nethinim, and the sons of the servants of Solomon [are] three hundred ninety and two.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 12087,
+        "text": "And these [are] those going up from Tel-Melah, Tel-Harsa, Cherub, Addan, Immer, and they have not been able to declare the house of their fathers, and their seed, whether they [are] of Israel:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 12088,
+        "text": "sons of Delaiah, sons of Tobiah, sons of Nekoda, six hundred fifty and two.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 12089,
+        "text": "And of the sons of the priests: sons of Habaiah, sons of Koz, sons of Barzillai (who took from the daughters of Barzillai the Gileadite a wife, and is called by their name;)",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 12090,
+        "text": "these have sought their register among those reckoning themselves by genealogy, and they have not been found, and they are redeemed from the priesthood,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 12091,
+        "text": "and the Tirshatha saith to them, that they eat not of the most holy things till the standing up of a priest with Urim and with Thummim.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 12092,
+        "text": "All the assembly together [is] four myriad two thousand three hundred sixty,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 65,
+        "count": 12093,
+        "text": "apart from their servants and their handmaids; these [are] seven thousand three hundred thirty and seven: and of them [are] singers and songstresses two hundred.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 12094,
+        "text": "Their horses [are] seven hundred thirty and six, their mules, two hundred forty and five,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 12095,
+        "text": "their camels, four hundred thirty and five, asses, six thousand seven hundred and twenty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 68,
+        "count": 12096,
+        "text": "And some of the heads of the fathers in their coming in to the house of Jehovah that [is] in Jerusalem, have offered willingly for the house of God, to establish it on its base;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 69,
+        "count": 12097,
+        "text": "according to their power they have given to the treasure of the work; of gold, drams six myriads and a thousand, and of silver, pounds five thousand, and of priests' coats, a hundred.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 70,
+        "count": 12098,
+        "text": "And the priests dwell, and the Levites, and of the people, and the singers, and the gatekeepers, and the Nethinim, in their cities; even all Israel in their cities.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

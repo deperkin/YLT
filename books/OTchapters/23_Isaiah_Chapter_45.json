@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 45,
+    "count": 724,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18563,
+        "text": "Thus said Jehovah, To His anointed, to Cyrus, Whose right hand I have laid hold on, To subdue nations before him, Yea, loins of kings I loose, To open before him two-leaved doors, Yea, gates are not shut:",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18564,
+        "text": "'I go before thee, and crooked places make straight, Two-leaved doors of brass I shiver, And bars of iron I cut asunder,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18565,
+        "text": "And have given to thee treasures of darkness, Even treasures of secret places, So that thou knowest that I, Jehovah, Who am calling on thy name -- [am] the God of Israel.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18566,
+        "text": "For the sake of my servant Jacob, And of Israel My chosen, I call also thee by thy name, I surname thee, And thou hast not known Me.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18567,
+        "text": "I [am] Jehovah, and there is none else, Except Me there is no God, I gird thee, and thou hast not known Me.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 18568,
+        "text": "So that they know from the rising of the sun, And from the west, that there is none besides Me, I [am] Jehovah, and there is none else,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18569,
+        "text": "Forming light, and preparing darkness, Making peace, and preparing evil, I [am] Jehovah, doing all these things.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18570,
+        "text": "Drop, ye heavens, from above, And clouds do cause righteousness to flow, Earth openeth, and they are fruitful, Salvation and righteousness spring up together, I, Jehovah, have prepared it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18571,
+        "text": "Woe [to] him who is striving with his Former, (A potsherd with potsherds of the ground!) Doth clay say to its Framer, 'What dost thou?' And thy work, 'He hath no hands?'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18572,
+        "text": "Woe [to] him who is saying to a father, 'What dost thou beget?' Or to a wife, 'What dost thou bring forth?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18573,
+        "text": "Thus said Jehovah, The Holy One of Israel, and his Former: Ask Me of the things coming concerning My sons, Yea, concerning the work of My hands, ye command Me.'",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 18574,
+        "text": "I made earth, and man on it prepared, I -- My hands stretched out the heavens, And all their host I have commanded.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18575,
+        "text": "I have stirred him up in righteousness, And all his ways I make straight, He doth build My city, and My captivity doth send out, Not for price, nor for bribe, said Jehovah of Hosts.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18576,
+        "text": "Thus said Jehovah, 'The labour of Egypt, And the merchandise of Cush, And of the Sebaim -- men of measure, Unto thee pass over, and thine they are, After thee they go, in fetters they pass over, And unto thee they bow themselves, Unto thee they pray: Only in thee [is] God, And there is none else, no [other] God.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18577,
+        "text": "Surely Thou [art] a God hiding Thyself, God of Israel -- Saviour!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18578,
+        "text": "They have been ashamed, And they have even blushed -- all of them, Together gone in confusion have those carving images.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18579,
+        "text": "Israel hath been saved in Jehovah, A salvation age-during! Ye are not ashamed nor confounded Unto the ages of eternity!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18580,
+        "text": "For thus said Jehovah, Creator of heaven, He is God, Former of earth, and its Maker, He established it -- not empty He prepared it, For inhabiting He formed it: 'I [am] Jehovah, and there is none else.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18581,
+        "text": "Not in secret have I spoken, in a dark place of the earth, I have not said to the seed of Jacob, In vain seek ye Me, I [am] Jehovah, speaking righteousness, Declaring uprightness.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18582,
+        "text": "Be gathered, and come in, Come nigh together, ye escaped of the nations, They have not known, Who are lifting up the wood of their graven image, And praying unto a god [that] saveth not.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 18583,
+        "text": "Declare ye, and bring near, Yea, they take counsel together, Who hath proclaimed this from of old? From that time hath declared it? Is it not I -- Jehovah? And there is no other god besides Me, A God righteous and saving, there is none save Me.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 18584,
+        "text": "Turn to Me, and be saved, all ends of the earth, For I [am] God, and there is none else.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 18585,
+        "text": "By Myself I have sworn, Gone out from my mouth in righteousness hath a word, And it turneth not back, That to Me, bow doth every knee, every tongue swear.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 18586,
+        "text": "Only in Jehovah, said hath one, Have I righteousness and strength, Unto Him he cometh in, And ashamed are all those displeased with Him.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 18587,
+        "text": "In Jehovah are all the seed of Israel justified, And they boast themselves.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

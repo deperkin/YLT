@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 138,
+    "count": 616,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16233,
+        "text": "By David. I confess Thee, with all my heart, Before the gods I do praise Thee.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16234,
+        "text": "I bow myself toward Thy holy temple, And I confess Thy name, For Thy kindness, and for Thy truth, For Thou hast made great Thy saying above all Thy name.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16235,
+        "text": "In the day I called, when Thou dost answer me, Thou dost strengthen me in my soul [with] strength.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16236,
+        "text": "O Jehovah, all kings of earth confess Thee, When they have heard the sayings of Thy mouth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16237,
+        "text": "And they sing in the ways of Jehovah, For great [is] the honour of Jehovah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16238,
+        "text": "For high [is] Jehovah, and the lowly He seeth, And the haughty from afar He knoweth.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16239,
+        "text": "If I walk in the midst of distress Thou quickenest me, Against the anger of mine enemies Thou sendest forth Thy hand, And Thy right hand doth save me.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16240,
+        "text": "Jehovah doth perfect for me, O Jehovah, Thy kindness [is] to the age, The works of Thy hands let not fall!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

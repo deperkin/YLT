@@ -1,0 +1,313 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 30,
+    "MaxVerses": 43,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 832,
+        "text": "And Rachel seeth that she hath not borne to Jacob, and Rachel is envious of her sister, and saith unto Jacob, 'Give me sons, and if there is none -- I die.'",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 833,
+        "text": "And Jacob's anger burneth against Rachel, and he saith, 'Am I in stead of God who hath withheld from thee the fruit of the womb?'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 834,
+        "text": "And she saith, 'Lo, my handmaid Bilhah, go in unto her, and she doth bear on my knees, and I am built up, even I, from her;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 835,
+        "text": "and she giveth to him Bilhah her maid-servant for a wife, and Jacob goeth in unto her;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 836,
+        "text": "and Bilhah conceiveth, and beareth to Jacob a son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 837,
+        "text": "and Rachel saith, 'God hath decided for me, and also hath hearkened to my voice, and giveth to me a son;' therefore hath she called his name Dan.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 838,
+        "text": "And Bilhah, Rachel's maid-servant, conceiveth again, and beareth a second son to Jacob,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 839,
+        "text": "and Rachel saith, 'With wrestlings of God I have wrestled with my sister, yea, I have prevailed;' and she calleth his name Napthali.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 840,
+        "text": "And Leah seeth that she hath ceased from bearing, and she taketh Zilpah her maid-servant, and giveth her to Jacob for a wife;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 841,
+        "text": "and Zilpah, Leah's maid-servant, beareth to Jacob a son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 842,
+        "text": "and Leah saith, 'A troop is coming;' and she calleth his name Gad.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 843,
+        "text": "And Zilpah, Leah's maid-servant, beareth a second son to Jacob,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 844,
+        "text": "and Leah saith, 'Because of my happiness, for daughters have pronounced me happy;' and she calleth his name Asher.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 845,
+        "text": "And Reuben goeth in the days of wheat-harvest, and findeth love-apples in the field, and bringeth them in unto Leah, his mother, and Rachel saith unto Leah, 'Give to me, I pray thee, of the love-apples of thy son.'",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 846,
+        "text": "And she saith to her, 'Is thy taking my husband a little thing, that thou hast taken also the love-apples of my son?' and Rachel saith, 'Therefore doth he lie with thee to-night, for thy son's love-apples.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 847,
+        "text": "And Jacob cometh in from the field at evening; and Leah goeth to meet him, and saith, 'Unto me dost thou come in, for hiring I have hired thee with my son's love-apples;' and he lieth with her during that night.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 848,
+        "text": "And God hearkeneth unto Leah, and she conceiveth, and beareth to Jacob a son, a fifth,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 849,
+        "text": "and Leah saith, 'God hath given my hire, because I have given my maid-servant to my husband;' and she calleth his name Issachar.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 850,
+        "text": "And conceive again doth Leah, and she beareth a sixth son to Jacob,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 851,
+        "text": "and Leah saith, 'God hath endowed me -- a good dowry; this time doth my husband dwell with me, for I have borne to him six sons;' and she calleth his name Zebulun;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 852,
+        "text": "and afterwards hath she born a daughter, and calleth her name Dinah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 853,
+        "text": "And God remembereth Rachel, and God hearkeneth unto her, and openeth her womb,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 854,
+        "text": "and she conceiveth and beareth a son, and saith, 'God hath gathered up my reproach;'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 855,
+        "text": "and she calleth his name Joseph, saying, 'Jehovah is adding to me another son.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 856,
+        "text": "And it cometh to pass, when Rachel hath borne Joseph, that Jacob saith unto Laban, 'Send me away, and I go unto my place, and to my land;",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 857,
+        "text": "give up my wives and my children, for whom I have served thee, and I go; for thou -- thou hast known my service which I have served thee.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 858,
+        "text": "And Laban saith unto him, 'If, I pray thee, I have found grace in thine eyes -- I have observed diligently that Jehovah doth bless me for thy sake.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 859,
+        "text": "He saith also, 'Define thy hire to me, and I give.'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 860,
+        "text": "And he saith unto him, 'Thou -- thou hast known that which I have served thee [in], and that which thy substance was with me;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 861,
+        "text": "for [it is] little which thou hast had at my appearance, and it breaketh forth into a multitude, and Jehovah blesseth thee at my coming; and now, when do I make, I also, for mine own house?'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 862,
+        "text": "And he saith, 'What do I give to thee?' And Jacob saith, 'Thou dost not give me anything; if thou do for me this thing, I turn back; I have delight; thy flock I watch;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 863,
+        "text": "I pass through all thy flock to-day to turn aside from thence every sheep speckled and spotted, and every brown sheep among the lambs, and speckled and spotted among the goats -- and it hath been my hire;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 864,
+        "text": "and my righteousness hath answered for me in the day to come, when it cometh in for my hire before thy face; -- every one which is not speckled and spotted among [my] goats, and brown among [my] lambs -- it is stolen with me.'",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 865,
+        "text": "And Laban saith, 'Lo, O that it were according to thy word;'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 866,
+        "text": "and he turneth aside during that day the ring-streaked and the spotted he-goats, and all the speckled and the spotted she-goats, every one that [hath] white in it, and every brown one among the lambs, and he giveth into the hand of his sons,",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 867,
+        "text": "and setteth a journey of three days between himself and Jacob; and Jacob is feeding the rest of the flock of Laban.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 868,
+        "text": "And Jacob taketh to himself a rod of fresh poplar, and of the hazel and chesnut, and doth peel in them white peelings, making bare the white that [is] on the rods,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 869,
+        "text": "and setteth up the rods which he hath peeled in the gutters in the watering troughs (when the flock cometh in to drink), over-against the flock, that they may conceive in their coming in to drink;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 870,
+        "text": "and the flocks conceive at the rods, and the flock beareth ring-streaked, speckled, and spotted ones.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 871,
+        "text": "And the lambs hath Jacob parted, and he putteth the face of the flock towards the ring-streaked, also all the brown in the flock of Laban, and he setteth his own droves by themselves, and hath not set them near Laban's flock.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 872,
+        "text": "And it hath come to pass whenever the strong ones of the flock conceive, that Jacob set the rods before the eyes of the flock in the gutters, to cause them to conceive by the rods,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 873,
+        "text": "and when the flock is feeble, he doth not set [them]; and the feeble ones have been Laban's, and the strong ones Jacob's.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 874,
+        "text": "And the man increaseth very exceedingly, and hath many flocks, and maid-servants, and men-servants, and camels, and asses.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

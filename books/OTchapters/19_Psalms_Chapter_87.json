@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 87,
+    "count": 565,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15303,
+        "text": "By sons of Korah. -- A Psalm, a song. His foundation [is] in holy mountains.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15304,
+        "text": "Jehovah is loving the gates of Zion Above all the tabernacles of Jacob.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15305,
+        "text": "Honourable things are spoken in Thee, O city of God. Selah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15306,
+        "text": "I mention Rahab and Babel to those knowing Me, Lo, Philistia, and Tyre, with Cush! This [one] was born there.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 15307,
+        "text": "And of Zion it is said: Each one was born in her, And He, the Most High, doth establish her.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15308,
+        "text": "Jehovah doth recount in the describing of the peoples, 'This [one] was born there.' Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15309,
+        "text": "Singers also as players on instruments, All my fountains [are] in Thee!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

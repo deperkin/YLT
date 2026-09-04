@@ -1,0 +1,264 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 69,
+    "count": 547,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14937,
+        "text": "To the Overseer. -- 'On the Lilies,' by David. Save me, O God, for come have waters unto the soul.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14938,
+        "text": "I have sunk in deep mire, And there is no standing, I have come into the depths of the waters, And a flood hath overflown me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14939,
+        "text": "I have been wearied with my calling, Burnt hath been my throat, Consumed have been mine eyes, waiting for my God.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14940,
+        "text": "Those hating me without cause Have been more than the hairs of my head, Mighty have been my destroyers, My lying enemies, That which I took not away -- I bring back.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14941,
+        "text": "O God, Thou -- Thou hast known Concerning my overturn, And my desolations from Thee have not been hid.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14942,
+        "text": "Let not those waiting on Thee be ashamed because of me, O Lord, Jehovah of Hosts, Let not those seeking Thee Blush because of me, O God of Israel.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14943,
+        "text": "For because of Thee I have borne reproach, Shame hath covered my face.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14944,
+        "text": "A stranger I have been to my brother, And a foreigner to sons of my mother.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14945,
+        "text": "For zeal for Thy house hath consumed me, And the reproaches of Thy reproachers Have fallen upon me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14946,
+        "text": "And I weep in the fasting of my soul, And it is for a reproach to me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14947,
+        "text": "And I make my clothing sackcloth, And I am to them for a simile.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14948,
+        "text": "Those sitting at the gate meditate concerning me, And those drinking strong drink, Play on instruments.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14949,
+        "text": "And I -- my prayer [is] to Thee, O Jehovah, A time of good pleasure, O God, In the abundance of Thy kindness, Answer me in the truth of Thy salvation.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 14950,
+        "text": "Deliver me from the mire, and let me not sink, Let me be delivered from those hating me, And from deep places of waters.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14951,
+        "text": "Let not a flood of waters overflow me, Nor let the deep swallow me up, Nor let the pit shut her mouth upon me.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14952,
+        "text": "Answer me, O Jehovah, for good [is] Thy kindness, According to the abundance Of Thy mercies turn Thou unto me,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14953,
+        "text": "And hide not Thy face from Thy servant, For I am in distress -- haste, answer me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14954,
+        "text": "Be near unto my soul -- redeem it, Because of mine enemies ransom me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14955,
+        "text": "Thou -- Thou hast known my reproach, And my shame, and my blushing, Before Thee [are] all mine adversaries.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14956,
+        "text": "Reproach hath broken my heart, and I am sick, And I look for a bemoaner, and there is none, And for comforters, and I have found none.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14957,
+        "text": "And they give for my food gall, And for my thirst cause me to drink vinegar.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14958,
+        "text": "Their table before them is for a snare, And for a recompence -- for a trap.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 14959,
+        "text": "Darkened are their eyes from seeing, And their loins continually shake Thou.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 14960,
+        "text": "Pour upon them Thine indignation, And the fierceness of Thine anger doth seize them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 14961,
+        "text": "Their tower is desolated, In their tents there is no dweller.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 14962,
+        "text": "For they have pursued him Thou hast smitten, And recount of the pain of Thy pierced ones.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 14963,
+        "text": "Give punishment for their iniquity, And they enter not into Thy righteousness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 14964,
+        "text": "They are blotted out of the book of life, And with the righteous are not written.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 14965,
+        "text": "And I [am] afflicted and pained, Thy salvation, O God, doth set me on high.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 14966,
+        "text": "I praise the name of God with a song, And I magnify Him with thanksgiving,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 14967,
+        "text": "And it is better to Jehovah than an ox, A bullock -- horned -- hoofed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 14968,
+        "text": "The humble have seen -- they rejoice, Ye who seek God -- and your heart liveth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 14969,
+        "text": "For Jehovah hearkeneth unto the needy, And His bound ones He hath not despised.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 14970,
+        "text": "The heavens and earth do praise Him, Seas, and every moving thing in them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 14971,
+        "text": "For God doth save Zion, And doth build the cities of Judah, And they have dwelt there, and possess it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 14972,
+        "text": "And the seed of His servants inherit it, And those loving His name dwell in it!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

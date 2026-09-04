@@ -1,0 +1,236 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 16,"name": "Nehemiah","MaxChapters": 13},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 416,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12329,
+        "text": "And Eliashib the high priest riseth, and his brethren the priests, and they build the sheep-gate; they have sanctified it, and set up its doors, even unto the tower of Meah they have sanctified it, unto the tower of Hananeel;",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12330,
+        "text": "and by his hand have men of Jericho built; and by their hand hath Zaccur son of Imri built;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12331,
+        "text": "and the fish-gate have sons of Hassenaah built, they have walled it, and set up its doors, its locks, and its bars.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12332,
+        "text": "And by their hand hath Merimoth son of Urijah, son of Koz, strengthened; and by his hand hath Meshullam son of Berechiah, son of Meshezabeel, strengthened; and by his hand hath Zadok son of Baana strengthened;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12333,
+        "text": "and by his hand have the Tekoites strengthened, and their honourable ones have not brought in their neck to the service of their Lord.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12334,
+        "text": "And the old gate have Jehoiada son of Paseah, and Meshullam son of Besodeiah, strengthened; they have walled it, and set up its doors, and its locks, and its bars.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12335,
+        "text": "And by their hand hath Melatiah the Gibeonite strengthened, and Jadon the Meronothite, men of Gibeon and of Mizpah, to the throne of the governor beyond the River.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12336,
+        "text": "By his hand hath Uzziel son of Harhaiah of the refiners strengthened; and by his hand hath Hananiah son of [one of] the compounders strengthened; and they leave Jerusalem unto the broad wall.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12337,
+        "text": "And by their hand hath Rephaiah son of Hur, head of the half of the district of Jerusalem, strengthened.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12338,
+        "text": "And by their hand hath Jedaiah son of Harumaph strengthened, and over-against his own house; and by his hand hath Hattush son of Hashabniah strengthened.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12339,
+        "text": "A second measure hath Malchijah son of Harim strengthened, and Hashub son of Pahath-Moab, even the tower of the furnaces.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12340,
+        "text": "And by his hand hath Shallum son of Halohesh, head of the half of the district of Jerusalem, strengthened, he and his daughters.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12341,
+        "text": "The gate of the valley hath Hanun strengthened, and the inhabitants of Zanoah; they have built it, and set up its doors, its locks, and its bars, and a thousand cubits in the wall unto the dung-gate.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12342,
+        "text": "And the dung-gate hath Malchijah son of Rechab, head of the district of Beth-Haccerem, strengthened; he doth built it, and set up its doors, its locks, and its bars.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12343,
+        "text": "And the gate of the fountain hath Shallum son of Col-Hozeh, head of the district of Mizpah, strengthened: he doth build it, and cover it, and set up its doors, its locks, and its bars, and the wall of the pool of Siloah, to the garden of the king, and unto the steps that are going down from the city of David.",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12344,
+        "text": "After him hath Nehemiah son of Azbuk, head of the half of the district of Beth-Zur, strengthened, unto over-against the graves of David, and unto the pool that is made, and unto the house of the mighty ones.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12345,
+        "text": "After him have the Levites strengthened, [and] Rehum son of Bani: by his hand hath Hashabiah, head of the half of the district of Keilah, strengthened, for his district.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12346,
+        "text": "After him have their brethren strengthened, [and] Bavvai son of Henadad, head of the half of the district of Keilah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12347,
+        "text": "And Ezer son of Jeshua, head of Mizpah, doth strengthen, by his hand, a second measure, from over-against the ascent of the armoury at the angle.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12348,
+        "text": "After him hath Baruch son of Zabbai hastened to strengthen a second measure from the angle unto the opening of the house of Eliashib the high priest.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12349,
+        "text": "After him hath Meremoth son of Urijah, son of Koz, strengthened, a second measure, from the opening of the house of Eliashib even unto the completion of the house of Eliashib.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12350,
+        "text": "And after him have the priests, men of the circuit, strengthened.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12351,
+        "text": "After them hath Benjamin strengthened, and Hashub, over-against their house; after him hath Azariah son of Maaseiah, son of Ananiah, strengthened, near his house.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12352,
+        "text": "After him hath Binnui son of Henadad strengthened, a second measure, from the house of Azariah unto the angle, and unto the corner.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12353,
+        "text": "Palal son of Uzai, from over-against the angle, and the tower that is going out from the upper house of the king that [is] at the court of the prison; after him Pedaiah son of Parosh.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12354,
+        "text": "And the Nethinim have been dwelling in Ophel, unto over-against the water-gate at the east, and the tower that goeth out.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12355,
+        "text": "After him have the Tekoites strengthened, a second measure, from over-against the great tower that goeth out, and unto the wall of Ophel.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 12356,
+        "text": "From above the horse-gate have the priests strengthened, each over-against his house.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12357,
+        "text": "After them hath Zadok son of Immer strengthened, over against his house; and after him hath Shemaiah son of Shechaniah, keeper of the east gate, strengthened.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12358,
+        "text": "After him hath Hananiah son of Shelemiah strengthened, and Hanun the sixth son of Zalaph, a second measure; after him hath Meshullam son of Berechiah strengthened, over-against his chamber.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12359,
+        "text": "After him hath Malchijah son of the refiner strengthened, unto the house of the Nethinim, and of the merchants, over-against the gate of the Miphkad, and unto the ascent of the corner.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 12360,
+        "text": "And between the ascent of the corner and the sheep-gate, have the refiners and the merchants strengthened.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

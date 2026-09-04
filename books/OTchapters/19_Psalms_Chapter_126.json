@@ -1,0 +1,54 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 126,
+    "count": 604,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16117,
+        "text": "A Song of the Ascents. In Jehovah's turning back [to] the captivity of Zion, We have been as dreamers.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16118,
+        "text": "Then filled [with] laughter is our mouth, And our tongue [with] singing, Then do they say among nations, 'Jehovah did great things with these.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16119,
+        "text": "Jehovah did great things with us, We have been joyful.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16120,
+        "text": "Turn again, O Jehovah, [to] our captivity, As streams in the south.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16121,
+        "text": "Those sowing in tears, with singing do reap,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16122,
+        "text": "Whoso goeth on and weepeth, Bearing the basket of seed, Surely cometh in with singing, bearing his sheaves!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

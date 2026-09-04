@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 25,"name": "Lamentations","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 801,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20422,
+        "text": "How is the gold become dim, Changed the best -- the pure gold? Poured out are stones of the sanctuary At the head of all out-places.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20423,
+        "text": "The precious sons of Zion, Who are comparable with fine gold, How have they been reckoned earthen bottles, Work of the hands of a potter.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20424,
+        "text": "Even dragons have drawn out the breast, They have suckled their young ones, The daughter of my people is become cruel, Like the ostriches in a wilderness.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20425,
+        "text": "Cleaved hath the tongue of a suckling unto his palate with thirst, Infants asked bread, a dealer out they have none.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20426,
+        "text": "Those eating of dainties have been desolate in out-places, Those supported on scarlet have embraced dunghills.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20427,
+        "text": "And greater is the iniquity of the daughter of my people, Than the sin of Sodom, That was overturned as [in] a moment, And no hands were stayed on her.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20428,
+        "text": "Purer were her Nazarites than snow, Whiter than milk, ruddier of body than rubies, Of sapphire their form.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20429,
+        "text": "Darker than blackness hath been their visage, They have not been known in out-places, Cleaved hath their skin unto their bone, It hath withered -- it hath been as wood.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20430,
+        "text": "Better have been the pierced of a sword Than the pierced of famine, For these flow away, pierced through, Without the increase of the field.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20431,
+        "text": "The hands of merciful women have boiled their own children, They have been for food to them, In the destruction of the daughter of my people.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20432,
+        "text": "Completed hath Jehovah His fury, He hath poured out the fierceness of His anger, And he kindleth a fire in Zion, And it devoureth her foundations.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20433,
+        "text": "Believe not did the kings of earth, And any of the inhabitants of the world, That come would an adversary and enemy Into the gates of Jerusalem.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20434,
+        "text": "Because of the sins of her prophets, The iniquities of her priests, Who are shedding in her midst the blood of the righteous,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 20435,
+        "text": "They have wandered naked in out-places, They have been polluted with blood, Without [any] being able to touch their clothing,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20436,
+        "text": "'Turn aside -- unclean,' they called to them, 'Turn aside, turn aside, touch not,' For they fled -- yea, they have wandered, They have said among nations: 'They do not add to sojourn.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20437,
+        "text": "The face of Jehovah hath divided them, He doth not add to behold them, The face of priests they have not lifted up, Elders they have not favoured.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20438,
+        "text": "While we exist -- consumed are our eyes for our vain help, In our watch-tower we have watched for a nation [that] saveth not.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20439,
+        "text": "They have hunted our steps from going in our broad-places, Near hath been our end, fulfilled our days, For come hath our end.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20440,
+        "text": "Swifter have been our pursuers, Than the eagles of the heavens, On the mountains they have burned [after] us, In the wilderness they have laid wait for us.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20441,
+        "text": "The breath of our nostrils -- the anointed of Jehovah, Hath been captured in their pits, of whom we said: 'In his shadow we do live among nations.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20442,
+        "text": "Joy and rejoice, O daughter of Edom, Dwelling in the land of Uz, Even unto thee pass over doth a cup, Thou art drunk, and makest thyself naked.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 20443,
+        "text": "Completed [is] thy iniquity, daughter of Zion, He doth not add to remove thee, He hath inspected thy iniquity, O daughter of Edom, He hath removed [thee] because of thy sins!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

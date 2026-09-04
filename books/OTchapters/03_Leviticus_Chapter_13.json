@@ -1,0 +1,425 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 103,
+    "MaxVerses": 59,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3054,
+        "text": "And Jehovah speaketh unto Moses, and unto Aaron, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3055,
+        "text": "'When a man hath in the skin of his flesh a rising, or scab, or bright spot, and it hath become in the skin of his flesh a leprous plague, then he hath been brought in unto Aaron the priest, or unto one of his sons the priests;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3056,
+        "text": "and the priest hath seen the plague in the skin of the flesh, and the hair in the plague hath turned white, and the appearance of the plague [is] deeper than the skin of his flesh -- it [is] a plague of leprosy, and the priest hath seen him, and hath pronounced him unclean.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3057,
+        "text": "'And if the bright spot is white in the skin of his flesh, and its appearance is not deeper than the skin, and its hair hath not turned white, then hath the priest shut up [him who hath] the plague seven days.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3058,
+        "text": "'And the priest hath seen him on the seventh day, and lo, the plague hath stood in his eyes, the plague hath not spread in the skin, and the priest hath shut him up a second seven days.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3059,
+        "text": "'And the priest hath seen him on the second seventh day, and lo, the plague is become weak, and the plague hath not spread in the skin -- and the priest hath pronounced him clean, it [is] a scab, and he hath washed his garments, and hath been clean.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3060,
+        "text": "'And if the scab spread greatly in the skin, after his being seen by the priest for his cleansing, then he hath been seen a second time by the priest;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3061,
+        "text": "and the priest hath seen, and lo, the scab hath spread in the skin, and the priest hath pronounced him unclean; it [is] leprosy.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3062,
+        "text": "'When a plague of leprosy is in a man, then he hath been brought in unto the priest,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3063,
+        "text": "and the priest hath seen, and lo, a white rising in the skin, and it hath turned the hair white, and a quickening of raw flesh [is] in the rising, --",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3064,
+        "text": "an old leprosy it [is] in the skin of his flesh, and the priest hath pronounced him unclean; he doth not shut him up, for he [is] unclean.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3065,
+        "text": "'And if the leprosy break out greatly in the skin, and the leprosy hath covered all the skin of [him who hath] the plague, from his head even unto his feet, to all that appeareth to the eyes of the priest,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3066,
+        "text": "then hath the priest seen, and lo, the leprosy hath covered all his flesh, and he hath pronounced [him who hath] the plague clean; it hath all turned white; he [is] clean.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3067,
+        "text": "'And in the day of raw flesh being seen in him he is unclean;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3068,
+        "text": "and the priest hath seen the raw flesh, and hath pronounced him unclean; the raw flesh is unclean, it [is] leprosy.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3069,
+        "text": "Or when the raw flesh turneth back, and hath been turned to white, then he hath come in unto the priest,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3070,
+        "text": "and the priest hath seen him, and lo, the plague hath been turned to white, and the priest hath pronounced clean [him who hath] the plague; he [is] clean.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3071,
+        "text": "'And when flesh hath in it, in its skin, an ulcer, and it hath been healed,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 3072,
+        "text": "and there hath been in the place of the ulcer a white rising, or a bright white spot, very red, then it hath been seen by the priest,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3073,
+        "text": "and the priest hath seen, and lo, its appearance [is] lower than the skin, and its hair hath turned white, and the priest hath pronounced him unclean; it [is] a plague of leprosy -- in an ulcer it hath broken out.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3074,
+        "text": "'And if the priest see it, and lo, there is no white hair in it, and it is not lower than the skin, and is become weak, then hath the priest shut him up seven days;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3075,
+        "text": "and if it spread greatly in the skin, then hath the priest pronounced him unclean, it [is] a plague;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3076,
+        "text": "and if in its place the bright spot stay -- it hath not spread -- it [is] an inflammation of the ulcer; and the priest hath pronounced him clean.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3077,
+        "text": "'Or when flesh hath in its skin a fiery burning, and the quickening of the burning, the bright white spot, hath been very red or white,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3078,
+        "text": "and the priest hath seen it, and lo, the hair hath turned white in the bright spot, and its appearance [is] deeper than the skin; leprosy it [is], in the burning it hath broken out, and the priest hath pronounced him unclean; it [is] a plague of leprosy.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3079,
+        "text": "'And if the priest see it, and lo, there is no white hair on the bright spot, and it is not lower than the skin, and it is become weak, then the priest hath shut him up seven days;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3080,
+        "text": "and the priest hath seen him on the seventh day, if it spread greatly in the skin, then the priest hath pronounced him unclean; a plague of leprosy it [is].",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3081,
+        "text": "'And if the bright spot stay in its place, it hath not spread in the skin, and is become weak; a rising of the burning it [is], and the priest hath pronounced him clean; for it [is] inflammation of the burning.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3082,
+        "text": "'And when a man (or a woman) hath in him a plague in the head or in the beard,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3083,
+        "text": "then hath the priest seen the plague, and lo, its appearance is deeper than the skin, and in it a thin shining hair, and the priest hath pronounced him unclean; it [is] a scall -- it [is] a leprosy of the head or of the beard.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3084,
+        "text": "'And when the priest seeth the plague of the scall, and lo, its appearance is not deeper than the skin, and there is no black hair in it, then hath the priest shut up [him who hath] the plague of the scall seven days.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3085,
+        "text": "'And the priest hath seen the plague on the seventh day, and lo, the scall hath not spread, and a shining hair hath not been in it, and the appearance of the scall is not deeper than the skin,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3086,
+        "text": "then he hath shaved himself, but the scall he doth not shave; and the priest hath shut up [him who hath] the scall a second seven days.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3087,
+        "text": "And the priest hath seen the scall on the seventh day, and lo, the scall hath not spread in the skin, and its appearance is not deeper than the skin, and the priest hath pronounced him clean, and he hath washed his garments, and hath been clean.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3088,
+        "text": "'And if the scall spread greatly in the skin after his cleansing,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3089,
+        "text": "and the priest hath seen him, and lo, the scall hath spread in the skin, the priest seeketh not for the shining hair, he is unclean;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3090,
+        "text": "and if in his eyes the scall hath stayed, and black hair hath sprung up in it, the scall hath been healed -- he [is] clean -- and the priest hath pronounced him clean.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3091,
+        "text": "'And when a man or woman hath in the skin of their flesh bright spots, white bright spots,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 3092,
+        "text": "and the priest hath seen, and lo, in the skin of their flesh white weak bright spots, it [is] a freckled spot broken out in the skin; he [is] clean.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3093,
+        "text": "'And when a man's head [is] polished, he [is] bald, he [is] clean;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 3094,
+        "text": "and if from the corner of his face his head is polished, he [is] bald of the forehead; he [is] clean.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3095,
+        "text": "'And when there is in the bald back of the head, or in the bald forehead, a very red white plague, it [is] a leprosy breaking out in the bald back of the head, or in the bald forehead;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3096,
+        "text": "and the priest hath seen him, and lo, the rising of the very red white plague in the bald back of the head, or in the bald forehead, [is] as the appearance of leprosy, in the skin of the flesh,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3097,
+        "text": "he [is] a leprous man, he [is] unclean; the priest doth pronounce him utterly unclean; his plague [is] in his head.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 3098,
+        "text": "'As to the leper in whom [is] the plague, his garments are rent, and his head is uncovered, and he covereth over the upper lip, and 'Unclean! unclean!' he calleth;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3099,
+        "text": "all the days that the plague [is] in him he is unclean; he [is] unclean, alone he doth dwell, at the outside of the camp [is] his dwelling.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 3100,
+        "text": "'And when there is in any garment a plague of leprosy, -- in a garment of wool, or in a garment of linen,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 48,
+        "count": 3101,
+        "text": "or in the warp, or in the woof, of linen or of wool, or in a skin, or in any work of skin,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 3102,
+        "text": "and the plague hath been very green or very red in the garment, or in the skin, or in the warp, or in the woof, or in any vessel of skin, it [is] a plague of leprosy, and it hath been shewn the priest.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 3103,
+        "text": "'And the priest hath seen the plague, and hath shut up [that which hath] the plague, seven days;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 3104,
+        "text": "and he hath seen the plague on the seventh day, and the plague hath spread in the garment, or in the warp, or in the woof, or in the skin, of all that is made of skin for work; the plague [is] a fretting leprosy, it [is] unclean.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 3105,
+        "text": "'And he hath burnt the garment, or the warp, or the woof, in wool or in linen, or any vessel of skin in which the plague is; for it [is] a fretting leprosy; with fire it is burnt.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 3106,
+        "text": "'And if the priest see, and lo, the plague hath not spread in the garment, or in the warp, or in the woof, or in any vessel of skin,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 3107,
+        "text": "then hath the priest commanded, and they have washed that in which the plague [is], and he hath shut it up a second seven days.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 3108,
+        "text": "And the priest hath seen [that which hath] the plague after it hath been washed, and lo, the plague hath not changed its aspect, and the plague hath not spread, -- it [is] unclean; with fire thou dost burn it; it [is] a fretting in its back-part or in its front-part.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 3109,
+        "text": "'And if the priest hath seen, and lo, the plague [is] become weak after it hath been washed, then he hath rent it out of the garment, or out of the skin, or out of the warp, or out of the woof;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 3110,
+        "text": "and if it still be seen in the garment, or in the warp, or in the woof, or in any vessel of skin, it [is] a fretting; with fire thou dost burn it -- that in which the plague [is].",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 3111,
+        "text": "'And the garment, or the warp, or the woof, or any vessel of skin which thou dost wash when the plague hath turned aside from them, then it hath been washed a second time, and hath been clean.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 3112,
+        "text": "'This [is] the law of a plague of leprosy [in] a garment of wool or of linen, or of the warp or of the woof, or of any vessel of skin, to pronounce it clean or to pronounce it unclean.'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

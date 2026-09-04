@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 86,
+    "count": 564,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15286,
+        "text": "A Prayer of David. Incline, O Jehovah, Thine ear, Answer me, for I [am] poor and needy.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15287,
+        "text": "Keep my soul, for I [am] pious, Save Thy servant -- who is trusting to Thee, O Thou, my God.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15288,
+        "text": "Favour me, O Lord, for to Thee I call all the day.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15289,
+        "text": "Rejoice the soul of Thy servant, For unto Thee, O Lord, my soul I lift up.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15290,
+        "text": "For Thou, Lord, [art] good and forgiving. And abundant in kindness to all calling Thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15291,
+        "text": "Hear, O Jehovah, my prayer, And attend to the voice of my supplications.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15292,
+        "text": "In a day of my distress I call Thee, For Thou dost answer me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15293,
+        "text": "There is none like Thee among the gods, O Lord, And like Thy works there are none.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15294,
+        "text": "All nations that Thou hast made Come and bow themselves before Thee, O Lord, And give honour to Thy name.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15295,
+        "text": "For great [art] Thou, and doing wonders, Thou [art] God Thyself alone.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15296,
+        "text": "Show me, O Jehovah, Thy way, I walk in Thy truth, My heart doth rejoice to fear Thy name.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15297,
+        "text": "I confess Thee, O Lord my God, with all my heart, And I honour Thy name to the age.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15298,
+        "text": "For Thy kindness [is] great toward me, And Thou hast delivered my soul from the lowest Sheol.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15299,
+        "text": "O God, the proud have risen up against me, And a company of the terrible sought my soul, And have not placed Thee before them,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15300,
+        "text": "And Thou, O Lord, [art] God, merciful and gracious, Slow to anger, and abundant in kindness and truth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15301,
+        "text": "Look unto me, and favour me, Give Thy strength to Thy servant, And give salvation to a son of Thine handmaid.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15302,
+        "text": "Do with me a sign for good, And those hating me see and are ashamed, For Thou, O Jehovah, hast helped me, Yea, Thou hast comforted me!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

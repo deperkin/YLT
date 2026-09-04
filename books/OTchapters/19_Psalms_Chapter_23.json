@@ -1,0 +1,54 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 501,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14237,
+        "text": "A Psalm of David. Jehovah [is] my shepherd, I do not lack,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14238,
+        "text": "In pastures of tender grass He causeth me to lie down, By quiet waters He doth lead me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14239,
+        "text": "My soul He refresheth, He leadeth me in paths of righteousness, For His name's sake,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14240,
+        "text": "Also -- when I walk in a valley of death-shade, I fear no evil, for Thou [art] with me, Thy rod and Thy staff -- they comfort me.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14241,
+        "text": "Thou arrangest before me a table, Over-against my adversaries, Thou hast anointed with oil my head, My cup is full!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14242,
+        "text": "Only -- goodness and kindness pursue me, All the days of my life, And my dwelling [is] in the house of Jehovah, For a length of days!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 9,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 207,
+        "text": "And God blesseth Noah, and his sons, and saith to them, 'Be fruitful, and multiply, and fill the earth;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 208,
+        "text": "and your fear and your dread is on every beast of the earth, and on every fowl of the heavens, on all that creepeth on the ground, and on all fishes of the sea -- into your hand they have been given.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 209,
+        "text": "Every creeping thing that is alive, to you it is for food; as the green herb I have given to you the whole;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 210,
+        "text": "only flesh in its life -- its blood -- ye do not eat.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 211,
+        "text": "'And only your blood for your lives do I require; from the hand of every living thing I require it, and from the hand of man, from the hand of every man's brother I require the life of man;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 212,
+        "text": "whoso sheddeth man's blood, by man is his blood shed: for in the image of God hath He made man.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 213,
+        "text": "And ye, be fruitful and multiply, teem in the earth, and multiply in it.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 214,
+        "text": "And God speaketh unto Noah, and unto his sons with him, saying,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 215,
+        "text": "'And I, lo, I am establishing My covenant with you, and with your seed after you,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 216,
+        "text": "and with every living creature which [is] with you, among fowl, among cattle, and among every beast of the earth with you, from all who are going out of the ark -- to every beast of the earth.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 217,
+        "text": "And I have established My covenant with you, and all flesh is not any more cut off by waters of a deluge, and there is not any more a deluge to destroy the earth.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 218,
+        "text": "And God saith, 'This is a token of the covenant which I am giving between Me and you, and every living creature that [is] with you, to generations age-during;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 219,
+        "text": "My bow I have given in the cloud, and it hath been for a token of a covenant between Me and the earth;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 220,
+        "text": "and it hath come to pass (in My sending a cloud over the earth) that the bow hath been seen in the cloud,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 221,
+        "text": "and I have remembered My covenant which is between Me and you, and every living creature among all flesh, and the waters become no more a deluge to destroy all flesh;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 222,
+        "text": "and the bow hath been in the cloud, and I have seen it -- to remember the covenant age-during between God and every living creature among all flesh which [is] on the earth.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 223,
+        "text": "And God saith unto Noah, 'This [is] a token of the covenant which I have established between Me and all flesh that [is] upon the earth.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 224,
+        "text": "And the sons of Noah who are going out of the ark are Shem, and Ham, and Japheth; and Ham is father of Canaan.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 225,
+        "text": "These three [are] sons of Noah, and from these hath all the earth been overspread.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 226,
+        "text": "And Noah remaineth a man of the ground, and planteth a vineyard,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 227,
+        "text": "and drinketh of the wine, and is drunken, and uncovereth himself in the midst of the tent.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 228,
+        "text": "And Ham, father of Canaan, seeth the nakedness of his father, and declareth to his two brethren without.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 229,
+        "text": "And Shem taketh -- Japheth also -- the garment, and they place on the shoulder of them both, and go backward, and cover the nakedness of their father; and their faces [are] backward, and their father's nakedness they have not seen.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 230,
+        "text": "And Noah awaketh from his wine, and knoweth that which his young son hath done to him,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 231,
+        "text": "and saith: 'Cursed [is] Canaan, Servant of servants he is to his brethren.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 232,
+        "text": "And he saith: 'Blessed of Jehovah my God [is] Shem, And Canaan is servant to him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 233,
+        "text": "God doth give beauty to Japheth, And he dwelleth in tents of Shem, And Canaan is servant to him.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 234,
+        "text": "And Noah liveth after the deluge three hundred and fifty years;",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 235,
+        "text": "and all the days of Noah are nine hundred and fifty years, and he dieth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

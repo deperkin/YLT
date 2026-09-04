@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 755,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19203,
+        "text": "Hear ye the word, O house of Israel, That Jehovah hath spoken for you.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19204,
+        "text": "Thus said Jehovah: Unto the way of the nations accustom not yourselves, And by the signs of the heavens be not affrighted, For the nations are affrighted by them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19205,
+        "text": "For the statutes of the peoples are vanity, For a tree from a forest hath one cut, Work of the hands of an artificer, with an axe,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19206,
+        "text": "With silver and with gold they beautify it, With nails and with hammers they fix it, And it doth not stumble.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19207,
+        "text": "As a palm they [are] stiff, and they speak not, They are surely borne, for they step not, Be not afraid of them, for they do no evil, Yea, also to do good is not in them.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19208,
+        "text": "Because there is none like Thee, O Jehovah, Great [art] Thou, and great Thy name in might.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19209,
+        "text": "Who doth not fear Thee, king of the nations? For to Thee it is becoming, For among all the wise of the nations, And in all their kingdom there is none like Thee.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 19210,
+        "text": "And in one they are brutish and foolish, An instruction of vanities [is] the tree itself.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19211,
+        "text": "Spread-out silver from Tarshish is brought, And gold from Uphaz, Work of an artisan, and of the hands of a refiner, Blue and purple [is] their clothing, Work of the skilful -- all of them.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19212,
+        "text": "And Jehovah [is] a God of truth, He [is] a living God, and a king age-during, From His wrath shake doth the earth, And nations endure not His indignation.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 19213,
+        "text": "Thus do ye say to them, The gods Who the heavens and earth have not made, They do perish from the earth, And from under these heavens.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19214,
+        "text": "The maker of the earth by His power, The establisher of the world by His wisdom, Who, by His understanding, stretched forth the heavens,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19215,
+        "text": "At the voice He giveth forth, A multitude of waters [is] in the heavens, And He causeth vapours to come up from the end of the earth, Lightnings for rain He hath made, And bringeth out wind from His treasures.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19216,
+        "text": "Brutish is every man by knowledge, Put to shame is every refiner by a graven image, For false [is] his molten image. And there is no breath in them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19217,
+        "text": "Vanity [are] they, work of erring ones, In the time of their inspection they perish.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19218,
+        "text": "Not like these [is] the Portion of Jacob, For framer of all things [is] He, And Israel [is] the rod of His inheritance, Jehovah of Hosts [is] His name.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19219,
+        "text": "Gather from the land thy merchandise, O dweller in the bulwark,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 19220,
+        "text": "For thus said Jehovah: Lo, I am slinging out the inhabitants of the land at this time, And have been an adversary to them, So that they are found out.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19221,
+        "text": "Woe to me for my breaking, Grievious hath been my smiting, And I said, Only, this [is] my sickness, and I bear it.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19222,
+        "text": "My tent hath been spoiled, And all my cords have been broken, My sons have gone out from me, and they are not, There is none stretching out any more my tent, And raising up my curtains.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 19223,
+        "text": "For the shepherds have become brutish, And Jehovah they have not sought, Therefore they have not acted wisely, And all their flock is scattered.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 19224,
+        "text": "A voice of a report, lo, it hath come, Even a great shaking from the north country, To make the cities of Judah a desolation, A habitation of dragons.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 19225,
+        "text": "I have known, O Jehovah, that not of man [is] his way, Not of man the going and establishing of his step.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 19226,
+        "text": "Chastise me, O Jehovah, only in judgment, Not in Thine anger, lest Thou make me small.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 19227,
+        "text": "Pour out Thy fury on the nations that have not known Thee, And on the families that have not called in Thy name, For they have eaten up Jacob, Yea, they have eaten him up, yea, they consume him, And his habitation they have made desolate!",
+        "WordCount": 46,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

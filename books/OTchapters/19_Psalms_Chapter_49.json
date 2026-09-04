@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 49,
+    "count": 527,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14650,
+        "text": "To the Overseer. -- By sons of Korah. A Psalm. Hear this, all ye peoples, Give ear, all ye inhabitants of the world.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14651,
+        "text": "Both low and high, together rich and needy.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14652,
+        "text": "My mouth speaketh wise things, And the meditations of my heart [are] things of understanding.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14653,
+        "text": "I incline to a simile mine ear, I open with a harp my riddle:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14654,
+        "text": "Why do I fear in days of evil? The iniquity of my supplanters doth compass me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14655,
+        "text": "Those trusting on their wealth, And in the multitude of their riches, Do shew themselves foolish.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14656,
+        "text": "A brother doth no one at all ransom, He doth not give to God his atonement.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14657,
+        "text": "And precious [is] the redemption of their soul, And it hath ceased -- to the age.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14658,
+        "text": "And still he liveth for ever, He seeth not the pit.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14659,
+        "text": "For he seeth wise men die, Together the foolish and brutish perish, And have left to others their wealth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14660,
+        "text": "Their heart [is]: Their houses [are] to the age, Their tabernacles to all generations. They proclaimed their names over the lands.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14661,
+        "text": "And man in honour doth not remain, He hath been like the beasts, they have been cut off.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14662,
+        "text": "This their way [is] folly for them, And their posterity with their sayings are pleased. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14663,
+        "text": "As sheep for Sheol they have set themselves, Death doth afflict them, And the upright rule over them in the morning, And their form [is] for consumption. Sheol [is] a dwelling for him.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14664,
+        "text": "Only, God doth ransom my soul from the hand of Sheol, For He doth receive me. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 14665,
+        "text": "Fear not, when one maketh wealth, When the honour of his house is abundant,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14666,
+        "text": "For at his death he receiveth nothing, His honour goeth not down after him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14667,
+        "text": "For his soul in his life he blesseth, (And they praise thee when thou dost well for thyself.)",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14668,
+        "text": "It cometh to the generation of his fathers, For ever they see not the light.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14669,
+        "text": "Man in honour, who understandest not, Hath been like the beasts, they have been cut off!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

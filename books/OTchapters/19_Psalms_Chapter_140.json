@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 140,
+    "count": 618,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16265,
+        "text": "To the Overseer. -- A Psalm of David. Deliver me, O Jehovah, from an evil man, From one of violence Thou keepest me.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16266,
+        "text": "Who have devised evils in the heart, All the day they assemble [for] wars.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16267,
+        "text": "They sharpened their tongue as a serpent, Poison of an adder [is] under their lips. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16268,
+        "text": "Preserve me, Jehovah, from the hands of the wicked, From one of violence Thou keepest me, Who have devised to overthrow my steps.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16269,
+        "text": "The proud hid a snare for me -- and cords, They spread a net by the side of the path, Snares they have set for me. Selah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16270,
+        "text": "I have said to Jehovah, 'My God [art] Thou, Hear, Jehovah, the voice of my supplications.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16271,
+        "text": "O Jehovah, my Lord, strength of my salvation, Thou hast covered my head in the day of armour.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16272,
+        "text": "Grant not, O Jehovah, the desires of the wicked, His wicked device bring not forth, They are high. Selah.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16273,
+        "text": "The chief of my surrounders, The perverseness of their lips covereth them.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16274,
+        "text": "They cause to fall on themselves burning coals, Into fire He doth cast them, Into deep pits -- they arise not.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16275,
+        "text": "A talkative man is not established in the earth, One of violence -- evil hunteth to overflowing.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16276,
+        "text": "I have known that Jehovah doth execute The judgment of the afflicted, The judgment of the needy.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16277,
+        "text": "Only -- the righteous give thanks to Thy name, The upright do dwell with Thy presence!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

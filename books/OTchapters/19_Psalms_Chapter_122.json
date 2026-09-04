@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 122,
+    "count": 600,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16091,
+        "text": "A Song of the Ascents, by David. I have rejoiced in those saying to me, 'To the house of Jehovah we go.'",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16092,
+        "text": "Our feet have been standing in thy gates, O Jerusalem!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16093,
+        "text": "Jerusalem -- the builded one -- [Is] as a city that is joined to itself together.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16094,
+        "text": "For thither have tribes gone up, Tribes of Jah, companies of Israel, To give thanks to the name of Jehovah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16095,
+        "text": "For there have sat thrones of judgment, Thrones of the house of David.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16096,
+        "text": "Ask ye the peace of Jerusalem, At rest are those loving thee.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16097,
+        "text": "Peace is in thy bulwark, rest in thy high places,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16098,
+        "text": "For the sake of my brethren and my companions, Let me speak, I pray thee, 'Peace [be] in thee.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16099,
+        "text": "For the sake of the house of Jehovah our God, I seek good for thee!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

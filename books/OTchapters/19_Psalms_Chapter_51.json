@@ -1,0 +1,145 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 51,
+    "count": 529,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14693,
+        "text": "To the Overseer. -- A Psalm of David, in the coming in unto him of Nathan the prophet, when he hath gone in unto Bath-Sheba. Favour me, O God, according to Thy kindness, According to the abundance of Thy mercies, Blot out my transgressions.",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14694,
+        "text": "Thoroughly wash me from mine iniquity, And from my sin cleanse me,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14695,
+        "text": "For my transgressions I do know, And my sin [is] before me continually.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14696,
+        "text": "Against Thee, Thee only, I have sinned, And done the evil thing in Thine eyes, So that Thou art righteous in Thy words, Thou art pure in Thy judging.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14697,
+        "text": "Lo, in iniquity I have been brought forth, And in sin doth my mother conceive me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14698,
+        "text": "Lo, truth Thou hast desired in the inward parts, And in the hidden part Wisdom Thou causest me to know.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14699,
+        "text": "Thou cleansest me with hyssop and I am clean, Washest me, and than snow I am whiter.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14700,
+        "text": "Thou causest me to hear joy and gladness, Thou makest joyful bones Thou hast bruised.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14701,
+        "text": "Hide Thy face from my sin. And all mine iniquities blot out.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14702,
+        "text": "A clean heart prepare for me, O God, And a right spirit renew within me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14703,
+        "text": "Cast me not forth from Thy presence, And Thy Holy Spirit take not from me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14704,
+        "text": "Restore to me the joy of Thy salvation, And a willing spirit doth sustain me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14705,
+        "text": "I teach transgressors Thy ways, And sinners unto Thee do return.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14706,
+        "text": "Deliver me from blood, O God, God of my salvation, My tongue singeth of Thy righteousness.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 14707,
+        "text": "O Lord, my lips thou dost open, And my mouth declareth Thy praise.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14708,
+        "text": "For Thou desirest not sacrifice, or I give [it], Burnt-offering Thou acceptest not.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14709,
+        "text": "The sacrifices of God [are] a broken spirit, A heart broken and bruised, O God, Thou dost not despise.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14710,
+        "text": "Do good in Thy good pleasure with Zion, Thou dost build the walls of Jerusalem.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14711,
+        "text": "Then Thou desirest sacrifices of righteousness, Burnt-offering, and whole burnt-offering, Then they offer bullocks on thine altar!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

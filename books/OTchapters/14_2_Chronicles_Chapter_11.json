@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 378,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11416,
+        "text": "And Rehoboam cometh in to Jerusalem, and assembleth the house of Judah and Benjamin, a hundred and eighty thousand chosen warriors, to fight with Israel, to bring back the kingdom to Rehoboam.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11417,
+        "text": "And a word of Jehovah is unto Shemaiah, a man of God, saying,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11418,
+        "text": "'Speak unto Rehoboam son of Solomon king of Judah, and unto all Israel in Judah and Benjamin, saying,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11419,
+        "text": "Thus said Jehovah, Ye do not go up nor fight with your brethren, turn back each to his house, for from Me hath this thing been;' and they hear the words of Jehovah, and turn back from going against Jeroboam.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11420,
+        "text": "And Rehoboam dwelleth in Jerusalem, and buildeth cities for a bulwark in Judah,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11421,
+        "text": "yea, he buildeth Beth-Lehem and Etam, and Tekoa,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11422,
+        "text": "and Beth-Zur, and Shocho, and Adullam,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11423,
+        "text": "and Gath, and Mareshah, and Ziph,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11424,
+        "text": "and Adoraim, and Lachish, and Azekah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11425,
+        "text": "and Zorah, and Aijalon, and Hebron, that [are] in Judah and in Benjamin, cities of bulwarks.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11426,
+        "text": "And he strengtheneth the bulwarks, and putteth in them leaders, and treasures of food, and oil, and wine,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11427,
+        "text": "and in every city and city targets and spears, and strengtheneth them very greatly; and he hath Judah and Benjamin.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11428,
+        "text": "And the priests, and the Levites, that [are] in all Israel, have stationed themselves by him, out of all their border,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 11429,
+        "text": "for the Levites have left their suburbs and their possession, and they come to Judah and to Jerusalem, for Jeroboam and his sons have cast them off from acting as priests to Jehovah,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11430,
+        "text": "and he establisheth to him priests for high places, and for goats, and for calves, that he made --",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11431,
+        "text": "and after them, out of all the tribes of Israel, those giving their heart to seek Jehovah, God of Israel, have come in to Jerusalem to sacrifice to Jehovah, God of their father.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11432,
+        "text": "And they strengthen the kingdom of Judah, and strengthen Rehoboam son of Solomon, for three years, because they walked in the way of David and Solomon for three years.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11433,
+        "text": "And Rehoboam taketh to him a wife, Mahalath, child of Jerimoth son of David, [and] Abigail daughter of Eliab, son of Jesse.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11434,
+        "text": "And she beareth to him sons, Jeush, and Shamaria, and Zaham.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11435,
+        "text": "And after her he hath taken Maachah daughter of Absalom, and she beareth to him Abijah, and Attai, and Ziza, and Shelomith.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11436,
+        "text": "And Rehoboam loveth Maachah daughter of Absalom above all his wives and his concubines -- for eighteen wives he hath taken, and sixty concubines -- and he begetteth twenty and eight sons, and sixty daughters.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11437,
+        "text": "And Rehoboam appointeth for head Abijah son of Maachah, for leader among his brethren, for to cause him to reign.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 11438,
+        "text": "And he hath understanding, and spreadeth out of all his sons to all lands of Judah and Benjamin, to all cities of the bulwarks, and giveth to them provision in abundance; and he asketh a multitude of wives.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

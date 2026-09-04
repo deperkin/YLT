@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 637,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16640,
+        "text": "Wisdom hath builded her house, She hath hewn out her pillars -- seven.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16641,
+        "text": "She hath slaughtered her slaughter, She hath mingled her wine, Yea, she hath arranged her table.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16642,
+        "text": "She hath sent forth her damsels, She crieth on the tops of the high places of the city:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16643,
+        "text": "'Who [is] simple? let him turn aside hither.' Whoso lacketh heart: she hath said to him,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16644,
+        "text": "'Come, eat of my bread, And drink of the wine I have mingled.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16645,
+        "text": "Forsake ye, the simple, and live, And be happy in the way of understanding.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16646,
+        "text": "The instructor of a scorner Is receiving for it -- shame, And a reprover of the wicked -- his blemish.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16647,
+        "text": "Reprove not a scorner, lest he hate thee, Give reproof to the wise, and he loveth thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16648,
+        "text": "Give to the wise, and he is wiser still, Make known to the righteous, And he increaseth learning.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16649,
+        "text": "The commencement of wisdom [is] the fear of Jehovah, And a knowledge of the Holy Ones [is] understanding.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16650,
+        "text": "For by me do thy days multiply, And added to thee are years of life.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16651,
+        "text": "If thou hast been wise, thou hast been wise for thyself, And thou hast scorned -- thyself bearest [it].",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16652,
+        "text": "A foolish woman [is] noisy, Simple, and hath not known what.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16653,
+        "text": "And she hath sat at the opening of her house, On a throne -- the high places of the city,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16654,
+        "text": "To call to those passing by the way, Who are going straight [on] their paths.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16655,
+        "text": "'Who [is] simple? let him turn aside hither.' And whoso lacketh heart -- she said to him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16656,
+        "text": "'Stolen waters are sweet, And hidden bread is pleasant.'",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16657,
+        "text": "And he hath not known that Rephaim [are] there, In deep places of Sheol her invited ones!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

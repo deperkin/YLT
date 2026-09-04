@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 141,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4448,
+        "text": "And Balaam seeth that [it is] good in the eyes of Jehovah to bless Israel, and he hath not gone as time by time to meet enchantments, and he setteth towards the wilderness his face;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4449,
+        "text": "and Balaam lifteth up his eyes, and seeth Israel tabernacling, by its tribes, and the Spirit of God is upon him,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4450,
+        "text": "and he taketh up his simile, and saith: 'An affirmation of Balaam son of Beor -- And an affirmation of the man whose eyes are shut --",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4451,
+        "text": "An affirmation of him who is hearing sayings of God -- Who a vision of the Almighty seeth, Falling -- and eyes uncovered:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4452,
+        "text": "How good have been thy tents, O Jacob, Thy tabernacles, O Israel;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4453,
+        "text": "As valleys they have been stretched out, As gardens by a river; As aloes Jehovah hath planted, As cedars by waters;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4454,
+        "text": "He maketh water flow from his buckets, And his seed [is] in many waters; And higher than Agag [is] his king, And exalted is his kingdom.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4455,
+        "text": "God is bringing him out of Egypt; As the swiftness of a Reem is to him, He eateth up nations his adversaries, And their bones he breaketh, And [with] his arrows he smiteth,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4456,
+        "text": "He hath bent, he hath lain down as a lion, And as a lioness: who doth raise him up? He who is blessing thee [is] blessed, And he who is cursing thee [is] cursed.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4457,
+        "text": "And the anger of Balak burneth against Balaam, and he striketh his hands; and Balak saith unto Balaam, 'To pierce mine enemies I called thee, and lo, thou hast certainly blessed -- these three times;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 4458,
+        "text": "and now, flee for thyself unto thy place; I have said, I do greatly honour thee, and lo, Jehovah hath kept thee back from honour.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4459,
+        "text": "And Balaam saith unto Balak, 'Did I not also unto thy messengers whom thou hast sent unto me, speak, saying,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4460,
+        "text": "If Balak doth give to me the fulness of his house of silver and gold, I am not able to pass over the command of Jehovah, to do good or evil of mine own heart -- that which Jehovah speaketh -- it I speak?",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4461,
+        "text": "and, now, lo, I am going to my people; come, I counsel thee [concerning] that which this people doth to thy people, in the latter end of the days.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4462,
+        "text": "And he taketh up his simile, and saith: 'An affirmation of Balaam son of Beor -- And an affirmation of the man whose eyes [are] shut --",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 4463,
+        "text": "An affirmation of him who is hearing sayings of God -- And knowing knowledge of the Most High; A vision of the Almighty he seeth, Falling -- and eyes uncovered:",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4464,
+        "text": "I see it, but not now; I behold it, but not near; A star hath proceeded from Jacob, And a sceptre hath risen from Israel, And hath smitten corners of Moab, And hath destroyed all sons of Sheth.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4465,
+        "text": "And Edom hath been a possession, And Seir hath been a possession, [for] its enemies, And Israel is doing valiantly;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4466,
+        "text": "And [one] doth rule out of Jacob, And hath destroyed a remnant from Ar.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4467,
+        "text": "And he seeth Amalek, and taketh up his simile, and saith: 'A beginning of the Goyim [is] Amalek; And his latter end -- for ever he perisheth.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4468,
+        "text": "And he seeth the Kenite, and taketh up his simile, and saith: 'Enduring [is] thy dwelling, And setting in a rock thy nest,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4469,
+        "text": "But the Kenite is for a burning; Till when doth Asshur keep thee captive?'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4470,
+        "text": "And he taketh up his simile, and saith: 'Alas! who doth live when God doth this?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4471,
+        "text": "And -- ships [are] from the side of Chittim, And they have humbled Asshur, And they have humbled Eber, And it also for ever is perishing.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4472,
+        "text": "And Balaam riseth, and goeth, and turneth back to his place, and Balak also hath gone on his way.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

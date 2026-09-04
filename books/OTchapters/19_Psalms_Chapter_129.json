@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 129,
+    "count": 607,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16134,
+        "text": "A Song of the Ascents. Often they distressed me from my youth, Pray, let Israel say:",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16135,
+        "text": "Often they distressed me from my youth, Yet they have not prevailed over me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16136,
+        "text": "Over my back have ploughers ploughed, They have made long their furrows.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16137,
+        "text": "Jehovah [is] righteous, He hath cut asunder cords of the wicked.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16138,
+        "text": "Confounded and turn backward do all hating Zion.",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16139,
+        "text": "They are as grass of the roofs, That before it was drawn out withereth,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16140,
+        "text": "That hath not filled the hand of a reaper, And the bosom of a binder of sheaves.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16141,
+        "text": "And the passers by have not said, 'The blessing of Jehovah [is] on you, We blessed you in the Name of Jehovah!'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

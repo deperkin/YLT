@@ -1,0 +1,145 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 382,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11492,
+        "text": "And upon Azariah son of Oded hath been the Spirit of God,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11493,
+        "text": "and he goeth out before Asa, and saith to him, 'Hear, me, Asa, and all Judah and Benjamin; Jehovah [is] with you -- in your being with Him, and if ye seek Him, He is found of you, and if ye forsake Him, He forsaketh you;",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11494,
+        "text": "and many days [are] to Israel without a true God, and without a teaching priest, and without law,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11495,
+        "text": "and it turneth back in its distress unto Jehovah, God of Israel, and they seek Him, and He is found of them,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11496,
+        "text": "and in those times there is no peace to him who is going out, and to him who is coming in, for many troubles [are] on all the inhabitants of the lands,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11497,
+        "text": "and they have been beaten down, nation by nation, and city by city, for God hath troubled them with every adversity;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11498,
+        "text": "and ye, be ye strong, and let not your hands be feeble, for there is a reward for your work.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11499,
+        "text": "And at Asa's hearing these words, and the prophecy of Oded the prophet, he hath strengthened himself, and doth cause the abominations to pass away out of all the land of Judah and Benjamin, and out of the cities that he hath captured from the hill-country of Ephraim, and reneweth the altar of Jehovah that [is] before the porch of Jehovah,",
+        "WordCount": 61,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 11500,
+        "text": "and gathereth all Judah and Benjamin, and the sojourners with them out of Ephraim, and Manasseh, and out of Simeon -- for they have fallen unto him from Israel in abundance, in their seeing that Jehovah his God [is] with him.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11501,
+        "text": "And they are gathered to Jerusalem in the third month of the fifteenth year of the reign of Asa,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11502,
+        "text": "and sacrifice to Jehovah on that day from the spoil they have brought in -- oxen seven hundred, and sheep seven thousand,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11503,
+        "text": "and they enter into a covenant to seek Jehovah, God of their fathers, with all their heart, and with all their soul,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11504,
+        "text": "and every one who doth not seek for Jehovah, God of Israel, is put to death, from small unto great, from man unto woman.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11505,
+        "text": "And they swear to Jehovah with a loud voice, and with shouting, and with trumpets, and with cornets,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11506,
+        "text": "and rejoice do all Judah concerning the oath, for with all their heart they have sworn, and with all their good-will they have sought Him, and He is found of them, and Jehovah giveth rest to them round about.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11507,
+        "text": "And also Maachah, mother of Asa the king -- he hath removed her from [being] mistress, in that she hath made for a shrine a horrible thing, and Asa cutteth down her horrible thing, and beateth [it] small, and burneth [it] by the brook Kidron:",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11508,
+        "text": "yet the high places have not turned aside from Israel; only, the heart of Asa hath been perfect all his days.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11509,
+        "text": "And he bringeth in the sanctified things of his father, and his own sanctified things, to the house of God, silver, and gold, and vessels.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11510,
+        "text": "And war hath not been till the thirty and fifth year of the reign of Asa.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

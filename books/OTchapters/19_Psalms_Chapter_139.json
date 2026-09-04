@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 139,
+    "count": 617,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16241,
+        "text": "To the Overseer. -- A Psalm by David. Jehovah, Thou hast searched me, and knowest.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16242,
+        "text": "Thou -- Thou hast known my sitting down, And my rising up, Thou hast attended to my thoughts from afar.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16243,
+        "text": "My path and my couch Thou hast fanned, And [with] all my ways hast been acquainted.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16244,
+        "text": "For there is not a word in my tongue, Lo, O Jehovah, Thou hast known it all!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16245,
+        "text": "Behind and before Thou hast besieged me, And Thou dost place on me Thy hand.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16246,
+        "text": "Knowledge too wonderful for me, It hath been set on high, I am not able for it.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16247,
+        "text": "Whither do I go from Thy Spirit? And whither from Thy face do I flee?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16248,
+        "text": "If I ascend the heavens -- there Thou [art], And spread out a couch in Sheol, lo, Thee!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16249,
+        "text": "I take the wings of morning, I dwell in the uttermost part of the sea,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16250,
+        "text": "Also there Thy hand doth lead me, And Thy right hand doth hold me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16251,
+        "text": "And I say, 'Surely darkness bruiseth me, Then night [is] light to me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16252,
+        "text": "Also darkness hideth not from Thee, And night as day shineth, as [is] darkness so [is] light.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16253,
+        "text": "For Thou -- Thou hast possessed my reins, Thou dost cover me in my mother's belly.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16254,
+        "text": "I confess Thee, because that [with] wonders I have been distinguished. Wonderful [are] Thy works, And my soul is knowing [it] well.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16255,
+        "text": "My substance was not hid from Thee, When I was made in secret, Curiously wrought in the lower part of earth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16256,
+        "text": "Mine unformed substance Thine eyes saw, And on Thy book all of them are written, The days they were formed -- And not one among them.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16257,
+        "text": "And to me how precious have been Thy thoughts, O God, how great hath been their sum!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16258,
+        "text": "I recount them! than the sand they are more, I have waked, and I am still with Thee.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16259,
+        "text": "Dost Thou slay, O God, the wicked? Then, men of blood, turn aside from me!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16260,
+        "text": "Who exchange Thee for wickedness, Lifted up to vanity [are] Thine enemies.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16261,
+        "text": "Do not I hate, Jehovah, those hating Thee? And with Thy withstanders grieve myself?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16262,
+        "text": "[With] perfect hatred I have hated them, Enemies they have become to me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16263,
+        "text": "Search me, O God, and know my heart, Try me, and know my thoughts,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16264,
+        "text": "And see if a grievous way be in me, And lead me in a way age-during!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

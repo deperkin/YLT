@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 172,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5408,
+        "text": "'When Jehovah thy God doth cut off the nations, whose land Jehovah thy God is giving to thee, and thou hast succeeded them, and dwelt in their cities, and in their houses,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5409,
+        "text": "three cities thou dost separate for thee in the midst of thy land which Jehovah thy God is giving to thee to possess it.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5410,
+        "text": "Thou dost prepare for thee the way, and hast divided into three parts the border of thy land which Jehovah thy God doth cause thee to inherit, and it hath been for the fleeing thither of every man-slayer.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5411,
+        "text": "'And this [is] the matter of the man-slayer who fleeth thither, and hath lived: He who smiteth his neighbour unknowingly, and is not hating him heretofore,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5412,
+        "text": "even he who cometh in with his neighbour into a forest to hew wood, and his hand hath driven with an axe to cut the tree, and the iron hath slipped from the wood, and hath met his neighbour, and he hath died -- he doth flee unto one of these cities, and hath lived,",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5413,
+        "text": "lest the redeemer of blood pursue after the man-slayer when his heart is hot, and hath overtaken him (because the way is great), and hath smitten him -- the life, and he hath no sentence of death, for he is not hating him heretofore;",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5414,
+        "text": "therefore I am commanding thee, saying, Three cities thou dost separate to thee.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5415,
+        "text": "'And if Jehovah thy God doth enlarge thy border, as He hath sworn to thy fathers, and hath given to thee all the land which He hath spoken to give to thy fathers --",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5416,
+        "text": "when thou keepest all this command to do it, which I am commanding thee to-day, to love Jehovah thy God, and to walk in His ways all the days -- then thou hast added to thee yet three cities to these three;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5417,
+        "text": "and innocent blood is not shed in the midst of thy land which Jehovah thy God is giving to thee -- an inheritance, and there hath been upon thee blood.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5418,
+        "text": "'And when a man is hating his neighbour, and hath lain in wait for him, and risen against him, and smitten him -- the life, and he hath died, and he hath fled unto one of these cities,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5419,
+        "text": "then the elders of his city have sent and taken him from thence, and given him into the hand of the redeemer of blood, and he hath died;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5420,
+        "text": "thine eye hath no pity on him, and thou hast put away the innocent blood from Israel, and it is well with thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5421,
+        "text": "'Thou dost not remove a border of thy neighbour, which they of former times have made, in thine inheritance, which thou dost inherit in the land which Jehovah thy God is giving to thee to possess it.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 5422,
+        "text": "'One witness doth not rise against a man for any iniquity, and for any sin, in any sin which he sinneth; by the mouth of two witnesses, or by the mouth of three witnesses, is a thing established.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5423,
+        "text": "'When a violent witness doth rise against a man, to testify against him apostasy,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5424,
+        "text": "then have both the men who have the strife stood before Jehovah, before the priests and the judges who are in those days,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5425,
+        "text": "and the judges have searched diligently, and lo, the witness [is] a false witness, a falsehood he hath testified against his brother:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5426,
+        "text": "'Then ye have done to him as he devised to do to his brother, and thou hast put away the evil thing out of thy midst,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5427,
+        "text": "and those who are left do hear and fear, and add not to do any more according to this evil thing in thy midst;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5428,
+        "text": "and thine eye doth not pity -- life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

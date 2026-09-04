@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 440,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12932,
+        "text": "And Eliphaz the Temanite answereth and saith: --",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12933,
+        "text": "Hath one tried a word with thee? -- Thou art weary! And to keep in words who is able?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12934,
+        "text": "Lo, thou hast instructed many, And feeble hands thou makest strong.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12935,
+        "text": "The stumbling one do thy words raise up, And bowing knees thou dost strengthen.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12936,
+        "text": "But now, it cometh in unto thee, And thou art weary; It striketh unto thee, and thou art troubled.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12937,
+        "text": "Is not thy reverence thy confidence? Thy hope -- the perfection of thy ways?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12938,
+        "text": "Remember, I pray thee, Who, being innocent, hath perished? And where have the upright been cut off?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 12939,
+        "text": "As I have seen -- ploughers of iniquity, And sowers of misery, reap it!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12940,
+        "text": "From the breath of God they perish, And from the spirit of His anger consumed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12941,
+        "text": "The roaring of a lion, And the voice of a fierce lion, And teeth of young lions have been broken.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12942,
+        "text": "An old lion is perishing without prey, And the whelps of the lioness do separate.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12943,
+        "text": "And unto me a thing is secretly brought, And receive doth mine ear a little of it.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 12944,
+        "text": "In thoughts from visions of the night, In the falling of deep sleep on men,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12945,
+        "text": "Fear hath met me, and trembling, And the multitude of my bones caused to fear.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12946,
+        "text": "And a spirit before my face doth pass, Stand up doth the hair of my flesh;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12947,
+        "text": "It standeth, and I discern not its aspect, A similitude [is] over-against mine eyes, Silence! and a voice I hear:",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12948,
+        "text": "'Is mortal man than God more righteous? Than his Maker is a man cleaner?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12949,
+        "text": "Lo, in His servants He putteth no credence, Nor in His messengers setteth praise.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12950,
+        "text": "Also -- the inhabitants of houses of clay, (Whose foundation [is] in the dust, They bruise them before a moth.)",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12951,
+        "text": "From morning to evening are beaten down, Without any regarding, for ever they perish.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12952,
+        "text": "Hath not their excellency been removed with them? They die, and not in wisdom!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

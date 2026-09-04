@@ -1,0 +1,278 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 97,
+    "MaxVerses": 38,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2881,
+        "text": "'And this [is] a law of the guilt-offering: it [is] most holy;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2882,
+        "text": "in the place where they slaughter the burnt-offering they do slaughter the guilt-offering, and its blood [one] doth sprinkle on the altar round about,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2883,
+        "text": "and all its fat he bringeth near out of it, the fat tail, and the fat which is covering the inwards,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2884,
+        "text": "and the two kidneys, and the fat which [is] on them, which [is] on the flanks, and the redundance above the liver (beside the kidneys he doth turn it aside);",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2885,
+        "text": "and the priest hath made them a perfume on the altar, a fire-offering to Jehovah; it [is] a guilt-offering.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2886,
+        "text": "'Every male among the priests doth eat it; in the holy place it is eaten -- it [is] most holy;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2887,
+        "text": "as [is] a sin-offering, so [is] a guilt-offering; one law [is] for them; the priest who maketh atonement by it -- it is his.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2888,
+        "text": "'And the priest who is bringing near any man's burnt-offering, the skin of the burnt-offering which he hath brought near, it is the priest's, his own;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2889,
+        "text": "and every present which is baked in an oven, and every one done in a frying-pan, and on a girdel, [is] the priest's who is bringing it near; it is his;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2890,
+        "text": "and every present, mixed with oil or dry, is for all the sons of Aaron -- one as another.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2891,
+        "text": "'And this [is] a law of the sacrifice of the peace-offerings which [one] bringeth near to Jehovah:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 2892,
+        "text": "if for a thank-offering he bring it near, then he hath brought near with the sacrifice of thank-offering unleavened cakes mixed with oil, and thin unleavened cakes anointed with oil, and of fried flour cakes mixed with oil;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2893,
+        "text": "besides the cakes, fermented bread he doth bring near [with] his offering, besides the sacrifice of thank-offering of his peace-offerings;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2894,
+        "text": "and he hath brought near out of it one of the whole offering -- a heave-offering to Jehovah; to the priest who is sprinkling the blood of the peace-offerings -- it is his;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2895,
+        "text": "as to the flesh of the sacrifice of the thank-offering of his peace-offerings, in the day of his offering it is eaten; he doth not leave of it till morning.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2896,
+        "text": "'And if the sacrifice of his offering [is] a vow or free-will offering, in the day of his bringing near his sacrifice it is eaten; and on the morrow also the remnant of it is eaten;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2897,
+        "text": "and the remnant of the flesh of the sacrifice on the third day with fire is burnt;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2898,
+        "text": "and if any of the flesh of the sacrifice of his peace-offerings be really eaten on the third day, it is not pleasing; for him who is bringing it near it is not reckoned; it is an abominable thing, and the person who is eating of it his iniquity doth bear.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2899,
+        "text": "'And the flesh which cometh against any unclean thing is not eaten; with fire it is burnt; as to the flesh, every clean one doth eat of the flesh;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2900,
+        "text": "and the person who eateth of the flesh of the sacrifice of the peace-offerings which [are] Jehovah's, and his uncleanness upon him, even that person hath been cut off from his people.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2901,
+        "text": "'And when a person cometh against any thing unclean, of the uncleanness of man, or of the uncleanness of beasts, or of any unclean teeming creature, and hath eaten of the flesh of the sacrifice of the peace-offerings which [are] Jehovah's, even that person hath been cut off from his people.'",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2902,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2903,
+        "text": "'Speak unto the sons of Israel, saying, Any fat of ox and sheep and goat ye do not eat;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2904,
+        "text": "and the fat of a carcase, and the fat of a torn thing is prepared for any work, but ye do certainly not eat it;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2905,
+        "text": "for whoever eateth the fat of the beast, of which [one] bringeth near a fire-offering to Jehovah, even the person who eateth hath been cut off from his people.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2906,
+        "text": "'And any blood ye do not eat in all your dwellings, of fowl, or of beast;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2907,
+        "text": "any person who eateth any blood, even that person hath been cut off from his people.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2908,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2909,
+        "text": "'Speak unto the sons of Israel, saying, He who is bringing near the sacrifice of his peace-offerings to Jehovah doth bring in his offering to Jehovah from the sacrifice of his peace-offerings;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2910,
+        "text": "his own hands do bring in the fire-offerings of Jehovah, the fat beside the breast, it he doth bring in with the breast, to wave it -- a wave-offering before Jehovah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 2911,
+        "text": "'And the priest hath made perfume with the fat on the altar, and the breast hath been Aaron's and his sons;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 2912,
+        "text": "and the right leg ye do make a heave-offering to the priest of the sacrifices of your peace-offerings;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 2913,
+        "text": "he of the sons of Aaron who is bringing near the blood of the peace-offerings, and the fat, his is the right leg for a portion.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 2914,
+        "text": "'For the breast of the wave-offering, and the leg of the heave-offering, I have taken from the sons of Israel, from the sacrifices of their peace-offerings, and I give them to Aaron the priest, and to his sons, by a statute age-during, from the sons of Israel.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 2915,
+        "text": "This [is] the anointing of Aaron, and the anointing of his sons out of the fire-offerings of Jehovah, in the day he hath brought them near to act as priest to Jehovah,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 2916,
+        "text": "which Jehovah hath commanded to give to them in the day of His anointing them, from the sons of Israel -- a statute age-during to their generations.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 2917,
+        "text": "This [is] the law for burnt-offering, for present, and for sin-offering, and for guilt-offering, and for consecrations, and for a sacrifice of the peace-offerings,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 2918,
+        "text": "which Jehovah hath commanded Moses in Mount Sinai, in the day of his commanding the sons of Israel to bring near their offerings to Jehovah, in the wilderness of Sinai.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,635 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 124,
+    "MaxVerses": 89,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3852,
+        "text": "And it cometh to pass on the day of Moses' finishing setting up the tabernacle, that he anointeth it, and sanctifieth it, and all its vessels, and the altar, and all its vessels, and he anointeth them, and sanctifieth them,",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3853,
+        "text": "and the princes of Israel (heads of the house of their fathers, they [are] princes of the tribes, they who are standing over those numbered) bring near,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3854,
+        "text": "yea, they bring their offering before Jehovah, six waggons covered, and twelve oxen -- a waggon for two of the princes, and an ox for one -- and they bring them near before the tabernacle.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3855,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3856,
+        "text": "'Receive from them, and they have been to do the service of the tent of meeting, and thou hast given them unto the Levites, each according to his service.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3857,
+        "text": "And Moses taketh the waggons and the oxen, and giveth them unto the Levites.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3858,
+        "text": "The two of the waggons and the four of the oxen he hath given to the sons of Gershon, according to their service,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3859,
+        "text": "and the four of the waggons and the eight of the oxen he hath given to the sons of Merari, according to their service, by the hand of Ithamar son of Aaron the priest;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3860,
+        "text": "and to the sons of Kohath he hath not given, for the service of the sanctuary [is] on them: on the shoulder they bear.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3861,
+        "text": "And the princes bring near the dedication of the altar in the day of its being anointed; yea, the princes bring near their offering before the altar.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 3862,
+        "text": "And Jehovah saith unto Moses, 'One prince a day -- one prince a day -- do they bring near their offering for the dedication of the altar.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3863,
+        "text": "And he who is bringing near on the first day his offering is Nahshon son of Amminadab, of the tribe of Judah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3864,
+        "text": "And his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary; both of them full of flour mixed with oil, for a present;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3865,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3866,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3867,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3868,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Nahshon son of Amminadab.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3869,
+        "text": "On the second day hath Nethaneel son of Zuar, prince of Issachar, brought near.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3870,
+        "text": "He hath brought near his offering, one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3871,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3872,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3873,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3874,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Nethaneel son of Zuar.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3875,
+        "text": "On the third day, the prince of the sons of Zebulun, Eliab son of Helon; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3876,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3877,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3878,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3879,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3880,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Eliab son of Helon.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3881,
+        "text": "On the fourth day, Elizur, son of Shedeur, prince of the sons of Reuben; --",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3882,
+        "text": "his offering is one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3883,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3884,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3885,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3886,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Elizur son of Shedeur.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3887,
+        "text": "On the fifth day, the prince of the sons of Simeon, Shelumiel son of Zurishaddai; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3888,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3889,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3890,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3891,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 3892,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Shelumiel son of Zurishaddai.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3893,
+        "text": "On the sixth day, the prince of the sons of Gad, Eliasaph son of Deuel; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3894,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3895,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 3896,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3897,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 3898,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Eliasaph son of Deuel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 3899,
+        "text": "On the seventh day, the prince of the sons of Ephraim, Elishama son of Ammihud; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 3900,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 3901,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 3902,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 3903,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 3904,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Elishama son of Ammihud.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 3905,
+        "text": "On the eighth day, the prince of the sons of Manasseh, Gamaliel son of Pedahzur; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 3906,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 3907,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 3908,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 3909,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 3910,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Gamaliel son of Pedahzur.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 3911,
+        "text": "On the ninth day, the prince of the sons of Benjamin, Abidan son of Gideoni; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 3912,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 3913,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 3914,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 3915,
+        "text": "one kid of the goats for a sin-offering:",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 3916,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Abidan son of Gideoni.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 3917,
+        "text": "On the tenth day, the prince of the sons of Dan, Ahiezer son of Ammishaddai; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 3918,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 68,
+        "count": 3919,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 69,
+        "count": 3920,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 70,
+        "count": 3921,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 71,
+        "count": 3922,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Ahiezer son of Ammishaddai.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 72,
+        "count": 3923,
+        "text": "On the eleventh day, the prince of the sons of Asher, Pagiel son of Ocran; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 73,
+        "count": 3924,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 74,
+        "count": 3925,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 75,
+        "count": 3926,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 76,
+        "count": 3927,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 77,
+        "count": 3928,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Pagiel son of Ocran.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 78,
+        "count": 3929,
+        "text": "On the twelfth day, the prince of the sons of Naphtali, Ahira son of Enan; --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 79,
+        "count": 3930,
+        "text": "his offering [is] one silver dish, its weight a hundred and thirty [shekels]; one silver bowl of seventy shekels, by the shekel of the sanctuary, both of them full of flour mixed with oil, for a present;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 80,
+        "count": 3931,
+        "text": "one golden spoon of ten [shekels], full of perfume;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 81,
+        "count": 3932,
+        "text": "one bullock, a son of the herd, one ram, one lamb, a son of a year, for a burnt-offering;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 82,
+        "count": 3933,
+        "text": "one kid of the goats for a sin-offering;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 83,
+        "count": 3934,
+        "text": "and for a sacrifice of the peace-offerings two oxen, five rams, five he-goats, five lambs, sons of a year; this [is] the offering of Ahira son of Enan.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 84,
+        "count": 3935,
+        "text": "This [is] the dedication of the altar, in the day of its being anointed, by the princes of Israel: twelve silver dishes, twelve silver bowls, twelve golden spoons;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 85,
+        "count": 3936,
+        "text": "a hundred and thirty [shekels] each silver dish, and each bowl seventy; all the silver of the vessels [is] two thousand and four hundred [shekels], by the shekel of the sanctuary.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 86,
+        "count": 3937,
+        "text": "Golden spoons [are] twelve, full of perfume; ten [shekels] each spoon, by the shekel of the sanctuary; all the gold of the spoons [is] a hundred and twenty [shekels];",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 87,
+        "count": 3938,
+        "text": "all the oxen for burnt-offering [are] twelve bullocks, rams twelve, lambs, sons of a year twelve, and their present; and kids of the goats twelve, for sin-offering;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 88,
+        "count": 3939,
+        "text": "and all the oxen for the sacrifice of the peace-offerings [are] twenty and four bullocks, rams sixty, he-goats sixty, lambs, sons of a year, sixty; this is the dedication of the altar, in the day of its being anointed.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 89,
+        "count": 3940,
+        "text": "And in the going in of Moses unto the tent of meeting to speak with Him -- he doth even hear the voice speaking unto him from off the mercy-seat which [is] upon the ark of the testimony, from between the two cherubs; and He speaketh unto him.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

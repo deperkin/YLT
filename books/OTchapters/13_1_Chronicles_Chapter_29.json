@@ -1,0 +1,222 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 29,
+    "count": 367,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11166,
+        "text": "And David the king saith to all the assembly, 'Solomon my son -- the one on whom God hath fixed -- [is] young and tender, and the work [is] great, for not for man is the palace, but for Jehovah God;",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11167,
+        "text": "and with all my power I have prepared for the house of my God, the gold for [things of] gold, and the silver for [those of] silver, and the brass for [those of] brass, the iron for [those of] iron, and the wood for [those of] wood, shoham stones, and settings, and stones of painting and of diverse colours, and all [kinds of] precious stone, and stones of white marble, in abundance.",
+        "WordCount": 72,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11168,
+        "text": "'And again, because of my delighting in the house of my God, the substance I have -- a peculiar treasure of gold and silver -- I have given for the house of my God, even over and above all I have prepared for the house of the sanctuary:",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11169,
+        "text": "three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11170,
+        "text": "even gold for [things of] gold, and silver for [those of] silver, and for all the work by the hand of artificers; and who [is] he that is offering willingly to consecrate his hand to-day to Jehovah?'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11171,
+        "text": "And the heads of the fathers, and the heads of the tribes of Israel, and the heads of the thousands, and of the hundreds, even to the heads of the work of the king, offer willingly.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11172,
+        "text": "And they give for the service of the house of God, of gold -- talents five thousand, and drams a myriad; and of silver -- talents ten thousand, and of brass -- a myriad and eight thousand talents; and of iron -- a hundred thousand talents;",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11173,
+        "text": "and he with whom stones are found hath given to the treasury of the house of Jehovah, by the hand of Jehiel the Gershonite.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11174,
+        "text": "And the people rejoice because of their offering willingly, for with a perfect heart they have offered willingly to Jehovah; and also David the king hath rejoiced -- great joy.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11175,
+        "text": "And David blesseth Jehovah before the eyes of all the assembly, and David saith, 'Blessed [art] Thou, Jehovah, God of Israel our father, from age even unto age.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 11176,
+        "text": "To Thee, O Jehovah, [is] the greatness, and the might, and the beauty, and the victory, and the honour, because of all in the heavens and in the earth; to Thee, O Jehovah, [is] the kingdom, and he who is lifting up himself over all for head;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11177,
+        "text": "and the riches, and the honour [are] from before Thee, and Thou art ruling over all, and in Thy hand [is] power and might, and in Thy hand, to make great, and to give strength to all.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11178,
+        "text": "'And now, our God, we are giving thanks to Thee, and giving praise to Thy beauteous name;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11179,
+        "text": "yea, because, who [am] I, and who [are] my people, that we retain power to offer thus willingly? but of Thee [is] the whole, and out of Thy hand we have given to Thee;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11180,
+        "text": "for sojourners we [are] before Thee, and settlers, like all our fathers; as a shadow [are] our days on the land, and there is none abiding.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11181,
+        "text": "'O Jehovah our God, all this store that we have prepared to build to Thee a house, for Thy holy name, [is] out of Thy hand, and of Thee [is] the whole.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11182,
+        "text": "'And I have known, my God, that Thou art trying the heart, and uprightness dost desire; I, in the uprightness of my heart, have willingly offered all these: and now, Thy people who are found here I have seen with joy to offer willingly to Thee.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11183,
+        "text": "'O Jehovah, God of Abraham, Isaac, and Israel, our fathers, keep this to the age for the imagination of the thoughts of the heart of Thy people, and prepare their heart unto Thee;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11184,
+        "text": "and to Solomon my son give a perfect heart, to keep Thy commands, Thy testimonies, and Thy statutes, and to do the whole, even to build the palace [for] which I have prepared.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11185,
+        "text": "And David saith to all the assembly, 'Bless, I pray you, Jehovah your God;' and all the assembly bless Jehovah, God of their fathers, and bow and do obeisance to Jehovah, and to the king.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11186,
+        "text": "And they sacrifice to Jehovah sacrifices, and cause to ascend burnt-offerings to Jehovah on the morrow of that day, bullocks a thousand, rams a thousand, lambs a thousand, and their oblations, even sacrifices in abundance, for all Israel.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11187,
+        "text": "And they eat and drink before Jehovah on that day with great joy, and cause Solomon son of David to reign a second time, and anoint [him] before Jehovah for leader, and Zadok for priest.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 11188,
+        "text": "And Solomon sitteth on the throne of Jehovah for king instead of David his father, and prospereth, and all Israel hearken unto him,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 11189,
+        "text": "and all the heads, and the mighty men, and also all the sons of king David have given a hand under Solomon the king;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 11190,
+        "text": "and Jehovah maketh Solomon exceedingly great before the eyes of all Israel, and putteth upon him the honour of the kingdom that hath not been on any king over Israel before him.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 11191,
+        "text": "And David son of Jesse hath reigned over all Israel,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 11192,
+        "text": "and the days that he hath reigned over Israel [are] forty years; in Hebron he reigned seven years, and in Jerusalem he reigned thirty and three;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 11193,
+        "text": "and he dieth in a good old age, satisfied with days, riches, and honour, and reign doth Solomon his son in his stead.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 11194,
+        "text": "And the matters of David the king, the first and the last, lo, they are written beside the matters of Samuel the seer, and beside the matters of Nathan the prophet, and beside the matters of Gad the seer,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 11195,
+        "text": "with all his reign, and his might, and the times that went over him, and over Israel, and over all kingdoms of the lands.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 631,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16457,
+        "text": "My son! my law forget not, And my commands let thy heart keep,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16458,
+        "text": "For length of days and years, Life and peace they do add to thee.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16459,
+        "text": "Let not kindness and truth forsake thee, Bind them on thy neck, Write them on the tablet of thy heart,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16460,
+        "text": "And find grace and good understanding In the eyes of God and man.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16461,
+        "text": "Trust unto Jehovah with all thy heart, And unto thine own understanding lean not.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16462,
+        "text": "In all thy ways know thou Him, And He doth make straight thy paths.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16463,
+        "text": "Be not wise in thine own eyes, Fear Jehovah, and turn aside from evil.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16464,
+        "text": "Healing it is to thy navel, And moistening to thy bones.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16465,
+        "text": "Honour Jehovah from thy substance, And from the beginning of all thine increase;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16466,
+        "text": "And filled are thy barns [with] plenty, And [with] new wine thy presses break forth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16467,
+        "text": "Chastisement of Jehovah, my son, despise not, And be not vexed with His reproof,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16468,
+        "text": "For whom Jehovah loveth He reproveth, Even as a father the son He is pleased with.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16469,
+        "text": "O the happiness of a man [who] hath found wisdom, And of a man [who] bringeth forth understanding.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16470,
+        "text": "For better [is] her merchandise Than the merchandise of silver, And than gold -- her increase.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16471,
+        "text": "Precious she [is] above rubies, And all thy pleasures are not comparable to her.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16472,
+        "text": "Length of days [is] in her right hand, In her left [are] wealth and honour.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16473,
+        "text": "Her ways [are] ways of pleasantness, And all her paths [are] peace.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16474,
+        "text": "A tree of life she [is] to those laying hold on her, And whoso is retaining her [is] happy.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16475,
+        "text": "Jehovah by wisdom did found the earth, He prepared the heavens by understanding.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16476,
+        "text": "By His knowledge depths have been rent, And clouds do drop dew.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16477,
+        "text": "My son! let them not turn from thine eyes, Keep thou wisdom and thoughtfulness,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16478,
+        "text": "And they are life to thy soul, and grace to thy neck.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16479,
+        "text": "Then thou goest thy way confidently, And thy foot doth not stumble.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16480,
+        "text": "If thou liest down, thou art not afraid, Yea, thou hast lain down, And sweet hath been thy sleep.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 16481,
+        "text": "Be not afraid of sudden fear, And of the desolation of the wicked when it cometh.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 16482,
+        "text": "For Jehovah is at thy side, And He hath kept thy foot from capture.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 16483,
+        "text": "Withhold not good from its owners, When thy hand [is] toward God to do [it].",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16484,
+        "text": "Say not thou to thy friend, 'Go, and return, and to-morrow I give,' And substance with thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 16485,
+        "text": "Devise not against thy neighbour evil, And he sitting confidently with thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 16486,
+        "text": "Strive not with a man without cause, If he have not done thee evil.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 16487,
+        "text": "Be not envious of a man of violence, Nor fix thou on any of his ways.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 16488,
+        "text": "For an abomination to Jehovah [is] the perverted, And with the upright [is] His secret counsel.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 16489,
+        "text": "The curse of Jehovah [is] in the house of the wicked. And the habitation of the righteous He blesseth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 16490,
+        "text": "If the scorners He doth scorn, Yet to the humble He doth give grace.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 16491,
+        "text": "Honour do the wise inherit, And fools are bearing away shame!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 31,
+    "count": 467,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13590,
+        "text": "A covenant I made for mine eyes, And what -- do I attend to a virgin?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13591,
+        "text": "And what [is] the portion of God from above? And the inheritance of the Mighty from the heights?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13592,
+        "text": "Is not calamity to the perverse? And strangeness to workers of iniquity?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13593,
+        "text": "Doth not He see my ways, And all my steps number?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13594,
+        "text": "If I have walked with vanity, And my foot doth hasten to deceit,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13595,
+        "text": "He doth weigh me in righteous balances, And God doth know my integrity.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13596,
+        "text": "If my step doth turn aside from the way, And after mine eyes hath my heart gone, And to my hands cleaved hath blemish,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13597,
+        "text": "Let me sow -- and another eat, And my products let be rooted out.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13598,
+        "text": "If my heart hath been enticed by woman, And by the opening of my neighbour I laid wait,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 13599,
+        "text": "Grind to another let my wife, And over her let others bend.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13600,
+        "text": "For it [is] a wicked thing, and a judicial iniquity;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13601,
+        "text": "For a fire it [is], to destruction it consumeth, And among all mine increase doth take root,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13602,
+        "text": "If I despise the cause of my man-servant, And of my handmaid, In their contending with me,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13603,
+        "text": "Then what do I do when God ariseth? And when He doth inspect, What do I answer Him?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13604,
+        "text": "Did not He that made me in the womb make him? Yea, prepare us in the womb doth One.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13605,
+        "text": "If I withhold from pleasure the poor, And the eyes of the widow do consume,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 13606,
+        "text": "And I do eat my morsel by myself, And the orphan hath not eat of it,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13607,
+        "text": "(But from my youth He grew up with me as [with] a father, And from the belly of my mother I am led.)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13608,
+        "text": "If I see [any] perishing without clothing, And there is no covering to the needy,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13609,
+        "text": "If his loins have not blessed me, And from the fleece of my sheep He doth not warm himself,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13610,
+        "text": "If I have waved at the fatherless my hand, When I see in [him] the gate of my court,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13611,
+        "text": "My shoulder from its blade let fall, And mine arm from the bone be broken.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13612,
+        "text": "For a dread unto me [is] calamity [from] God, And because of His excellency I am not able.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13613,
+        "text": "If I have made gold my confidence, And to the pure gold have said, 'My trust,'",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 13614,
+        "text": "If I rejoice because great [is] my wealth, And because abundance hath my hand found,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13615,
+        "text": "If I see the light when it shineth, And the precious moon walking,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13616,
+        "text": "And my heart is enticed in secret, And my hand doth kiss my mouth,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13617,
+        "text": "It also [is] a judicial iniquity, For I had lied to God above.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13618,
+        "text": "If I rejoice at the ruin of my hater, And stirred up myself when evil found him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13619,
+        "text": "Yea, I have not suffered my mouth to sin, To ask with an oath his life.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13620,
+        "text": "If not -- say ye, O men of my tent, 'O that we had of his flesh, we are not satisfied.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 13621,
+        "text": "In the street doth not lodge a stranger, My doors to the traveller I open.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13622,
+        "text": "If I have covered as Adam my transgressions, To hide in my bosom mine iniquity,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 13623,
+        "text": "Because I fear a great multitude, And the contempt of families doth affright me, Then I am silent, I go not out of the opening.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 13624,
+        "text": "Who giveth to me a hearing? lo, my mark. The Mighty One doth answer me, And a bill hath mine adversary written.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 13625,
+        "text": "If not -- on my shoulder I take it up, I bind it a crown on myself.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 13626,
+        "text": "The number of my steps I tell Him, As a leader I approach Him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 13627,
+        "text": "If against me my land doth cry out, And together its furrows weep,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 13628,
+        "text": "If its strength I consumed without money, And the life of its possessors, I have caused to breathe out,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 13629,
+        "text": "Instead of wheat let a thorn go forth, And instead of barley a useless weed! The words of Job are finished.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

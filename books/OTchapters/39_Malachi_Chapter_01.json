@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 39,"name": "Malachi","MaxChapters": 4},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 926,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23091,
+        "text": "The burden of a word of Jehovah unto Israel by the hand of Malachi:",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23092,
+        "text": "I have loved you, said Jehovah, And ye have said, 'In what hast Thou loved us?'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23093,
+        "text": "Is not Esau Jacob's brother? -- an affirmation of Jehovah, And I love Jacob, and Esau I have hated, And I make his mountains a desolation, And his inheritance for dragons of a wilderness.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23094,
+        "text": "Because Edom saith, 'We have been made poor, And we turn back and we build the wastes,' Thus said Jehovah of Hosts: They do build, and I do destroy, And [men] have called to them, 'O region of wickedness,' 'O people whom Jehovah defied to the age.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23095,
+        "text": "And your eyes do see, and ye say, 'Magnified is Jehovah beyond the border of Israel,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 23096,
+        "text": "A son honoureth a father, and a servant his master. And if I [am] a father, where [is] Mine honour? And if I [am] a master, where [is] My fear? Said Jehovah of Hosts to you, O priests, despising My name! And ye have said: 'In what have we despised Thy name?'",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 23097,
+        "text": "Ye are bringing nigh on Mine altar polluted bread, And ye have said: 'In what have we polluted Thee?' In your saying: 'The table of Jehovah -- it [is] despicable,'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23098,
+        "text": "And when ye bring nigh the blind for sacrifice, 'There is no evil,' And when ye bring nigh the lame and sick, 'There is no evil;' Bring it near, I pray thee, to thy governor -- Doth he accept thee? or doth he lift up thy face? Said Jehovah of Hosts.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23099,
+        "text": "And now, appease, I pray thee, the face of God, And He doth favour us; From your own hand hath this been, Doth He accept of you appearances? Said Jehovah of Hosts.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23100,
+        "text": "Who [is] even among you, And he shutteth the two-leaved doors? Yea, ye do not kindle Mine altar for nought, I have no pleasure in you, said Jehovah of Hosts, And a present I do not accept of your hand.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23101,
+        "text": "For, from the rising of the sun to its going in, Great [is] My name among nations, And in every place perfume is brought nigh to My name, and a pure present, For great [is] My name among nations, Said Jehovah of Hosts.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23102,
+        "text": "And ye are polluting it in your saying, 'The table of Jehovah -- it is polluted, As to its fruit -- despicable is its food.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 23103,
+        "text": "And ye have said, 'Lo, what a weariness,' And ye have puffed at it, said Jehovah of Hosts, And ye have brought in plunder, And the lame and the sick, And ye have brought in the present! Do I accept it from your hand? said Jehovah.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 23104,
+        "text": "And cursed [is] a deceiver, who hath in his drove a male, And is vowing, and is sacrificing a marred thing to the Lord, For a great king [am] I, said Jehovah of Hosts, And My name [is] revered among nations!",
+        "WordCount": 41,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

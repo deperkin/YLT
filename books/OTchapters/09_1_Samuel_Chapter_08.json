@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 244,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7371,
+        "text": "And it cometh to pass, when Samuel [is] aged, that he maketh his sons judges over Israel.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7372,
+        "text": "And the name of his first-born son is Joel, and the name of his second Abiah, judges in Beer-Sheba:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7373,
+        "text": "and his sons have not walked in his ways, and turn aside after the dishonest gain, and take a bribe, and turn aside judgment.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7374,
+        "text": "And all the elders of Israel gather themselves together, and come in unto Samuel to Ramath,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 7375,
+        "text": "and say unto him, 'Lo, thou hast become aged, and thy sons have not walked in thy ways; now, appoint to us a king, to judge us, like all the nations.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7376,
+        "text": "And the thing is evil in the eyes of Samuel, when they have said, 'Give to us a king to judge us;' and Samuel prayeth unto Jehovah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7377,
+        "text": "And Jehovah saith unto Samuel, 'Hearken to the voice of the people, to all that they say unto thee, for thee they have not rejected, but Me they have rejected, from reigning over them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7378,
+        "text": "According to all the works that they have done from the day of My bringing them up out of Egypt, even unto this day, when they forsake Me, and serve other gods -- so they are doing also to thee.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7379,
+        "text": "And now, hearken to their voice; only, surely thou dost certainly protest to them, and hast declared to them the custom of the king who doth reign over them.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7380,
+        "text": "And Samuel speaketh all the words of Jehovah unto the people who are asking from him a king,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7381,
+        "text": "and saith, 'This is the custom of the king who doth reign over you: Your sons he doth take, and hath appointed for himself among his chariots, and among his horsemen, and they have run before his chariots;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7382,
+        "text": "also to appoint for himself heads of thousands, and heads of fifties; also to plow his plowing, and to reap his reaping; and to make instruments of his war, and instruments of his charioteer.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7383,
+        "text": "'And your daughters he doth take for perfumers, and for cooks, and for bakers;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7384,
+        "text": "and your fields, and your vineyards, and your olive-yards -- the best -- he doth take, and hath given to his servants.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7385,
+        "text": "And your seed and your vineyards he doth tithe, and hath given to his eunuchs, and to his servants.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7386,
+        "text": "And your men-servants, and your maid-servants, and your young men -- the best, and your asses, he doth take, and hath prepared for his own work;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7387,
+        "text": "your flock he doth tithe, and ye are to him for servants.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7388,
+        "text": "And ye have cried out in that day because of the king whom ye have chosen for yourselves, and Jehovah doth not answer you in that day.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7389,
+        "text": "And the people refuse to hearken to the voice of Samuel, and say, 'Nay, but a king is over us,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 7390,
+        "text": "and we have been, even we, like all the nations; and our king hath judged us, and gone out before us, and fought our battles.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7391,
+        "text": "And Samuel heareth all the words of the people, and speaketh them in the ears of Jehovah;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 7392,
+        "text": "and Jehovah saith unto Samuel, 'Hearken to their voice, and thou hast caused to reign over them a king.' And Samuel saith unto the men of Israel, 'Go ye each to his city.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

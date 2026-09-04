@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 8,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 185,
+        "text": "And God remembereth Noah, and every living thing, and all the cattle which [are] with him in the ark, and God causeth a wind to pass over the earth, and the waters subside,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 186,
+        "text": "and closed are the fountains of the deep and the net-work of the heavens, and restrained is the shower from the heavens.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 187,
+        "text": "And turn back do the waters from off the earth, going on and returning; and the waters are lacking at the end of a hundred and fifty days.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 188,
+        "text": "And the ark resteth, in the seventh month, in the seventeenth day of the month, on mountains of Ararat;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 189,
+        "text": "and the waters have been going and becoming lacking till the tenth month; in the tenth [month], on the first of the month, appeared the heads of the mountains.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 190,
+        "text": "And it cometh to pass, at the end of forty days, that Noah openeth the window of the ark which he made,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 191,
+        "text": "and he sendeth forth the raven, and it goeth out, going out and turning back till the drying of the waters from off the earth.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 192,
+        "text": "And he sendeth forth the dove from him to see whether the waters have been lightened from off the face of the ground,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 193,
+        "text": "and the dove hath not found rest for the sole of her foot, and she turneth back unto him, unto the ark, for waters [are] on the face of all the earth, and he putteth out his hand, and taketh her, and bringeth her in unto him, unto the ark.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 194,
+        "text": "And he stayeth yet other seven days, and addeth to send forth the dove from the ark;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 195,
+        "text": "and the dove cometh in unto him at even-time, and lo, an olive leaf torn off in her mouth; and Noah knoweth that the waters have been lightened from off the earth.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 196,
+        "text": "And he stayeth yet other seven days, and sendeth forth the dove, and it added not to turn back unto him any more.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 197,
+        "text": "And it cometh to pass in the six hundredth and first year, in the first [month], in the first of the month, the waters have been dried from off the earth; and Noah turneth aside the covering of the ark, and looketh, and lo, the face of the ground hath been dried.",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 198,
+        "text": "And in the second month, in the seven and twentieth day of the month, the earth hath become dry.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 199,
+        "text": "And God speaketh unto Noah, saying, 'Go out from the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 200,
+        "text": "every living thing that [is] with thee, of all flesh, among fowl, and among cattle, and among every creeping thing which is creeping on the earth, bring out with thee;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 201,
+        "text": "and they have teemed in the earth, and been fruitful, and have multiplied on the earth.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 202,
+        "text": "And Noah goeth out, and his sons, and his wife, and his sons' wives with him;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 203,
+        "text": "every beast, every creeping thing, and every fowl; every creeping thing on the earth, after their families, have gone out from the ark.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 204,
+        "text": "And Noah buildeth an altar to Jehovah, and taketh of every clean beast, and of every clean fowl, and causeth burnt-offerings to ascend on the altar;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 205,
+        "text": "and Jehovah smelleth the sweet fragrance, and Jehovah saith unto His heart, 'I continue not to disesteem any more the ground because of man, though the imagination of the heart of man [is] evil from his youth; and I continue not to smite any more all living, as I have done;",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 206,
+        "text": "during all days of the earth, seed-time and harvest, and cold and heat, and summer and winter, and day and night, do not cease.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

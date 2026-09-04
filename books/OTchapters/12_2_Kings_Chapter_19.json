@@ -1,0 +1,271 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 332,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10063,
+        "text": "And it cometh to pass, at king Hezekiah's hearing, that he rendeth his garments, and covereth himself with sackcloth, and entereth the house of Jehovah,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10064,
+        "text": "and sendeth Eliakim, who [is] over the house, and Shebna the scribe, and the elders of the priests, covering themselves with sackcloth, unto Isaiah the prophet, son of Amoz,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10065,
+        "text": "and they say unto him, 'Thus said Hezekiah -- A day of distress, and rebuke, and despising [is] this day; for come have sons unto the birth, and power there is not to bring forth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10066,
+        "text": "'It may be Jehovah thy God doth hear all the words of the chief of the butlers with which the king of Asshur his lord hath sent him to reproach the living God, and hath decided concerning the words that Jehovah thy God hath heard, and thou hast lifted up prayer for the remnant that is found.'",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10067,
+        "text": "And the servants of king Hezekiah come in unto Isaiah,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10068,
+        "text": "and Isaiah saith to them, 'Thus do ye say unto your lord: Thus said Jehovah, Be not afraid because of the words that thou hast heard, with which the servants of the king of Asshur have reviled Me.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10069,
+        "text": "Lo, I am giving in him a spirit, and he hath heard a report, and hath turned back to his land, and I have caused him to fall by the sword in his land.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10070,
+        "text": "And the chief of the butlers turneth back and findeth the king of Asshur fighting against Libnah, for he hath heard that he hath journeyed from Lachish.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 10071,
+        "text": "And he heareth concerning Tirhakah king of Cush, saying, 'Lo, he hath come out to fight with thee;' and he turneth and sendeth messengers unto Hezekiah, saying,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10072,
+        "text": "'Thus do ye speak unto Hezekiah king of Judah, saying, Let not thy God lift thee up in whom thou art trusting, saying, Jerusalem is not given into the hand of the king of Asshur.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10073,
+        "text": "Lo, thou hast heard that which the kings of Asshur have done to all the lands -- to devote them; and thou art delivered!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10074,
+        "text": "did the gods of the nations deliver them whom my fathers destroyed -- Gozan, and Haran, and Rezeph, and the sons of Eden, who [are] in Thelassar?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10075,
+        "text": "Where [is] the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, Hena, and Ivvah?'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10076,
+        "text": "And Hezekiah taketh the letters out of the hand of the messengers, and readeth them, and goeth up to the house of Jehovah, and Hezekiah spreadeth it before Jehovah.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10077,
+        "text": "And Hezekiah prayeth before Jehovah, and saith, 'O Jehovah, God of Israel, inhabiting the cherubs, Thou [art] God Himself -- Thyself alone -- to all the kingdoms of the earth: Thou hast made the heavens and the earth.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10078,
+        "text": "Incline, O Jehovah, Thine ear, and hear; open, O Jehovah, Thine eyes, and see; and hear Thou the words of Sennacherib with which he hath sent him to reproach the living God.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10079,
+        "text": "'Truly, O Jehovah, kings of Asshur have laid waste the nations, and their land,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10080,
+        "text": "and have put their gods into fire, for they [are] no gods, but work of the hands of man, wood and stone, and destroy them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10081,
+        "text": "And now, O Jehovah our God, save us, we pray Thee, out of his hand, and know do all kingdoms of the earth that Thou [art] Jehovah God -- Thyself alone.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10082,
+        "text": "And Isaiah son of Amoz sendeth unto Hezekiah, saying, 'Thus said Jehovah, God of Israel, That which thou hast prayed unto Me concerning Sennacherib king of Asshur I have heard:",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 10083,
+        "text": "this [is] the word that Jehovah spake concerning him: 'Trampled on thee -- laughed at thee, Hath the virgin daughter of Zion Behind thee shaken the head -- Hath the daughter of Jerusalem?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10084,
+        "text": "Whom hast thou reproached and reviled? And against whom lifted up a voice? Yea, thou dost lift up on high thine eyes -- Against the Holy One of Israel!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10085,
+        "text": "By the hand of thy messengers Thou hast reproached the Lord, and sayest: In the multitude of my chariots I have come up to a high place of mountains -- The sides of Lebanon, And I cut down the height of its cedars, The choice of its firs, And I enter the lodging of its extremity, The forest of its Carmel.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10086,
+        "text": "I have digged, and drunk strange waters, And I dry up with the sole of my steps All floods of a bulwark.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10087,
+        "text": "Hast thou not heard from afar, it I made, From days of old that I formed it? Now I have brought it in, And it becometh a desolation, Ruinous heaps [are] fenced cities,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10088,
+        "text": "And their inhabitants [are] feeble-handed, They were broken down, and are dried up, They have been the herb of the field, And the greenness of the tender grass, Grass of the roofs, And blasted corn -- before it hath risen up!",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10089,
+        "text": "And thy sitting down, and thy going out, And thy coming in, I have known, And thine anger towards Me;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10090,
+        "text": "Because of thine anger towards Me, And thy noise -- it came up into Mine ears, I have put My hook in thy nose, And My bridle in thy lips, And have caused thee to turn back, In the way in which thou camest.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10091,
+        "text": "And this to thee [is] the sign, Food of the year [is] the spontaneous growth, And in the second year the self-produced, And in the third year sow ye, and reap, And plant vineyards, and eat their fruits.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10092,
+        "text": "And it hath continued -- The escaped of the house of Judah That hath been left -- to take root beneath, And hath made fruit upward.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10093,
+        "text": "For from Jerusalem goeth out a remnant, And an escape from mount Zion; The zeal of Jehovah [of Hosts] doth this.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10094,
+        "text": "Therefore, thus said Jehovah, Concerning the king of Asshur: He doth not come in unto this city, Nor doth he shoot there an arrow, Nor doth he come before it with shield. Nor doth he pour out against it a mount.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10095,
+        "text": "In the way that he cometh in -- In it he turneth back, And unto this city he doth not come in, The affirmation of Jehovah --",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10096,
+        "text": "And I have covered over this city, To save it, for Mine own sake, And for the sake of David My servant.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10097,
+        "text": "And it cometh to pass, in that night, that a messenger of Jehovah goeth out, and smiteth in the camp of Asshur a hundred eighty and five thousand, and they rise early in the morning, and lo, all of them [are] dead corpses.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 10098,
+        "text": "And Sennacherib king of Asshur journeyeth, and goeth, and turneth back, and dwelleth in Nineveh;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10099,
+        "text": "and it cometh to pass, he is bowing himself in the house of Nisroch his god, and Adramelech and Sharezar [his sons] have smitten him with the sword, and they have escaped to the land of Ararat, and Esar-Haddon his son reigneth in his stead.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 107,
+    "count": 585,
+    "MaxVerses": 43,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15701,
+        "text": "'Give ye thanks to Jehovah, For good, for to the age [is] His kindness:'",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15702,
+        "text": "Let the redeemed of Jehovah say, Whom He redeemed from the hand of an adversary.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15703,
+        "text": "And from the lands hath gathered them, From east and from west, From north, and from the sea.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15704,
+        "text": "They wandered in a wilderness, in a desert by the way, A city of habitation they have not found.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15705,
+        "text": "Hungry -- yea -- thirsty, Their soul in them becometh feeble,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15706,
+        "text": "And they cry unto Jehovah in their adversity, From their distress He delivereth them,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15707,
+        "text": "And causeth them to tread in a right way, To go unto a city of habitation.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15708,
+        "text": "They confess to Jehovah His kindness, And His wonders to the sons of men.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15709,
+        "text": "For He hath satisfied a longing soul, And a hungry soul hath filled [with] goodness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15710,
+        "text": "Inhabitants of dark places and death-shade, Prisoners of affliction and of iron,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 15711,
+        "text": "Because they changed the saying of God, And the counsel of the Most High despised.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15712,
+        "text": "And He humbleth with labour their heart, They have been feeble, and there is no helper.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15713,
+        "text": "And they cry unto Jehovah in their adversity, From their distresses He saveth them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15714,
+        "text": "He bringeth them out from the dark place, And death-shade, And their bands He draweth away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15715,
+        "text": "They confess to Jehovah His kindness, And His wonders to the sons of men.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15716,
+        "text": "For He hath broken doors of brass, And bars of iron He hath cut.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15717,
+        "text": "Fools, by means of their transgression, And by their iniquities, afflict themselves.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 15718,
+        "text": "All food doth their soul abominate, And they come nigh unto the gates of death,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15719,
+        "text": "And cry unto Jehovah in their adversity, From their distresses He saveth them,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15720,
+        "text": "He sendeth His word and healeth them, And delivereth from their destructions.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15721,
+        "text": "They confess to Jehovah His kindness, And His wonders to the sons of men,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15722,
+        "text": "And they sacrifice sacrifices of thanksgiving, And recount His works with singing.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15723,
+        "text": "Those going down [to] the sea in ships, Doing business in many waters,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 15724,
+        "text": "They have seen the works of Jehovah, And His wonders in the deep.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15725,
+        "text": "And He saith, and appointeth a tempest, And it lifteth up its billows,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15726,
+        "text": "They go up [to] the heavens, they go down [to] the depths, Their soul in evil is melted.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15727,
+        "text": "They reel to and fro, and move as a drunkard, And all their wisdom is swallowed up.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15728,
+        "text": "And they cry to Jehovah in their adversity, And from their distresses He bringeth them out.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15729,
+        "text": "He establisheth a whirlwind to a calm, And hushed are their billows.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15730,
+        "text": "And they rejoice because they are quiet, And He leadeth them to the haven of their desire.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15731,
+        "text": "They confess to Jehovah His kindness, And His wonders to the sons of men,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15732,
+        "text": "And they exalt Him in the assembly of the people, And in the seat of the elders praise Him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15733,
+        "text": "He maketh rivers become a wilderness, And fountains of waters become dry land.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 15734,
+        "text": "A fruitful land becometh a barren place, For the wickedness of its inhabitants.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15735,
+        "text": "He maketh a wilderness become a pool of water, And a dry land become fountains of waters.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 15736,
+        "text": "And He causeth the hungry to dwell there, And they prepare a city of habitation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15737,
+        "text": "And they sow fields, and plant vineyards, And they make fruits of increase.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 15738,
+        "text": "And He blesseth them, and they multiply exceedingly, And their cattle He doth not diminish.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 15739,
+        "text": "And they are diminished, and bow down, By restraint, evil, and sorrow.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 15740,
+        "text": "He is pouring contempt upon nobles, And causeth them to wander in vacancy -- no way.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 15741,
+        "text": "And setteth on high the needy from affliction, And placeth families as a flock.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 15742,
+        "text": "The upright do see and rejoice, And all perversity hath shut her mouth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15743,
+        "text": "Who [is] wise, and observeth these? They understand the kind acts of Jehovah!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

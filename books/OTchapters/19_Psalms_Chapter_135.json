@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 135,
+    "count": 613,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16177,
+        "text": "Praise ye Jah! Praise ye the name of Jehovah, Praise, ye servants of Jehovah,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16178,
+        "text": "Who are standing in the house of Jehovah, In the courts of the house of our God.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16179,
+        "text": "Praise ye Jah! for Jehovah [is] good, Sing praise to His name, for [it is] pleasant.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16180,
+        "text": "For Jacob hath Jah chosen for Himself, Israel for His peculiar treasure.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16181,
+        "text": "For I have known that great [is] Jehovah, Yea, our Lord [is] above all gods.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16182,
+        "text": "All that Jehovah pleased He hath done, In the heavens and in earth, In the seas and all deep places,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16183,
+        "text": "Causing vapours to ascend from the end of the earth, Lightnings for the rain He hath made, Bringing forth wind from His treasures.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16184,
+        "text": "Who smote the first-born of Egypt, From man unto beast.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16185,
+        "text": "He sent tokens and wonders into thy midst, O Egypt, On Pharaoh and on all his servants.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16186,
+        "text": "Who smote many nations, and slew strong kings,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16187,
+        "text": "Even Sihon king of the Amorite, And Og king of Bashan, And all kingdoms of Canaan.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16188,
+        "text": "And He gave their land an inheritance, An inheritance to Israel His people,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16189,
+        "text": "O Jehovah, Thy name [is] to the age, O Jehovah, Thy memorial to all generations.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16190,
+        "text": "For Jehovah doth judge His people, And for His servants comforteth Himself.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16191,
+        "text": "The idols of the nations [are] silver and gold, Work of the hands of man.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16192,
+        "text": "A mouth they have, and they speak not, Eyes they have, and they see not,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16193,
+        "text": "Ears they have, and they give not ear, Nose -- there is no breath in their mouth!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16194,
+        "text": "Like them are their makers, Every one who is trusting in them.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16195,
+        "text": "O house of Israel, bless ye Jehovah, O house of Aaron, bless ye Jehovah,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16196,
+        "text": "O house of Levi, bless ye Jehovah, Those fearing Jehovah, bless ye Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16197,
+        "text": "Blessed [is] Jehovah from Zion, Inhabiting Jerusalem -- praise ye Jah!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

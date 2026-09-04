@@ -1,0 +1,40 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 123,
+    "count": 601,
+    "MaxVerses": 4,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16100,
+        "text": "A Song of the Ascents. Unto Thee I have lifted up mine eyes, O dweller in the heavens.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16101,
+        "text": "Lo, as eyes of men-servants [Are] unto the hand of their masters, As eyes of a maid-servant [Are] unto the hand of her mistress, So [are] our eyes unto Jehovah our God, Till that He doth favour us.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16102,
+        "text": "Favour us, O Jehovah, favour us, For greatly have we been filled with contempt,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16103,
+        "text": "Greatly hath our soul been filled With the scorning of the easy ones, With the contempt of the arrogant!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 455,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13299,
+        "text": "And Job answereth and saith: --",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13300,
+        "text": "Till when do ye afflict my soul, And bruise me with words?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13301,
+        "text": "These ten times ye put me to shame, ye blush not. Ye make yourselves strange to me --",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13302,
+        "text": "And also -- truly, I have erred, With me doth my error remain.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13303,
+        "text": "If, truly, over me ye magnify yourselves, And decide against me my reproach;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13304,
+        "text": "Know now, that God turned me upside down, And His net against me hath set round,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13305,
+        "text": "Lo, I cry out -- violence, and am not answered, I cry aloud, and there is no judgment.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13306,
+        "text": "My way He hedged up, and I pass not over, And on my paths darkness He placeth.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13307,
+        "text": "Mine honour from off me He hath stripped, And He turneth the crown from my head.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13308,
+        "text": "He breaketh me down round about, and I go, And removeth like a tree my hope.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13309,
+        "text": "And He kindleth against me His anger, And reckoneth me to Him as His adversaries.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13310,
+        "text": "Come in do His troops together, And they raise up against me their way, And encamp round about my tent.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13311,
+        "text": "My brethren from me He hath put far off, And mine acquaintances surely Have been estranged from me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13312,
+        "text": "Ceased have my neighbours And my familiar friends have forgotten me,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13313,
+        "text": "Sojourners of my house and my maids, For a stranger reckon me: An alien I have been in their eyes.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13314,
+        "text": "To my servant I have called, And he doth not answer, With my mouth I make supplication to him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13315,
+        "text": "My spirit is strange to my wife, And my favours to the sons of my [mother's] womb.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13316,
+        "text": "Also sucklings have despised me, I rise, and they speak against me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13317,
+        "text": "Abominate me do all the men of my counsel, And those I have loved, Have been turned against me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13318,
+        "text": "To my skin and to my flesh Cleaved hath my bone, And I deliver myself with the skin of my teeth.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13319,
+        "text": "Pity me, pity me, ye my friends, For the hand of God hath stricken against me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13320,
+        "text": "Why do you pursue me as God? And with my flesh are not satisfied?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13321,
+        "text": "Who doth grant now, That my words may be written? Who doth grant that in a book they may be graven?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 13322,
+        "text": "With a pen of iron and lead -- For ever in a rock they may be hewn.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13323,
+        "text": "That -- I have known my Redeemer, The Living and the Last, For the dust he doth rise.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13324,
+        "text": "And after my skin hath compassed this [body], Then from my flesh I see God:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13325,
+        "text": "Whom I -- I see on my side, And mine eyes have beheld, and not a stranger, Consumed have been my reins in my bosom.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13326,
+        "text": "But ye say, 'Why do we pursue after him?' And the root of the matter hath been found in me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13327,
+        "text": "Be ye afraid because of the sword, For furious [are] the punishments of the sword, That ye may know that [there is] a judgment.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

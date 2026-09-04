@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 27,"name": "Daniel","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 851,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21739,
+        "text": "In the third year of the reign of Jehoiakim king of Judah, come hath Nebuchadnezzar king of Babylon to Jerusalem, and layeth siege against it;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21740,
+        "text": "and the Lord giveth into his hand Jehoiakim king of Judah, and some of the vessels of the house of God, and he bringeth them in [to] the land of Shinar, [to] the house of his god, and the vessels he hath brought in [to] the treasure-house of his god.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21741,
+        "text": "And the king saith, to Ashpenaz master of his eunuchs, to bring in out of the sons of Israel, (even of the royal seed, and of the chiefs,)",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21742,
+        "text": "lads in whom there is no blemish, and of good appearance, and skilful in all wisdom, and possessing knowledge, and teaching thought, and who have ability to stand in the palace of the king, and to teach them the literature and language of the Chaldeans.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21743,
+        "text": "And the king doth appoint for them a rate, day by day, of the king's portion of food, and of the wine of his drinking, so as to nourish them three years, that at the end thereof they may stand before the king.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21744,
+        "text": "And there are among them out of the sons of Judah, Daniel, Hananiah, Mishael, and Azariah,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21745,
+        "text": "and the chief of the eunuchs setteth names on them, and he setteth on Daniel, Belteshazzar; and on Hananiah, Shadrach; and on Mishael, Meshach; and on Azariah, Abed-Nego.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21746,
+        "text": "And Daniel purposeth in his heart that he will not pollute himself with the king's portion of food, and with the wine of his drinking, and he seeketh of the chief of the eunuchs that he may not pollute himself.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 21747,
+        "text": "And God giveth Daniel for kindness and for mercies before the chief of the eunuchs;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21748,
+        "text": "and the chief of the eunuchs saith to Daniel, 'I am fearing my lord the king, who hath appointed your food and your drink, for why doth he see your faces sadder than [those of] the lads which [are] of your circle? then ye have made my head indebted to the king,'",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21749,
+        "text": "And Daniel saith unto the Meltzar, whom the chief of the eunuchs hath appointed over Daniel, Hananiah, Mishael, and Azariah,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21750,
+        "text": "'Try, I pray thee, thy servants, ten days; and they give to us of the vegetables, and we eat, and water, and we drink;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21751,
+        "text": "and our appearance is seen before thee, and the appearance of the lads who are eating the king's portion of food, and as thou seest -- deal with thy servants.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21752,
+        "text": "And he hearkeneth to them, to this word, and trieth them ten days:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21753,
+        "text": "and at the end of ten days their appearance hath appeared better and fatter in flesh then any of the lads who are eating the king's portion of food.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21754,
+        "text": "And the Meltzar is taking away their portion of food, and the wine of their drink, and is giving to them vegetables.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21755,
+        "text": "As to these four lads, God hath given to them knowledge and understanding in every [kind of] literature, and wisdom; and Daniel hath given instruction about every [kind of] vision and dreams.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 21756,
+        "text": "And at the end of the days that the king had said to bring them in, bring them in doth the chief of the eunuchs before Nebuchadnezzar.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21757,
+        "text": "And the king speaketh with them, and there hath none been found among them all like Daniel, Hananiah, Mishael, and Azariah, and they stand before the king;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21758,
+        "text": "and [in] any matter of wisdom [and] understanding that the king hath sought of them, he findeth them ten hands above all the scribes, the enchanters, who [are] in all his kingdom.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21759,
+        "text": "And Daniel is unto the first year of Cyrus the king.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

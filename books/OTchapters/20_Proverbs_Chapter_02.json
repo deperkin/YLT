@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 630,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16435,
+        "text": "My son, if thou dost accept my sayings, And my commands dost lay up with thee,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16436,
+        "text": "To cause thine ear to attend to wisdom, Thou inclinest thy heart to understanding,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16437,
+        "text": "For, if for intelligence thou callest, For understanding givest forth thy voice,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16438,
+        "text": "If thou dost seek her as silver, And as hid treasures searchest for her,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16439,
+        "text": "Then understandest thou fear of Jehovah, And knowledge of God thou findest.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16440,
+        "text": "For Jehovah giveth wisdom, From His mouth knowledge and understanding.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16441,
+        "text": "Even to lay up for the upright substance, A shield for those walking uprightly.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16442,
+        "text": "To keep the paths of judgment, And the way of His saints He preserveth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16443,
+        "text": "Then understandest thou righteousness, And judgment, and uprightness -- every good path.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16444,
+        "text": "For wisdom cometh into thy heart, And knowledge to thy soul is pleasant,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16445,
+        "text": "Thoughtfulness doth watch over thee, Understanding doth keep thee,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16446,
+        "text": "To deliver thee from an evil way, From any speaking froward things,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16447,
+        "text": "Who are forsaking paths of uprightness, To walk in ways of darkness,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16448,
+        "text": "Who are rejoicing to do evil, They delight in frowardness of the wicked,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16449,
+        "text": "Whose paths [are] crooked, Yea, they are perverted in their ways.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16450,
+        "text": "To deliver thee from the strange woman, From the stranger who hath made smooth her sayings,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16451,
+        "text": "Who is forsaking the guide of her youth, And the covenant of her God hath forgotten.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16452,
+        "text": "For her house hath inclined unto death, And unto Rephaim her paths.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16453,
+        "text": "None going in unto her turn back, Nor do they reach the paths of life.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16454,
+        "text": "That thou dost go in the way of the good, And the paths of the righteous dost keep.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16455,
+        "text": "For the upright do inhabit the earth, And the perfect are left in it,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16456,
+        "text": "And the wicked from the earth are cut off, And treacherous dealers plucked out of it!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

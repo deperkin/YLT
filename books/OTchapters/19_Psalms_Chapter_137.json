@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 137,
+    "count": 615,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16224,
+        "text": "By rivers of Babylon -- There we did sit, Yea, we wept when we remembered Zion.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16225,
+        "text": "On willows in its midst we hung our harps.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16226,
+        "text": "For there our captors asked us the words of a song, And our spoilers -- joy: 'Sing ye to us of a song of Zion.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16227,
+        "text": "How do we sing the song of Jehovah, On the land of a stranger?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16228,
+        "text": "If I forget thee, O Jerusalem, my right hand forgetteth!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16229,
+        "text": "My tongue doth cleave to my palate, If I do not remember thee, If I do not exalt Jerusalem above my chief joy.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16230,
+        "text": "Remember, Jehovah, for the sons of Edom, The day of Jerusalem, Those saying, 'Rase, rase to its foundation!'",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16231,
+        "text": "O daughter of Babylon, O destroyed one, O the happiness of him who repayeth to thee thy deed, That thou hast done to us.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16232,
+        "text": "O the happiness of him who doth seize, And hath dashed thy sucklings on the rock!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

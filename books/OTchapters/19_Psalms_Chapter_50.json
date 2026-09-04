@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 50,
+    "count": 528,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14670,
+        "text": "A Psalm of Asaph. The God of gods -- Jehovah -- hath spoken, And He calleth to the earth From the rising of the sun unto its going in.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14671,
+        "text": "From Zion, the perfection of beauty, God shone.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14672,
+        "text": "Our God cometh, and is not silent, Fire before Him doth devour, And round about him it hath been very tempestuous.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14673,
+        "text": "He doth call unto the heavens from above, And unto the earth, to judge His people.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14674,
+        "text": "Gather ye to Me My saints, Making covenant with Me over a sacrifice.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14675,
+        "text": "And the heavens declare His righteousness, For God Himself [is] judge. Selah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14676,
+        "text": "Hear, O My people, and I speak, O Israel, and I testify against thee, God, thy God [am] I.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14677,
+        "text": "Not for thy sacrifices do I reprove thee, Yea, thy burnt-offerings [Are] before Me continually.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14678,
+        "text": "I take not from thy house a bullock, From thy folds he goats.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14679,
+        "text": "For Mine [is] every beast of the forest, The cattle on the hills of oxen.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14680,
+        "text": "I have known every fowl of the mountains, And the wild beast of the field [is] with Me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14681,
+        "text": "If I am hungry I tell not to thee, For Mine [is] the world and its fulness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14682,
+        "text": "Do I eat the flesh of bulls, And drink the blood of he-goats?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14683,
+        "text": "Sacrifice to God confession, And complete to the Most High thy vows.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14684,
+        "text": "And call Me in a day of adversity, I deliver thee, and thou honourest Me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14685,
+        "text": "And to the wicked hath God said: What to thee -- to recount My statutes? That thou liftest up My covenant on thy mouth?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 14686,
+        "text": "Yea, thou hast hated instruction, And dost cast My words behind thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14687,
+        "text": "If thou hast seen a thief, Then thou art pleased with him, And with adulterers [is] thy portion.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14688,
+        "text": "Thy mouth thou hast sent forth with evil, And thy tongue joineth deceit together,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14689,
+        "text": "Thou sittest, against thy brother thou speakest, Against a son of thy mother givest slander.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14690,
+        "text": "These thou didst, and I kept silent, Thou hast thought that I am like thee, I reprove thee, and set in array before thine eyes.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14691,
+        "text": "Understand this, I pray you, Ye who are forgetting God, Lest I tear, and there is no deliverer.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 14692,
+        "text": "He who is sacrificing praise honoureth Me, As to him who maketh a way, I cause him to look on the salvation of God!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

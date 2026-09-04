@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 662,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17361,
+        "text": "To everything -- a season, and a time to every delight under the heavens:",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17362,
+        "text": "A time to bring forth, And a time to die. A time to plant, And a time to eradicate the planted.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17363,
+        "text": "A time to slay, And a time to heal, A time to break down, And a time to build up.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17364,
+        "text": "A time to weep, And a time to laugh. A time to mourn, And a time to skip.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17365,
+        "text": "A time to cast away stones, And a time to heap up stones. A time to embrace, And a time to be far from embracing.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17366,
+        "text": "A time to seek, And a time to destroy. A time to keep, And a time to cast away.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17367,
+        "text": "A time to rend, And a time to sew. A time to be silent, And a time to speak.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17368,
+        "text": "A time to love, And a time to hate. A time of war, And a time of peace.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17369,
+        "text": "What advantage hath the doer in that which he is labouring at?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17370,
+        "text": "I have seen the travail that God hath given to the sons of man to be humbled by it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17371,
+        "text": "The whole He hath made beautiful in its season; also, that knowledge He hath put in their heart without which man findeth not out the work that God hath done from the beginning even unto the end.",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17372,
+        "text": "I have known that there is no good for them except to rejoice and to do good during their life,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17373,
+        "text": "yea, even every man who eateth and hath drunk and seen good by all his labour, it [is] a gift of God.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17374,
+        "text": "I have known that all that God doth is to the age, to it nothing is to be added, and from it nothing is to be withdrawn; and God hath wrought that they do fear before Him.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17375,
+        "text": "What is that which hath been? already it is, and that which [is] to be hath already been, and God requireth that which is pursued.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17376,
+        "text": "And again, I have seen under the sun the place of judgment -- there [is] the wicked; and the place of righteousness -- there [is] the wicked.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17377,
+        "text": "I said in my heart, 'The righteous and the wicked doth God judge, for a time [is] to every matter and for every work there.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17378,
+        "text": "I said in my heart concerning the matter of the sons of man that God might cleanse them, so as to see that they themselves [are] beasts.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17379,
+        "text": "For an event [is to] the sons of man, and an event [is to] the beasts, even one event [is] to them; as the death of this, so [is] the death of that; and one spirit [is] to all, and the advantage of man above the beast is nothing, for the whole [is] vanity.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17380,
+        "text": "The whole are going unto one place, the whole have been from the dust, and the whole are turning back unto the dust.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17381,
+        "text": "Who knoweth the spirit of the sons of man that is going up on high, and the spirit of the beast that is going down below to the earth?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17382,
+        "text": "And I have seen that there is nothing better than that man rejoice in his works, for it [is] his portion; for who doth bring him in to look on that which is after him?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 59,
+    "count": 537,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14792,
+        "text": "To the Overseer. -- 'Destroy not,' by David. -- A secret treasure, in Saul's sending, and they watch the house to put him to death. Deliver me from mine enemies, O my God, From my withstanders set me on high.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14793,
+        "text": "Deliver me from workers of iniquity, And from men of blood save me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14794,
+        "text": "For, lo, they laid wait for my soul, Assembled against me are strong ones, Not my transgression nor my sin, O Jehovah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14795,
+        "text": "Without punishment they run and prepare themselves, Stir up to meet me, and see.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14796,
+        "text": "And Thou, Jehovah, God of Hosts, God of Israel, Awake to inspect all the nations. Favour not any treacherous dealers of iniquity. Selah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14797,
+        "text": "They turn back at evening, They make a noise like a dog, And go round about the city.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14798,
+        "text": "Lo, they belch out with their mouths, Swords [are] in their lips, for 'Who heareth?'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14799,
+        "text": "And Thou, O Jehovah dost laugh at them, Thou dost mock at all the nations.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14800,
+        "text": "O my Strength, unto Thee I take heed, For God [is] my tower -- the God of my kindness.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14801,
+        "text": "God doth go before me, He causeth me to look on mine enemies.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14802,
+        "text": "Slay them not, lest my people forget, Shake them by Thy strength, And bring them down, O Lord our shield.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14803,
+        "text": "The sin of their mouth [is] a word of their lips, And they are captured in their pride, And from the curse and lying they recount.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14804,
+        "text": "Consume in fury, consume and they are not, And they know that God is ruling in Jacob, To the ends of the earth. Selah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14805,
+        "text": "And they turn back at evening, They make a noise like a dog, And they go round about the city.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14806,
+        "text": "They -- they wander for food, If they are not satisfied -- then they murmur.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14807,
+        "text": "And I -- I sing [of] Thy strength, And I sing at morn [of] Thy kindness, For thou hast been a tower to me, And a refuge for me in a day of adversity.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14808,
+        "text": "O my Strength, unto Thee I sing praise, For God [is] my tower, the God of my kindness!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

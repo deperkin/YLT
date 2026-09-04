@@ -1,0 +1,579 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 344,
+    "MaxVerses": 81,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10456,
+        "text": "Sons of Levi: Gershon, Kohath, and Merari.",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10457,
+        "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10458,
+        "text": "And sons of Amram: Aaron, and Moses, and Miriam. And sons of Aaron: Nadab, and Abihu, Eleazar, and Ithamar.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10459,
+        "text": "Eleazar begat Phinehas, Phinehas begat Abishua,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10460,
+        "text": "and Abishua begat Bukki, and Bukki begat Uzzi,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10461,
+        "text": "and Uzzi begat Zerahiah, and Zerahiah begat Meraioth,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10462,
+        "text": "Meraioth begat Amariah, and Amariah begat Ahitub,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10463,
+        "text": "and Ahitub begat Zadok, and Zadok begat Ahimaaz,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10464,
+        "text": "and Ahimaaz begat Azariah, and Azariah begat Johanan,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10465,
+        "text": "and Johanan begat Azariah, him who acted as priest in the house that Solomon built in Jerusalem.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10466,
+        "text": "And Azariah begetteth Amariah, and Amariah begat Ahitub,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10467,
+        "text": "and Ahitub begat Zadok, and Zadok begat Shallum,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10468,
+        "text": "and Shallum begat Hilkiah, and Hilkiah begat Azariah,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10469,
+        "text": "and Azariah begat Seraiah, and Seraiah begat Jehozadak;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10470,
+        "text": "and Jehozadak hath gone in Jehovah's removing Judah and Jerusalem by the hand of Nebuchadnezzar.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10471,
+        "text": "Sons of Levi: Gershom, Kohath, and Merari.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10472,
+        "text": "And these [are] names of sons of Gershom: Libni and Shimei.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10473,
+        "text": "And sons of Kohath: Amram, and Izhar, and Hebron, and Uzziel.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10474,
+        "text": "Sons of Merari; Mahli and Mushi. And these [are] families of the Levite according to their fathers;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10475,
+        "text": "of Gershom: Libni his son, Jahath his son, Zimmah his son,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10476,
+        "text": "Joah his son, Iddo his son, Zerah his son, Jeaterai his son.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10477,
+        "text": "Sons of Kohath: Amminadab his son, Korah his son, Assir his son,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10478,
+        "text": "Elkanah his son, and Ebiasaph his son, and Assir his son,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10479,
+        "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10480,
+        "text": "And sons of Elkanah; Amasai and Ahimoth.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10481,
+        "text": "Elkanah; sons of Elkanah: Zophai his son, and Nahath his son,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10482,
+        "text": "Eliab his son, Jeroham his son, Elkanah his son.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10483,
+        "text": "And sons of Samuel: the first-born Vashni, and the second Abijah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10484,
+        "text": "Sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10485,
+        "text": "Shimea his son, Haggiah his son, Asaiah his son.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10486,
+        "text": "And these [are] they whom David stationed over the parts of the song of the house of Jehovah, from the resting of the ark,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 10487,
+        "text": "and they are ministering before the tabernacle of the tent of meeting, in song, till the building by Solomon of the house of Jehovah in Jerusalem; and they stand according to their ordinance over their service.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10488,
+        "text": "And these [are] those standing, and their sons: of the sons of the Kohathite: Heman the singer, son of Joel, son of Shemuel,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10489,
+        "text": "son of Elkanah, son of Jeroham, son of Eliel, son of Toah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10490,
+        "text": "son of Zuph, son of Elkanah, son of Mahath, son of Amasai,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10491,
+        "text": "son of Elkanah, son of Joel, son of Azariah, son of Zephaniah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10492,
+        "text": "son of Tahath, son of Assir, son of Ebiasaph, son of Korah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 10493,
+        "text": "son of Izhar, son of Kohath, son of Levi, son of Israel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10494,
+        "text": "And his brother Asaph, who is standing on his right -- Asaph, son of Berachiah, son of Shimea,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10495,
+        "text": "son of Michael, son of Baaseiah, son of Malchiah,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 10496,
+        "text": "son of Ethni, son of Zerah, son of Adaiah,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 10497,
+        "text": "son of Ethan, son of Zimmah, son of Shimei,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 10498,
+        "text": "son of Jahath, son of Gershom, son of Levi.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 10499,
+        "text": "And sons of Merari, their brethren, [are] on the left. Ethan son of Kishi, son of Abdi, son of Malluch,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 10500,
+        "text": "son of Hashabiah, son of Amaziah, son of Hilkiah,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 10501,
+        "text": "son of Amzi, son of Bani, son of Shamer,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 10502,
+        "text": "son of Mahli, son of Mushi, son of Merari, son of Levi.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 10503,
+        "text": "And their brethren the Levites are put to all the service of the tabernacle of the house of God.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 10504,
+        "text": "And Aaron and his sons are making perfume on the altar of the burnt-offering, and on the altar of the perfume, for all the work of the holy of holies, and to make atonement for Israel, according to all that Moses servant of God commanded.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 10505,
+        "text": "And these [are] sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 10506,
+        "text": "Bukki his son, Uzzi his son, Zerahiah his son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 10507,
+        "text": "Meraioth his son, Amariah his son, Ahitub his son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 10508,
+        "text": "Zadok his son, Ahimaaz his son.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 10509,
+        "text": "And these [are] their dwellings, throughout their towers, in their borders, of the sons of Aaron, of the family of the Kohathite, for theirs was the lot;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 55,
+        "count": 10510,
+        "text": "and they give to them Hebron in the land of Judah and its suburbs round about it;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 10511,
+        "text": "and the field of the city and its villages they gave to Caleb son of Jephunneh.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 10512,
+        "text": "And to the sons of Aaron they gave the cities of refuge: Hebron, and Libnah and its suburbs, and Jattir, and Eshtemoa and its suburbs,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 10513,
+        "text": "and Hilen and its suburbs, Debir and its suburbs,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 10514,
+        "text": "and Ashan and its suburbs, and Beth-Shemesh and its suburbs.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 10515,
+        "text": "And from the tribe of Benjamin, Geba and its suburbs, and Allemeth and its suburbs, and Anathoth and its suburbs. All their cities [are] thirteen cities, for their families.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 10516,
+        "text": "And to the sons of Kohath, those left of the family of the tribe, from the half of the tribe, the half of Manasseh, by lot, [are] ten cities.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 10517,
+        "text": "And to the sons of Gershom, for their families, from the tribe of Issachar, and from the tribe of Asher, and from the tribe of Naphtali, and from the tribe of Manasseh in Bashan, thirteen cities.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 10518,
+        "text": "To the sons of Merari, for their families, from the tribe of Reuben, and from the tribe of Gad, and from the tribe of Zebulun, by lot, twelve cities.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 10519,
+        "text": "And the sons of Israel give to the Levites the cities and their suburbs.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 10520,
+        "text": "And they give by lot from the tribe of the sons of Judah, and from the tribe of the sons of Simeon, and from the tribe of the sons of Benjamin, these cities which they call by name;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 10521,
+        "text": "and some of the families of the sons of Kohath have cities of their border from the tribe of Ephraim;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 10522,
+        "text": "and they give to them the cities of refuge, Shechem and its suburbs in the hill-country of Ephraim, and Gezer and its suburbs,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 68,
+        "count": 10523,
+        "text": "and Jokmeam and its suburbs, and Beth-Horan and its suburbs,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 69,
+        "count": 10524,
+        "text": "and Aijalon and its suburbs, and Gath-Rimmon and its suburbs;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 70,
+        "count": 10525,
+        "text": "and from the half tribe of Manasseh, Aner and its suburbs, and Bileam and its suburbs, for the family of the sons of Kohath who are left.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 71,
+        "count": 10526,
+        "text": "To the sons of Gershom from the family of the half of the tribe of Manasseh [are] Golan in Bashan and its suburbs, and Ashtaroth and its suburbs;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 72,
+        "count": 10527,
+        "text": "and from the tribe of Issachar; Kedesh and its suburbs, Daberath and its suburbs,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 73,
+        "count": 10528,
+        "text": "and Ramoth and its suburbs, and Anem and its suburbs;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 74,
+        "count": 10529,
+        "text": "and from the tribe of Asher; Mashal and its suburbs, and Abdon and its suburbs,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 75,
+        "count": 10530,
+        "text": "and Hukok and its suburbs, and Rehob and its suburbs;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 76,
+        "count": 10531,
+        "text": "and from the tribe of Naphtali: Kedesh in Galilee and its suburbs, and Hammon and its suburbs, and Kirjathaim and its suburbs.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 77,
+        "count": 10532,
+        "text": "To the sons of Merari who are left, from the tribe of Zebulun, [are] Rimmon and its suburbs, Tabor and its suburbs;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 78,
+        "count": 10533,
+        "text": "and from beyond the Jordan by Jericho, at the east of the Jordan, from the tribe of Reuben, Bezer in the wilderness and its suburbs, and Jahzah and its suburbs,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 79,
+        "count": 10534,
+        "text": "and Kedemoth and its suburbs, and Mephaath and its suburbs;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 80,
+        "count": 10535,
+        "text": "and from the tribe of Gad: Ramoth in Gilead and its suburbs, and Mahanaim and its suburbs,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 81,
+        "count": 10536,
+        "text": "and Heshbon and its suburbs, and Jazer and its suburbs.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

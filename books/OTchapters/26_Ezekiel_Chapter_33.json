@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 835,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21282,
+        "text": "And there is a word of Jehovah unto me, saying,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21283,
+        "text": "'Son of man, speak unto the sons of thy people, and thou hast said unto them: A land -- when I bring in against it a sword, And the people of the land have taken one man out of their borders, And made him to them for a watchman.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21284,
+        "text": "And he hath seen the sword coming against the land, And hath blown with a trumpet, and hath warned the people,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21285,
+        "text": "And the hearer hath heard the voice of the trumpet, and he hath not taken warning, And come in doth the sword, and taketh him away, His blood is on his head.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21286,
+        "text": "The voice of the trumpet he heard, And he hath not taken warning, his blood is on him, And he who took warning his soul hath delivered.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21287,
+        "text": "And the watchman, when he seeth the sword coming in, And he hath not blown with a trumpet, And the people hath not been warned, And come in doth a sword, And taketh away of them -- a soul, He in his iniquity is taken away, And his blood from the hand of the watchman I require.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21288,
+        "text": "And thou, son of man, A watchman I gave thee to the house of Israel, And thou hast heard from My mouth a word, And thou hast warned them from Me.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21289,
+        "text": "In My saying to the wicked, O wicked one -- thou dost surely die, And thou hast not spoken to warn the wicked from his way, He -- the wicked -- in his iniquity doth die, And his blood from thy hand I require.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21290,
+        "text": "And thou, when thou hast warned the wicked of his way, to turn back from it, And he hath not turned back from his way, He in his iniquity doth die, And thou thy soul hast delivered.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21291,
+        "text": "And thou, son of man, say unto the house of Israel: Rightly ye have spoken, saying: Surely our transgressions and our sins [are] on us, And in them we are wasting away, How, then, do we live?",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 21292,
+        "text": "Say unto them, I live -- an affirmation of the Lord Jehovah, I delight not in the death of the wicked, But -- in the turning of the wicked from his way, And he hath lived, Turn back, turn back, from your evil ways, Yea, why do ye die, O house of Israel?",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21293,
+        "text": "And thou, son of man, say unto the sons of thy people: The righteousness of the righteous doth not deliver him in the day of his transgression, And the wickedness of the wicked, He doth not stumble for it in the day of his turning from his wickedness, And the righteous is not able to live in it in the day of his sinning.",
+        "WordCount": 64,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21294,
+        "text": "In My saying of the righteous: He surely liveth, And -- he hath trusted on his righteousness, And he hath done perversity, All his righteous acts are not remembered, And for his perversity that he hath done, For it he doth die.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21295,
+        "text": "And in My saying to the wicked: Thou surely diest, And -- he hath turned back from his sin, And hath done judgment and righteousness,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21296,
+        "text": "(The pledge the wicked restoreth, plunder he repayeth,) In the statutes of life he hath walked, So as not to do perversity, He surely liveth -- he doth not die.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21297,
+        "text": "None of his sin that he hath sinned is remembered to him, Judgment and righteousness he hath done, He doth surely live.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21298,
+        "text": "And the sons of thy people have said: The way of the Lord is not pondered, As to them -- their way is not pondered.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21299,
+        "text": "In the turning back of the righteous from his righteousness, And he hath done perversity -- he dieth for it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21300,
+        "text": "And in the turning back of the wicked from his wickedness, And he hath done judgment and righteousness, by them he liveth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21301,
+        "text": "And ye have said: The way of the Lord is not pondered, Each according to his ways do I judge you, O house of Israel.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21302,
+        "text": "And it cometh to pass, in the twelfth year -- in the tenth [month], in the fifth of the month -- of our removal, come in unto me doth one who is escaped from Jerusalem, saying, 'The city hath been smitten.'",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 21303,
+        "text": "And the hand of Jehovah hath been unto me in the evening, before the coming in of the escaped one, and He openeth my mouth till the coming in unto me in the morning, and opened is my mouth, and I have not been silent again.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21304,
+        "text": "And there is a word of Jehovah unto me, saying,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 21305,
+        "text": "'Son of man, the inhabitants of these wastes on the ground of Israel are speaking, saying: Alone hath been Abraham -- and he possesseth the land, and we [are] many -- to us hath the land been given for a possession.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 21306,
+        "text": "Therefore say unto them: Thus said the Lord Jehovah: With the blood ye do eat, And your eyes ye lift up unto your idols, And blood ye shed, and the land ye inherit!",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 21307,
+        "text": "Ye have stood on your sword, Ye have done abomination, Each the wife of his neighbour ye have defiled, And the land ye possess!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 21308,
+        "text": "Thus dost thou say unto them: Thus said the Lord Jehovah: I live -- do not they who [are] in the wastes by the sword fall? And they who [are] on the face of the field, To the beast I have given for food, And they who are in strongholds and in caves by pestilence die.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 21309,
+        "text": "And I have made the land a desolation and an astonishment, And ceased hath the excellency of its strength, And desolated have been mountains of Israel, Without any one passing through.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 21310,
+        "text": "And they have known that I [am] Jehovah, In My making the land a desolation and an astonishment, For all their abominations that they have done.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 21311,
+        "text": "And thou, son of man, the sons of thy people who are speaking about thee, By the walls, and in openings of the houses, Have spoken one with another, each with his brother, Saying: Come in, I pray you, And hear what [is] the word that cometh out from Jehovah.",
+        "WordCount": 50,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 21312,
+        "text": "And they come in unto thee as the coming in of a people, And they sit before thee -- My people, And have heard thy words, and they do them not, For doting loves with their mouth they are making, After their dishonest gain their heart is going.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 21313,
+        "text": "And lo, thou [art] to them as a singer of doting loves, A pleasant voice, and playing well on an instrument, And they have heard thy words, and they are not doing them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 21314,
+        "text": "And in its coming in -- lo, it hath come, And they have known that a prophet hath been in their midst!'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

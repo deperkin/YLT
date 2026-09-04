@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 921,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 23018,
+        "text": "They asked of Jehovah rain in a time of latter rain, Jehovah is making lightnings, And rain [in] showers He doth give to them. To each -- the herb in the field.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 23019,
+        "text": "Because the teraphim did speak iniquity, And the diviners have seen a falsehood, And dreams of the vanity they speak, [With] vanity they give comfort, Therefore they have journeyed as a flock, They are afflicted, for there is no shepherd.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 23020,
+        "text": "Against the shepherds did Mine anger burn, And against the he-goats I lay a charge, For inspected hath Jehovah of Hosts His flock, the house of Judah, And set them as His beauteous horse in battle.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 23021,
+        "text": "From him [is] a corner-stone, From him a nail, from him a battle-bow, From him goeth forth every exactor together.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 23022,
+        "text": "And they have been as heroes, Treading in mire of out-places in battle, And they have fought, for Jehovah [is] with them, And have put to shame riders of horses.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 23023,
+        "text": "And I have made mighty the house of Judah, And the house of Joseph I do save, And I have caused them to dwell, for I have loved them, And they have been as [if] I had not cast them off, For I [am] Jehovah their God, And I answer them.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 23024,
+        "text": "And Ephraim hath been as a hero, And rejoiced hath their heart as wine, And their sons see, and they have rejoiced, Rejoice doth their heart in Jehovah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 23025,
+        "text": "I hist for them, and I gather them, For I have redeemed them, And they have multiplied as they did multiply.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 23026,
+        "text": "And I sow them among peoples, And in far-off places they remember Me, And they have lived with their sons, And they have turned back.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 23027,
+        "text": "And I have brought them back from the land of Egypt, And from Asshur I do gather them, And unto the land of Gilead and Lebanon I do bring them in, And there is not found for them [space].",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 23028,
+        "text": "And He hath passed over through the sea, And hath pressed and smitten billows in the sea, And dried up have been all depths of a flood, And brought down hath been the excellency of Asshur, And the rod of Egypt doth turn aside.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 23029,
+        "text": "And I have made them mighty in Jehovah, And in His name they walk up and down, An affirmation of Jehovah!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 239,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7278,
+        "text": "And the youth Samuel is serving Jehovah before Eli, and the word of Jehovah hath been precious in those days -- there is no vision broken forth.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7279,
+        "text": "And it cometh to pass, at that time, that Eli is lying down in his place, and his eyes have begun to be dim -- he is not able to see.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7280,
+        "text": "And the lamp of God is not yet extinguished, and Samuel is lying down in the temple of Jehovah, where the ark of God [is],",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7281,
+        "text": "and Jehovah calleth unto Samuel, and he saith, 'Here [am] I.'",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7282,
+        "text": "And he runneth unto Eli, and saith, 'Here [am] I, for thou hast called for me;' and he saith, 'I called not; turn back, lie down;' and he goeth and lieth down.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7283,
+        "text": "And Jehovah addeth to call again Samuel, and Samuel riseth and goeth unto Eli, and saith, 'Here [am] I, for thou hast called for me;' and he saith, 'I have not called, my son, turn back, lie down.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7284,
+        "text": "And Samuel hath not yet known Jehovah, and the word of Jehovah is not yet revealed unto him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7285,
+        "text": "And Jehovah addeth to call Samuel the third time, and he riseth and goeth unto Eli, and saith, 'Here [am] I, for thou hast called for me;' and Eli understandeth that Jehovah is calling to the youth.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7286,
+        "text": "And Eli saith to Samuel, 'Go, lie down, and it hath been, if He doth call unto thee, that thou hast said, Speak, Jehovah, for Thy servant is hearing;' and Samuel goeth and lieth down in his place.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7287,
+        "text": "And Jehovah cometh, and stationeth Himself, and calleth as time by time, 'Samuel, Samuel;' and Samuel saith, 'Speak, for Thy servant is hearing.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7288,
+        "text": "And Jehovah saith unto Samuel, 'Lo, I am doing a thing in Israel, at which the two ears of every one hearing it do tingle.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 7289,
+        "text": "In that day I establish unto Eli all that I have spoken unto his house, beginning and completing;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 7290,
+        "text": "and I have declared to him that I am judging his house -- to the age, for the iniquity which he hath known, for his sons are making themselves vile, and he hath not restrained them,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 7291,
+        "text": "and therefore I have sworn to the house of Eli: the iniquity of the house of Eli is not atoned for, by sacrifice, and by offering -- unto the age.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 7292,
+        "text": "And Samuel lieth till the morning, and openeth the doors of the house of Jehovah, and Samuel is afraid of declaring the vision unto Eli.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 7293,
+        "text": "And Eli calleth Samuel, and saith, 'Samuel, my son;' and he saith, 'Here [am] I.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 7294,
+        "text": "And he saith, 'What [is] the word which He hath spoken unto thee? I pray thee, hide it not from me; so doth God do to thee, and so doth He add, if thou hidest from me a word of all the words that He hath spoken unto thee.'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 7295,
+        "text": "And Samuel declareth to him the whole of the words, and hath not hid from him; and he saith, 'It [is] Jehovah; that which is good in His eyes He doth.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 7296,
+        "text": "And Samuel groweth up, and Jehovah hath been with him, and hath not let fall any of his words to the earth;",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 7297,
+        "text": "and all Israel know, from Dan even unto Beer-Sheba, that Samuel is established for a prophet to Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 7298,
+        "text": "And Jehovah addeth to appear in Shiloh, for Jehovah hath been revealed unto Samuel, in Shiloh, by the word of Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

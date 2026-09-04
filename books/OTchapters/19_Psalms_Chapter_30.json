@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 508,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14321,
+        "text": "A Psalm. -- A song of the dedication of the house of David. I exalt Thee, O Jehovah, For Thou hast drawn me up, and hast not let mine enemies rejoice over me.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14322,
+        "text": "Jehovah my God, I have cried to Thee, And Thou dost heal me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14323,
+        "text": "Jehovah, Thou hast brought up from Sheol my soul, Thou hast kept me alive, From going down [to] the pit.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14324,
+        "text": "Sing praise to Jehovah, ye His saints, And give thanks at the remembrance of His holiness,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14325,
+        "text": "For -- a moment [is] in His anger, Life [is] in His good-will, At even remaineth weeping, and at morn singing.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14326,
+        "text": "And I -- I have said in mine ease, 'I am not moved -- to the age.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14327,
+        "text": "O Jehovah, in Thy good pleasure, Thou hast caused strength to remain for my mountain,' Thou hast hidden Thy face -- I have been troubled.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14328,
+        "text": "Unto Thee, O Jehovah, I call, And unto Jehovah I make supplication.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14329,
+        "text": "'What gain [is] in my blood? In my going down unto corruption? Doth dust thank Thee? doth it declare Thy truth?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14330,
+        "text": "Hear, O Jehovah, and favour me, O Jehovah, be a helper to me.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14331,
+        "text": "Thou hast turned my mourning to dancing for me, Thou hast loosed my sackcloth, And girdest me [with] joy.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14332,
+        "text": "So that honour doth praise Thee, and is not silent, O Jehovah, my God, to the age I thank Thee!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

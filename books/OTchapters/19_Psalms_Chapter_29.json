@@ -1,0 +1,89 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 29,
+    "count": 507,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14310,
+        "text": "A Psalm of David. Ascribe to Jehovah, ye sons of the mighty, Ascribe to Jehovah honour and strength.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14311,
+        "text": "Ascribe to Jehovah the honour of His name, Bow yourselves to Jehovah, In the beauty of holiness.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14312,
+        "text": "The voice of Jehovah [is] on the waters, The God of glory hath thundered, Jehovah [is] on many waters.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14313,
+        "text": "The voice of Jehovah [is] with power, The voice of Jehovah [is] with majesty,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14314,
+        "text": "The voice of Jehovah [is] shivering cedars, Yea, Jehovah shivers the cedars of Lebanon.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14315,
+        "text": "And He causeth them to skip as a calf, Lebanon and Sirion as a son of Reems,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14316,
+        "text": "The voice of Jehovah is hewing fiery flames,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14317,
+        "text": "The voice of Jehovah paineth a wilderness, Jehovah paineth the wilderness of Kadesh.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14318,
+        "text": "The voice of Jehovah paineth the oaks, And maketh bare the forests, And in His temple every one saith, 'Glory.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14319,
+        "text": "Jehovah on the deluge hath sat, And Jehovah sitteth king -- to the age,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14320,
+        "text": "Jehovah strength to his people giveth, Jehovah blesseth His people with peace!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

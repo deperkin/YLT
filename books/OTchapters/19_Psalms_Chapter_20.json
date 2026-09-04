@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 498,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14184,
+        "text": "To the Overseer. -- A Psalm of David. Jehovah doth answer thee, In a day of adversity, The name of the God of Jacob doth set thee on high,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14185,
+        "text": "He doth send thy help from the sanctuary, And from Zion doth support thee,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14186,
+        "text": "He doth remember all thy presents, And thy burnt-offering doth reduce to ashes. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14187,
+        "text": "He doth give to thee according to thy heart, And all thy counsel doth fulfil.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14188,
+        "text": "We sing of thy salvation, And in the name of our God set up a banner. Jehovah doth fulfil all thy requests.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14189,
+        "text": "Now I have known That Jehovah hath saved His anointed, He answereth him from His holy heavens, With the saving might of His right hand.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14190,
+        "text": "Some of chariots, and some of horses, And we of the name of Jehovah our God Make mention.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14191,
+        "text": "They -- they have bowed and have fallen, And we have risen and station ourselves upright.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14192,
+        "text": "O Jehovah, save the king, He doth answer us in the day we call!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

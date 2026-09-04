@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 134,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4246,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4247,
+        "text": "'Speak unto the sons of Israel, and take from them each a rod, for a father's house, from all their princes, for the house of their fathers, twelve rods; the name of each thou dost write on his rod,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4248,
+        "text": "and Aaron's name thou dost write on the tribe of Levi; for one rod [is] for the head of their fathers' house:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4249,
+        "text": "and thou hast placed them in the tent of meeting, before the testimony, where I meet with you.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4250,
+        "text": "'And it hath come to pass, the man's rod on whom I fix doth flourish, and I have caused to cease from off me the murmurings of the sons of Israel, which they are murmuring against you.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4251,
+        "text": "And Moses speaketh unto the sons of Israel, and all their princes give unto him one rod for a prince, one rod for a prince, for their fathers' house, twelve rods, and the rod of Aaron [is] in the midst of their rods;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4252,
+        "text": "and Moses placeth the rods before Jehovah, in the tent of the testimony.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4253,
+        "text": "And it cometh to pass, on the morrow, that Moses goeth in unto the tent of the testimony, and lo, the rod of Aaron hath flourished for the house of Levi, and is bringing out flourishing, and doth blossom blossoms, and doth produce almonds;",
+        "WordCount": 44,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 4254,
+        "text": "and Moses bringeth out all the rods from before Jehovah, unto all the sons of Israel, and they look, and take each his rod.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4255,
+        "text": "And Jehovah saith unto Moses, 'Put back the rod of Aaron, before the testimony, for a charge, for a sign to the sons of rebellion, and thou dost remove their murmurings from off me, and they do not die;'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4256,
+        "text": "and Moses doth as Jehovah hath commanded him; so he hath done.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4257,
+        "text": "And the sons of Israel speak unto Moses, saying, 'Lo, we have expired; we have perished; we have all of us perished;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4258,
+        "text": "any who is at all drawing near unto the tabernacle of Jehovah dieth; have we not been consumed -- to expire?'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 667,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17460,
+        "text": "Who [is] as the wise? and who knoweth the interpretation of a thing? The wisdom of man causeth his face to shine, and the hardness of his face is changed.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17461,
+        "text": "I pray thee, the commandment of a king keep, even for the sake of the oath of God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17462,
+        "text": "Be not troubled at his presence, thou mayest go, stand not in an evil thing, for all that he pleaseth he doth.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17463,
+        "text": "Where the word of a king [is] power [is], and who saith to him, 'What dost thou?'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17464,
+        "text": "Whoso is keeping a command knoweth no evil thing, and time and judgment the heart of the wise knoweth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17465,
+        "text": "For to every delight there is a time and a judgment, for the misfortune of man is great upon him.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17466,
+        "text": "For he knoweth not that which shall be, for when it shall be who declareth to him?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17467,
+        "text": "There is no man ruling over the spirit to restrain the spirit, and there is no authority over the day of death, and there is no discharge in battle, and wickedness delivereth not its possessors.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17468,
+        "text": "All this I have seen so as to give my heart to every work that hath been done under the sun; a time that man hath ruled over man to his own evil.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17469,
+        "text": "And so I have seen the wicked buried, and they went in, even from the Holy Place they go, and they are forgotten in the city whether they had so done. This also [is] vanity.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17470,
+        "text": "Because sentence hath not been done [on] an evil work speedily, therefore the heart of the sons of man is full within them to do evil.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17471,
+        "text": "Though a sinner is doing evil a hundred [times], and prolonging [himself] for it, surely also I know that there is good to those fearing God, who fear before Him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17472,
+        "text": "And good is not to the wicked, and he doth not prolong days as a shadow, because he is not fearing before God.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17473,
+        "text": "There is a vanity that hath been done upon the earth, that there are righteous ones unto whom it is coming according to the work of the wicked, and there are wicked ones unto whom it is coming according to the work of the righteous. I have said that this also [is] vanity.",
+        "WordCount": 53,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 17474,
+        "text": "And I have praised mirth because there is no good to man under the sun except to eat and to drink, and to rejoice, and it remaineth with him of his labour the days of his life that God hath given to him under the sun.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17475,
+        "text": "When I gave my heart to know wisdom and to see the business that hath been done on the earth, (for there is also a spectator in whose eyes sleep is not by day and by night),",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17476,
+        "text": "then I considered all the work of God, that man is not able to find out the work that hath been done under the sun, because though man labour to seek, yet he doth not find; and even though the wise man speak of knowing he is not able to find.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 371,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11248,
+        "text": "And he maketh an altar of brass, twenty cubits its length, and twenty cubits its breadth, and ten cubits its height.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11249,
+        "text": "And he maketh the molten sea; ten by the cubit, from its edge unto its edge, round in compass, and five by the cubit its height, and a line of thirty by the cubit doth compass it, round about.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11250,
+        "text": "And the likeness of oxen [is] under it, all round about encompassing it, ten in the cubit, compassing the sea round about; two rows of oxen are cast in its being cast.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11251,
+        "text": "It is standing on twelve oxen, three facing the north, and three facing the west, and three facing the south, and three facing the east, and the sea [is] upon them above, and all their hinder parts [are] within.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11252,
+        "text": "And its thickness [is] a handbreadth, and its lip as the work of the lip of a cup flowered with lilies; taking hold -- baths three thousand it containeth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11253,
+        "text": "And he maketh ten lavers, and putteth five on the right, and five on the left, to wash with them; the work of the burnt-offering they purge with them; and the sea [is] for priests to wash with.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11254,
+        "text": "And he maketh the ten candlesticks of gold, according to their ordinance, and placeth in the temple, five on the right, and five on the left.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11255,
+        "text": "And he maketh ten tables, and placeth in the temple, five on the right, and five on the left; and he maketh bowls of gold a hundred.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11256,
+        "text": "And he maketh the court of the priests, and the great court, and doors for the court, and their doors he hath overlaid with brass.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11257,
+        "text": "And the sea he hath placed on the right shoulder eastward, over-against the south.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11258,
+        "text": "And Huram maketh the pots, and the shovels, and the bowls, and Huram finisheth to make the work that he made for king Solomon in the house of God;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 11259,
+        "text": "two pillars, and the bowls, and the crowns on the heads of the two pillars, and the two wreaths to cover the two bowls of the crowns that [are] on the heads of the pillars;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11260,
+        "text": "and the pomegranates four hundred to the two wreaths, two rows of pomegranates to the one wreath, to cover the two bowls of the crowns that [are] on the front of the pillars.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11261,
+        "text": "And the bases he hath made; and the lavers he hath made on the bases;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11262,
+        "text": "the one sea, and the twelve oxen under it,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11263,
+        "text": "and the pots, and the shovels, and the forks, and all their vessels, hath Huram his father made for king Solomon, for the house of Jehovah, of brass purified.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11264,
+        "text": "In the circuit of the Jordan hath the king cast them, in the thick soil of the ground, between Succoth and Zeredathah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11265,
+        "text": "And Solomon maketh all these vessels in great abundance, that the weight of the brass hath not been searched out.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11266,
+        "text": "And Solomon maketh all the vessels that [are for] the house of God, and the altar of gold, and the tables, and on them [is] bread of the presence;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11267,
+        "text": "and the candlesticks, and their lamps, for their burning according to the ordinance, before the oracle, of gold refined;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11268,
+        "text": "and the flowers, and the lamps, and the tongs of gold -- it [is] the perfection of gold;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11269,
+        "text": "and the snuffers, and the bowls, and the spoons, and the censers, of gold refined, and the opening of the house, its innermost doors to the holy of holies, and the doors of the house to the temple, of gold.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

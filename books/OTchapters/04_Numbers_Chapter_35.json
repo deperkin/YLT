@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 35,
+    "count": 152,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4847,
+        "text": "And Jehovah speaketh unto Moses, in the plains of Moab, by Jordan, [near] Jericho, saying,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4848,
+        "text": "'Command the sons of Israel, and they have given to the Levites of the inheritance of their possession cities to inhabit; also a suburb for the cities round about them ye do give to the Levites.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4849,
+        "text": "And the cities have been to them to inhabit, and their suburbs are for their cattle, and for their goods, and for all their beasts.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4850,
+        "text": "'And the suburbs of the cities which ye give to the Levites [are], from the wall of the city and without, a thousand cubits round about.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4851,
+        "text": "And ye have measured from the outside of the city, the east quarter, two thousand by the cubit, and the south quarter, two thousand by the cubit, and the west quarter, two thousand by the cubit, and the north quarter, two thousand by the cubit; and the city [is] in the midst; this is to them the suburbs of the cities.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4852,
+        "text": "'And the cities which ye give to the Levites [are] the six cities of refuge, which ye give for the fleeing thither of the man-slayer, and besides them ye give forty and two cities;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4853,
+        "text": "all the cities which ye give to the Levites [are] forty and eight cities, them and their suburbs.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4854,
+        "text": "And the cities which ye give [are] of the possession of the sons of Israel, from the many ye multiply, and from the few ye diminish; each, according to his inheritance which they inherit, doth give of his cities to the Levites.'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4855,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 4856,
+        "text": "'Speak unto the sons of Israel, and thou hast said unto them, When ye are passing over the Jordan to the land of Canaan,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4857,
+        "text": "and have prepared to yourselves cities -- cities of refuge they are to you -- then fled thither hath a man-slayer, smiting a person unawares,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4858,
+        "text": "and the cities have been to you for a refuge from the redeemer, and the man-slayer doth not die till his standing before the company for judgment.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4859,
+        "text": "'As to the cities which ye give -- six [are] cities of refuge to you;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4860,
+        "text": "the three of the cities ye give beyond the Jordan, and the three of the cities ye give in the land of Canaan; cities of refuge they are.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4861,
+        "text": "To sons of Israel, and to a sojourner, and to a settler in their midst, are these six cities for a refuge, for the fleeing thither of any one smiting a person unawares.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4862,
+        "text": "'And if with an instrument of iron he hath smitten him, and he dieth, he [is] a murderer: the murderer is certainly put to death.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4863,
+        "text": "'And if with a stone [in] the hand, wherewith he dieth, he hath smitten him, and he dieth, he [is] a murderer: the murderer is certainly put to death.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4864,
+        "text": "'Or with a wooden instrument [in] the hand, wherewith he dieth, he hath smitten him, and he dieth, he [is] a murderer: the murderer is certainly put to death.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4865,
+        "text": "'The redeemer of blood himself doth put the murderer to death; in his coming against him he doth put him to death.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4866,
+        "text": "'And if in hatred he thrust him through, or hath cast [anything] at him by lying in wait, and he dieth;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4867,
+        "text": "or in enmity he hath smitten him with his hand, and he dieth; the smiter is certainly put to death; he [is] a murderer; the redeemer of blood doth put the murderer to death in his coming against him.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4868,
+        "text": "'And if, in an instant, without enmity, he hath thrust him through, or hath cast at him any instrument, without lying in wait;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4869,
+        "text": "or with any stone wherewith he dieth, without seeing, and causeth [it] to fall upon him, and he dieth, and he [is] not his enemy, nor seeking his evil;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4870,
+        "text": "then have the company judged between the smiter and the redeemer of blood, by these judgments.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4871,
+        "text": "'And the company have delivered the man-slayer out of the hand of the redeemer of blood, and the company have caused him to turn back unto the city of his refuge, whither he hath fled, and he hath dwelt in it till the death of the chief priest, who hath been anointed with the holy oil.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4872,
+        "text": "'And if the man-slayer at all go out [from] the border of the city of his refuge whither he fleeth,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4873,
+        "text": "and the redeemer of blood hath found him at the outside of the border of the city of his refuge, and the redeemer of blood hath slain the man-slayer, blood is not for him;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4874,
+        "text": "for in the city of his refuge he doth dwell till the death of the chief priest; and after the death of the chief priest doth the man-slayer turn back unto the city of his possession.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4875,
+        "text": "'And these things have been to you for a statute of judgment to your generations, in all your dwellings:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4876,
+        "text": "whoso smiteth a person, by the mouth of witnesses doth [one] slay the murderer; and one witness doth not testify against a person -- to die.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4877,
+        "text": "'And ye take no atonement for the life of a murderer who [is] condemned -- to die, for he is certainly put to death;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4878,
+        "text": "and ye take no atonement for him to flee unto the city of his refuge, to turn back to dwell in the land, until the death of the priest.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4879,
+        "text": "'And ye profane not the land which ye [are] in, for blood profaneth the land; as to the land, it is not pardoned for blood which is shed in it except by the blood of him who sheddeth it;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4880,
+        "text": "and ye defile not the land in which ye are dwelling, in the midst of which I do tabernacle, for I Jehovah do tabernacle in the midst of the sons of Israel.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 284,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8451,
+        "text": "And Ahithophel said unto Absalom, 'Let me choose, I pray thee, twelve thousand men, and I arise and pursue after David to-night,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8452,
+        "text": "and come upon him, and he weary and feeble-handed, and I have caused him to tremble, and all the people have fled who [are] with him, and I have smitten the king by himself,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8453,
+        "text": "and I bring back all the people unto thee -- as the turning back of the whole [is] the man whom thou art seeking -- all the people are peace.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8454,
+        "text": "And the thing is right in the eyes of Absalom, and in the eyes of all the elders of Israel.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8455,
+        "text": "And Absalom saith, 'Call, I pray thee, also for Hushai the Archite, and we hear what [is] in his mouth -- even he.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8456,
+        "text": "And Hushai cometh in unto Absalom, and Absalom speaketh unto him, saying, 'According to this word hath Ahithophel spoken; do we do his word? if not, thou -- speak thou.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8457,
+        "text": "And Hushai saith unto Absalom, 'Not good [is] the counsel that Ahithophel hath counselled at this time.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8458,
+        "text": "And Hushai saith, 'Thou hast known thy father and his men, that they [are] heroes, and they are bitter in soul as a bereaved bear in a field, and thy father [is] a man of war, and doth not lodge with the people;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8459,
+        "text": "lo, now, he is hidden in one of the pits, or in one of the places, and it hath been, at the falling among them at the commencement, that the hearer hath heard, and said, There hath been a slaughter among the people who [are] after Absalom;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8460,
+        "text": "and he also, the son of valour, whose heart [is] as the heart of the lion, doth utterly melt, for all Israel doth know that thy father is a hero, and sons of valour [are] those with him.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8461,
+        "text": "'So that I have counselled: Let all Israel be diligently gathered unto thee, from Dan even unto Beer-Sheba, as the sand that [is] by the sea for multitude, and thou thyself art going in the midst;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8462,
+        "text": "and we have come in unto him in one of the places where he is found, and we [are] upon him as the dew falleth on the ground, and there hath not been left of him and of all the men who [are] with him even one.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8463,
+        "text": "And if unto a city he is gathered, then they have caused all Israel to bear unto that city ropes, and we have drawn it unto the brook till that there hath not been found there even a stone.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8464,
+        "text": "And Absalom saith -- and all the men of Israel -- 'Better [is] the counsel of Hushai the Archite than the counsel of Ahithophel;' and Jehovah willed to make void the good counsel of Ahithophel for the sake of Jehovah's bringing unto Absalom the evil.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8465,
+        "text": "And Hushai saith unto Zadok and unto Abiathar the priests, 'Thus and thus hath Ahithophel counselled Absalom and the elders of Israel, and thus and thus I have counselled;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 8466,
+        "text": "and now, send hastily, and declare to David, saying, Lodge not to-night in the plains of the wilderness, and also, certainly pass over, lest there be a swallowing up of the king and of all the people who are with him.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8467,
+        "text": "And Jonathan and Ahimaaz are standing at En-Rogel, and the maid-servant hath gone and declared to them -- and they go and have declared [it] to king David -- for they are not able to be seen to go in to the city.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8468,
+        "text": "And a youth seeth them, and declareth to Absalom; and they go on both of them hastily, and come in unto the house of a man in Bahurim, and he hath a well in his court, and they go down there,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8469,
+        "text": "and the woman taketh and spreadeth the covering over the face of the well, and spreadeth on it the ground corn, and the thing hath not been known.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8470,
+        "text": "And the servants of Absalom come in unto the woman to the house, and say, 'Where [are] Ahimaaz and Jonathan?' and the woman saith to them, 'They passed over the brook of water;' and they seek, and have not found, and turn back to Jerusalem.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8471,
+        "text": "And it cometh to pass, after their going on, that they come up out of the well, and go and declare to king David, and say unto David, 'Rise ye, and pass over hastily the waters, for thus hath Ahithophel counselled against you.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8472,
+        "text": "And David riseth, and all the people who [are] with him, and they pass over the Jordan, till the light of the morning, till one hath not been lacking who hath not passed over the Jordan.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 8473,
+        "text": "And Ahithophel hath seen that his counsel was not done, and he saddleth the ass, and riseth and goeth unto his house, unto his city, and giveth charge unto his household, and strangleth himself, and dieth, and he is buried in the burying-place of his father.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8474,
+        "text": "And David came to Mahanaim, and Absalom passed over the Jordan, he and all the men of Israel with him;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8475,
+        "text": "and Amasa hath Absalom set instead of Joab over the host, and Amasa [is] a man's son whose name is Ithra the Israelite who hath gone in unto Abigail, daughter of Nahash, sister of Zeruiah, mother of Joab;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8476,
+        "text": "and Israel encampeth with Absalom [in] the land of Gilead.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8477,
+        "text": "And it cometh to pass at the coming in of David to Mahanaim, that Shobi, son of Nahash, from Rabbah of the Bene-Ammon, and Machir son of Ammiel, from Lo-Debar, and Barzillai the Gileadite, from Rogelim,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8478,
+        "text": "couch, and basin, and earthen vessel, and wheat, and barley, and flour, and roasted [corn], and beans, and lentiles, and roasted [pulse],",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8479,
+        "text": "and honey, and butter, and sheep, and cheese of kine, have brought nigh for David, and for the people who [are] with him to eat, for they said, 'Thy people [is] hungry, and weary, and thirsty, in the wilderness.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

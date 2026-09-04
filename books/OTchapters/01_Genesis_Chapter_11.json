@@ -1,0 +1,236 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 11,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 268,
+        "text": "And the whole earth is of one pronunciation, and of the same words,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 269,
+        "text": "and it cometh to pass, in their journeying from the east, that they find a valley in the land of Shinar, and dwell there;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 270,
+        "text": "and they say each one to his neighbour, 'Give help, let us make bricks, and burn [them] thoroughly:' and the brick is to them for stone, and the bitumen hath been to them for mortar.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 271,
+        "text": "And they say, 'Give help, let us build for ourselves a city and tower, and its head in the heavens, and make for ourselves a name, lest we be scattered over the face of all the earth.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 272,
+        "text": "And Jehovah cometh down to see the city and the tower which the sons of men have builded;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 273,
+        "text": "and Jehovah saith, 'Lo, the people [is] one, and one pronunciation [is] to them all, and this it hath dreamed of doing; and now, nothing is restrained from them of that which they have purposed to do.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 274,
+        "text": "Give help, let us go down, and mingle there their pronunciation, so that a man doth not understand the pronunciation of his companion.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 275,
+        "text": "And Jehovah doth scatter them from thence over the face of all the earth, and they cease to build the city;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 276,
+        "text": "therefore hath [one] called its name Babel, for there hath Jehovah mingled the pronunciation of all the earth, and from thence hath Jehovah scattered them over the face of all the earth.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 277,
+        "text": "These [are] births of Shem: Shem [is] a son of an hundred years, and begetteth Arphaxad two years after the deluge.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 278,
+        "text": "And Shem liveth after his begetting Arphaxad five hundred years, and begetteth sons and daughters.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 279,
+        "text": "And Arphaxad hath lived five and thirty years, and begetteth Salah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 280,
+        "text": "And Arphaxad liveth after his begetting Salah four hundred and three years, and begetteth sons and daughters.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 281,
+        "text": "And Salah hath lived thirty years, and begetteth Eber.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 282,
+        "text": "And Salah liveth after his begetting Eber four hundred and three years, and begetteth sons and daughters.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 283,
+        "text": "And Eber liveth four and thirty years, and begetteth Peleg.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 284,
+        "text": "And Eber liveth after his begetting Peleg four hundred and thirty years, and begetteth sons and daughters.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 285,
+        "text": "And Peleg liveth thirty years, and begetteth Reu.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 286,
+        "text": "And Peleg liveth after his begetting Reu two hundred and nine years, and begetteth sons and daughters.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 287,
+        "text": "And Reu liveth two and thirty years, and begetteth Serug.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 288,
+        "text": "And Reu liveth after his begetting Serug two hundred and seven years, and begetteth sons and daughters.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 289,
+        "text": "And Serug liveth thirty years, and begetteth Nahor.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 290,
+        "text": "And Serug liveth after his begetting Nahor two hundred years, and begetteth sons and daughters.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 291,
+        "text": "And Nahor liveth nine and twenty years, and begetteth Terah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 292,
+        "text": "And Nahor liveth after his begetting Terah an hundred and nineteen years, and begetteth sons and daughters.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 293,
+        "text": "And Terah liveth seventy years, and begetteth Abram, Nahor, and Haran.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 294,
+        "text": "And these [are] births of Terah: Terah hath begotten Abram, Nahor, and Haran; and Haran hath begotten Lot;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 295,
+        "text": "and Haran dieth in the presence of Terah his father, in the land of his birth, in Ur of the Chaldees.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 296,
+        "text": "And Abram and Nahor take to themselves wives; the name of Abram's wife [is] Sarai, and the name of Nahor's wife [is] Milcah, daughter of Haran, father of Milcah, and father of Iscah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 297,
+        "text": "And Sarai is barren -- she hath no child.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 298,
+        "text": "And Terah taketh Abram his son, and Lot, son of Haran, his son's son, and Sarai his daughter-in-law, wife of Abram his son, and they go out with them from Ur of the Chaldees, to go towards the land of Canaan; and they come unto Charan, and dwell there.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 299,
+        "text": "And the days of Terah are two hundred and five years, and Terah dieth in Charan.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

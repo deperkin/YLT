@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 105,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3170,
+        "text": "And Jehovah speaketh unto Moses, and unto Aaron, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3171,
+        "text": "'Speak unto the sons of Israel, and ye have said unto them, When there is an issue out of the flesh of any man, [for] his issue he [is] unclean;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3172,
+        "text": "and this is his uncleanness in his issue -- his flesh hath run with his issue, or his flesh hath stopped from his issue; it [is] his uncleanness.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3173,
+        "text": "'All the bed on which he lieth who hath the issue is unclean, and all the vessel on which he sitteth is unclean;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3174,
+        "text": "and any one who cometh against his bed doth wash his garments, and hath bathed with water, and been unclean till the evening.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3175,
+        "text": "'And he who is sitting on the vessel on which he sitteth who hath the issue, doth wash his garments, and hath bathed with water, and been unclean till the evening.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3176,
+        "text": "'And he who is coming against the flesh of him who hath the issue, doth wash his garments, and hath bathed with water, and hath been unclean till the evening.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3177,
+        "text": "'And when he who hath the issue spitteth on him who is clean, then he hath washed his garments, and hath bathed with water, and been unclean till the evening.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3178,
+        "text": "'And all the saddle on which he rideth who hath the issue is unclean;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3179,
+        "text": "and any one who is coming against anything which is under him is unclean till the evening, and he who is bearing them doth wash his garments, and hath bathed with water, and been unclean till the evening.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3180,
+        "text": "'And anyone against whom he cometh who hath the issue (and his hands hath not rinsed with water) hath even washed his garments, and bathed with water, and been unclean till the evening.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3181,
+        "text": "'And the earthen vessel which he who hath the issue cometh against is broken; and every wooden vessel is rinsed with water.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3182,
+        "text": "'And when he who hath the issue is clean from his issue, then he hath numbered to himself seven days for his cleansing, and hath washed his garments, and hath bathed his flesh with running water, and been clean.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3183,
+        "text": "'And on the eighth day he taketh to himself two turtle-doves, or two young pigeons, and hath come in before Jehovah unto the opening of the tent of meeting, and hath given them unto the priest;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3184,
+        "text": "and the priest hath made them, one a sin-offering, and the one a burnt-offering; and the priest hath made atonement for him before Jehovah, because of his issue.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3185,
+        "text": "'And when a man's seed of copulation goeth out from him, then he hath bathed with water all his flesh, and been unclean till the evening.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3186,
+        "text": "'And any garment, or any skin on which there is seed of copulation, hath also been washed with water, and been unclean till the evening.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3187,
+        "text": "'And a woman with whom a man lieth with seed of copulation, they also have bathed with water, and been unclean till the evening.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3188,
+        "text": "'And when a woman hath an issue -- blood is her issue in her flesh -- seven days she is in her separation, and any one who is coming against her is unclean till the evening.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 3189,
+        "text": "'And anything on which she lieth in her separation is unclean, and anything on which she sitteth is unclean;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3190,
+        "text": "and any one who is coming against her bed doth wash his garments, and hath bathed with water, and been unclean till the evening.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3191,
+        "text": "'And any one who is coming against any vessel on which she sitteth doth wash his garments, and hath washed with water, and been unclean till the evening.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3192,
+        "text": "'And if it [is] on the bed, or on the vessel on which she is sitting, in his coming against it, he is unclean till the evening.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3193,
+        "text": "'And if a man really lie with her, and her separation is on him, then he hath been unclean seven days, and all the bed on which he lieth is unclean.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3194,
+        "text": "'And when a woman's issue of blood floweth many days within the time of her separation, or when it floweth over her separation -- all the days of the issue of her uncleanness are as the days of her separation; she [is] unclean.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3195,
+        "text": "'All the bed on which she lieth all the days of her issue is as the bed of her separation to her, and all the vessel on which she sitteth is unclean as the uncleanness of her separation;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3196,
+        "text": "and any one who is coming against them is unclean, and hath washed his garments, and hath bathed with water, and been unclean till the evening.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3197,
+        "text": "'And if she hath been clean from her issue, then she hath numbered to herself seven days, and afterwards she is clean;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3198,
+        "text": "and on the eighth day she taketh to herself two turtle-doves, or two young pigeons, and hath brought them in unto the priest, unto the opening of the tent of meeting;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3199,
+        "text": "and the priest hath made the one a sin-offering, and the one a burnt-offering, and the priest hath made atonement for her before Jehovah, because of the issue of her uncleanness.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3200,
+        "text": "'And ye have separated the sons of Israel from their uncleanness, and they die not in their uncleanness, in their defiling My tabernacle which [is] in their midst.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3201,
+        "text": "'This [is] the law of him who hath an issue, and of him whose seed of copulation goeth out from him, for uncleanness thereby,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3202,
+        "text": "and of her who is sick in her separation, and of him who hath an issue, the issue of a male or of a female, and of a man who lieth with an unclean woman.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

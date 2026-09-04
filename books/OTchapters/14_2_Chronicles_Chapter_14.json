@@ -1,0 +1,117 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 381,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11477,
+        "text": "And Abijah lieth with his fathers, and they bury him in the city of David, and reign doth Asa his son in his stead: in his days was the land quiet ten years.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11478,
+        "text": "And Asa doth that which is good, and that which is right, in the eyes of Jehovah his God,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11479,
+        "text": "and turneth aside the altars of the stranger, and the high places, and breaketh the standing-pillars, and cutteth down the shrines,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11480,
+        "text": "and saith to Judah to seek Jehovah, God of their fathers, and to do the law and the command;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11481,
+        "text": "and he turneth aside out of all cities of Judah the high places and the images, and the kingdom is quiet before him.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11482,
+        "text": "And he buildeth cities of bulwarks in Judah, for the land hath quiet, and there is no war with him in these years, because Jehovah hath given rest to him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11483,
+        "text": "And he saith to Judah, 'Let us build these cities, and compass [them] with wall, and towers, two-leaved doors, and bars, while the land [is] before us, because we have sought Jehovah our God, we have sought, and He giveth rest to us round about;' and they build and prosper.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11484,
+        "text": "And there is to Asa a force bearing target and spear, out of Judah three hundred thousand, and out of Benjamin, bearing shield and treading bow, two hundred and eighty thousand: all these [are] mighty of valour.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11485,
+        "text": "And come out unto them doth Zerah the Cushite with a force of a thousand thousand, and chariots three hundred, and he cometh in unto Mareshah,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 11486,
+        "text": "and Asa goeth out before him, and they set battle in array in the valley of Zephathah at Mareshah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11487,
+        "text": "And Asa calleth unto Jehovah his God, and saith, 'Jehovah! it is nothing with Thee to help, between the mighty and those who have no power; help us, O Jehovah, our God, for on Thee we have leant, and in Thy name we have come against this multitude; O Jehovah, our God thou [art]; let him not prevail with Thee -- mortal man!",
+        "WordCount": 63,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11488,
+        "text": "And Jehovah smiteth the Cushim before Asa, and before Judah, and the Cushim flee,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11489,
+        "text": "and Asa and the people who [are] with him pursue them even to Gerar, and there fall of the Cushim, for they have no preserving, because they have been broken before Jehovah, and before His camp; and they bear away very much spoil,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 11490,
+        "text": "and smite all the cities round about Gerar, for a fear of Jehovah hath been upon them, and they spoil all the cities, for abundant spoil hath been in them;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11491,
+        "text": "and also tents of cattle they have smitten, and they capture sheep in abundance, and camels, and turn back to Jerusalem.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 876,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22284,
+        "text": "Turn back, O Israel, unto Jehovah thy God, For thou hast stumbled by thine iniquity.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22285,
+        "text": "Take with you words, and turn to Jehovah, Say ye unto Him: 'Take away all iniquity, and give good, And we do render the fruit of our lips.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22286,
+        "text": "Asshur doth not save us, on a horse we ride not, Nor do we say any more, Our God, to the work of our hands, For in Thee find mercy doth the fatherless.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22287,
+        "text": "I heal their backsliding, I love them freely, For turned back hath Mine anger from him.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22288,
+        "text": "I am as dew to Israel, he flourisheth as a lily, And he striketh forth his roots as Lebanon.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22289,
+        "text": "Go on do his sucklings, And his beauty is as an olive, And he hath fragrance as Lebanon.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22290,
+        "text": "Return do the dwellers under his shadow, They revive [as] corn, and flourish as a vine, His memorial [is] as wine of Lebanon.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22291,
+        "text": "O Ephraim, what to Me any more with idols? I -- I afflicted, and I cause him to sing: 'I [am] as a green fir-tree,' From Me is thy fruit found.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22292,
+        "text": "Who [is] wise, and doth understand these? Prudent, and knoweth them? For upright are the ways of Jehovah, And the righteous go on in them, And the transgressors stumble therein!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

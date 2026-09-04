@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 114,
+    "count": 592,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15824,
+        "text": "In the going out of Israel from Egypt, The house of Jacob from a strange people,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15825,
+        "text": "Judah became His sanctuary, Israel his dominion.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15826,
+        "text": "The sea hath seen, and fleeth, The Jordan turneth backward.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15827,
+        "text": "The mountains have skipped as rams, Heights as sons of a flock.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15828,
+        "text": "What -- to thee, O sea, that thou fleest? O Jordan, thou turnest back!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15829,
+        "text": "O mountains, ye skip as rams! O heights, as sons of a flock!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15830,
+        "text": "From before the Lord be afraid, O earth, From before the God of Jacob,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15831,
+        "text": "He is turning the rock to a pool of waters, The flint to a fountain of waters!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

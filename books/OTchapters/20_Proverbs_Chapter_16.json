@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 644,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16842,
+        "text": "Of man [are] arrangements of the heart, And from Jehovah an answer of the tongue.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16843,
+        "text": "All the ways of a man are pure in his own eyes, And Jehovah is pondering the spirits.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16844,
+        "text": "Roll unto Jehovah thy works, And established are thy purposes,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16845,
+        "text": "All things hath Jehovah wrought for Himself, And also the wicked [worketh] for a day of evil.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16846,
+        "text": "An abomination to Jehovah [is] every proud one of heart, Hand to hand he is not acquitted.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16847,
+        "text": "In kindness and truth pardoned is iniquity, And in the fear of Jehovah Turn thou aside from evil.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16848,
+        "text": "When a man's ways please Jehovah, even his enemies, He causeth to be at peace with him.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16849,
+        "text": "Better [is] a little with righteousness, Than abundance of increase without justice.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16850,
+        "text": "The heart of man deviseth his way, And Jehovah establisheth his step.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16851,
+        "text": "An oath [is] on the lips of a king, In judgment his mouth trespasseth not.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16852,
+        "text": "A just beam and balances [are] Jehovah's, His work [are] all the stones of the bag.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16853,
+        "text": "An abomination to kings [is] doing wickedness, For by righteousness is a throne established.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16854,
+        "text": "The delight of kings [are] righteous lips, And whoso is speaking uprightly he loveth,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16855,
+        "text": "The fury of a king [is] messengers of death, And a wise man pacifieth it.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16856,
+        "text": "In the light of a king's face [is] life, And his good-will [is] as a cloud of the latter rain.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16857,
+        "text": "To get wisdom -- how much better than gold, And to get understanding to be chosen than silver!",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16858,
+        "text": "A highway of the upright [is], 'Turn from evil,' Whoso is preserving his soul is watching his way.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16859,
+        "text": "Before destruction [is] pride, And before stumbling -- a haughty spirit.'",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16860,
+        "text": "Better is humility of spirit with the poor, Than to apportion spoil with the proud.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16861,
+        "text": "The wise in any matter findeth good, And whoso is trusting in Jehovah, O his happiness.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16862,
+        "text": "To the wise in heart is called, 'Intelligent,' And sweetness of lips increaseth learning.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16863,
+        "text": "A fountain of life [is] understanding to its possessors, The instruction of fools is folly.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16864,
+        "text": "The heart of the wise causeth his mouth to act wisely, And by his lips he increaseth learning,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16865,
+        "text": "Sayings of pleasantness [are] a honeycomb, Sweet to the soul, and healing to the bone.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16866,
+        "text": "There is a way right before a man, And its latter end -- ways of death.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16867,
+        "text": "A labouring man hath laboured for himself, For his mouth hath caused [him] to bend over it.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16868,
+        "text": "A worthless man is preparing evil, And on his lips -- as a burning fire.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16869,
+        "text": "A froward man sendeth forth contention, A tale-bearer is separating a familiar friend.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 16870,
+        "text": "A violent man enticeth his neighbour, And hath causeth him to go in a way not good.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 16871,
+        "text": "Consulting his eyes to devise froward things, Moving his lips he hath accomplished evil.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 16872,
+        "text": "A crown of beauty [are] grey hairs, In the way of righteousness it is found.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 16873,
+        "text": "Better [is] the slow to anger than the mighty, And the ruler over his spirit than he who is taking a city.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 16874,
+        "text": "Into the centre is the lot cast, And from Jehovah [is] all its judgment!",
+        "WordCount": 14,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

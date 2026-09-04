@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 23,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 573,
+        "text": "And the life of Sarah is a hundred and twenty and seven years -- years of the life of Sarah;",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 574,
+        "text": "and Sarah dieth in Kirjath-Arba, which [is] Hebron, in the land of Caanan, and Abraham goeth in to mourn for Sarah, and to bewail her.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 575,
+        "text": "And Abraham riseth up from the presence of his dead, and speaketh unto the sons of Heth, saying,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 576,
+        "text": "'A sojourner and a settler I [am] with you; give to me a possession of a burying-place with you, and I bury my dead from before me.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 577,
+        "text": "And the sons of Heth answer Abraham, saying to him,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 578,
+        "text": "'Hear us, my lord; a prince of God [art] thou in our midst; in the choice of our burying-places bury thy dead: none of us his burying-place doth withhold from thee, from burying thy dead.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 579,
+        "text": "And Abraham riseth and boweth himself to the people of the land, to the sons of Heth,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 580,
+        "text": "and he speaketh with them, saying, 'If it is your desire to bury my dead from before me, hear me, and meet for me with Ephron, son of Zoar;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 581,
+        "text": "and he giveth to me the cave of Machpelah, which he hath, which [is] in the extremity of his field; for full money doth he give it to me, in your midst, for a possession of a burying-place.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 582,
+        "text": "And Ephron is sitting in the midst of the sons of Heth, and Ephron the Hittite answereth Abraham in the ears of the sons of Heth, of all those entering the gate of his city, saying,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 583,
+        "text": "'Nay, my lord, hear me: the field I have given to thee, and the cave that [is] in it, to thee I have given it; before the eyes of the sons of my people I have given it to thee -- bury thy dead.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 584,
+        "text": "And Abraham boweth himself before the people of the land,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 585,
+        "text": "and speaketh unto Ephron in the ears of the people of the land, saying, 'Only -- if thou wouldest hear me -- I have given the money of the field -- accept from me, and I bury my dead there.'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 586,
+        "text": "And Ephron answereth Abraham, saying to him,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 587,
+        "text": "'My lord, hear me: the land -- four hundred shekels of silver; between me and thee, what [is] it? -- thy dead bury.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 588,
+        "text": "And Abraham hearkeneth unto Ephron, and Abraham weigheth to Ephron the silver which he hath spoken of in the ears of the sons of Heth, four hundred silver shekels, passing with the merchant.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 589,
+        "text": "And established are the field of Ephron, which [is] in Machpelah, which [is] before Mamre, the field and the cave which [is] in it, and all the trees which [are] in the field, which [are] in all its border round about,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 590,
+        "text": "to Abraham by purchase, before the eyes of the sons of Heth, among all entering the gate of his city.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 591,
+        "text": "And after this hath Abraham buried Sarah his wife at the cave of the field of Machpelah before Mamre (which [is] Hebron), in the land of Canaan;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 592,
+        "text": "and established are the field, and the cave which [is] in it, to Abraham for a possession of a burying-place, from the sons of Heth.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 389,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11646,
+        "text": "And the inhabitants of Jerusalem cause Ahaziah his youngest son to reign in his stead, (for all the elder had the troop slain that came in with the Arabians to the camp,) and Ahaziah son of Jehoram king of Judah reigneth.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11647,
+        "text": "A son of twenty and two years [is] Ahaziah in his reigning, and one year he hath reigned in Jerusalem, and the name of his mother [is] Athaliah daughter of Omri;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11648,
+        "text": "he also hath walked in the ways of the house of Ahab, for his mother hath been his counsellor to do wickedly.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11649,
+        "text": "And he doth the evil thing in the eyes of Jehovah, like the house of Ahab, for they have been his counsellors, after the death of his father, for destruction to him.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11650,
+        "text": "Also, in their counsel he hath walked, and goeth with Jehoram son of Ahab king of Israel to battle against Hazael king of Aram, in Ramoth-Gilead, and they of Ramah smite Joram;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11651,
+        "text": "and he turneth back to be healed in Jezreel because of the wounds with which they had smitten him in Ramah, in his fighting with Hazael king of Aram. And Azariah son of Jehoram king of Judah hath gone down to see Jehoram son of Ahab, in Jezreel, for he [is] sick;",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11652,
+        "text": "and from God hath been the destruction of Ahaziah, to come unto Joram: and in his coming he hath gone out with Jehoram unto Jehu son of Nimshi, whom Jehovah anointed to cut off the house of Ahab.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11653,
+        "text": "And it cometh to pass, in Jehu's executing judgment with the house of Ahab, that he findeth the heads of Judah and sons of the brethren of Ahaziah, ministers of Ahaziah, and slayeth them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11654,
+        "text": "And he seeketh Ahaziah, and they capture him, (and he is hiding himself in Samaria), and bring him in unto Jehu, and put him to death, and bury him, for they said, 'He [is] son of Jehoshaphat, who sought Jehovah with all his heart;' and there is none to the house of Ahaziah to retain power for the kingdom.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11655,
+        "text": "And Athaliah mother of Ahaziah hath seen that her son is dead, and she riseth and destroyeth the whole seed of the kingdom of the house of Judah.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 11656,
+        "text": "And Jehoshabeath daughter of the king taketh Joash son of Ahaziah, and stealeth him from the midst of the sons of the king who are put to death, and putteth him and his nurse into the inner part of the bed-chambers, and Jehoshabeath daughter of king Jehoram, wife of Jehoiada the priest, because she hath been sister of Ahaziah, hideth him from the face of Athaliah, and she hath not put him to death.",
+        "WordCount": 74,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11657,
+        "text": "And he is with them in the house of God hiding himself six years, and Athaliah is reigning over the land.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

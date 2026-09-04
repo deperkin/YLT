@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 341,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10363,
+        "text": "And these were sons of David, who were born to him in Hebron: the first-born Amnon, of Ahinoam the Jezreelitess; second Daniel, of Abigail the Carmelitess;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10364,
+        "text": "the third Absalom, son of Maachah daughter of Talmai king of Geshur; the fourth Adonijah, son of Haggith;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10365,
+        "text": "the fifth Shephatiah, of Abital; the sixth Ithream, of Eglah his wife.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10366,
+        "text": "Six have been borne to him in Hebron, and he reigneth there seven years and six months, and thirty and three years he hath reigned in Jerusalem.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10367,
+        "text": "And these were born to him in Jerusalem: Shimea, and Shobab, and Nathan, and Solomon -- four, of Bath-Sheba daughter of Ammiel:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10368,
+        "text": "also Ibhar, and Elishama, and Eliphelet,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10369,
+        "text": "and Nogah, and Nepheg, and Japhia,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10370,
+        "text": "and Elishama, and Eliada, and Eliphelet, nine.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10371,
+        "text": "All [are] sons of David, apart from sons of the concubines, and Tamar their sister.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10372,
+        "text": "And the son of Solomon [is] Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 10373,
+        "text": "Joram his son, Ahaziah his son, Joash his son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10374,
+        "text": "Amaziah his son, Azariah his son, Jotham his son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10375,
+        "text": "Ahaz his son, Hezekiah his son, Manasseh his son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10376,
+        "text": "Amon his son, Josiah his son.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10377,
+        "text": "And sons of Josiah: the first-born Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10378,
+        "text": "And sons of Jehoiakim: Jeconiah his son, Zedekiah his son.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10379,
+        "text": "And sons of Jeconiah: Assir; Salathiel his son;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10380,
+        "text": "also Malchiram and Pedaiah, and Shenazzar, Jecamiah, Hoshama, and Nedabiah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10381,
+        "text": "And sons of Pedaiah: Zerubbabel, and Shimei. And sons of Zerubbabel: Meshullam, and Hananiah, and Shelomith their sister,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10382,
+        "text": "and Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-Hesed, five.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10383,
+        "text": "And sons of Hananiah: Pelatiah, and Jesaiah, sons of Rephaiah, sons of Arnan, sons of Obadiah, sons of Shechaniah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10384,
+        "text": "And sons of Shechaniah: Shemaiah; and sons of Shemaiah: Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10385,
+        "text": "And sons of Neariah: Elioenai, and Hezekiah, and Azrikam, three.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10386,
+        "text": "And sons of Elioenai: Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Delaiah, and Anani, seven.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

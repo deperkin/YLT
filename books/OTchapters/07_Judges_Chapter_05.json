@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 7,"name": "Judges","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 216,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6625,
+        "text": "And Deborah singeth -- also Barak son of Abinoam -- on that day, saying: --",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6626,
+        "text": "'For freeing freemen in Israel, For a people willingly offering themselves Bless ye Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6627,
+        "text": "Hear, ye kings; give ear, ye princes, I, to Jehovah, I -- I do sing, I sing praise to Jehovah, God of Israel.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6628,
+        "text": "Jehovah, in Thy going forth out of Seir, In Thy stepping out of the field of Edom, Earth trembled, also the heavens dropped, Also thick clouds dropped water.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6629,
+        "text": "Hills flowed from the face of Jehovah, This one -- Sinai -- From the face of Jehovah, God of Israel.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6630,
+        "text": "In the days of Shamgar son of Anath -- In the days of Jael -- The ways have ceased, And those going in the paths go [in] crooked ways.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 6631,
+        "text": "Villages ceased in Israel -- they ceased, Till that I arose -- Deborah, That I arose, a mother in Israel.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 6632,
+        "text": "He chooseth new gods, Then war [is] at the gates! A shield is not seen -- and a spear Among forty thousand in Israel.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6633,
+        "text": "My heart [is] to the lawgivers of Israel, Who are offering themselves willingly among the people, Bless ye Jehovah!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6634,
+        "text": "Riders on white asses -- Sitters on a long robe -- And walkers by the way -- meditate!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6635,
+        "text": "By the voice of shouters Between the places of drawing water, There they give out righteous acts of Jehovah, Righteous acts of His villages in Israel, Then ruled in the gates have the people of Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6636,
+        "text": "Awake, awake, Deborah; Awake, awake, utter a song; Rise, Barak, and take captive thy captivity, Son of Abinoam.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 6637,
+        "text": "Then him who is left of the honourable ones He caused to rule the people of Jehovah, He caused me to rule among the mighty.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6638,
+        "text": "Out of Ephraim their root [is] against Amalek. After thee, Benjamin, among thy peoples. Out of Machir came down lawgivers, And out of Zebulun those drawing with the reed of a writer.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6639,
+        "text": "And princes in Issachar [are] with Deborah, Yea, Issachar [is] right with Barak, Into the valley he was sent on his feet. In the divisions of Reuben, Great [are] the decrees of heart!",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6640,
+        "text": "Why hast thou abode between the boundaries, To hear lowings of herds? For the divisions of Reuben, Great [are] the searchings of heart!",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6641,
+        "text": "Gilead beyond the Jordan did tabernacle, And Dan -- why doth he sojourn [in] ships? Asher hath abode at the haven of the seas, And by his creeks doth tabernacle.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6642,
+        "text": "Zebulun [is] a people who exposed its soul to death, Naphtali also -- on high places of the field.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6643,
+        "text": "Kings came -- they fought; Then fought kings of Canaan, In Taanach, by the waters of Megiddo; Gain of money they took not!",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6644,
+        "text": "From the heavens they fought: The stars from their highways fought with Sisera.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6645,
+        "text": "The brook Kishon swept them away, The brook most ancient -- the brook Kishon. Thou dost tread down strength, O my soul!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6646,
+        "text": "Then broken were the horse-heels, By pransings -- pransings of its mighty ones.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6647,
+        "text": "Curse Meroz -- said a messenger of Jehovah, Cursing, curse ye its inhabitants, For they came not to the help of Jehovah, To the help of Jehovah among the mighty!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6648,
+        "text": "Blessed above women is Jael, Wife of Heber the Kenite, Above women in the tent she is blessed.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 6649,
+        "text": "Water he asked -- milk she gave; In a lordly dish she brought near butter.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6650,
+        "text": "Her hand to the pin she sendeth forth, And her right hand to the labourers' hammer, And she hammered Sisera -- she smote his head, Yea, she smote, and it passed through his temple.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6651,
+        "text": "Between her feet he bowed -- He fell, he lay down; Between her feet he bowed, he fell; Where he bowed, there he fell -- destroyed.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6652,
+        "text": "Through the window she hath looked out -- Yea, she crieth out -- the mother of Sisera, Through the lattice: Wherefore is his chariot delaying to come? Wherefore tarried have the steps of his chariot?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6653,
+        "text": "The wise ones, her princesses, answer her, Yea, she returneth her sayings to herself:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6654,
+        "text": "Do they not find? -- they apportion spoil, A female -- two females -- for every head, Spoil of finger-work for Sisera, Spoil of embroidered finger-work, Finger-work -- a pair of embroidered things, For the necks of the spoil!",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6655,
+        "text": "So do all Thine enemies perish, O Jehovah, And those loving Him [are] As the going out of the sun in its might!' and the land resteth forty years.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 45,
+    "count": 45,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1360,
+        "text": "And Joseph hath not been able to refrain himself before all those standing by him, and he calleth, 'Put out every man from me;' and no man hath stood with him when Joseph maketh himself known unto his brethren,",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1361,
+        "text": "and he giveth forth his voice in weeping, and the Egyptians hear, and the house of Pharaoh heareth.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1362,
+        "text": "And Joseph saith unto his brethren, 'I [am] Joseph, is my father yet alive?' and his brethren have not been able to answer him, for they have been troubled at his presence.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1363,
+        "text": "And Joseph saith unto his brethren, 'Come nigh unto me, I pray you,' and they come nigh; and he saith, 'I [am] Joseph, your brother, whom ye sold into Egypt;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1364,
+        "text": "and now, be not grieved, nor let it be displeasing in your eyes that ye sold me hither, for to preserve life hath God sent me before you.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1365,
+        "text": "'Because these two years the famine [is] in the heart of the land, and yet [are] five years, [in] which there is neither ploughing nor harvest;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1366,
+        "text": "and God sendeth me before you, to place of you a remnant in the land, and to give life to you by a great escape;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1367,
+        "text": "and now, ye -- ye have not sent me hither, but God, and He doth set me for a father to Pharaoh, and for lord to all his house, and ruler over all the land of Egypt.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1368,
+        "text": "'Haste, and go up unto my father, then ye have said to him, Thus said Joseph thy son, God hath set me for lord to all Egypt; come down unto me, stay not,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1369,
+        "text": "and thou hast dwelt in the land of Goshen, and been near unto me, thou and thy sons, and thy son's sons, and thy flock, and thy herd, and all that thou hast,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1370,
+        "text": "and I have nourished thee there -- for yet [are] five years of famine -- lest thou become poor, thou and thy household, and all that thou hast.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1371,
+        "text": "'And lo, your eyes are seeing, and the eyes of my brother Benjamin, that [it is] my mouth which is speaking unto you;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1372,
+        "text": "and ye have declared to my father all my honour in Egypt, and all that ye have seen, and ye have hasted, and have brought down my father hither.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1373,
+        "text": "And he falleth on the neck of Benjamin his brother, and weepeth, and Benjamin hath wept on his neck;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1374,
+        "text": "and he kisseth all his brethren, and weepeth over them; and afterwards have his brethren spoken with him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1375,
+        "text": "And the sound hath been heard in the house of Pharaoh, saying, 'Come have the brethren of Joseph;' and it is good in the eyes of Pharaoh, and in the eyes of his servants,",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 1376,
+        "text": "and Pharaoh saith unto Joseph, 'Say unto thy brethren, This do ye: lade your beasts, and go, enter ye the land of Canaan,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1377,
+        "text": "and take your father, and your households, and come unto me, and I give to you the good of the land of Egypt, and eat ye the fat of the land.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1378,
+        "text": "'Yea, thou -- thou hast been commanded: this do ye, take for yourselves out of the land of Egypt, waggons for your infants, and for your wives, and ye have brought your father, and come;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1379,
+        "text": "and your eye hath no pity on your vessels, for the good of all the land of Egypt [is] yours.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1380,
+        "text": "And the sons of Israel do so, and Joseph giveth waggons to them by the command of Pharaoh, and he giveth to them provision for the way;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1381,
+        "text": "to all of them hath he given -- to each changes of garments, and to Benjamin he hath given three hundred silverlings, and five changes of garments;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1382,
+        "text": "and to his father he hath sent thus: ten asses bearing of the good things of Egypt, and ten she-asses bearing corn and bread, even food for his father for the way.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1383,
+        "text": "And he sendeth his brethren away, and they go; and he saith unto them, 'Be not angry in the way.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1384,
+        "text": "And they go up out of Egypt, and come in to the land of Canaan, unto Jacob their father,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 1385,
+        "text": "and they declare to him, saying, 'Joseph [is] yet alive,' and that he [is] ruler over all the land of Egypt; and his heart ceaseth, for he hath not given credence to them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1386,
+        "text": "And they speak unto him all the words of Joseph, which he hath spoken unto them, and he seeth the waggons which Joseph hath sent to bear him away, and live doth the spirit of Jacob their father;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1387,
+        "text": "and Israel saith, 'Enough! Joseph my son [is] yet alive; I go and see him before I die.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

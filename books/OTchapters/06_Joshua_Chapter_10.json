@@ -1,0 +1,313 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 197,
+    "MaxVerses": 43,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6066,
+        "text": "And it cometh to pass, when Adoni-Zedek king of Jerusalem heareth that Joshua hath captured Ai, and doth devote it (as he had done to Jericho and to her king so he hath done to Ai and to her king), and that the inhabitants of Gibeon have made peace with Israel, and are in their midst, --",
+        "WordCount": 57,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6067,
+        "text": "that they are greatly afraid, because Gibeon [is] a great city, as one of the royal cities, and because it [is] greater than Ai, and all its men -- heroes.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6068,
+        "text": "And Adoni-Zedek king of Jerusalem sendeth unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6069,
+        "text": "'Come up unto me, and help me, and we smite Gibeon, for it hath made peace with Joshua, and with the sons of Israel.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6070,
+        "text": "And five kings of the Amorite (the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon) are gathered together, and go up, they and all their camps, and encamp against Gibeon, and fight against it.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6071,
+        "text": "And the men of Gibeon send unto Joshua, unto the camp at Gilgal, saying, 'Let not thy hand cease from thy servants; come up unto us [with] haste, and give safety to us, and help us; for all the kings of the Amorite, dwelling in the hill-country, have been assembled against us.'",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6072,
+        "text": "And Joshua goeth up from Gilgal, he, and all the people of war with him, even all the mighty men of valour.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 6073,
+        "text": "And Jehovah saith unto Joshua, 'Be not afraid of them, for into thy hand I have given them, there doth not stand a man of them in thy presence.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6074,
+        "text": "And Joshua cometh in unto them suddenly (all the night he hath gone up from Gilgal),",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6075,
+        "text": "and Jehovah doth crush them before Israel, and it smiteth them -- a great smiting -- at Gibeon, and pursueth them the way of the ascent of Beth-Horon, and smiteth them unto Azekah, and unto Makkedah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6076,
+        "text": "And it cometh to pass, in their fleeing from the face of Israel -- they [are] in the descent of Beth-Horon -- and Jehovah hath cast upon them great stones out of the heavens, unto Azekah, and they die; more are they who have died by the hailstones than they whom the sons of Israel have slain by the sword.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6077,
+        "text": "Then speaketh Joshua to Jehovah in the day of Jehovah's giving up the Amorites before the sons of Israel, and he saith, before the eyes of Israel, 'Sun -- in Gibeon stand still; and moon -- in the valley of Ajalon;'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6078,
+        "text": "and the sun standeth still, and the moon hath stood -- till the nation taketh vengeance [on] its enemies; is it not written on the Book of the Upright, 'and the sun standeth in the midst of the heavens, and hath not hasted to go in -- as a perfect day?'",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6079,
+        "text": "And there hath not been like that day before it or after it, for Jehovah's hearkening to the voice of a man; for Jehovah is fighting for Israel.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6080,
+        "text": "And Joshua turneth back, and all Israel with him, unto the camp at Gilgal.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 6081,
+        "text": "And these five kings flee, and are hidden in a cave at Makkedah,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6082,
+        "text": "and it is declared to Joshua, saying, 'The five kings have been found hidden in a cave at Makkedah.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6083,
+        "text": "And Joshua saith, 'Roll great stones unto the mouth of the cave, and appoint over it men to watch them;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6084,
+        "text": "and ye, stand not, pursue after your enemies, and ye have smitten the hindmost of them; suffer them not to go in unto their cities, for Jehovah your God hath given them into your hand.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6085,
+        "text": "And it cometh to pass, when Joshua and the sons of Israel finish to smite them -- a very great smiting, till they are consumed, and the remnant who have remained of them go in unto the fenced cities,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6086,
+        "text": "that all the people turn back to the camp, unto Joshua, [at] Makkedah, in peace; none moved sharply his tongue against the sons of Israel.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6087,
+        "text": "And Joshua saith, 'Open ye the mouth of the cave, and bring out unto me these five kings from the cave;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6088,
+        "text": "and they do so, and bring out unto him these five kings from the cave: the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6089,
+        "text": "And it cometh to pass, when they bring out these kings unto Joshua, that Joshua calleth unto every man of Israel, and saith unto the captains of the men of war, who have gone with him, 'Draw near, set your feet on the necks of these kings;' and they draw near, and set their feet on their necks.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 6090,
+        "text": "And Joshua saith unto them, 'Fear not, nor be affrighted; be strong and courageous; for thus doth Jehovah do to all your enemies with whom ye are fighting;'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 6091,
+        "text": "and Joshua smiteth them afterwards, and putteth them to death, and hangeth them on five trees; and they are hanging on the trees till the evening.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6092,
+        "text": "And it cometh to pass, at the time of the going in of the sun, Joshua hath commanded, and they take them down from off the trees, and cast them unto the cave where they had been hid, and put great stones on the mouth of the cave till this very day.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6093,
+        "text": "And Makkedah hath Joshua captured on that day, and he smiteth it by the mouth of the sword, and its king he hath devoted, them and every person who [is] in it -- he hath not left a remnant; and he doth to the king of Makkedah as he did to the king of Jericho.",
+        "WordCount": 55,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 6094,
+        "text": "And Joshua passeth over, and all Israel with him, from Makkedah [to] Libnah, and fighteth with Libnah;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6095,
+        "text": "and Jehovah giveth also it into the hand of Israel, and its king, and it smiteth it by the mouth of the sword, and every person who [is] in it -- it left not in it a remnant; and it doth to its king as it did to the king of Jericho.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6096,
+        "text": "And Joshua passeth over, and all Israel with him, from Libnah to Lachish, and encampeth against it, and fighteth against it;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6097,
+        "text": "And Jehovah giveth Lachish into the hand of Israel, and it captureth it on the second day, and smiteth it by the mouth of the sword, and every person who [is] in it, according to all that it did to Libnah.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 6098,
+        "text": "Than hath Horam king of Gezer come up to help Lachish, and Joshua smiteth him and his people, till he hath not left to him a remnant.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 6099,
+        "text": "And Joshua passeth over, and all Israel with him, from Lachish to Eglon, and they encamp against it, and fight against it,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 6100,
+        "text": "and capture it on that day, and smite it by the mouth of the sword, and every person who [is] in it on that day he hath devoted, according to all that he did to Lachish.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 6101,
+        "text": "And Joshua goeth up, and all Israel with him, from Eglon to Hebron, and they fight against it,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 6102,
+        "text": "and capture it, and smite it by the mouth of the sword, and its king, and all its cities, and every person who [is] in it -- he hath not left a remnant -- according to all that he did to Eglon -- and doth devote it, and every person who [is] in it.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 6103,
+        "text": "And Joshua turneth back, and all Israel with him, to Debir, and fighteth against it,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 6104,
+        "text": "and captureth it, and its king, and all its cities, and they smite them by the mouth of the sword, and devote every person who [is] in it -- he hath not left a remnant; as he did to Hebron so he did to Debir, and to its king, and as he did to Libnah, and to its king.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 6105,
+        "text": "And Joshua smiteth all the land of the hill-country, and of the south, and of the low-country, and of the springs, and all their kings -- he hath not left a remnant, and all that doth breathe he hath devoted, as Jehovah, God of Israel, commanded.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 6106,
+        "text": "And Joshua smiteth them from Kadesh-Barnea, even unto Gaza, and all the land of Goshen, even unto Gibeon;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 6107,
+        "text": "and all these kings and their land hath Joshua captured [at] one time, for Jehovah, God of Israel, is fighting for Israel.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 6108,
+        "text": "and Joshua turneth back, and all Israel with him, unto the camp at Gilgal.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

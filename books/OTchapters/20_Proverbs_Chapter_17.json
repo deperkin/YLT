@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 645,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16875,
+        "text": "Better [is] a dry morsel, and rest with it, Than a house full of the sacrifices of strife.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16876,
+        "text": "A wise servant ruleth over a son causing shame, And in the midst of brethren He apportioneth an inheritance.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16877,
+        "text": "A refining pot [is] for silver, and a furnace for gold, And the trier of hearts [is] Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16878,
+        "text": "An evil doer is attentive to lips of vanity, Falsehood is giving ear to a mischievous tongue.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16879,
+        "text": "Whoso is mocking at the poor Hath reproached his Maker, Whoso is rejoicing at calamity is not acquitted.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16880,
+        "text": "Sons' sons [are] the crown of old men, And the glory of sons [are] their fathers.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16881,
+        "text": "Not comely for a fool is a lip of excellency, Much less for a noble a lip of falsehood.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16882,
+        "text": "A stone of grace [is] the bribe in the eyes of its possessors, Whithersoever it turneth, it prospereth.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16883,
+        "text": "Whoso is covering transgression is seeking love, And whoso is repeating a matter Is separating a familiar friend.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16884,
+        "text": "Rebuke cometh down on the intelligent More than a hundred stripes on a fool.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16885,
+        "text": "An evil man seeketh only rebellion, And a fierce messenger is sent against him.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16886,
+        "text": "The meeting of a bereaved bear by a man, And -- not a fool in his folly.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16887,
+        "text": "Whoso is returning evil for good, Evil moveth not from his house.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16888,
+        "text": "The beginning of contention [is] a letting out of waters, And before it is meddled with leave the strife.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16889,
+        "text": "Whoso is justifying the wicked, And condemning the righteous, Even both of these [are] an abomination to Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16890,
+        "text": "Why [is] this -- a price in the hand of a fool to buy wisdom, And a heart there is none?",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16891,
+        "text": "At all times is the friend loving, And a brother for adversity is born.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16892,
+        "text": "A man lacking heart is striking hands, A surety he becometh before his friend.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16893,
+        "text": "Whoso is loving transgression is loving debate, Whoso is making high his entrance is seeking destruction.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16894,
+        "text": "The perverse of heart findeth not good, And the turned in his tongue falleth into evil.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16895,
+        "text": "Whoso is begetting a fool hath affliction for it, Yea, the father of a fool rejoiceth not.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16896,
+        "text": "A rejoicing heart doth good to the body, And a smitten spirit drieth the bone.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16897,
+        "text": "A bribe from the bosom the wicked taketh, To turn aside the paths of judgment.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16898,
+        "text": "The face of the intelligent [is] to wisdom, And the eyes of a fool -- at the end of the earth.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16899,
+        "text": "A provocation to his father [is] a foolish son, And bitterness to her that bare him.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16900,
+        "text": "Also, to fine the righteous is not good, To smite nobles for uprightness.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16901,
+        "text": "One acquainted with knowledge is sparing his words, And the cool of temper [is] a man of understanding.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16902,
+        "text": "Even a fool keeping silence is reckoned wise, He who is shutting his lips intelligent!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

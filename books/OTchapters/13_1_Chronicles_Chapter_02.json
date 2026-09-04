@@ -1,0 +1,397 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 340,
+    "MaxVerses": 55,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10308,
+        "text": "These [are] sons of Israel: Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10309,
+        "text": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10310,
+        "text": "Sons of Judah: Er, and Onan, and Shelah, three have been born to him of a daughter of Shua the Canaanitess. And Er, first-born of Judah, is evil in the eyes of Jehovah, and He putteth him to death.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10311,
+        "text": "And Tamar his daughter-in-law hath borne to him Pharez and Zerah. All the sons of Judah [are] five.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10312,
+        "text": "Sons of Pharez: Hezron, and Hamul.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10313,
+        "text": "And sons of Zerah: Zimri, and Ethan, and Heman, and Calcol, and Dara; all of them five.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10314,
+        "text": "And sons of Carmi: Achar, troubler of Israel, who trespassed in the devoted thing.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10315,
+        "text": "And sons of Ethan: Azariah.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10316,
+        "text": "And sons of Hezron who were born to him; Jerahmeel, and Ram, and Chelubai.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10317,
+        "text": "And Ram begat Amminadab, and Amminadab begat Nahshon, prince of the sons of Judah;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10318,
+        "text": "and Nahshon begat Salma, and Salma begat Boaz,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10319,
+        "text": "and Boaz begat Obed, and Obed begat Jesse;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10320,
+        "text": "and Jesse begat his first-born Eliab, and Abinadab the second, and Shimea the third,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10321,
+        "text": "Nethaneel the fourth, Raddai the fifth,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10322,
+        "text": "Ozem the sixth, David the seventh,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10323,
+        "text": "and their sisters Zeruiah and Abigail. And sons of Zeruiah: Abishai, and Joab, and Asah-El -- three.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10324,
+        "text": "And Abigail hath borne Amasa, and the father of Amasa [is] Jether the Ishmeelite.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10325,
+        "text": "And Caleb son of Hezron hath begotten Azubah, Isshah, and Jerioth; and these [are] her sons: Jesher, and Shobab, and Ardon.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 10326,
+        "text": "And Azubah dieth, and Caleb taketh to him Ephrath, and she beareth to him Hur.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10327,
+        "text": "And Hur begat Uri, and Uri begat Bezaleel.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10328,
+        "text": "And afterwards hath Hezron gone in unto a daughter of Machir father of Gilead, and he hath taken her, and he [is] a son of sixty years, and she beareth to him Segub.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10329,
+        "text": "And Segub begat Jair, and he hath twenty and three cities in the land of Gilead,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10330,
+        "text": "and he taketh Geshur and Aram, the small villages of Jair, from them, with Kenath and its small towns, sixty cities -- all these [belonged to] the sons of Machir father of Gilead.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10331,
+        "text": "And after the death of Hezron in Caleb-Ephratah, then the wife of Hezron, Abijah, even beareth to him Asshur, father of Tekoa.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10332,
+        "text": "And sons of Jerahmeel, first-born of Hezron, are: the first-born Ram, and Bunah, and Oren, and Ozem, Ahijah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10333,
+        "text": "And Jerahmeel hath another wife, and her name [is] Atarah, she [is] mother of Onam.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10334,
+        "text": "And sons of Ram, first-born of Jerahmeel, are Maaz, and Jamin, and Eker.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10335,
+        "text": "And sons of Onam are Shammai and Jada. And sons of Shammai: Nadab and Abishur.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10336,
+        "text": "And the name of the wife of Abishur [is] Abihail, and she beareth to him Ahban and Molid.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10337,
+        "text": "And sons of Nadab: Seled, and Appaim; and Seled dieth without sons.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10338,
+        "text": "And sons of Appaim: Ishi. And sons of Ishi: Sheshan. And sons of Sheshan: Ahlai.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10339,
+        "text": "And sons of Jada, brother of Shammai: Jether, and Jonathan: and Jether dieth without sons.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10340,
+        "text": "And sons of Jonathan: Peleth, and Zaza. These were sons of Jerahmeel.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10341,
+        "text": "And Sheshan had no sons, but daughters, and Sheshan hath a servant, an Egyptian, and his name [is] Jarha,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10342,
+        "text": "and Sheshan giveth his daughter to Jarha his servant for a wife, and she beareth to him Attai;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10343,
+        "text": "and Attai begat Nathan, and Nathan begat Zabad,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10344,
+        "text": "and Zabad begat Ephlal, and Ephlal begat Obed,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 10345,
+        "text": "and Obed begat Jehu,",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10346,
+        "text": "and Jehu begat Azariah, and Azariah begat Helez, and Helez begat Eleasah,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10347,
+        "text": "and Eleasah begat Sismai, and Sismai begat Shallum,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 10348,
+        "text": "and Shallum begat Jekamiah, and Jekamiah begat Elishama.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 10349,
+        "text": "And sons of Caleb brother of Jerahmeel: Mesha his first-born, he [is] father of Ziph; and sons of Mareshah: Abi-Hebron.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 10350,
+        "text": "And sons of Hebron: Korah, and Tappuah, and Rekem, and Shema.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 10351,
+        "text": "And Shema begat Raham father of Jorkoam, and Rekem begat Shammai.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 10352,
+        "text": "And a son of Shammai [is] Maon, and Maon [is] father of Beth-Zur.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 10353,
+        "text": "And Ephah concubine of Caleb bare Haran, and Moza, and Gazez; and Haran begat Gazez.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 10354,
+        "text": "And sons of Jahdai: Regem, and Jotham, and Geshem, and Pelet, and Ephah, and Shaaph.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 10355,
+        "text": "The concubine of Caleb, Maachah, bare Sheber and Tirhanah;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 10356,
+        "text": "and she beareth Shaaph father of Madmannah, Sheva father of Machbenah, and father of Gibea; and a daughter of Caleb [is] Achsa.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 10357,
+        "text": "These were sons of Caleb son of Hur, first-born of Ephrathah: Shobal father of Kirjath-Jearim,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 10358,
+        "text": "Salma father of Beth-Lehem, Hareph father of Beth-Gader.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 10359,
+        "text": "And there are sons to Shobal father of Kirjath-Jearim: Haroeh, half of the Menuhothite;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 10360,
+        "text": "and the families of Kirjath-Jearim: the Ithrite, and the Puhite, and the Shumathite, and the Mishraite: from these went out the Zareathite, and the Eshtaulite.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 10361,
+        "text": "Sons of Salma: Beth-Lehem, and the Netophathite, Atroth, Beth-Joab, and half of the Menuhothite, the Zorite;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 10362,
+        "text": "and the families of the scribes the inhabitants of Jabez: Tirathites, Shimeathites, Suchathites. They [are] the Kenites, those coming of Hammath father of the house of Rechab.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

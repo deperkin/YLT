@@ -1,0 +1,222 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 175,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5472,
+        "text": "'Thou dost not see the ox of thy brother or his sheep driven away, and hast hidden thyself from them, thou dost certainly turn them back to thy brother;",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5473,
+        "text": "and if thy brother [is] not near unto thee, and thou hast not known him, then thou hast removed it unto the midst of thy house, and it hath been with thee till thy brother seek it, and thou hast given it back to him;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5474,
+        "text": "and so thou dost to his ass, and so thou dost to his garment, and so thou dost to any lost thing of thy brother's, which is lost by him, and thou hast found it; thou art not able to hide thyself.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5475,
+        "text": "'Thou dost not see the ass of thy brother, or his ox, falling in the way, and hast hid thyself from them; thou dost certainly raise [them] up with him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5476,
+        "text": "'The habiliments of a man are not on a woman, nor doth a man put on the garment of a woman, for the abomination of Jehovah thy God [is] any one doing these.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 5477,
+        "text": "'When a bird's nest cometh before thee in the way, in any tree, or on the earth, brood or eggs, and the mother sitting on the brood or on the eggs, thou dost not take the mother with the young ones;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5478,
+        "text": "thou dost certainly send away the mother, and the young ones dost take to thyself, so that it is well with thee, and thou hast prolonged days.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5479,
+        "text": "'When thou buildest a new house, then thou hast made a parapet to thy roof, and thou dost not put blood on thy house when one falleth from it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5480,
+        "text": "'Thou dost not sow thy vineyard [with] divers things, lest the fulness of the seed which thou dost sow, and the increase of the vineyard, be separated.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5481,
+        "text": "'Thou dost not plow with an ox and with an ass together.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5482,
+        "text": "'Thou dost not put on a mixed cloth, wool and linen together.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5483,
+        "text": "'Fringes thou dost make to thee on the four skirts of thy covering with which thou dost cover [thyself].",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5484,
+        "text": "'When a man taketh a wife, and hath gone in unto her, and hated her,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 5485,
+        "text": "and laid against her actions of words, and brought out against her an evil name, and said, This woman I have taken, and I draw near unto her, and I have not found in her tokens of virginity:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5486,
+        "text": "'Then hath the father of the damsel -- and her mother -- taken and brought out the tokens of virginity of the damsel unto the elders of the city in the gate,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5487,
+        "text": "and the father of the damsel hath said unto the elders, My daughter I have given to this man for a wife, and he doth hate her;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5488,
+        "text": "and lo, he hath laid actions of words, saying, I have not found to thy daughter tokens of virginity -- and these [are] the tokens of the virginity of my daughter! and they have spread out the garment before the elders of the city.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5489,
+        "text": "'And the elders of that city have taken the man, and chastise him,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5490,
+        "text": "and fined him a hundred silverlings, and given to the father of the damsel, because he hath brought out an evil name on a virgin of Israel, and she is to him for a wife, he is not able to send her away all his days.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5491,
+        "text": "'And if this thing hath been truth -- tokens of virginity have not been found for the damsel --",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5492,
+        "text": "then they have brought out the damsel unto the opening of her father's house, and stoned her have the men of her city with stones, and she hath died, for she hath done folly in Israel, to go a-whoring [in] her father's house; and thou hast put away the evil thing out of thy midst.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5493,
+        "text": "'When a man is found lying with a woman, married to a husband, then they have died even both of them, the man who is lying with the woman, also the woman; and thou hast put away the evil thing out of Israel.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5494,
+        "text": "'When there is a damsel, a virgin, betrothed to a man, and a man hath found her in a city, and lain with her;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5495,
+        "text": "then ye have brought them both out unto the gate of that city, and stoned them with stones, and they have died: -- the damsel, because that she hath not cried, [being] in a city; and the man, because that he hath humbled his neighbour's wife; and thou hast put away the evil thing out of thy midst.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5496,
+        "text": "'And if in a field the man find the damsel who is betrothed, and the man hath laid hold on her, and lain with her, then hath the man who hath lain with her died alone;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5497,
+        "text": "and to the damsel thou dost not do anything, the damsel hath no deadly sin; for as a man riseth against his neighbour and hath murdered him -- the life, so [is] this thing;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 5498,
+        "text": "for in a field he found her, she hath cried -- the damsel who is betrothed -- and she hath no saviour.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5499,
+        "text": "'When a man findeth a damsel, a virgin who is not betrothed, and hath caught her, and lain with her, and they have been found,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5500,
+        "text": "then hath the man who is lying with her given to the father of the damsel fifty silverlings, and to him she is for a wife; because that he hath humbled her, he is not able to send her away all his days.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 5501,
+        "text": "'A man doth not take his father's wife, nor uncover his father's skirt.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

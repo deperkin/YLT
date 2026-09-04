@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 99,
+    "count": 577,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15501,
+        "text": "Jehovah hath reigned, peoples tremble, The Inhabitant of the cherubs, the earth shaketh.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15502,
+        "text": "Jehovah in Zion [is] great, And high He [is] over all the peoples.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15503,
+        "text": "They praise Thy name, 'Great, and fearful, holy [it] is.'",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15504,
+        "text": "And the strength of the king Hath loved judgment, Thou -- Thou hast established uprightness; Judgment and righteousness in Jacob, Thou -- Thou hast done.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15505,
+        "text": "Exalt ye Jehovah our God, And bow yourselves at His footstool, holy [is] He.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15506,
+        "text": "Moses and Aaron among His priests, And Samuel among those proclaiming His name. They are calling unto Jehovah, And He doth answer them.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15507,
+        "text": "In a pillar of cloud He speaketh unto them, They have kept His testimonies, And the statute He hath given to them.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15508,
+        "text": "O Jehovah, our God, Thou hast afflicted them, A God forgiving Thou hast been to them, And taking vengeance on their actions.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15509,
+        "text": "Exalt ye Jehovah our God, And bow yourselves at His holy hill, For holy [is] Jehovah our God!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

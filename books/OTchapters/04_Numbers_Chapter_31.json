@@ -1,0 +1,390 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 31,
+    "count": 148,
+    "MaxVerses": 54,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4666,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4667,
+        "text": "'Execute the vengeance of the sons of Israel against the Midianites -- afterwards thou art gathered unto thy people.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4668,
+        "text": "And Moses speaketh unto the people, saying, 'Be ye armed some of you for the host, and they are against Midian, to put the vengeance of Jehovah on Midian;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4669,
+        "text": "a thousand for a tribe -- a thousand for a tribe, to all the tribes of Israel -- ye do send to the host.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4670,
+        "text": "And there are given out of the thousands of Israel a thousand for a tribe, twelve thousand armed ones of the host;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4671,
+        "text": "and Moses sendeth them, a thousand for a tribe, to the host, them and Phinehas son of Eleazar the priest, to the host; and the holy vessels, and the trumpets of the shouting, in his hand.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4672,
+        "text": "And they war against Midian, as Jehovah hath commanded Moses, and slay every male;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 4673,
+        "text": "and the kings of Midian they have slain, besides their pierced ones, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian; and Balaam son of Beor, they have slain with the sword.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4674,
+        "text": "And the sons of Israel take captive the women of Midian, and their infants; and all their cattle, and all their substance, and all their wealth they have plundered;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4675,
+        "text": "and all their cities, with their habitations, and all their towers, they have burnt with fire.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4676,
+        "text": "And they take all the spoil, and all the prey, among man and among beast;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4677,
+        "text": "and they bring in, unto Moses, and unto Eleazar the priest, and unto the company of the sons of Israel, the captives, and the prey, and the spoil, unto the camp, unto the plains of Moab, which [are] by Jordan, [near] Jericho.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4678,
+        "text": "And Moses, and Eleazar the priest, and all the princes of the company, go out to meet them, unto the outside of the camp,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 4679,
+        "text": "and Moses is wroth against the inspectors of the force, chiefs of the thousands, and chiefs of the hundreds, who are coming in from the host of the battle.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4680,
+        "text": "And Moses saith unto them, 'Have ye kept alive every female?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4681,
+        "text": "lo, they -- they have been to the sons of Israel, through the word of Balaam, to cause a trespass against Jehovah in the matter of Peor, and the plague is in the company of Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4682,
+        "text": "'And now, slay ye every male among the infants, yea, every woman known of man by the lying of a male ye have slain;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4683,
+        "text": "and all the infants among the women, who have not known the lying of a male, ye have kept alive for yourselves.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4684,
+        "text": "'And ye, encamp ye at the outside of the camp seven days -- any who hath slain a person, and any who hath come against a pierced one, ye cleanse yourselves on the third day, and on the seventh day -- ye and your captives;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4685,
+        "text": "and every garment, and every skin vessel, and every work of goats' [hair], and every wooden vessel, ye yourselves cleanse.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4686,
+        "text": "And Eleazar the priest saith unto the men of the host who go in to battle, 'This [is] the statute of the law which Jehovah hath commanded Moses:",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4687,
+        "text": "only, the gold, and the silver, the brass, the iron, the tin, and the lead,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4688,
+        "text": "every thing which may go into fire, ye cause to pass over through fire, and it hath been clean; only, with the water of separation it is cleansed, and all that may not go into fire, ye cause to pass over through water;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4689,
+        "text": "and ye have washed your garments on the seventh day, and have been clean, and afterwards ye come in unto the camp.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4690,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 4691,
+        "text": "'Take up the sum of the prey of the captives, among man and among beast, thou, and Eleazar the priest, and the heads of the fathers of the company;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4692,
+        "text": "and thou hast halved the prey between those handling the battle who go out to the host and all the company;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4693,
+        "text": "and thou hast raised a tribute to Jehovah from the men of war, who go out to the host, one body out of five hundred, of man, and of the herd, and of the asses, and of the flock;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4694,
+        "text": "from their half ye do take, and thou hast given to Eleazar the priest -- the heave-offering of Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4695,
+        "text": "'And from the sons of Israel's half thou dost take one possession out of fifty, of man, of the herd, of the asses, and of the flock, of all the cattle, and thou hast given them to the Levites keeping the charge of the tabernacle of Jehovah.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4696,
+        "text": "And Moses doth -- Eleazar the priest also -- as Jehovah hath commanded Moses.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4697,
+        "text": "And the prey, the residue of the spoil which the people of the host have spoiled, is of the flock six hundred thousand, and seventy thousand, and five thousand;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4698,
+        "text": "and of the herd two and seventy thousand;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4699,
+        "text": "and of asses one and sixty thousand;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4700,
+        "text": "and of human beings -- of the women who have not known the lying of a male -- all the persons [are] two and thirty thousand.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4701,
+        "text": "And the half -- the portion of those who go out into the host -- the number of the flock is three hundred thousand, and thirty thousand, and seven thousand and five hundred.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4702,
+        "text": "And the tribute to Jehovah of the sheep is six hundred five and seventy;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4703,
+        "text": "and the herd [is] six and thirty thousand, and their tribute to Jehovah [is] two and seventy;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4704,
+        "text": "and the asses [are] thirty thousand and five hundred, and their tribute to Jehovah [is] one and sixty;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4705,
+        "text": "and the human beings [are] sixteen thousand, and their tribute to Jehovah [is] two and thirty persons.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4706,
+        "text": "And Moses giveth the tribute -- Jehovah's heave-offering -- to Eleazar the priest, as Jehovah hath commanded Moses.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 4707,
+        "text": "And of the sons of Israel's half, which Moses halved from the men who war --",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 4708,
+        "text": "and the company's half is, of the flock three hundred thousand, and thirty thousand, seven thousand and five hundred;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 4709,
+        "text": "and of the herd six and thirty thousand;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 4710,
+        "text": "and of asses thirty thousand and five hundred;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 4711,
+        "text": "and of human beings sixteen thousand --",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 4712,
+        "text": "Moses taketh from the sons of Israel's half the one possession from the fifty, of man and of beast, and giveth them to the Levites keeping the charge of the tabernacle of Jehovah, as Jehovah hath commanded Moses.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 4713,
+        "text": "And the inspectors whom the thousands of the host hath, (heads of the thousands and heads of the hundreds), draw near unto Moses,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 49,
+        "count": 4714,
+        "text": "and they say unto Moses, 'Thy servants have taken up the sum of the men of war who [are] with us, and not a man of us hath been missed;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 4715,
+        "text": "and we bring near Jehovah's offering, each that which he hath found, vessels of gold -- chain, and bracelet, seal-ring, [ear] -ring, and bead -- to make atonement for ourselves before Jehovah.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 4716,
+        "text": "And Moses receiveth -- Eleazar the priest also -- the gold from them, every made vessel,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 4717,
+        "text": "and all the gold of the heave-offering which they have lifted up to Jehovah is sixteen thousand seven hundred and fifty shekels, from heads of the thousands, and from heads of the hundreds;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 4718,
+        "text": "(the men of the host have spoiled each for himself);",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 4719,
+        "text": "and Moses taketh -- Eleazar the priest also -- the gold from the heads of the thousands and of the hundreds, and they bring it in unto the tent of meeting -- a memorial for the sons of Israel before Jehovah.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 29,
+    "count": 182,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5681,
+        "text": "These [are] the words of the covenant which Jehovah hath commanded Moses to make with the sons of Israel in the land of Moab, apart from the covenant which He made with them in Horeb.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5682,
+        "text": "And Moses calleth unto all Israel, and saith unto them, 'Ye -- ye have seen all that which Jehovah hath done before your eyes in the land of Egypt, to Pharaoh, and to all his servants, and to all his land;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5683,
+        "text": "the great trials which thine eyes have seen, the signs, and those great wonders;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5684,
+        "text": "and Jehovah hath not given to you a heart to know, and eyes to see, and ears to hear, till this day,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5685,
+        "text": "and I cause you to go forty years in a wilderness; your garments have not been consumed from off you, and thy shoe hath not worn away from off thy foot;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5686,
+        "text": "bread ye have not eaten, and wine and strong drink ye have not drunk, so that ye know that I [am] Jehovah your God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5687,
+        "text": "'And ye come in unto this place, and Sihon king of Heshbon -- also Og king of Bashan -- doth come out to meet us, to battle, and we smite them,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5688,
+        "text": "and take their land, and give it for an inheritance to the Reubenite, and to the Gadite, and to the half of the tribe of Manasseh;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5689,
+        "text": "and ye have kept the words of this covenant, and done them, so that ye cause all that ye do to prosper.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5690,
+        "text": "'Ye are standing to-day, all of you, before Jehovah your God -- your heads, your tribes, your elders, and your authorities -- every man of Israel;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 5691,
+        "text": "your infants, your wives, and thy sojourner who [is] in the midst of thy camps, from the hewer of thy wood unto the drawer of thy water --",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5692,
+        "text": "for thy passing over into the covenant of Jehovah thy God, and into His oath which Jehovah thy God is making with thee to-day;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5693,
+        "text": "in order to establish thee to-day to Him for a people, and He Himself is thy God, as He hath spoken to thee, and as He hath sworn to thy fathers, to Abraham, to Isaac, and to Jacob.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5694,
+        "text": "'And not with you alone am I making this covenant and this oath;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5695,
+        "text": "but with him who is here with us, standing to-day before Jehovah our God, and with him who is not here with us to-day,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5696,
+        "text": "for ye have known how ye dwelt in the land of Egypt, and how we passed by through the midst of the nations which ye have passed by;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5697,
+        "text": "and ye see their abominations, and their idols, wood and stone, silver and gold, which [are] with them,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5698,
+        "text": "lest there be among you a man or woman, or family or tribe, whose heart is turning to-day from Jehovah our God, to go to serve the gods of those nations, lest there be in you a root fruitful of gall and wormwood:",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5699,
+        "text": "'And it hath been, in his hearing the words of this oath, and he hath blessed himself in his heart, saying, I have peace, though in the stubbornness of my heart I go on, in order to end the fulness with the thirst.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5700,
+        "text": "Jehovah is not willing to be propitious to him, for then doth the anger of Jehovah smoke, also His zeal, against that man, and lain down on him hath all the oath which is written in this book, and Jehovah hath blotted out his name from under the heavens,",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5701,
+        "text": "and Jehovah hath separated him for evil, out of all the tribes of Israel, according to all the oaths of the covenant which is written in this book of the law.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5702,
+        "text": "'And the latter generation of your sons who rise after you, and the stranger who cometh in from a land afar off, have said when they have seen the strokes of that land, and its sicknesses which Jehovah hath sent into it, --",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5703,
+        "text": "([with] brimstone and salt is the whole land burnt, it is not sown, nor doth it shoot up, nor doth there go up on it any herb, like the overthrow of Sodom and Gomorrah, Admah and Zeboim, which Jehovah overturned in His anger, and in His fury,) --",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5704,
+        "text": "yea, all the nations have said, Wherefore hath Jehovah done thus to this land? what the heat of this great anger?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5705,
+        "text": "'And they have said, Because that they have forsaken the covenant of Jehovah, God of their fathers, which He made with them in His bringing them out of the land of Egypt,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5706,
+        "text": "and they go and serve other gods, and bow themselves to them -- gods which they have not known, and which He hath not apportioned to them;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 5707,
+        "text": "and the anger of Jehovah burneth against that land, to bring in on it all the reviling that is written in this book,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5708,
+        "text": "and Jehovah doth pluck them from off their ground in anger, and in fury, and in great wrath, and doth cast them unto another land, as [at] this day.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5709,
+        "text": "'The things hidden [are] to Jehovah our God, and the things revealed [are] to us and to our sons -- to the age, to do all the words of this law.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

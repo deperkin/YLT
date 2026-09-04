@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 646,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16903,
+        "text": "For [an object of] desire he who is separated doth seek, With all wisdom he intermeddleth.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16904,
+        "text": "A fool delighteth not in understanding, But -- in uncovering his heart.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16905,
+        "text": "With the coming of the wicked come also hath contempt, And with shame -- reproach.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16906,
+        "text": "Deep waters [are] the words of a man's mouth, The fountain of wisdom [is] a flowing brook.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16907,
+        "text": "Acceptance of the face of the wicked [is] not good, To turn aside the righteous in judgment.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16908,
+        "text": "The lips of a fool enter into strife, And his mouth for stripes calleth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16909,
+        "text": "The mouth of a fool [is] ruin to him, And his lips [are] the snare of his soul.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16910,
+        "text": "The words of a tale-bearer [are] as self-inflicted wounds, And they have gone down [to] the inner parts of the heart.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16911,
+        "text": "He also that is remiss in his work, A brother he [is] to a destroyer.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16912,
+        "text": "A tower of strength [is] the name of Jehovah, Into it the righteous runneth, and is set on high.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16913,
+        "text": "The wealth of the rich [is] the city of his strength, And as a wall set on high in his own imagination.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16914,
+        "text": "Before destruction the heart of man is high, And before honour [is] humility.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16915,
+        "text": "Whoso is answering a matter before he heareth, Folly it is to him and shame.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16916,
+        "text": "The spirit of a man sustaineth his sickness, And a smitten spirit who doth bear?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16917,
+        "text": "The heart of the intelligent getteth knowledge, And the ear of the wise seeketh knowledge.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16918,
+        "text": "The gift of a man maketh room for him, And before the great it leadeth him.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16919,
+        "text": "Righteous [is] the first in his own cause, His neighbour cometh and hath searched him.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16920,
+        "text": "The lot causeth contentions to cease, And between the mighty it separateth.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16921,
+        "text": "A brother transgressed against is as a strong city, And contentions as the bar of a palace.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16922,
+        "text": "From the fruit of a man's mouth is his belly satisfied, [From the] increase of his lips he is satisfied.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16923,
+        "text": "Death and life [are] in the power of the tongue, And those loving it eat its fruit.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16924,
+        "text": "[Whoso] hath found a wife hath found good, And bringeth out good-will from Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16925,
+        "text": "[With] supplications doth the poor speak, And the rich answereth fierce things.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16926,
+        "text": "A man with friends [is] to show himself friendly, And there is a lover adhering more than a brother!",
+        "WordCount": 19,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

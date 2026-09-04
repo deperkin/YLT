@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 343,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10430,
+        "text": "As to sons of Reuben, first-born of Israel -- for he [is] the first-born, and on account of his profaning the couch of his father hath his birthright been given to the sons of Joseph son of Israel, and [he is] not to be reckoned by genealogy for the birthright,",
+        "WordCount": 50,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10431,
+        "text": "for Judah hath been mighty over his brother, and for leader above him, and the birthright [is] to Joseph.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10432,
+        "text": "Sons of Reuben, first-born of Israel: Hanoch, and Pallu, Hezron, and Carmi.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10433,
+        "text": "Sons of Joel: Shemaiah his son, Gog his son, Shimei his son,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10434,
+        "text": "Micah his son, Reaiah his son, Baal his son,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10435,
+        "text": "Beerah his son, whom Tilgath-Pilneser king of Asshur removed; he [is] prince of the Reubenite.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10436,
+        "text": "And his brethren, by their families, in the genealogy of their generations, [are] heads: Jeiel, and Zechariah,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10437,
+        "text": "and Bela son of Azaz, son of Shema, son of Joel -- he is dwelling in Aroer, even unto Nebo and Baal-Meon;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10438,
+        "text": "and at the east he dwelt even unto the entering in of the wilderness, even from the river Phrat, for their cattle were multiplied in the land of Gilead.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10439,
+        "text": "And in the days of Saul they have made war with the Hagarites, who fall by their hand, and they dwell in their tents over all the face of the east of Gilead.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10440,
+        "text": "And the sons of Gad, over-against them have dwelt in the land of Bashan unto Salcah,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10441,
+        "text": "Joel the head, and Shapham the second, and Jaanai and Shaphat in Bashan;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10442,
+        "text": "and their brethren of the house of their fathers [are] Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10443,
+        "text": "These [are] sons of Abihail son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10444,
+        "text": "Ahi son of Abdiel, son of Guni, [is] head of the house of their fathers;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10445,
+        "text": "and they dwell in Gilead in Bashan, and in her small towns, and in all suburbs of Sharon, upon their outskirts;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10446,
+        "text": "all of them reckoned themselves by genealogy in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10447,
+        "text": "Sons of Reuben, and the Gadite, and the half of the tribe of Manasseh, of sons of valour, men bearing shield and sword, and treading bow, and taught in battle, [are] forty and four thousand and seven hundred and sixty, going out to the host.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 10448,
+        "text": "And they make war with the Hagarites, and Jetur, and Naphish, and Nodab,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10449,
+        "text": "and they are helped against them, and the Hagarites are given into their hand, and all who [are] with them, for they cried to God in battle, and He was entreated of them, because they trusted in Him.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10450,
+        "text": "And they take captive their cattle, of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of human beings a hundred thousand;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10451,
+        "text": "for many have fallen pierced, for of God [is] the battle; and they dwell in their stead till the removal.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10452,
+        "text": "And the sons of the half of the tribe of Manasseh dwelt in the land, from Bashan unto Baal-Hermon, and Senir, and mount Hermon, they have multiplied.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10453,
+        "text": "And these [are] heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, men mighty in valour, men of name, heads to the house of their fathers.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10454,
+        "text": "And they trespass against the God of their fathers, and go a-whoring after the gods of the peoples of the land whom God destroyed from their presence;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10455,
+        "text": "and stir up doth the God of Israel the spirit of Pul king of Asshur, and the spirit of Tilgath-Pilneser king of Asshur, and he removeth them -- even the Reubenite, and the Gadite, and the half of the tribe of Manasseh -- and bringeth them in to Halah, and Habor, and Hara, and the river of Gozan unto this day.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

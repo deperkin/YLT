@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 30,"name": "Amos","MaxChapters": 9},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 884,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22425,
+        "text": "Hear this word that I am bearing to you, A lamentation, O house of Israel:",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22426,
+        "text": "'Fallen, not again to rise, hath the virgin of Israel, Left on her land -- she hath no raiser up.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22427,
+        "text": "For thus said the Lord Jehovah: The city that is going out a thousand, Doth leave an hundred, And that which is going out an hundred, Doth leave ten to the house of Israel.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22428,
+        "text": "For thus said Jehovah to the house of Israel: Seek ye Me, and live,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22429,
+        "text": "And seek not Beth-El, and Gilgal enter not, And Beer-Sheba pass not through, For Gilgal doth utterly remove, And Beth-El doth become vanity.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22430,
+        "text": "Seek ye Jehovah, and live, Lest He prosper as fire [against] the house of Joseph, And it hath consumed, And there is no quencher for Beth-El.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22431,
+        "text": "Ye who are turning to wormwood judgment, And righteousness to the earth have put down,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22432,
+        "text": "The maker of Kimah and Kesil, And the turner to morning of death-shade, And day [as] night He hath made dark, Who is calling to the waters of the sea, And poureth them on the face of the earth, Jehovah [is] His name;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22433,
+        "text": "Who is brightening up the spoiled against the strong, And the spoiled against a fortress cometh.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22434,
+        "text": "They have hated a reprover in the gate, And a plain speaker they abominate.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22435,
+        "text": "Therefore, because of your trampling on the poor, And the tribute of corn ye take from him, Houses of hewn work ye have built, And ye do not dwell in them, Desirable vineyards ye have planted, And ye do not drink their wine.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22436,
+        "text": "For I have known -- many [are] your transgressions, And mighty your sins, Adversaries of the righteous, taking ransoms, And the needy in the gate ye turned aside.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22437,
+        "text": "Therefore is the wise at that time silent, For an evil time it [is].",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22438,
+        "text": "Seek good, and not evil, that ye may live, And it is so; Jehovah, God of Hosts, [is] with you, as ye said.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22439,
+        "text": "Hate evil, and love good, And set up judgment in the gate, It may be Jehovah, God of Hosts, doth pity the remnant of Joseph.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22440,
+        "text": "Therefore, thus said Jehovah, God of Hosts, the Lord, In all broad places [is] lamentation, And in all out-places they say, 'Alas, alas,' And called the husbandman to mourning, And to lamentation the skilful of wailing.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 22441,
+        "text": "And in all vineyards [is] lamentation, For I pass into thy midst, said Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22442,
+        "text": "Ho, ye who are desiring the day of Jehovah, Why [is] this to you -- the day of Jehovah? It is darkness, and not light,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22443,
+        "text": "As [when] one fleeth from the face of the lion, And the bear hath met him, And he hath come in to the house, And hath leant his hand on the wall, And the serpent hath bitten him.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22444,
+        "text": "Is not the day of Jehovah darkness and not light, Even thick darkness that hath no brightness?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 22445,
+        "text": "I have hated -- I have loathed your festivals, And I am not refreshed by your restraints.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 22446,
+        "text": "For though ye cause burnt-offerings and your presents to ascend to Me, I am not pleased, And the peace-offering of your fatlings I behold not.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 22447,
+        "text": "Turn aside from Me the noise of thy songs, Yea, the praise of thy psaltery I hear not.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 22448,
+        "text": "And roll on as waters doth judgment, And righteousness as a perennial stream.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 22449,
+        "text": "Sacrifices and offering did ye bring nigh to Me, In a wilderness forty years, O house of Israel?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 22450,
+        "text": "And ye bare Succoth your king, and Chiun your images, The star of your god, that ye made for yourselves.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 22451,
+        "text": "And I removed you beyond Damascus, Said Jehovah, God of Hosts [is] His name.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

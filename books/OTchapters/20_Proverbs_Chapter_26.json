@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 654,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17143,
+        "text": "As snow in summer, and as rain in harvest, So honour [is] not comely for a fool.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17144,
+        "text": "As a bird by wandering, as a swallow by flying, So reviling without cause doth not come.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17145,
+        "text": "A whip is for a horse, a bridle for an ass, And a rod for the back of fools.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 17146,
+        "text": "Answer not a fool according to his folly, Lest thou be like to him -- even thou.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17147,
+        "text": "Answer a fool according to his folly, Lest he be wise in his own eyes.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17148,
+        "text": "He is cutting off feet, he is drinking injury, Who is sending things by the hand of a fool.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17149,
+        "text": "Weak have been the two legs of the lame, And a parable in the mouth of fools.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17150,
+        "text": "As one who is binding a stone in a sling, So [is] he who is giving honour to a fool.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17151,
+        "text": "A thorn hath gone up into the hand of a drunkard, And a parable in the mouth of fools.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17152,
+        "text": "Great [is] the Former of all, And He is rewarding a fool, And is rewarding transgressors.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17153,
+        "text": "As a dog hath returned to its vomit, A fool is repeating his folly.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17154,
+        "text": "Thou hast seen a man wise in his own eyes, More hope of a fool than of him!",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17155,
+        "text": "The slothful hath said, 'A lion [is] in the way, A lion [is] in the broad places.'",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 17156,
+        "text": "The door turneth round on its hinge, And the slothful on his bed.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 17157,
+        "text": "The slothful hath hid his hand in a dish, He is weary of bringing it back to his mouth.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17158,
+        "text": "Wiser [is] the slothful in his own eyes, Than seven [men] returning a reason.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17159,
+        "text": "Laying hold on the ears of a dog, [Is] a passer-by making himself wrath for strife not his own.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17160,
+        "text": "As [one] pretending to be feeble, Who is casting sparks, arrows, and death,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 17161,
+        "text": "So hath a man deceived his neighbour, And hath said, 'Am not I playing?'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17162,
+        "text": "Without wood is fire going out, And without a tale-bearer, contention ceaseth,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 17163,
+        "text": "Coal to burning coals, and wood to fire, And a man of contentions to kindle strife.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17164,
+        "text": "The words of a tale-bearer [are] as self-inflicted wounds, And they have gone down [to] the inner parts of the heart.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17165,
+        "text": "Silver of dross spread over potsherd, [Are] burning lips and an evil heart.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 17166,
+        "text": "By his lips doth a hater dissemble, And in his heart he placeth deceit,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 17167,
+        "text": "When his voice is gracious trust not in him, For seven abominations [are] in his heart.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17168,
+        "text": "Hatred is covered by deceit, Revealed is its wickedness in an assembly.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17169,
+        "text": "Whoso is digging a pit falleth into it, And the roller of a stone, to him it turneth.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 17170,
+        "text": "A lying tongue hateth its bruised ones, And a flattering mouth worketh an overthrow!",
+        "WordCount": 14,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

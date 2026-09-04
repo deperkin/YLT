@@ -1,0 +1,222 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 108,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3253,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3254,
+        "text": "'Speak unto the sons of Israel, and thou hast said unto them, I [am] Jehovah your God;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3255,
+        "text": "according to the work of the land of Egypt in which ye have dwelt ye do not, and according to the work of the land of Canaan whither I am bringing you in, ye do not, and in their statutes ye walk not.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3256,
+        "text": "'My judgments ye do, and My statutes ye keep, to walk in them; I [am] Jehovah your God;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3257,
+        "text": "and ye have kept My statutes and My judgments which man doth and liveth in them; I [am] Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3258,
+        "text": "'None of you unto any relation of his flesh doth draw near to uncover nakedness; I [am] Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 3259,
+        "text": "'The nakedness of thy father and the nakedness of thy mother thou dost not uncover, she [is] thy mother; thou dost not uncover her nakedness.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3260,
+        "text": "'The nakedness of the wife of thy father thou dost not uncover; it [is] the nakedness of thy father.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3261,
+        "text": "'The nakedness of thy sister, daughter of thy father, or daughter of thy mother, born at home or born without; thou dost not uncover their nakedness.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3262,
+        "text": "'The nakedness of thy son's daughter, or of thy daughter's daughter: thou dost not uncover their nakedness; for theirs [is] thy nakedness.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3263,
+        "text": "'The nakedness of a daughter of thy father's wife, begotten of thy father, she [is] thy sister; thou dost not uncover her nakedness.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3264,
+        "text": "'The nakedness of a sister of thy father thou dost not uncover; she [is] a relation of thy father.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3265,
+        "text": "'The nakedness of thy mother's sister thou dost not uncover; for she [is] thy mother's relation.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3266,
+        "text": "'The nakedness of thy father's brother thou dost not uncover; unto his wife thou dost not draw near; she [is] thine aunt.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3267,
+        "text": "'The nakedness of thy daughter-in-law thou dost not uncover; she [is] thy son's wife; thou dost not uncover her nakedness.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3268,
+        "text": "'The nakedness of thy brother's wife thou dost not uncover; it [is] thy brother's nakedness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3269,
+        "text": "'The nakedness of a woman and her daughter thou dost not uncover; her son's daughter, and her daughter's daughter thou dost not take to uncover her nakedness; they [are] her relations; it [is] wickedness.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3270,
+        "text": "'And a woman unto another thou dost not take, to be an adversary, to uncover her nakedness beside her, in her life.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3271,
+        "text": "'And unto a woman in the separation of her uncleanness thou dost not draw near to uncover her nakedness.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 3272,
+        "text": "'And unto the wife of thy fellow thou dost not give thy seed of copulation, for uncleanness with her.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3273,
+        "text": "'And of thy seed thou dost not give to pass over to the Molech; nor dost thou pollute the name of thy God; I [am] Jehovah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3274,
+        "text": "'And with a male thou dost not lie as one lieth with a woman; abomination it [is].",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3275,
+        "text": "'And with any beast thou dost not give thy copulation, for uncleanness with it; and a woman doth not stand before a beast to lie down with it; confusion it [is].",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3276,
+        "text": "'Ye are not defiled with all these, for with all these have the nations been defiled which I am sending away from before you;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3277,
+        "text": "and the land is defiled, and I charge its iniquity upon it, and the land vomiteth out its inhabitants:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3278,
+        "text": "and ye -- ye have kept My statutes and My judgments, and do not [any] of all these abominations, the native and the sojourner who is sojourning in your midst,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3279,
+        "text": "(for all these abominations have the men of the land done who [are] before you, and the land is defiled),",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3280,
+        "text": "and the land doth not vomit you out in your defiling it, as it hath vomited out the nation which [is] before you;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3281,
+        "text": "for any one who doth [any] of all these abominations -- even the persons who are doing [so], have been cut off from the midst of their people;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3282,
+        "text": "and ye have kept My charge, so as not to do [any] of the abominable statutes which have been done before you, and ye do not defile yourselves with them; I [am] Jehovah your God.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

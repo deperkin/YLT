@@ -1,0 +1,47 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 125,
+    "count": 603,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16112,
+        "text": "A Song of the Ascents. Those trusting in Jehovah [are] as Mount Zion, It is not moved -- to the age it abideth.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16113,
+        "text": "Jerusalem! mountains [are] round about her, And Jehovah [is] round about His people, From henceforth even unto the age.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16114,
+        "text": "For the rod of wickedness resteth not On the lot of the righteous, That the righteous put not forth on iniquity their hands.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16115,
+        "text": "Do good, O Jehovah, to the good, And to the upright in their hearts.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16116,
+        "text": "As to those turning [to] their crooked ways, Jehovah causeth them to go with workers of iniquity. Peace on Israel!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

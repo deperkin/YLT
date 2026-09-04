@@ -1,0 +1,117 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 35,
+    "count": 837,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21346,
+        "text": "And there is a word of Jehovah unto me, saying:",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21347,
+        "text": "'Son of man, set thy face against mount Seir, and prophesy against it,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21348,
+        "text": "and thou hast said to it: Thus said the Lord Jehovah: Lo, I [am] against thee, O mount Seir, And have stretched out My hand against thee, And made thee a desolation and an astonishment.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21349,
+        "text": "Thy cities a waste I make, and thou art a desolation, And thou hast known that I [am] Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21350,
+        "text": "Because of thy having an enmity age-during, And thou dost saw the sons of Israel, By the hands of the sword, In the time of their calamity, In the time of the iniquity of the end:",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21351,
+        "text": "Therefore, I live -- an affirmation of the Lord Jehovah, Surely for blood I do appoint thee, And blood doth pursue thee, If blood thou hast not hated, Blood also doth pursue thee.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21352,
+        "text": "And I have given mount Seir for a desolation and an astonishment, And have cut off from it him who is passing over and him who is returning,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21353,
+        "text": "And filled his mountains with his wounded, Thy hills, and thy valleys, and all thy streams, The pierced of the sword fall into them.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21354,
+        "text": "Desolations age-during I make thee, And thy cities do not return, And ye have known that I [am] Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21355,
+        "text": "Because of thy saying: The two nations and the two lands are mine, and we have possessed it, And Jehovah hath been there;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 21356,
+        "text": "Therefore, I live -- an affirmation of the Lord Jehovah, And I have done according to thine anger, And according to thine envy, With which thou hast wrought, Because of thy hatred against them, And I have been known among them when I judge thee.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21357,
+        "text": "And thou hast known that I -- Jehovah, I have heard all thy despisings that thou hast spoken Against mountains of Israel, saying: A desolation, to us they were given for food.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21358,
+        "text": "And ye magnify yourselves against Me with your mouth, And have made abundant against Me your words, I -- I have heard.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21359,
+        "text": "Thus said the Lord Jehovah: According to the rejoicing of the whole land, A desolation I make of thee.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21360,
+        "text": "According to thy joy at the inheritance of the house of Israel because of desolation, So I do to thee -- a desolation thou art, O mount Seir, and all Edom -- all of it, And they have known that I [am] Jehovah!",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

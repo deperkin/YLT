@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 96,
+    "count": 574,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15467,
+        "text": "Sing to Jehovah a new song, Sing to Jehovah all the earth.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15468,
+        "text": "Sing to Jehovah, bless His name, Proclaim from day to day His salvation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15469,
+        "text": "Declare among nations His honour, Among all the peoples His wonders.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15470,
+        "text": "For great [is] Jehovah, and praised greatly, Fearful He [is] over all gods.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15471,
+        "text": "For all the gods of the peoples [are] nought, And Jehovah made the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15472,
+        "text": "Honour and majesty [are] before Him, Strength and beauty in His sanctuary.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15473,
+        "text": "Ascribe to Jehovah, O families of the peoples, Ascribe to Jehovah honour and strength.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15474,
+        "text": "Ascribe to Jehovah the honour of His name, Lift up a present and come in to His courts.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15475,
+        "text": "Bow yourselves to Jehovah, In the honour of holiness, Be afraid of His presence, all the earth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15476,
+        "text": "Say among nations, 'Jehovah hath reigned, Also -- established is the world, unmoved, He judgeth the peoples in uprightness.'",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 15477,
+        "text": "The heavens joy, and the earth is joyful, The sea and its fulness roar.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15478,
+        "text": "The field exulteth, and all that [is] in it, Then sing do all trees of the forest,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15479,
+        "text": "Before Jehovah, for He hath come, For He hath come to judge the earth. He judgeth the world in righteousness, And the peoples in His faithfulness!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 160,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5113,
+        "text": "'When Jehovah thy God doth bring thee in unto the land whither thou art going in to possess it, and He hath cast out many nations from thy presence, the Hittite, and the Girgashite, and the Amorite, and the Canaanite, and the Perizzite, and the Hivite, and the Jebusite, seven nations more numerous and mighty than thou,",
+        "WordCount": 57,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5114,
+        "text": "and Jehovah thy God hath given them before thee, and thou hast smitten them -- thou dost utterly devote them -- thou dost not make with them a covenant, nor dost thou favour them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5115,
+        "text": "'And thou dost not join in marriage with them; thy daughter thou dost not give to his son, and his daughter thou dost not take to thy son,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5116,
+        "text": "for he doth turn aside thy son from after Me, and they have served other gods, and the anger of Jehovah hath burned against you, and hath destroyed thee hastily.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5117,
+        "text": "'But thus thou dost to them: their altars ye break down, and their standing pillars ye shiver, and their shrines ye cut down, and their graven images ye burn with fire;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5118,
+        "text": "for a holy people [art] thou to Jehovah thy God; on thee hath Jehovah thy God fixed, to be to Him for a peculiar people, out of all the peoples who [are] on the face of the ground.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5119,
+        "text": "'Not because of your being more numerous than any of the peoples hath Jehovah delighted in you, and fixeth on you, for ye [are] the least of all the peoples,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5120,
+        "text": "but because of Jehovah's loving you, and because of His keeping the oath which He hath sworn to your fathers, hath Jehovah brought you out by a strong hand, and doth ransom you from a house of servants, from the hand of Pharaoh king of Egypt.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5121,
+        "text": "'And thou hast known that Jehovah thy God He [is] God, the faithful God, keeping the covenant, and the kindness, to those loving Him, and to those keeping His commands -- to a thousand generations,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5122,
+        "text": "and repaying to those hating Him, unto their face, to destroy them; He delayeth not to him who is hating Him -- unto his face, He repayeth to him --",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5123,
+        "text": "and thou hast kept the command, and the statutes, and the judgments, which I am commanding thee to-day to do them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5124,
+        "text": "'And it hath been, because ye hear these judgments, and have kept, and done them, that Jehovah thy God hath kept to thee the covenant and the kindness which He hath sworn to thy fathers,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 5125,
+        "text": "and hath loved thee, and blessed thee, and multiplied thee, and hath blessed the fruit of thy womb, and the fruit of thy ground, thy corn, and thy new wine, and thine oil, the increase of thine oxen, and the wealth of thy flock, on the ground which He hath sworn to thy fathers to give to thee.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5126,
+        "text": "'Blessed art thou above all the peoples, there is not in thee a barren man or a barren woman -- nor among your cattle;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5127,
+        "text": "and Jehovah hath turned aside from thee every sickness, and none of the evil diseases of Egypt (which thou hast known) doth He put on thee, and He hath put them on all hating thee.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5128,
+        "text": "'And thou hast consumed all the peoples whom Jehovah thy God is giving to thee; thine eye hath no pity on them, and thou dost not serve their gods, for a snare it [is] to thee.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5129,
+        "text": "'When thou sayest in thine heart, These nations [are] more numerous than I, how am I able to dispossess them? --",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5130,
+        "text": "thou art not afraid of them; thou dost surely remember that which Jehovah thy God hath done to Pharaoh, and to all Egypt,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5131,
+        "text": "the great trials which thine eyes have seen, and the signs, and the wonders, and the strong hand, and the stretched-out arm, with which Jehovah thy God hath brought thee out; so doth Jehovah thy God to all the peoples of whose presence thou art afraid.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5132,
+        "text": "'And also the locust doth Jehovah thy God send among them, till the destruction of those who are left, and of those who are hidden from thy presence;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5133,
+        "text": "thou art not terrified by their presence, for Jehovah thy God [is] in thy midst, a God great and fearful.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5134,
+        "text": "'And Jehovah thy God hath cast out these nations from thy presence little [by] little, (thou art not able to consume them hastily, lest the beast of the field multiply against thee),",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5135,
+        "text": "and Jehovah thy God hath given them before thee, and destroyed them -- a great destruction -- till their destruction;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5136,
+        "text": "and He hath given their kings into thy hand, and thou hast destroyed their name from under the heavens; no man doth station himself in thy presence till thou hast destroyed them.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5137,
+        "text": "'The graven images of their gods ye do burn with fire; thou dost not desire the silver and gold on them, nor hast thou taken [it] to thyself, lest thou be snared by it, for the abomination of Jehovah thy God it [is];",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5138,
+        "text": "and thou dost not bring in an abomination unto thy house -- or thou hast been devoted like it; -- thou dost utterly detest it, and thou dost utterly abominate it; for it [is] devoted.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 40,
+    "count": 476,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13866,
+        "text": "And Jehovah doth answer Job, and saith: --",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13867,
+        "text": "Is the striver with the Mighty instructed? The reprover of God, let him answer it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13868,
+        "text": "And Job answereth Jehovah, and saith: --",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13869,
+        "text": "Lo, I have been vile, What do I return to Thee? My hand I have placed on my mouth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13870,
+        "text": "Once I have spoken, and I answer not, And twice, and I add not.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13871,
+        "text": "And Jehovah answereth Job out of the whirlwind, and saith: --",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 13872,
+        "text": "Gird, I pray thee, as a man, thy loins, I ask thee, and cause thou Me to know.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13873,
+        "text": "Dost thou also make void My judgment? Dost thou condemn Me, That thou mayest be righteous?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13874,
+        "text": "And an arm like God hast thou? And with a voice like Him dost thou thunder?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13875,
+        "text": "Put on, I pray thee, excellency and loftiness, Yea, honour and beauty put on.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13876,
+        "text": "Scatter abroad the wrath of thine anger, And see every proud one, and make him low.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13877,
+        "text": "See every proud one -- humble him, And tread down the wicked in their place.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13878,
+        "text": "Hide them in the dust together, Their faces bind in secret.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13879,
+        "text": "And even I -- I do praise thee, For thy right hand giveth salvation to thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13880,
+        "text": "Lo, I pray thee, Behemoth, that I made with thee: Grass as an ox he eateth.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 13881,
+        "text": "Lo, I pray thee, his power [is] in his loins, And his strength in the muscles of his belly.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13882,
+        "text": "He doth bend his tail as a cedar, The sinews of his thighs are wrapped together,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13883,
+        "text": "His bones [are] tubes of brass, His bones [are] as a bar of iron.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13884,
+        "text": "He [is] a beginning of the ways of God, His Maker bringeth nigh his sword;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13885,
+        "text": "For food do mountains bear for him, And all the beasts of the field play there.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13886,
+        "text": "Under shades he lieth down, In a secret place of reed and mire.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13887,
+        "text": "Cover him do shades, [with] their shadow, Cover him do willows of the brook.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13888,
+        "text": "Lo, a flood oppresseth -- he doth not haste, He is confident though Jordan Doth come forth unto his mouth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13889,
+        "text": "Before his eyes doth [one] take him, With snares doth [one] pierce the nose?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

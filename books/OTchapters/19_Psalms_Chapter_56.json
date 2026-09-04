@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 56,
+    "count": 534,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14757,
+        "text": "To the Overseer. -- 'On the Dumb Dove far off.' -- A secret treasure of David, in the Philistines' taking hold of him in Gath. Favour me, O God, for man swallowed me up, All the day fighting he oppresseth me,",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14758,
+        "text": "Mine enemies have swallowed up all the day, For many [are] fighting against me, O most High,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14759,
+        "text": "The day I am afraid I am confident toward Thee.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14760,
+        "text": "In God I praise His word, in God I have trusted, I fear not what flesh doth to me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14761,
+        "text": "All the day they wrest my words, Concerning me all their thoughts [are] for evil,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14762,
+        "text": "They assemble, they hide, they watch my heels, When they have expected my soul.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14763,
+        "text": "By iniquity they escape, In anger the peoples put down, O God.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14764,
+        "text": "My wandering Thou hast counted, Thou -- place Thou my tear in Thy bottle, Are they not in Thy book?",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14765,
+        "text": "Then turn back do mine enemies in the day I call. This I have known, that God [is] for me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14766,
+        "text": "In God I praise the word, In Jehovah I praise the word.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14767,
+        "text": "In God I trusted, I fear not what man doth to me,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14768,
+        "text": "On me, O God, [are] Thy vows, I repay thank-offerings to Thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14769,
+        "text": "For Thou hast delivered my soul from death, Dost Thou not my feet from falling? To walk habitually before God in the light of the living!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 180,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5587,
+        "text": "'And Moses -- the elders of Israel also -- commandeth the people, saying, Keep all the command which I am commanding you to-day;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5588,
+        "text": "and it hath been, in the day that ye pass over the Jordan unto the land which Jehovah thy God is giving to thee, that thou hast raised up for thee great stones, and plaistered them with plaister,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5589,
+        "text": "and written on them all the words of this law in thy passing over, so that thou goest in unto the land which Jehovah thy God is giving to thee -- a land flowing with milk and honey, as Jehovah, God of thy fathers, hath spoken to thee.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5590,
+        "text": "'And it hath been, in your passing over the Jordan, ye raise up these stones which I am commanding you to-day, in mount Ebal, and thou hast plaistered them with plaister,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5591,
+        "text": "and built there an altar to Jehovah thy God, an altar of stones, thou dost not wave over them iron.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5592,
+        "text": "Of complete stones thou buildest the altar of Jehovah thy God, and hast caused to ascend on it burnt-offerings to Jehovah thy God,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5593,
+        "text": "and sacrificed peace-offerings, and eaten there, and rejoiced before Jehovah thy God,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5594,
+        "text": "and written on the stones all the words of this law, well engraved.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5595,
+        "text": "And Moses speaketh -- the priests, the Levites, also -- unto all Israel, saying, 'Keep silent, and hear, O Israel, this day thou hast become a people to Jehovah thy God;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5596,
+        "text": "and thou hast hearkened to the voice of Jehovah thy God, and done His commands, and His statutes, which I am commanding thee to-day.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5597,
+        "text": "And Moses commandeth the people on that day, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 5598,
+        "text": "'These do stand, to bless the people, on mount Gerizzim, in your passing over the Jordan: Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5599,
+        "text": "And these do stand, for the reviling, on mount Ebal: Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5600,
+        "text": "'And the Levites have answered and said unto every man of Israel -- a loud voice:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5601,
+        "text": "'Cursed [is] the man who maketh a graven and molten image, the abomination of Jehovah, work of the hands of an artificer, and hath put [it] in a secret place, -- and all the people have answered and said, Amen.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5602,
+        "text": "'Cursed [is] He who is making light of his father and his mother, -- and all the people have said, Amen.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5603,
+        "text": "'Cursed [is] he who is removing his neighbour's border, -- and all the people have said, Amen.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5604,
+        "text": "'Cursed [is] he who is causing the blind to err in the way, -- and all the people have said, Amen.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5605,
+        "text": "'Cursed [is] he who is turning aside the judgment of fatherless, sojourner, and widow, -- and all the people have said, Amen.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5606,
+        "text": "'Cursed [is] he who is lying with his father's wife, for he hath uncovered his father's skirt, -- and all the people have said, Amen.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5607,
+        "text": "'Cursed [is] he who is lying with any beast, -- and all the people have said, Amen.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5608,
+        "text": "'Cursed [is] he who is lying with his sister, daughter of his father, or daughter of his mother, -- and all the people have said, Amen.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5609,
+        "text": "'Cursed [is] he who is lying with his mother-in-law, -- and all the people have said, Amen.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5610,
+        "text": "'Cursed [is] he who is smiting his neighbour in secret, -- and all the people have said, Amen.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5611,
+        "text": "'Cursed [is] he who is taking a bribe to smite a person, innocent blood, -- and all the people have said, Amen.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5612,
+        "text": "'Cursed [is] he who doth not establish the words of this law, to do them, -- and all the people have said, Amen.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 63,
+    "count": 541,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14841,
+        "text": "A Psalm of David, in his being in the wilderness of Judah. O God, Thou [art] my God, earnestly do I seek Thee, Thirsted for Thee hath my soul, Longed for Thee hath my flesh, In a land dry and weary, without waters.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14842,
+        "text": "So in the sanctuary I have seen Thee, To behold Thy strength and Thine honour.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14843,
+        "text": "Because better [is] Thy kindness than life, My lips do praise Thee.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 14844,
+        "text": "So I bless Thee in my life, in Thy name I lift up my hands.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14845,
+        "text": "As [with] milk and fatness is my soul satisfied, And [with] singing lips doth my mouth praise.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14846,
+        "text": "If I have remembered Thee on my couch, In the watches -- I meditate on Thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14847,
+        "text": "For Thou hast been a help to me, And in the shadow of Thy wings I sing.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14848,
+        "text": "Cleaved hath my soul after Thee, On me hath Thy right hand taken hold.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14849,
+        "text": "And they who for desolation seek my soul, Go in to the lower parts of the earth.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14850,
+        "text": "They cause him to run on the edge of the sword, A portion for foxes they are.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14851,
+        "text": "And the king doth rejoice in God, Boast himself doth every one swearing by Him, But stopped is the mouth of those speaking lies!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 84,
+    "count": 562,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15261,
+        "text": "To the Overseer. -- 'On the Gittith By sons of Korah.' -- A Psalm. How beloved Thy tabernacles, Jehovah of Hosts!",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15262,
+        "text": "My soul desired, yea, it hath also been consumed, For the courts of Jehovah, My heart and my flesh cry aloud unto the living God,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15263,
+        "text": "(Even a sparrow hath found a house, And a swallow a nest for herself, Where she hath placed her brood,) Thine altars, O Jehovah of Hosts, My king and my God.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15264,
+        "text": "O the happiness of those inhabiting Thy house, Yet do they praise Thee. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15265,
+        "text": "O the happiness of a man whose strength is in Thee, Highways [are] in their heart.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15266,
+        "text": "Those passing through a valley of weeping, A fountain do make it, Blessings also cover the director.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15267,
+        "text": "They go from strength unto strength, He appeareth unto God in Zion.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15268,
+        "text": "O Jehovah, God of Hosts, hear my prayer, Give ear, O God of Jacob. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15269,
+        "text": "Our shield, see, O God, And behold the face of Thine anointed,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15270,
+        "text": "For good [is] a day in Thy courts, O Teacher! I have chosen rather to be at the threshold, In the house of my God, Than to dwell in tents of wickedness.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15271,
+        "text": "For a sun and a shield [is] Jehovah God, Grace and honour doth Jehovah give. He withholdeth not good To those walking in uprightness.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15272,
+        "text": "Jehovah of Hosts! O the happiness of a man trusting in Thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

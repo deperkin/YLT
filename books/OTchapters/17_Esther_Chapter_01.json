@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 17,"name": "Esther","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 427,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12704,
+        "text": "And it cometh to pass, in the days of Ahasuerus -- he [is] Ahasuerus who is reigning from Hodu even unto Cush, seven and twenty and a hundred provinces --",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12705,
+        "text": "in those days, at the sitting of the king Ahasuerus on the throne of his kingdom, that [is] in Shushan the palace,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12706,
+        "text": "in the third year of his reign, he hath made a banquet to all his heads and his servants; of the force of Persia and Media, the chiefs and heads of the provinces [are] before him,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12707,
+        "text": "in his shewing the wealth of the honour of his kingdom, and the glory of the beauty of his greatness, many days -- eighty and a hundred days.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12708,
+        "text": "And at the fulness of these days hath the king made to all the people who are found in Shushan the palace, from great even unto small, a banquet, seven days, in the court of the garden of the house of the king --",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12709,
+        "text": "white linen, white cotton, and blue, fastened with cords of fine linen and purple on rings of silver, and pillars of marble, couches of gold, and of silver, on a pavement of smaragdus, and white marble, and mother-of-pearl, and black marble --",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12710,
+        "text": "and the giving of drink in vessels of gold, and the vessels [are] divers vessels, and the royal wine [is] abundant, as a memorial of the king.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12711,
+        "text": "And the drinking [is] according to law, none is pressing, for so hath the king appointed for every chief one of his house, to do according to the pleasure of man and man.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12712,
+        "text": "Also Vashti the queen hath made a banquet for women, in the royal house that the king Ahasuerus hath.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12713,
+        "text": "On the seventh day, as the heart of the king is glad with wine, he hath said to Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven eunuchs who are ministering in the presence of the king Ahasuerus,",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 12714,
+        "text": "to bring in Vashti the queen before the king, with a royal crown, to shew the peoples and the heads her beauty, for she [is] of good appearance,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12715,
+        "text": "and the queen Vashti refuseth to come in at the word of the king that [is] by the hand of the eunuchs, and the king is very wroth, and his fury hath burned in him.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12716,
+        "text": "And the king saith to wise men, knowing the times -- for so [is] the word of the king before all knowing law and judgment,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12717,
+        "text": "and he who is near unto him [is] Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, Memucan, seven heads of Persia and Media seeing the face of the king, who are sitting first in the kingdom --",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12718,
+        "text": "'According to law, what -- to do with queen Vashti, because that she hath not done the saying of the king Ahasuerus by the hand of the eunuchs?'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12719,
+        "text": "And Memucan saith before the king and the heads, 'Not against the king by himself hath Vashti the queen done perversely, but against all the heads, and against all the peoples that [are] in all provinces of the king Ahasuerus;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12720,
+        "text": "for go forth doth the word of the queen unto all the women, to render their husbands contemptible in their eyes, in their saying, The king Ahasuerus said to bring in Vashti the queen before him, and she did not come;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12721,
+        "text": "yea, this day do princesses of Persia and Media, who have heard the word of the queen, say [so] to all heads of the king, even according to the sufficiency of contempt and wrath.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12722,
+        "text": "'If to the king [it be] good, there goeth forth a royal word from before him, and it is written with the laws of Persia and Media, and doth not pass away, that Vashti doth not come in before the king Ahasuerus, and her royalty doth the king give to her companion who [is] better than she;",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12723,
+        "text": "and the sentence of the king that he maketh hath been heard in all his kingdom -- for it [is] great -- and all the wives give honour to their husbands, from great even unto small.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12724,
+        "text": "And the thing is good in the eyes of the king, and of the princes, and the king doth according to the word of Memucan,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12725,
+        "text": "and sendeth letters unto all provinces of the king, unto province and province according to its writing, and unto people and people according to its tongue, for every man being head in his own house -- and speaking according to the language of his people.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

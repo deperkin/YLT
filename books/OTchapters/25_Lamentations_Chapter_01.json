@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 25,"name": "Lamentations","MaxChapters": 5},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 798,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20312,
+        "text": "How hath she sat alone, The city abounding with people! She hath been as a widow, The mighty among nations! Princes among provinces, She hath become tributary!",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20313,
+        "text": "She weepeth sore in the night, And her tear [is] on her cheeks, There is no comforter for her out of all her lovers, All her friends dealt treacherously by her, They have been to her for enemies.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20314,
+        "text": "Removed hath Judah because of affliction, And because of the abundance of her service; She hath dwelt among nations, She hath not found rest, All her pursuers have overtaken her between the straits.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20315,
+        "text": "The ways of Zion are mourning, Without any coming at the appointed time, All her gates are desolate, her priests sigh, Her virgins are afflicted -- and she hath bitterness.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20316,
+        "text": "Her adversaries have become chief, Her enemies have been at ease, For Jehovah hath afflicted her, For the abundance of her transgressions, Her infants have gone captive before the adversary.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20317,
+        "text": "And go out from the daughter of Zion doth all her honour, Her princes have been as harts -- They have not found pasture, And they go powerless before a pursuer.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20318,
+        "text": "Remembered hath Jerusalem [In] the days of her affliction and her mournings, all her desirable things that were from the days of old, In the falling of her people into the hand of an adversary, And she hath no helper; Seen her have adversaries, They have laughed at her cessation.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20319,
+        "text": "A sin hath Jerusalem sinned, Therefore impure she hath become, All who honoured her have esteemed her lightly, For they have seen her nakedness, Yea, she herself hath sighed and turneth backward.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20320,
+        "text": "Her uncleanness [is] in her skirts, She hath not remembered her latter end, And she cometh down wonderfully, There is no comforter for her. See, O Jehovah, mine affliction, For exerted himself hath an enemy.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20321,
+        "text": "His hand spread out hath an adversary On all her desirable things, For she hath seen -- Nations have entered her sanctuary, Concerning which Thou didst command, 'They do not come into the assembly to thee.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20322,
+        "text": "All her people are sighing -- seeking bread, They have given their desirable things For food to refresh the body; See, O Jehovah, and behold attentively, For I have been lightly esteemed.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20323,
+        "text": "[Is it] nothing to you, all ye passing by the way? Look attentively, and see, If there is any pain like my pain, That He is rolling to me? Whom Jehovah hath afflicted In the day of the fierceness of His anger.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 20324,
+        "text": "From above He hath sent fire into my bone, And it subdueth it, He hath spread a net for my feet, He hath turned me backward, He hath made me desolate -- all the day sick.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20325,
+        "text": "Bound hath been the yoke of my transgressions by His hand, They are wrapped together, They have gone up on my neck, He hath caused my power to stumble, The Lord hath given me into hands, I am not able to rise.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20326,
+        "text": "Trodden down all my mighty ones hath the Lord in my midst, He proclaimed against me an appointed time, To destroy my young men, A wine-press hath the Lord trodden, To the virgin daughter of Judah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20327,
+        "text": "For these I am weeping, My eye, my eye, is running down with waters, For, far from me hath been a comforter, Refreshing my soul, My sons have been desolate, For mighty hath been an enemy.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20328,
+        "text": "Spread forth hath Zion her hands, There is no comforter for her, Jehovah hath charged concerning Jacob, His neighbours [are] his adversaries, Jerusalem hath become impure among them.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20329,
+        "text": "Righteous is Jehovah, For His mouth I have provoked. Hear, I pray you, all ye peoples, and see my pain, My virgins and my young men have gone into captivity.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20330,
+        "text": "I called for my lovers, they -- they have deceived me, My priests and my elders in the city have expired; When they have sought food for themselves, Then they give back their soul.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20331,
+        "text": "See, O Jehovah, for distress [is] to me, My bowels have been troubled, Turned hath been my heart in my midst, For I have greatly provoked, From without bereaved hath the sword, In the house [it is] as death.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20332,
+        "text": "They have heard that I have sighed, There is no comforter for me, All my enemies have heard of my calamity, They have rejoiced that Thou hast done [it], Thou hast brought in the day Thou hast called, And they are like to me.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20333,
+        "text": "Come in doth all their evil before Thee, And one is doing to them as Thou hast done to me, For all my transgressions, For many [are] my sighs, and my heart [is] sick!",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

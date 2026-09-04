@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 915,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22924,
+        "text": "And the messenger who is speaking with me doth turn back, and stir me up as one who is stirred up out of his sleep,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22925,
+        "text": "and he saith unto me, 'What art thou seeing?' And I say, 'I have looked, and lo, a candlestick of gold -- all of it, and its bowl [is] on its top, and its seven lamps [are] upon it, and twice seven pipes [are] to the lights that [are] on its top,",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22926,
+        "text": "and two olive-trees [are] by it, one on the right of the bowl, and one on its left.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22927,
+        "text": "And I answer and speak unto the messenger who is speaking with me, saying, 'What [are] these, my lord?'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22928,
+        "text": "And the messenger who is speaking with me answereth and saith unto me, 'Hast thou not known what these [are]?' And I say, 'No, my lord.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22929,
+        "text": "And he answereth and speaketh unto me, saying: 'This [is] a word of Jehovah unto Zerubbabel, saying: Not by a force, nor by power, But -- by My Spirit, said Jehovah of Hosts.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22930,
+        "text": "Who [art] thou, O great mountain Before Zerubbabel -- for a plain! And he hath brought forth the top-stone, Cries of Grace, grace -- [are] to it.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22931,
+        "text": "And there is a word of Jehovah to me, saying,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22932,
+        "text": "Hands of Zerubbabel did found this house, And his hands do finish it, And thou hast known that Jehovah of Hosts Hath sent me unto you.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22933,
+        "text": "For who trampled on the day of small things, They have rejoiced, And seen the tin weight in the hand of Zerubbabel, These seven [are] the eyes of Jehovah, They are going to and fro in all the land.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22934,
+        "text": "And I answer and say unto him, 'What [are] these two olive-trees, on the right of the candlestick, and on its left?'",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 22935,
+        "text": "And I answer a second time, and say unto him, 'What [are] the two branches of the olive trees that, by means of the two golden pipes, are emptying out of themselves the oil?'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22936,
+        "text": "And he speaketh unto me, saying, 'Hast thou not known what these [are]?' And I say, 'No, my lord.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22937,
+        "text": "And he saith, 'These [are] the two sons of the oil, who are standing by the Lord of the whole earth.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 117,
+    "count": 595,
+    "MaxVerses": 2,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15869,
+        "text": "Praise Jehovah, all ye nations, Glorify Him, all ye peoples.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15870,
+        "text": "For mighty to us hath been His kindness, And the truth of Jehovah [is] to the age. Praise ye Jah!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 674,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17573,
+        "text": "On my couch by night, I sought him whom my soul hath loved; I sought him, and I found him not!",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17574,
+        "text": "-- Pray, let me rise, and go round the city, In the streets and in the broad places, I seek him whom my soul hath loved! -- I sought him, and I found him not.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17575,
+        "text": "The watchmen have found me, (Who are going round about the city), 'Him whom my soul have loved saw ye?'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17576,
+        "text": "But a little I passed on from them, Till I found him whom my soul hath loved! I seized him, and let him not go, Till I brought him in unto the house of my mother -- And the chamber of her that conceived me.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17577,
+        "text": "I have adjured you, daughters of Jerusalem, By the roes or by the hinds of the field, Stir not up nor wake the love till she please!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17578,
+        "text": "Who [is] this coming up from the wilderness, Like palm-trees of smoke, Perfumed [with] myrrh and frankincense, From every powder of the merchant?",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17579,
+        "text": "Lo, his couch, that [is] Solomon's, Sixty mighty ones [are] around it, Of the mighty of Israel,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17580,
+        "text": "All of them holding sword, taught of battle, Each his sword by his thigh, for fear at night.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17581,
+        "text": "A palanquin king Solomon made for himself, Of the wood of Lebanon,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17582,
+        "text": "Its pillars he made of silver, Its bottom of gold, its seat of purple, Its midst lined [with] love, By the daughters of Jerusalem.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17583,
+        "text": "Go forth, and look, ye daughters of Zion, On king Solomon, with the crown, With which his mother crowned him, In the day of his espousals, And in the day of the joy of his heart!",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

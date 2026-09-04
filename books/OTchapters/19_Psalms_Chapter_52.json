@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 52,
+    "count": 530,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14712,
+        "text": "To the Overseer. -- An instruction, by David, in the coming in of Doeg the Edomite, and he declareth to Saul, and saith to him, 'David came in unto the house of Ahimelech.' What, boasteth thou in evil, O mighty one? The kindness of God [is] all the day.",
+        "WordCount": 49,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14713,
+        "text": "Mischiefs doth thy tongue devise, Like a sharp razor, working deceit.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14714,
+        "text": "Thou hast loved evil rather than good, Lying, than speaking righteousness. Selah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14715,
+        "text": "Thou hast loved all devouring words, O thou deceitful tongue.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14716,
+        "text": "Also -- God doth break thee down for ever, Taketh thee, and pulleth thee out of the tent, And He hath uprooted thee Out of the land of the living. Selah.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14717,
+        "text": "And the righteous see, And fear, and laugh at him.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14718,
+        "text": "'Lo, the man who maketh not God his strong place, And trusteth in the abundance of his riches, He is strong in his mischiefs.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14719,
+        "text": "And I, as a green olive in the house of God, I have trusted in the kindness of God, To the age and for ever,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14720,
+        "text": "I thank Thee to the age, because Thou hast done [it], And I wait [on] Thy name for [it is] good before Thy saints!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

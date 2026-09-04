@@ -1,0 +1,1244 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 119,
+    "count": 597,
+    "MaxVerses": 176,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15900,
+        "text": "[Aleph.] O the happiness of those perfect in the way, They are walking in the law of Jehovah,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15901,
+        "text": "O the happiness of those keeping His testimonies, With the whole heart they seek Him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15902,
+        "text": "Yea, they have not done iniquity, In His ways they have walked.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15903,
+        "text": "Thou hast commanded us Thy precepts to keep diligently,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 15904,
+        "text": "O that my ways were prepared to keep Thy statutes,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15905,
+        "text": "Then I am not ashamed In my looking unto all Thy commands.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15906,
+        "text": "I confess Thee with uprightness of heart, In my learning the judgments of Thy righteousness.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 15907,
+        "text": "Thy statutes I keep, leave me not utterly!",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15908,
+        "text": "[Beth.] With what doth a young man purify his path? To observe -- according to Thy word.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 15909,
+        "text": "With all my heart I have sought Thee, Let me not err from Thy commands.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 15910,
+        "text": "In my heart I have hid Thy saying, That I sin not before Thee.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 15911,
+        "text": "Blessed [art] Thou, O Jehovah, teach me Thy statutes.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 15912,
+        "text": "With my lips I have recounted All the judgments of Thy mouth.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 15913,
+        "text": "In the way of Thy testimonies I have joyed, As over all wealth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15914,
+        "text": "In Thy precepts I meditate, And I behold attentively Thy paths.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15915,
+        "text": "In Thy statutes I delight myself, I do not forget Thy word.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15916,
+        "text": "[Gimel.] Confer benefits on Thy servant, I live, and I keep Thy word.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 15917,
+        "text": "Uncover mine eyes, and I behold wonders out of Thy law.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 15918,
+        "text": "A sojourner I [am] on earth, Hide not from me Thy commands.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 15919,
+        "text": "Broken hath my soul for desire Unto Thy judgments at all times.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 15920,
+        "text": "Thou hast rebuked the cursed proud, Who are erring from Thy commands.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 15921,
+        "text": "Remove from me reproach and contempt, For Thy testimonies I have kept.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 15922,
+        "text": "Princes also sat -- against me they spoke, Thy servant doth meditate in Thy statutes,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 15923,
+        "text": "Thy testimonies also [are] my delight, The men of my counsel!",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 15924,
+        "text": "[Daleth.] Cleaved to the dust hath my soul, Quicken me according to Thy word.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 15925,
+        "text": "My ways I have recounted, And Thou answerest me, teach me Thy statutes,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 15926,
+        "text": "The way of Thy precepts cause me to understand, And I meditate in Thy wonders.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15927,
+        "text": "My soul hath dropped from affliction, Establish me according to Thy word.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 15928,
+        "text": "The way of falsehood turn aside from me And with Thy law favour me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15929,
+        "text": "The way of faithfulness I have chosen, Thy judgments I have compared,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 15930,
+        "text": "I have adhered to Thy testimonies, O Jehovah, put me not to shame.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15931,
+        "text": "The way of Thy commands I run, For Thou dost enlarge my heart!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15932,
+        "text": "[He.] Show me, O Jehovah, the way of Thy statutes, And I keep it -- [to] the end.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 15933,
+        "text": "Cause me to understand, and I keep Thy law, And observe it with the whole heart.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15934,
+        "text": "Cause me to tread in the path of Thy commands, For in it I have delighted.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 15935,
+        "text": "Incline my heart unto Thy testimonies, And not unto dishonest gain.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15936,
+        "text": "Remove mine eyes from seeing vanity, In Thy way quicken Thou me.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 15937,
+        "text": "Establish to Thy servant Thy saying, That [is] concerning Thy fear.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 15938,
+        "text": "Remove my reproach that I have feared, For Thy judgments [are] good.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 40,
+        "count": 15939,
+        "text": "Lo, I have longed for Thy precepts, In Thy righteousness quicken Thou me,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 41,
+        "count": 15940,
+        "text": "[Waw.] And meet me doth Thy kindness, O Jehovah, Thy salvation according to Thy saying.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 15941,
+        "text": "And I answer him who is reproaching me a word, For I have trusted in Thy word.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15942,
+        "text": "And Thou takest not utterly away From my mouth the word of truth, Because for Thy judgment I have hoped.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 15943,
+        "text": "And I keep Thy law continually, To the age and for ever.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 15944,
+        "text": "And I walk habitually in a broad place, For Thy precepts I have sought.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 46,
+        "count": 15945,
+        "text": "And I speak of Thy testimonies before kings, And I am not ashamed.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 15946,
+        "text": "And I delight myself in Thy commands, That I have loved,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 15947,
+        "text": "And I lift up my hands unto Thy commands, That I have loved, And I do meditate on Thy statutes!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 15948,
+        "text": "[Zain.] Remember the word to Thy servant, On which Thou hast caused me to hope.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 50,
+        "count": 15949,
+        "text": "This [is] my comfort in mine affliction, That Thy saying hath quickened me.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 51,
+        "count": 15950,
+        "text": "The proud have utterly scorned me, From Thy law I have not turned aside.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 52,
+        "count": 15951,
+        "text": "I remembered Thy judgments of old, O Jehovah, And I comfort myself.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 53,
+        "count": 15952,
+        "text": "Horror hath seized me, Because of the wicked forsaking Thy law.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 54,
+        "count": 15953,
+        "text": "Songs have been to me Thy statutes, In the house of my sojournings.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 55,
+        "count": 15954,
+        "text": "I have remembered in the night Thy name, O Jehovah, And I do keep Thy law.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 56,
+        "count": 15955,
+        "text": "This hath been to me, That Thy precepts I have kept!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 15956,
+        "text": "[Cheth.] My portion [is] Jehovah; I have said -- to keep Thy words,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 58,
+        "count": 15957,
+        "text": "I appeased Thy face with the whole heart, Favour me according to Thy saying.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 59,
+        "count": 15958,
+        "text": "I have reckoned my ways, And turn back my feet unto Thy testimonies.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 60,
+        "count": 15959,
+        "text": "I have made haste, And delayed not, to keep Thy commands.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 15960,
+        "text": "Cords of the wicked have surrounded me, Thy law I have not forgotten.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 62,
+        "count": 15961,
+        "text": "At midnight I rise to give thanks to Thee, For the judgments of Thy righteousness.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 63,
+        "count": 15962,
+        "text": "A companion I [am] to all who fear Thee, And to those keeping Thy precepts.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 64,
+        "count": 15963,
+        "text": "Of Thy kindness, O Jehovah, the earth is full, Thy statutes teach Thou me!",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 65,
+        "count": 15964,
+        "text": "[Teth.] Good Thou didst with Thy servant, O Jehovah, According to Thy word.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 66,
+        "count": 15965,
+        "text": "The goodness of reason and knowledge teach me, For in Thy commands I have believed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 15966,
+        "text": "Before I am afflicted, I -- I am erring, And now Thy saying I have kept.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 68,
+        "count": 15967,
+        "text": "Good Thou [art], and doing good, Teach me Thy statutes.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 69,
+        "count": 15968,
+        "text": "Forged against me falsehood have the proud, I with the whole heart keep Thy precepts.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 70,
+        "count": 15969,
+        "text": "Insensate as fat hath been their heart, I -- in Thy law I have delighted.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 71,
+        "count": 15970,
+        "text": "Good for me that I have been afflicted, That I might learn Thy statutes.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 72,
+        "count": 15971,
+        "text": "Better to me [is] the law of Thy mouth Than thousands of gold and silver!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 73,
+        "count": 15972,
+        "text": "[Yod.] Thy hands made me and establish me, Cause me to understand, and I learn Thy commands.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 74,
+        "count": 15973,
+        "text": "Those fearing Thee see me and rejoice, Because for Thy word I have hoped.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 75,
+        "count": 15974,
+        "text": "I have known, O Jehovah, That righteous [are] Thy judgments, And [in] faithfulness Thou hast afflicted me.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 76,
+        "count": 15975,
+        "text": "Let, I pray Thee, Thy kindness be to comfort me, According to Thy saying to Thy servant.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 77,
+        "count": 15976,
+        "text": "Meet me do Thy mercies, and I live, For Thy law [is] my delight.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 78,
+        "count": 15977,
+        "text": "Ashamed are the proud, For [with] falsehood they dealt perversely with me. I meditate in Thy precepts.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 79,
+        "count": 15978,
+        "text": "Those fearing Thee turn back to me, And those knowing Thy testimonies.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 80,
+        "count": 15979,
+        "text": "My heart is perfect in Thy statutes, So that I am not ashamed.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 81,
+        "count": 15980,
+        "text": "[Kaph.] Consumed for Thy salvation hath been my soul, For Thy word I have hoped.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 82,
+        "count": 15981,
+        "text": "Consumed have been mine eyes for Thy word, Saying, 'When doth it comfort me?'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 83,
+        "count": 15982,
+        "text": "For I have been as a bottle in smoke, Thy statutes I have not forgotten.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 84,
+        "count": 15983,
+        "text": "How many [are] the days of Thy servant? When dost Thou execute Against my pursuers judgment?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 85,
+        "count": 15984,
+        "text": "The proud have digged for me pits, That [are] not according to Thy law.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 86,
+        "count": 15985,
+        "text": "All Thy commands [are] faithfulness, [With] falsehood they have pursued me, Help Thou me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 87,
+        "count": 15986,
+        "text": "Almost consumed me on earth have they, And I -- I have not forsaken Thy precepts.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 88,
+        "count": 15987,
+        "text": "According to Thy kindness quicken Thou me, And I keep the testimony of Thy mouth!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 89,
+        "count": 15988,
+        "text": "[Lamed.] To the age, O Jehovah, Thy word is set up in the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 90,
+        "count": 15989,
+        "text": "To all generations Thy faithfulness, Thou didst establish earth, and it standeth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 91,
+        "count": 15990,
+        "text": "According to Thine ordinances They have stood this day, for the whole [are] Thy servants.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 92,
+        "count": 15991,
+        "text": "Unless Thy law [were] my delights, Then had I perished in mine affliction.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 93,
+        "count": 15992,
+        "text": "To the age I forget not Thy precepts, For by them Thou hast quickened me.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 94,
+        "count": 15993,
+        "text": "I [am] Thine, save Thou me, For Thy precepts I have sought.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 95,
+        "count": 15994,
+        "text": "Thy wicked waited for me to destroy me, Thy testimonies I understand.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 96,
+        "count": 15995,
+        "text": "Of all perfection I have seen an end, Broad [is] Thy command -- exceedingly!",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 97,
+        "count": 15996,
+        "text": "[Mem.] O how I have loved Thy law! All the day it [is] my meditation.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 98,
+        "count": 15997,
+        "text": "Than mine enemies Thy command maketh me wiser, For it [is] before me to the age.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 99,
+        "count": 15998,
+        "text": "Above all my teachers I have acted wisely. For Thy testimonies [are] my meditation.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 100,
+        "count": 15999,
+        "text": "Above elders I understand more, For Thy precepts I have kept.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 101,
+        "count": 16000,
+        "text": "From every evil path I restrained my feet, So that I keep Thy word.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 102,
+        "count": 16001,
+        "text": "From Thy judgments I turned not aside, For Thou -- Thou hast directed me.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 103,
+        "count": 16002,
+        "text": "How sweet to my palate hath been Thy saying, Above honey to my mouth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 104,
+        "count": 16003,
+        "text": "From Thy precepts I have understanding, Therefore I have hated every false path!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 105,
+        "count": 16004,
+        "text": "[Nun.] A lamp to my foot [is] Thy word, And a light to my path.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 106,
+        "count": 16005,
+        "text": "I have sworn, and I confirm [it], To keep the judgments of Thy righteousness.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 107,
+        "count": 16006,
+        "text": "I have been afflicted very much, O Jehovah, quicken me, according to Thy word.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 108,
+        "count": 16007,
+        "text": "Free-will-offerings of my mouth, Accept, I pray Thee, O Jehovah, And Thy judgments teach Thou me.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 109,
+        "count": 16008,
+        "text": "My soul [is] in my hand continually, And Thy law I have not forgotten.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 110,
+        "count": 16009,
+        "text": "The wicked have laid a snare for me, And from thy precepts I wandered not.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 111,
+        "count": 16010,
+        "text": "I have inherited Thy testimonies to the age, For the joy of my heart [are] they.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 112,
+        "count": 16011,
+        "text": "I have inclined my heart To do Thy statutes, to the age -- [to] the end!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 113,
+        "count": 16012,
+        "text": "[Samech.] Doubting ones I have hated, And Thy law I have loved.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 114,
+        "count": 16013,
+        "text": "My hiding place and my shield [art] Thou, For Thy word I have hoped.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 115,
+        "count": 16014,
+        "text": "Turn aside from me, ye evil-doers, And I keep the commands of my God.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 116,
+        "count": 16015,
+        "text": "Sustain me according to Thy saying, And I live, and Thou puttest me not to shame Because of my hope.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 117,
+        "count": 16016,
+        "text": "Support Thou me, and I am saved, And I look on Thy statutes continually.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 118,
+        "count": 16017,
+        "text": "Thou hast trodden down All going astray from Thy statutes, For falsehood [is] their deceit.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 119,
+        "count": 16018,
+        "text": "Dross! Thou hast caused to cease All the wicked of the earth; Therefore I have loved Thy testimonies.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 120,
+        "count": 16019,
+        "text": "Trembled from Thy fear hath my flesh, And from Thy judgments I have been afraid!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 121,
+        "count": 16020,
+        "text": "[Ain.] I have done judgment and righteousness, Leave me not to mine oppressors.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 122,
+        "count": 16021,
+        "text": "Make sure Thy servant for good, Let not the proud oppress me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 123,
+        "count": 16022,
+        "text": "Mine eyes have been consumed for Thy salvation. And for the saying of Thy righteousness.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 124,
+        "count": 16023,
+        "text": "Do with Thy servant according to Thy kindness. And Thy statutes teach Thou me.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 125,
+        "count": 16024,
+        "text": "Thy servant [am] I -- cause me to understand, And I know Thy testimonies.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 126,
+        "count": 16025,
+        "text": "Time for Jehovah to work! they have made void Thy law.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 127,
+        "count": 16026,
+        "text": "Therefore I have loved Thy commands Above gold -- even fine gold.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 128,
+        "count": 16027,
+        "text": "Therefore all my appointments I have declared wholly right, Every path of falsehood I have hated!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 129,
+        "count": 16028,
+        "text": "[Pe.] Wonderful [are] Thy testimonies, Therefore hath my soul kept them.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 130,
+        "count": 16029,
+        "text": "The opening of Thy words enlighteneth, Instructing the simple.",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 131,
+        "count": 16030,
+        "text": "My mouth I have opened, yea, I pant, For, for Thy commands I have longed.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 132,
+        "count": 16031,
+        "text": "Look unto me, and favour me, As customary to those loving Thy name.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 133,
+        "count": 16032,
+        "text": "My steps establish by Thy saying, And any iniquity doth not rule over me.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 134,
+        "count": 16033,
+        "text": "Ransom me from the oppression of man, And I observe Thy precepts,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 135,
+        "count": 16034,
+        "text": "Thy face cause to shine on Thy servant, And teach me Thy statutes.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 136,
+        "count": 16035,
+        "text": "Rivulets of waters have come down mine eyes, Because they have not kept Thy law!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 137,
+        "count": 16036,
+        "text": "[Tzade.] Righteous [art] Thou, O Jehovah, And upright [are] Thy judgments.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 138,
+        "count": 16037,
+        "text": "Thou hast appointed Thy testimonies, Righteous and exceeding faithful,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 139,
+        "count": 16038,
+        "text": "Cut me off hath my zeal, For mine adversaries forgot Thy words.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 140,
+        "count": 16039,
+        "text": "Tried [is] thy saying exceedingly, And Thy servant hath loved it.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 141,
+        "count": 16040,
+        "text": "Small I [am], and despised, Thy precepts I have not forgotten.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 142,
+        "count": 16041,
+        "text": "Thy righteousness [is] righteousness to the age, And Thy law [is] truth.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 143,
+        "count": 16042,
+        "text": "Adversity and distress have found me, Thy commands [are] my delights.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 144,
+        "count": 16043,
+        "text": "The righteousness of Thy testimonies [is] to Cause me to understand, and I live!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 145,
+        "count": 16044,
+        "text": "[Koph.] I have called with the whole heart, Answer me, O Jehovah, Thy statutes I keep,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 146,
+        "count": 16045,
+        "text": "I have called Thee, save Thou me, And I do keep Thy testimonies.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 147,
+        "count": 16046,
+        "text": "I have gone forward in the dawn, and I cry, For Thy word I have hoped.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 148,
+        "count": 16047,
+        "text": "Mine eyes have gone before the watches, To meditate in Thy saying.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 149,
+        "count": 16048,
+        "text": "My voice hear, according to Thy kindness, Jehovah, according to Thy judgment quicken me.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 150,
+        "count": 16049,
+        "text": "Near have been my wicked pursuers, From Thy law they have been far off.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 151,
+        "count": 16050,
+        "text": "Near [art] Thou, O Jehovah, And all Thy commands [are] truth.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 152,
+        "count": 16051,
+        "text": "Of old I have known Thy testimonies, That to the age Thou hast founded them!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 153,
+        "count": 16052,
+        "text": "[Resh.] See my affliction, and deliver Thou me, For Thy law I have not forgotten.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 154,
+        "count": 16053,
+        "text": "Plead my plea, and redeem me, According to Thy saying quicken me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 155,
+        "count": 16054,
+        "text": "Far from the wicked [is] salvation, For Thy statutes they have not sought.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 156,
+        "count": 16055,
+        "text": "Thy mercies [are] many, O Jehovah, According to Thy judgments quicken me.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 157,
+        "count": 16056,
+        "text": "Many [are] my pursuers, and adversaries, From Thy testimonies I have not turned aside.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 158,
+        "count": 16057,
+        "text": "I have seen treacherous ones, And grieve myself, Because Thy saying they have not kept.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 159,
+        "count": 16058,
+        "text": "See, for thy precepts I have loved, Jehovah, According to Thy kindness quicken me.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 160,
+        "count": 16059,
+        "text": "The sum of Thy word [is] truth, And to the age [is] every judgment of Thy righteousness!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 161,
+        "count": 16060,
+        "text": "[Shin.] Princes have pursued me without cause, And because of Thy words was my heart afraid.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 162,
+        "count": 16061,
+        "text": "I do rejoice concerning Thy saying, As one finding abundant spoil.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 163,
+        "count": 16062,
+        "text": "Falsehood I have hated, yea I abominate [it], Thy law I have loved.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 164,
+        "count": 16063,
+        "text": "Seven [times] in a day I have praised Thee, Because of the judgments of Thy righteousness.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 165,
+        "count": 16064,
+        "text": "Abundant peace have those loving Thy law, And they have no stumbling-block.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 166,
+        "count": 16065,
+        "text": "I have waited for Thy salvation, O Jehovah, And Thy commands I have done.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 167,
+        "count": 16066,
+        "text": "Kept hath my soul Thy testimonies, And I do love them exceedingly.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 168,
+        "count": 16067,
+        "text": "I have kept Thy precepts and Thy testimonies, For all my ways are before Thee!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 169,
+        "count": 16068,
+        "text": "[Taw.] My loud cry cometh near before Thee, O Jehovah; According to Thy word cause me to understand.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 170,
+        "count": 16069,
+        "text": "My supplication cometh in before Thee, According to Thy saying deliver Thou me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 171,
+        "count": 16070,
+        "text": "My lips do utter praise, For Thou dost teach me Thy statutes.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 172,
+        "count": 16071,
+        "text": "My tongue doth sing of Thy saying, For all Thy commands [are] righteous.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 173,
+        "count": 16072,
+        "text": "Thy hand is for a help to me, For Thy commands I have chosen.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 174,
+        "count": 16073,
+        "text": "I have longed for Thy salvation, O Jehovah, And Thy law [is] my delight.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 175,
+        "count": 16074,
+        "text": "My soul liveth, and it doth praise Thee, And Thy judgments do help me.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 176,
+        "count": 16075,
+        "text": "I wandered as a lost sheep, seek Thy servant, For Thy precepts I have not forgotten!",
+        "WordCount": 16,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 489,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14061,
+        "text": "To the Overseer. -- By David. In Jehovah I trusted, how say ye to my soul, 'They moved [to] Thy mountain for the bird?",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14062,
+        "text": "For lo, the wicked tread a bow, They have prepared their arrow on the string, To shoot in darkness at the upright in heart.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14063,
+        "text": "When the foundations are destroyed, The righteous -- what hath he done?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14064,
+        "text": "'Jehovah [is] in his holy temple: Jehovah -- in the heavens [is] His throne. His eyes see -- His eyelids try the sons of men.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 14065,
+        "text": "Jehovah the righteous doth try. And the wicked and the lover of violence, Hath His soul hated,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14066,
+        "text": "He poureth on the wicked snares, fire, and brimstone, And a horrible wind [is] the portion of their cup.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14067,
+        "text": "For righteous [is] Jehovah, Righteousness He hath loved, The upright doth His countenance see!'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

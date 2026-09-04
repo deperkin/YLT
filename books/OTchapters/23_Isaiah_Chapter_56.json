@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 56,
+    "count": 735,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18755,
+        "text": "Thus said Jehovah: 'Keep ye judgment, and do righteousness, For near [is] My salvation to come, And My righteousness to be revealed.'",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18756,
+        "text": "O the happiness of a man who doth this, And of a son of man who keepeth hold on it, Keeping the sabbath from polluting it, And keeping his hand from doing any evil.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18757,
+        "text": "Nor speak let a son of the stranger, Who is joined unto Jehovah, saying: 'Jehovah doth certainly separate me from His people.' Nor say let the eunuch, 'Lo, I am a tree dried up,'",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 18758,
+        "text": "For thus said Jehovah of the eunuchs, Who do keep My sabbaths, And have fixed on that which I desired, And are keeping hold on My covenant:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18759,
+        "text": "I have given to them in My house, And within My walls a station and a name, Better than sons and than daughters, A name age-during I give to him That is not cut off.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18760,
+        "text": "And sons of the stranger, who are joined to Jehovah, To serve Him, and to love the name of Jehovah, To be to Him for servants, Every keeper of the sabbath from polluting it, And those keeping hold on My covenant.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18761,
+        "text": "I have brought them unto My holy mountain, And caused them to rejoice in My house of prayer, Their burnt-offerings and their sacrifices [Are] for a pleasing thing on Mine altar, For My house, 'A house of prayer,' Is called for all the peoples.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18762,
+        "text": "An affirmation of the Lord Jehovah, Who is gathering the outcasts of Israel: 'Again I gather to him -- to his gathered ones.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18763,
+        "text": "Every beast of the field, Come to devour, every beast in the forest.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18764,
+        "text": "Blind [are] his watchmen -- all of them, They have not known, All of them [are] dumb dogs, they are not able to bark, Dozing, lying down, loving to slumber.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18765,
+        "text": "And the dogs [are] strong of desire, They have not known sufficiency, And they [are] shepherds! They have not known understanding, All of them to their own way they did turn, Each to his dishonest gain from his quarter:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18766,
+        "text": "'Come ye, I take wine, And we drink, quaff strong drink, And as this day hath been to-morrow, Great -- exceeding abundant!'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

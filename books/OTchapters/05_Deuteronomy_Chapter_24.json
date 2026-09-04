@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 177,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5527,
+        "text": "'When a man doth take a wife, and hath married her, and it hath been, if she doth not find grace in his eyes (for he hath found in her nakedness of anything), and he hath written for her a writing of divorce, and given [it] into her hand, and sent her out of his house,",
+        "WordCount": 56,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5528,
+        "text": "and she hath gone out of his house, and hath gone and been another man's,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5529,
+        "text": "and the latter man hath hated her, and written for her a writing of divorce, and given [it] into her hand, and sent her out of his house, or when the latter man dieth, who hath taken her to himself for a wife:",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5530,
+        "text": "'Her former husband who sent her away is not able to turn back to take her to be to him for a wife, after that she hath become defiled; for an abomination it [is] before Jehovah, and thou dost not cause the land to sin which Jehovah thy God is giving to thee -- an inheritance.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5531,
+        "text": "'When a man taketh a new wife, he doth not go out into the host, and [one] doth not pass over unto him for anything; free he is at his own house one year, and hath rejoiced his wife whom he hath taken.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 5532,
+        "text": "'None doth take in pledge millstones, and rider, for life it [is] he is taking in pledge.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5533,
+        "text": "'When a man is found stealing a person, of his brethren, of the sons of Israel, and hath tyrannized over him, and sold him, then hath that thief died, and thou hast put away the evil thing out of thy midst.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5534,
+        "text": "'Take heed, in the plague of leprosy, to watch greatly, and to do according to all that the priests, the Levites, teach you; as I have commanded them ye observe to do;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5535,
+        "text": "remember that which Jehovah thy God hath done to Miriam in the way, in your coming out of Egypt.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5536,
+        "text": "'When thou liftest up on thy brother a debt of anything, thou dost not go in unto his house to obtain his pledge;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5537,
+        "text": "at the outside thou dost stand, and the man on whom thou art lifting [it] up is bringing out unto thee the pledge at the outside.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5538,
+        "text": "'And if he is a poor man, thou dost not lie down with his pledge;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5539,
+        "text": "thou dost certainly give back to him the pledge at the going in of the sun, and he hath lain down in his own raiment, and hath blessed thee; and to thee it is righteousness before Jehovah thy God.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5540,
+        "text": "'Thou dost not oppress a hireling, poor and needy, of thy brethren or of thy sojourner who is in thy land within thy gates;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 5541,
+        "text": "in his day thou dost give his hire, and the sun doth not go in upon it, for he [is] poor, and unto it he is lifting up his soul, and he doth not cry against thee unto Jehovah, and it hath been in thee -- sin.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5542,
+        "text": "'Fathers are not put to death for sons, and sons are not put to death for fathers -- each for his own sin, they are put to death.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5543,
+        "text": "'Thou dost not turn aside the judgment of a fatherless sojourner, nor take in pledge the garment of a widow;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5544,
+        "text": "and thou hast remembered that a servant thou hast been in Egypt, and Jehovah thy God doth ransom thee from thence; therefore I am commanding thee to do this thing.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5545,
+        "text": "'When thou reapest thy harvest in thy field, and hast forgotten a sheaf in a field, thou dost not turn back to take it; to the sojourner, to the fatherless, and to the widow, it is; so that Jehovah thy God doth bless thee in all the work of thy hands.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5546,
+        "text": "'When thou beatest thine olive, thou dost not examine the branch behind thee; to the sojourner, to the fatherless, and to the widow, it is.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5547,
+        "text": "'When thou cuttest thy vineyard, thou dost not glean behind thee; to the sojourner, to the fatherless, and to the widow, it is;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5548,
+        "text": "and thou hast remembered that a servant thou hast been in the land of Egypt; therefore I am commanding thee to do this thing.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

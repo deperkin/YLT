@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 77,
+    "count": 555,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15095,
+        "text": "To the Overseer, for Jeduthun. -- A Psalm of Asaph. My voice [is] to God, and I cry, my voice [is] to God, And He hath given ear unto me.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15096,
+        "text": "In a day of my distress the Lord I sought, My hand by night hath been spread out, And it doth not cease, My soul hath refused to be comforted.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15097,
+        "text": "I remember God, and make a noise, I meditate, and feeble is my spirit. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15098,
+        "text": "Thou hast taken hold of the watches of mine eyes, I have been moved, and I speak not.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15099,
+        "text": "I have reckoned the days of old, The years of the ages.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15100,
+        "text": "I remember my music in the night, With my heart I meditate, and my spirit doth search diligently:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15101,
+        "text": "To the ages doth the Lord cast off? Doth He add to be pleased no more?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15102,
+        "text": "Hath His kindness ceased for ever? The saying failed to all generations?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15103,
+        "text": "Hath God forgotten [His] favours? Hath He shut up in anger His mercies? Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15104,
+        "text": "And I say: 'My weakness is, The changes of the right hand of the Most High.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15105,
+        "text": "I mention the doings of Jah, For I remember of old Thy wonders,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 15106,
+        "text": "And I have meditated on all Thy working, And I talk concerning Thy doings.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15107,
+        "text": "O God, in holiness [is] Thy way, Who [is] a great god like God?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15108,
+        "text": "Thou [art] the God doing wonders. Thou hast made known among the peoples Thy strength,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15109,
+        "text": "Thou hast redeemed with strength Thy people, The sons of Jacob and Joseph. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15110,
+        "text": "The waters have seen Thee, O God, The waters have seen Thee, They are afraid -- also depths are troubled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15111,
+        "text": "Poured out waters have thick clouds, The skies have given forth a noise, Also -- Thine arrows go up and down.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15112,
+        "text": "The voice of Thy thunder [is] in the spheres, Lightnings have lightened the world, The earth hath trembled, yea, it shaketh.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15113,
+        "text": "In the sea [is] Thy way, And Thy paths [are] in many waters, And Thy tracks have not been known.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15114,
+        "text": "Thou hast led as a flock Thy people, By the hand of Moses and Aaron!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

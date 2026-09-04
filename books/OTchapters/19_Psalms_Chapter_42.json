@@ -1,0 +1,89 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 42,
+    "count": 520,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14557,
+        "text": "To the Overseer. -- An Instruction. By sons of Korah. As a hart doth pant for streams of water, So my soul panteth toward Thee, O God.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14558,
+        "text": "My soul thirsted for God, for the living God, When do I enter and see the face of God?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14559,
+        "text": "My tear hath been to me bread day and night, In their saying unto me all the day, 'Where [is] thy God?'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14560,
+        "text": "These I remember, and pour out my soul in me, For I pass over into the booth, I go softly with them unto the house of God, With the voice of singing and confession, The multitude keeping feast!",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14561,
+        "text": "What! bowest thou thyself, O my soul? Yea, art thou troubled within me? Wait for God, for still I confess Him: The salvation of my countenance -- My God!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14562,
+        "text": "In me doth my soul bow itself, Therefore I remember Thee from the land of Jordan, And of the Hermons, from the hill Mizar.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14563,
+        "text": "Deep unto deep is calling At the noise of Thy water-spouts, All Thy breakers and Thy billows passed over me.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14564,
+        "text": "By day Jehovah commandeth His kindness, And by night a song [is] with me, A prayer to the God of my life.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14565,
+        "text": "I say to God my rock, 'Why hast Thou forgotten me? Why go I mourning in the oppression of an enemy?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14566,
+        "text": "With a sword in my bones Have mine adversaries reproached me, In their saying unto me all the day, 'Where [is] thy God?'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14567,
+        "text": "What! bowest thou thyself, O my soul? And what! art thou troubled within me? Wait for God, for still I confess Him, The salvation of my countenance, and my God!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

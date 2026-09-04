@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 307,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9285,
+        "text": "And a word of Jehovah is unto Jehu son of Hanani, against Baasha, saying,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9286,
+        "text": "'Because that I have raised thee up out of the dust, and appoint thee leader over My people Israel, and thou walkest in the way of Jeroboam, and causest My people Israel to sin -- to provoke Me to anger with their sins;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9287,
+        "text": "lo, I am putting away the posterity of Baasha, even the posterity of his house, and have given up thy house as the house of Jeroboam son of Nebat;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9288,
+        "text": "him who dieth of Baasha in a city do the dogs eat, and him who dieth of his in a field do fowl of the heavens eat.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9289,
+        "text": "And the rest of the matters of Baasha, and that which he did, and his might, are they not written on the book of the Chronicles of the kings of Israel?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9290,
+        "text": "And Baasha lieth with his fathers, and is buried in Tirzah, and Elah his son reigneth in his stead.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9291,
+        "text": "And also by the hand of Jehu son of Hanani the prophet a word of Jehovah hath been concerning Baasha, and concerning his house, and concerning all the evil that he did in the eyes of Jehovah to provoke Him to anger with the work of his hands, to be like the house of Jeroboam, and concerning that for which he smote him.",
+        "WordCount": 63,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9292,
+        "text": "In the twenty and sixth year of Asa king of Judah reigned hath Elah son of Baasha over Israel in Tirzah, two years;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 9293,
+        "text": "and conspire against him doth his servant Zimri (head of the half of the chariots) and he [is] in Tirzah drinking -- a drunkard in the house of Arza, who [is] over the house in Tirzah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9294,
+        "text": "And Zimri cometh in and smiteth him, and putteth him to death, in the twenty and seventh year of Asa king of Judah, and reigneth in his stead;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9295,
+        "text": "and it cometh to pass in his reigning, at his sitting on his throne, he hath smitten the whole house of Baasha; he hath not left to him any sitting on the wall, and of his redeemers, and of his friends.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9296,
+        "text": "And Zimri destroyeth the whole house of Baasha, according to the word of Jehovah, that He spake concerning Baasha, by the hand of Jehu the prophet:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9297,
+        "text": "concerning all the sins of Baasha, and the sins of Elah his son, that they sinned, and that they caused Israel to sin to provoke Jehovah, God of Israel, with their vanities.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9298,
+        "text": "And the rest of the matters of Elah, and all that he did, are they not written on the book of the Chronicles of the kings of Israel?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9299,
+        "text": "In the twenty and seventh year of Asa king of Judah, reigned hath Zimri seven days in Tirzah; and the people are encamping against Gibbethon, which [is] to the Philistines;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 9300,
+        "text": "and the people who are encamping hear, saying, 'Zimri hath conspired, and also hath smitten the king;' and all Israel cause Omri head of the host to reign over Israel on that day in the camp.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9301,
+        "text": "And Omri goeth up, and all Israel with him, from Gibbethon, and they lay siege to Tirzah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9302,
+        "text": "And it cometh to pass, at Zimri's seeing that the city hath been captured, that he cometh in unto a high place of the house of the king, and burneth over him the house of the king with fire, and dieth,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9303,
+        "text": "for his sins that he sinned, to do the evil thing in the eyes of Jehovah, to walk in the way of Jeroboam, and in his sin that he did, to cause Israel to sin;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9304,
+        "text": "and the rest of the matters of Zimri, and his conspiracy that he made, are they not written on the book of the Chronicles of the kings of Israel?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9305,
+        "text": "Then are the sons of Israel parted into halves; half of the people hath been after Tibni son of Ginath to cause him to reign, and the half after Omri;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9306,
+        "text": "and stronger are the people that are after Omri than the people that are after Tibni son of Ginath, and Tibni dieth, and Omri reigneth.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9307,
+        "text": "In the thirty and first year of Asa king of Judah reigned hath Omri over Israel twelve years; in Tirzah he hath reigned six years,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 9308,
+        "text": "and he buyeth the mount Samaria from Shemer, with two talents of silver, and buildeth [on] the mount, and calleth the name of the city that he hath built by the name of Shemer, lord of the hill -- Samaria.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9309,
+        "text": "And Omri doth the evil thing in the eyes of Jehovah, and doth evil above all who [are] before him,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9310,
+        "text": "and walketh in all the way of Jeroboam son of Nebat, and in his sin that he caused Israel to sin, to provoke Jehovah, God of Israel, with their vanities.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9311,
+        "text": "And the rest of the matters of Omri that he did, and his might that he got, are they not written on the book of the Chronicles of the kings of Israel?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9312,
+        "text": "And Omri lieth with his fathers, and is buried in Samaria, and Ahab his son reigneth in his stead.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9313,
+        "text": "And Ahab son of Omri hath reigned over Israel in the thirty and eighth year of Asa king of Judah, and Ahab son of Omri reigneth over Israel in Samaria twenty and two years,",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 9314,
+        "text": "and Ahab son of Omri doth the evil thing in the eyes of Jehovah above all who [are] before him.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 9315,
+        "text": "And it cometh to pass -- hath it been light his walking in the sins of Jeroboam son of Nebat? -- then he taketh a wife, Jezebel daughter of Ethbaal, king of the Zidonians, and goeth and serveth Baal, and boweth himself to it,",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 9316,
+        "text": "and raiseth up an altar for Baal, in the house of the Baal, that he built in Samaria;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 9317,
+        "text": "and Ahab maketh the shrine, and Ahab addeth to do so as to provoke Jehovah, God of Israel, above all the kings of Israel who have been before him.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 9318,
+        "text": "In his days hath Hiel the Beth-Elite built Jericho; in Abiram his first-born he laid its foundation, and in Segub his youngest he set up its doors, according to the word of Jehovah that He spake by the hand of Joshua son of Nun.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

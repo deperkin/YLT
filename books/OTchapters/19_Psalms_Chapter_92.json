@@ -1,0 +1,117 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 92,
+    "count": 570,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15413,
+        "text": "A Psalm. -- A Song for the sabbath-day. Good to give thanks to Jehovah, And to sing praises to Thy name, O Most High,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15414,
+        "text": "To declare in the morning Thy kindness, And Thy faithfulness in the nights.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15415,
+        "text": "On ten strings and on psaltery, On higgaion, with harp.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15416,
+        "text": "For Thou hast caused me to rejoice, O Jehovah, in Thy work, Concerning the works of Thy hands I sing.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15417,
+        "text": "How great have been Thy works, O Jehovah, Very deep have been Thy thoughts.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15418,
+        "text": "A brutish man doth not know, And a fool understandeth not this; --",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15419,
+        "text": "When the wicked flourish as a herb, And blossom do all workers of iniquity -- For their being destroyed for ever and ever!",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 15420,
+        "text": "And Thou [art] high to the age, O Jehovah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15421,
+        "text": "For, lo, Thine enemies, O Jehovah, For, lo, Thine enemies, do perish, Separate themselves do all workers of iniquity.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15422,
+        "text": "And Thou exaltest as a reem my horn, I have been anointed with fresh oil.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15423,
+        "text": "And mine eye looketh on mine enemies, Of those rising up against me, The evil doers, do mine ears hear.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15424,
+        "text": "The righteous as a palm-tree flourisheth, As a cedar in Lebanon he groweth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15425,
+        "text": "Those planted in the house of Jehovah, In the courts of our God do flourish.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15426,
+        "text": "Still they bring forth in old age, Fat and flourishing are they,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15427,
+        "text": "To declare that upright [is] Jehovah my rock, And there is no perverseness in Him!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

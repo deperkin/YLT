@@ -1,0 +1,404 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 150,
+    "MaxVerses": 56,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4762,
+        "text": "These [are] journeys of the sons of Israel who have come out of the land of Egypt, by their hosts, by the hand of Moses and Aaron;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4763,
+        "text": "and Moses writeth their outgoings, by their journeys, by the command of Jehovah; and these [are] their journeys, by their outgoings:",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4764,
+        "text": "And they journey from Rameses in the first month, on the fifteenth day of the first month, on the morrow of the passover have the sons of Israel gone out with a high hand, before the eyes of all the Egyptians --",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4765,
+        "text": "and the Egyptians are burying those whom Jehovah hath smitten among them, every first-born, and on their gods hath Jehovah done judgments --",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4766,
+        "text": "and the sons of Israel journey from Rameses, and encamp in Succoth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4767,
+        "text": "And they journey from Succoth, and encamp in Etham, which [is] in the extremity of the wilderness;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4768,
+        "text": "and they journey from Etham, and turn back on Pi-Hahiroth, which [is] on the front of Baal-Zephon, and they encamp before Migdol.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4769,
+        "text": "And they journey from Pi-Hahiroth, and pass over through the midst of the sea, into the wilderness, and go a journey of three days in the wilderness of Etham, and encamp in Marah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4770,
+        "text": "And they journey from Marah, and come in to Elim, and in Elim [are] twelve fountains of waters, and seventy palm trees, and they encamp there;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4771,
+        "text": "and they journey from Elim, and encamp by the Red Sea.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4772,
+        "text": "And they journey from the Red Sea, and encamp in the wilderness of Sin;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4773,
+        "text": "and they journey from the wilderness of Sin, and encamp in Dophkah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4774,
+        "text": "And they journey from Dophkah, and encamp in Alush;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4775,
+        "text": "and they journey from Alush, and encamp in Rephidim; and there was there no water for the people to drink.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4776,
+        "text": "And they journey from Rephidim, and encamp in the wilderness of Sinai;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4777,
+        "text": "and they journey from the wilderness of Sinai, and encamp in Kibroth-Hattaavah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4778,
+        "text": "And they journey from Kibroth-Hattaavah, and encamp in Hazeroth;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4779,
+        "text": "and they journey from Hazeroth, and encamp in Rithmah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4780,
+        "text": "And they journey from Rithmah, and encamp in Rimmon-Parez;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4781,
+        "text": "and they journey from Rimmon-Parez, and encamp in Libnah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4782,
+        "text": "And they journey from Libnah, and encamp in Rissah;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4783,
+        "text": "and they journey from Rissah, and encamp in Kehelathah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4784,
+        "text": "And they journey from Kehelathah, and encamp in mount Shapher;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4785,
+        "text": "and they journey from mount Shapher, and encamp in Haradah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4786,
+        "text": "And they journey from Haradah, and encamp in Makheloth;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4787,
+        "text": "and they journey from Makheloth, and encamp in Tahath.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4788,
+        "text": "And they journey from Tahath, and encamp in Tarah;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4789,
+        "text": "and they journey from Tarah, and encamp in Mithcah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4790,
+        "text": "And they journey from Mithcah, and encamp in Hashmonah;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4791,
+        "text": "and they journey from Hashmonah, and encamp in Moseroth.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4792,
+        "text": "And they journey from Moseroth, and encamp in Bene-Jaakan;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4793,
+        "text": "and they journey from Bene-Jaakan, and encamp at Hor-Hagidgad.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4794,
+        "text": "And they journey from Hor-Hagidgad, and encamp in Jotbathah;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4795,
+        "text": "and they journey from Jotbathah, and encamp in Ebronah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4796,
+        "text": "And they journey from Ebronah, and encamp in Ezion-Gaber;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4797,
+        "text": "and they journey from Ezion-Gaber, and encamp in the wilderness of Zin, which [is] Kadesh.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4798,
+        "text": "And they journey from Kadesh, and encamp in mount Hor, in the extremity of the land of Edom.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4799,
+        "text": "And Aaron the priest goeth up unto mount Hor, by the command of Jehovah, and dieth there, in the fortieth year of the going out of the sons of Israel from the land of Egypt, in the fifth month, on the first of the month;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4800,
+        "text": "and Aaron [is] a son of a hundred and twenty and three years in his dying in mount Hor.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4801,
+        "text": "And the Canaanite -- king Arad -- who is dwelling in the south, in the land of Canaan, heareth of the coming of the sons of Israel.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4802,
+        "text": "And they journey from mount Hor, and encamp in Zalmonah;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 4803,
+        "text": "and they journey from Zalmonah, and encamp in Punon.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 4804,
+        "text": "And they journey from Punon, and encamp in Oboth;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 4805,
+        "text": "and they journey from Oboth, and encamp in Ije-Abarim, in the border of Moab.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 4806,
+        "text": "And they journey from Iim, and encamp in Dibon-Gad;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 4807,
+        "text": "and they journey from Dibon-Gad, and encamp in Almon-Diblathaim.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 4808,
+        "text": "And they journey from Almon-Diblathaim, and encamp in the mountains of Abarim, before Nebo;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 4809,
+        "text": "and they journey from the mountains of Abarim, and encamp in the plains of Moab, by Jordan, [near] Jericho.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 4810,
+        "text": "And they encamp by the Jordan from Beth-Jeshimoth, unto Abel-Shittim, in the plains of Moab.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 4811,
+        "text": "And Jehovah speaketh unto Moses, in the plains of Moab, by Jordan, [near] Jericho, saying,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 51,
+        "count": 4812,
+        "text": "'Speak unto the sons of Israel, and thou hast said unto them, When ye are passing over the Jordan unto the land of Canaan,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 4813,
+        "text": "then ye have dispossessed all the inhabitants of the land from before you, and have destroyed all their imagery, yea, all their molten images ye destroy, and all their high places ye lay waste,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 4814,
+        "text": "and ye have possessed the land, and dwelt in it, for to you I have given the land -- to possess it.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 4815,
+        "text": "'And ye have inherited the land by lot, by your families; to the many ye increase their inheritance, and to the few ye diminish their inheritance; whither the lot goeth out to him, it is his; by the tribes of your fathers ye inherit.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 4816,
+        "text": "'And if ye do not dispossess the inhabitants of the land from before you, then it hath been, those whom ye let remain of them, [are] for pricks in your eyes, and for thorns in your sides, and they have distressed you on the land in which ye are dwelling,",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 4817,
+        "text": "and it hath come to pass, as I thought to do to them -- I do to you.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

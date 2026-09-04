@@ -1,0 +1,390 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 339,
+    "MaxVerses": 54,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10254,
+        "text": "Adam, Sheth, Enosh,",
+        "WordCount": 3,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10255,
+        "text": "Kenan, Mahalaleel, Jered,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10256,
+        "text": "Henoch, Methuselah, Lamech,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10257,
+        "text": "Noah, Shem, Ham, and Japheth.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10258,
+        "text": "Sons of Japheth: Gomer and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10259,
+        "text": "And sons of Gomer: Ashchenaz, and Riphath, and Togarmah.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10260,
+        "text": "And sons of Javan: Elisha, and Tarshishah, Kittim, and Dodanim.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10261,
+        "text": "Sons of Ham: Cush, and Mizraim, Put, and Canaan.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10262,
+        "text": "And sons of Cush: Seba and Havilah, and Sabta, and Raamah, and Sabtecka. And sons of Raamah: Sheba and Dedan.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10263,
+        "text": "And Cush begat Nimrod: he began to be a mighty one in the land.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10264,
+        "text": "And Mizraim begat the Ludim, and the Anamim, and the Lehabim, and the Naphtuhim,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10265,
+        "text": "and the Pathrusim, and the Casluhim (from whom came out the Philistim), and the Caphtorim.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10266,
+        "text": "And Canaan begat Zidon his first born, and Heth,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10267,
+        "text": "and the Jebusite, and the Amorite, and the Girgashite,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10268,
+        "text": "and the Hivite, and the Arkite, and the Sinite,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10269,
+        "text": "and the Arvadite, and the Zemarite, and the Hamathite.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10270,
+        "text": "Sons of Shem: Elam and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10271,
+        "text": "And Arphaxad begat Shelah, and Shelah begat Eber.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10272,
+        "text": "And to Eber have been born two sons, the name of the one [is] Peleg, for in his days hath the land been divided, and the name of his brother is Joktan.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10273,
+        "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10274,
+        "text": "and Hadoram, and Uzal, and Diklah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10275,
+        "text": "and Ebal, and Abimael, and Sheba,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10276,
+        "text": "and Ophir, and Havilah, and Jobab; all these [are] sons of Joktan.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10277,
+        "text": "Shem, Arphaxad, Shelah,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10278,
+        "text": "Eber, Peleg, Reu,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10279,
+        "text": "Serug, Nahor, Terah,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10280,
+        "text": "Abram -- he [is] Abraham.",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10281,
+        "text": "Sons of Abraham: Isaac and Ishmael.",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 10282,
+        "text": "These [are] their generations: first-born of Ishmael, Nebaioth, and Kedar, and Adheel, and Mibsam,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10283,
+        "text": "Mishma, and Dumah, Massa, Hadad, and Tema,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10284,
+        "text": "Jetur, Naphish, and Kedema. These are sons of Ishmael.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10285,
+        "text": "And sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And sons of Jokshan: Sheba and Dedan.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10286,
+        "text": "And sons of Midian: Ephah and Epher, and Henoch, and Abida, and Eldaah; all these [are] sons of Keturah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10287,
+        "text": "And Abraham begetteth Isaac. Sons of Isaac: Esau and Israel.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10288,
+        "text": "Sons of Esau: Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 10289,
+        "text": "Sons of Eliphaz: Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10290,
+        "text": "Sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 10291,
+        "text": "And sons of Seir: Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezar, and Dishan.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10292,
+        "text": "And sons of Lotan: Hori and Homam, and sister of Lotan [is] Timna.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10293,
+        "text": "Sons of Shobal: Alian, and Manahath, and Ebal, Shephi, and Onam. And sons of Zideon: Aiah and Anah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 10294,
+        "text": "The sons of Anah: Dishon. and sons of Dishon: Amram, and Eshban, and Ithran, and Cheran.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 10295,
+        "text": "Sons of Ezer: Bilhan, and Zavan, Jakan. Sons of Dishan: Uz and Aran.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 10296,
+        "text": "And these [are] the kings who reigned in the land of Edom before the reigning of a king of the sons of Israel: Bela son of Beor, and the name of his city [is] Dinhabah.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 10297,
+        "text": "And Bela dieth, and reign in his stead doth Jobab son of Zerah from Bozrali;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 10298,
+        "text": "and Jobab dieth, and reign in his stead doth Husham from the land of the Temanite;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 10299,
+        "text": "and Husham dieth, and reign in his stead doth Hadad, son of Bedad (who smiteth Midian in the field of Moab) and the name of his city [is] Avith;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 10300,
+        "text": "and Hadad dieth, and reign in his stead doth Samlah from Masrekah;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 10301,
+        "text": "and Samlah dieth, and reign in his stead doth Shaul from Rehoboth of the River;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 10302,
+        "text": "and Shaul dieth, and reign in his stead doth Baal-Hanan son of Achbor;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 10303,
+        "text": "and Baal-Hanan dieth, and reign in his stead doth Hadad, and the name of his city [is] Pai, and the name of his wife [is] Mehetabel daughter of Matred, daughter of Me-Zahab; Hadad also dieth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 10304,
+        "text": "And chiefs of Edom are: chief Timnah, chief Aliah, chief Jetheth,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 10305,
+        "text": "chief Aholibamah, chief Elah, chief Pinon,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 10306,
+        "text": "chief Kenaz, chief Teman, chief Mibzar,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 10307,
+        "text": "chief Magdiel, chief Iram. These [are] chiefs of Edom.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

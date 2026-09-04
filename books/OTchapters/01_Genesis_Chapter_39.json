@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 39,
+    "count": 39,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1151,
+        "text": "And Joseph hath been brought down to Egypt, and Potiphar, a eunuch of Pharaoh, head of the executioners, an Egyptian man, buyeth him out of the hands of the Ishmaelites who have brought him thither.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1152,
+        "text": "And Jehovah is with Joseph, and he is a prosperous man, and he is in the house of his lord the Egyptian,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1153,
+        "text": "and his lord seeth that Jehovah is with him, and all that he is doing Jehovah is causing to prosper in his hand,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1154,
+        "text": "and Joseph findeth grace in his eyes and serveth him, and he appointeth him over his house, and all that he hath he hath given into his hand.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1155,
+        "text": "And it cometh to pass from the time that he hath appointed him over his house, and over all that he hath, that Jehovah blesseth the house of the Egyptian for Joseph's sake, and the blessing of Jehovah is on all that he hath, in the house, and in the field;",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1156,
+        "text": "and he leaveth all that he hath in the hand of Joseph, and he hath not known anything that he hath, except the bread which he is eating. And Joseph is of a fair form, and of a fair appearance.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1157,
+        "text": "And it cometh to pass after these things, that his lord's wife lifteth up her eyes unto Joseph, and saith, 'Lie with me;'",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 1158,
+        "text": "and he refuseth, and saith unto his lord's wife, 'Lo, my lord hath not known what [is] with me in the house, and all that he hath he hath given into my hand;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1159,
+        "text": "none is greater in this house than I, and he hath not withheld from me anything, except thee, because thou [art] his wife; and how shall I do this great evil? -- then have I sinned against God.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1160,
+        "text": "And it cometh to pass at her speaking unto Joseph day [by] day, that he hath not hearkened unto her, to lie near her, to be with her;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1161,
+        "text": "and it cometh to pass about this day, that he goeth into the house to do his work, and there is none of the men of the house there in the house,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1162,
+        "text": "and she catcheth him by his garment, saying, 'Lie with me;' and he leaveth his garment in her hand, and fleeth, and goeth without.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1163,
+        "text": "And it cometh to pass when she seeth that he hath left his garment in her hand, and fleeth without,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 1164,
+        "text": "that she calleth for the men of her house, and speaketh to them, saying, 'See, he hath brought in to us a man, a Hebrew, to play with us; he hath come in unto me, to lie with me, and I call with a loud voice,",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1165,
+        "text": "and it cometh to pass, when he heareth that I have lifted up my voice and call, that he leaveth his garment near me, and fleeth, and goeth without.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1166,
+        "text": "And she placeth his garment near her, until the coming in of his lord unto his house.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1167,
+        "text": "And she speaketh unto him according to these words, saying, 'The Hebrew servant whom thou hast brought unto us, hath come in unto me to play with me;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1168,
+        "text": "and it cometh to pass, when I lift my voice and call, that he leaveth his garment near me, and fleeth without.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1169,
+        "text": "And it cometh to pass when his lord heareth the words of his wife, which she hath spoken unto him, saying, 'According to these things hath thy servant done to me,' that his anger burneth;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 1170,
+        "text": "and Joseph's lord taketh him, and putteth him unto the round-house, a place where the king's prisoners [are] bound; and he is there in the round-house.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1171,
+        "text": "And Jehovah is with Joseph, and stretcheth out kindness unto him, and putteth his grace in the eyes of the chief of the round-house;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1172,
+        "text": "and the chief of the round-house giveth into the hand of Joseph all the prisoners who [are] in the round-house, and of all that they are doing there, he hath been doer;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1173,
+        "text": "the chief of the round-house seeth not anything under his hand, because Jehovah [is] with him, and that which he is doing Jehovah is causing to prosper.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

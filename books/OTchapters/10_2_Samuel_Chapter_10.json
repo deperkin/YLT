@@ -1,0 +1,145 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 10,
+    "count": 277,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8242,
+        "text": "And it cometh to pass afterwards, that the king of the Bene-Ammon dieth, and Hanun his son reigneth in his stead,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8243,
+        "text": "and David saith, 'I do kindness with Hanun son of Nahash, as his father did with me kindness;' and David sendeth to comfort him by the hand of his servants concerning his father, and the servants of David come in to the land of the Bene-Ammon.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8244,
+        "text": "And the heads of the Bene-Ammon say unto Hanun their lord, 'Is David honouring thy father in thine eyes because he hath sent to thee comforters? for to search the city, and to spy it, and to overthrow it, hath not David sent his servants unto thee?'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8245,
+        "text": "And Hanun taketh the servants of David, and shaveth off the half of their beard, and cutteth off their long robes in the midst -- unto their buttocks, and sendeth them away;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8246,
+        "text": "and they declare [it] to David, and he sendeth to meet them, for the men have been greatly ashamed, and the king saith, 'Abide in Jericho till your beard doth spring up -- then ye have returned.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8247,
+        "text": "And the Bene-Ammon see that they have been abhorred by David, and the Bene-Ammon send and hire Aram of Beth-Rehob, and Aram of Zoba, twenty thousand footmen, and the king of Maacah [with] a thousand men, and Ish-Tob [with] twelve thousand men;",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 8248,
+        "text": "and David heareth, and sendeth Joab, and all the host -- the mighty men.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8249,
+        "text": "And the Bene-Ammon come out, and set battle in array, at the opening of the gate, and Aram of Zoba, and Rehob, and Ish-Tob, and Maacah, [are] by themselves in the field;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8250,
+        "text": "and Joab seeth that the front of the battle hath been unto him before and behind, and he chooseth of all the chosen in Israel, and setteth in array to meet Aram,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8251,
+        "text": "and the rest of the people he hath given into the hand of Abishai his brother, and setteth in array to meet the Bene-Ammon.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8252,
+        "text": "And he saith, 'If Aram be stronger than I, then thou hast been to me for salvation, and if the Bene-Ammon be stronger than thou, then I have come to give salvation to thee;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8253,
+        "text": "be strong and strengthen thyself for our people, and for the cities of our God, and Jehovah doth that which is good in His eyes.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8254,
+        "text": "And Joab draweth nigh, and the people who [are] with him, to battle against Aram, and they flee from his presence;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8255,
+        "text": "and the Bene-Ammon have seen that Aram hath fled, and they flee from the presence of Abishai, and go in to the city; and Joab turneth back from the Bene-Ammon, and cometh in to Jerusalem.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8256,
+        "text": "And Aram seeth that it is smitten before Israel, and they are gathered together;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 8257,
+        "text": "and Hadadezer sendeth, and bringeth out Aram which [is] beyond the River, and they come in to Helam, and Shobach head of the host of Hadadezer [is] before them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8258,
+        "text": "And it is declared to David, and he gathereth all Israel, and passeth over the Jordan, and cometh in to Helam, and Aram setteth itself in array to meet David, and they fight with him;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8259,
+        "text": "and Aram fleeth from the presence of Israel, and David slayeth of Aram seven hundred charioteers, and forty thousand horsemen, and Shobach head of its host he hath smitten, and he dieth there.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8260,
+        "text": "And all the kings -- servants of Hadadezer -- see that they have been smitten before Israel, and make peace with Israel, and serve them; and Aram is afraid to help any more the Bene-Ammon.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

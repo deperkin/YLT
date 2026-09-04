@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 39,
+    "count": 517,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14514,
+        "text": "To the Overseer, to Jeduthun. -- A Psalm of David. I have said, 'I observe my ways, Against sinning with my tongue, I keep for my mouth a curb, while the wicked [is] before me.'",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14515,
+        "text": "I was dumb [with] silence, I kept silent from good, and my pain is excited.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14516,
+        "text": "Hot [is] my heart within me, In my meditating doth the fire burn, I have spoken with my tongue.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14517,
+        "text": "'Cause me to know, O Jehovah, mine end, And the measure of my days -- what it [is],' I know how frail I [am].",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14518,
+        "text": "Lo, handbreadths Thou hast made my days, And mine age [is] as nothing before Thee, Only, all vanity [is] every man set up. Selah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14519,
+        "text": "Only, in an image doth each walk habitually, Only, [in] vain, they are disquieted, He heapeth up and knoweth not who gathereth them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14520,
+        "text": "And, now, what have I expected? O Lord, my hope -- it [is] of Thee.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14521,
+        "text": "From all my transgressions deliver me, A reproach of the fool make me not.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14522,
+        "text": "I have been dumb, I open not my mouth, Because Thou -- Thou hast done [it].",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14523,
+        "text": "Turn aside from off me Thy stroke, From the striving of Thy hand I have been consumed.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14524,
+        "text": "With reproofs against iniquity, Thou hast corrected man, And dost waste as a moth his desirableness, Only, vanity [is] every man. Selah.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14525,
+        "text": "Hear my prayer, O Jehovah, And [to] my cry give ear, Unto my tear be not silent, For a sojourner I [am] with Thee, A settler like all my fathers.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14526,
+        "text": "Look from me, and I brighten up before I go and am not!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

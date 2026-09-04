@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 55,
+    "count": 533,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14734,
+        "text": "To the Overseer with stringed instruments. -- An instruction, by David. Give ear, O God, [to] my prayer, And hide not from my supplication.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14735,
+        "text": "Attend to me, and answer me, I mourn in my meditation, and make a noise,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14736,
+        "text": "Because of the voice of an enemy, Because of the oppression of the wicked, For they cause sorrow to move against me, And in anger they hate me.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14737,
+        "text": "My heart is pained within me, And terrors of death have fallen on me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14738,
+        "text": "Fear and trembling come in to me, And horror doth cover me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14739,
+        "text": "And I say, 'Who doth give to me a pinion as a dove? I fly away and rest,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14740,
+        "text": "Lo, I move far off, I lodge in a wilderness. Selah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14741,
+        "text": "I hasten escape for myself, From a rushing wind, from a whirlwind.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14742,
+        "text": "Swallow up, O Lord, divide their tongue, For I saw violence and strife in a city.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 14743,
+        "text": "By day and by night they go round it, on its walls. Both iniquity and perverseness [are] in its midst,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14744,
+        "text": "Mischiefs [are] in its midst. Fraud and deceit depart not from its street.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14745,
+        "text": "For an enemy reproacheth me not, or I bear [it], He who is hating me Hath not magnified himself against me, Or I hide from him.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14746,
+        "text": "But thou, a man -- as mine equal, My familiar friend, and mine acquaintance.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14747,
+        "text": "When together we sweeten counsel, Into the house of God we walk in company.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14748,
+        "text": "Desolations [are] upon them, They go down [to] Sheol -- alive, For wickedness [is] in their dwelling, in their midst.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14749,
+        "text": "I -- to God I call, and Jehovah saveth me.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 14750,
+        "text": "Evening, and morning, and noon, I meditate, and make a noise, and He heareth my voice,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14751,
+        "text": "He hath ransomed in peace my soul From him who is near to me, For with the multitude they were with me.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14752,
+        "text": "God doth hear and afflict them, And He sitteth of old. Selah. Because they have no changes, and fear not God,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14753,
+        "text": "He hath sent forth his hands against his well-wishers, He hath polluted his covenant.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14754,
+        "text": "Sweeter than honey hath been his mouth, And his heart [is] war! Softer have been his words than oil, And they [are] drawn [swords].",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14755,
+        "text": "Cast on Jehovah that which He hath given thee, And He doth sustain thee, He doth not suffer for ever the moving of the righteous.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 14756,
+        "text": "And Thou, O God, dost bring them down To a pit of destruction, Men of blood and deceit reach not to half their days, And I -- I do trust in Thee!",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

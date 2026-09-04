@@ -1,0 +1,257 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 68,
+    "count": 546,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14902,
+        "text": "To the Overseer. -- A Psalm, a song of David. Rise doth God -- scattered are His enemies! And those hating Him flee from His face.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14903,
+        "text": "As the driving away of smoke Thou drivest away, As the melting of wax before fire, The wicked perish at the presence of God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14904,
+        "text": "And the righteous rejoice, they exult before God, And they joy with gladness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14905,
+        "text": "Sing ye to God -- praise His name, Raise up a highway for Him who is riding in deserts, In Jah [is] His name, and exult before Him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14906,
+        "text": "Father of the fatherless, and judge of the widows, [Is] God in His holy habitation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14907,
+        "text": "God -- causing the lonely to dwell at home, Bringing out bound ones into prosperity, Only -- the refractory have inhabited a dry place.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14908,
+        "text": "O God, in Thy going forth before Thy people, In Thy stepping through the wilderness, Selah.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14909,
+        "text": "The earth hath shaken, Yea, the heavens have dropped before God, This Sinai -- before God, the God of Israel.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14910,
+        "text": "A shower of free-will gifts thou shakest out, O God. Thine inheritance, when it hath been weary, Thou hast established it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14911,
+        "text": "Thy company have dwelt in it, Thou preparest in Thy goodness for the poor, O God.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14912,
+        "text": "The Lord doth give the saying, The female proclaimers [are] a numerous host.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14913,
+        "text": "Kings of hosts flee utterly away, And a female inhabitant of the house apportioneth spoil.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14914,
+        "text": "Though ye do lie between two boundaries, Wings of a dove covered with silver, And her pinions with yellow gold.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14915,
+        "text": "When the Mighty spreadeth kings in it, It doth snow in Salmon.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14916,
+        "text": "A hill of God [is] the hill of Bashan, A hill of heights [is] the hill of Bashan.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 14917,
+        "text": "Why do ye envy, O high hills, The hill God hath desired for His seat? Jehovah also doth tabernacle for ever.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14918,
+        "text": "The chariots of God [are] myriads, thousands of changes, The Lord [is] among them, in Sinai, in the sanctuary.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14919,
+        "text": "Thou hast ascended on high, Thou hast taken captive captivity, Thou hast taken gifts for men, That even the refractory may rest, O Jah God.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14920,
+        "text": "Blessed [is] the Lord, day by day He layeth on us. God Himself [is] our salvation. Selah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14921,
+        "text": "God Himself [is] to us a God for deliverances, And Jehovah Lord hath the outgoings of death.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14922,
+        "text": "Only -- God doth smite The head of His enemies, The hairy crown of a habitual walker in his guilt.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14923,
+        "text": "The Lord said: 'From Bashan I bring back, I bring back from the depths of the sea.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 14924,
+        "text": "So that thou dashest thy foot in blood, [In the blood of] enemies -- the tongue of Thy dogs.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 14925,
+        "text": "They have seen Thy goings, O God, Goings of my God, my king, in the sanctuary.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 14926,
+        "text": "Singers have been before, Behind [are] players on instruments, In the midst virgins playing with timbrels.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 14927,
+        "text": "In assemblies bless ye God, The Lord -- from the fountain of Israel.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 14928,
+        "text": "There [is] little Benjamin their ruler, Heads of Judah their defence, Heads of Zebulun -- heads of Naphtali.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 14929,
+        "text": "Thy God hath commanded thy strength, Be strong, O God, this Thou hast wrought for us.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 14930,
+        "text": "Because of Thy temple at Jerusalem, To Thee do kings bring a present.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 14931,
+        "text": "Rebuke a beast of the reeds, a company of bulls, With calves of the peoples, Each humbling himself with pieces of silver, Scatter Thou peoples delighting in conflicts.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 14932,
+        "text": "Come do fat ones out of Egypt, Cush causeth her hands to run to God.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 14933,
+        "text": "Kingdoms of the earth, sing ye to God, Praise ye the Lord. Selah.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 14934,
+        "text": "To him who is riding on the heavens of the heavens of old, Lo, He giveth with His voice a strong voice.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 14935,
+        "text": "Ascribe ye strength to God, Over Israel [is] His excellency, and His strength in the clouds.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 14936,
+        "text": "Fearful, O God, out of Thy sanctuaries, The God of Israel Himself, Giving strength and might to the people. Blessed [is] God!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

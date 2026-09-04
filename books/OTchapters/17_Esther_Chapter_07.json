@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 17,"name": "Esther","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 433,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12809,
+        "text": "And the king cometh in, and Haman, to drink with Esther the queen,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12810,
+        "text": "and the king saith to Esther also on the second day, during the banquet of wine, 'What [is] thy petition, Esther, O queen? and it is given to thee; and what thy request? unto the half of the kingdom -- and it is done.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12811,
+        "text": "And Esther the queen answereth and saith, 'If I have found grace in thine eyes, O king, and if to the king [it be] good, let my life be given to me at my petition, and my people at my request;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12812,
+        "text": "for we have been sold, I and my people, to cut off, to slay, and to destroy; and if for men-servants and for maid-servants we had been sold I had kept silent -- but the adversity is not equal to the loss of the king.'",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12813,
+        "text": "And the king Ahasuerus saith, yea, he saith to Esther the queen, 'Who [is] he -- this one? and where [is] this one? -- he whose heart hath filled him to do so?'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12814,
+        "text": "And Esther saith, 'The man -- adversary and enemy -- [is] this wicked Haman;' and Haman hath been afraid at the presence of the king and of the queen.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12815,
+        "text": "And the king hath risen, in his fury, from the banquet of wine, unto the garden of the house, and Haman hath remained to seek for his life from Esther the queen, for he hath seen that evil hath been determined against him by the king.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 12816,
+        "text": "And the king hath turned back out of the garden of the house unto the house of the banquet of wine, and Haman is falling on the couch on which Esther [is], and the king saith, 'Also to subdue the queen with me in the house?' the word hath gone out from the mouth of the king, and the face of Haman they have covered.",
+        "WordCount": 65,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12817,
+        "text": "And Harbonah, one of the eunuchs, saith before the king, 'Also lo, the tree that Haman made for Mordecai, who spake good for the king, is standing in the house of Haman, in height fifty cubits;' and the king saith, 'Hang him upon it.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12818,
+        "text": "And they hang Haman upon the tree that he had prepared for Mordecai, and the fury of the king hath lain down.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

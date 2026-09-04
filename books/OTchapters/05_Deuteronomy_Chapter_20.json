@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 173,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5429,
+        "text": "'When thou goest out to battle against thine enemy, and hast seen horse and chariot -- a people more numerous than thou -- thou art not afraid of them, for Jehovah thy God [is] with thee, who is bringing thee up out of the land of Egypt;",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5430,
+        "text": "and it hath been, in your drawing near unto the battle, that the priest hath come nigh, and spoken unto the people,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5431,
+        "text": "and said unto them, Hear, Israel, ye are drawing near to-day to battle against your enemies, let not your hearts be tender, fear not, nor make haste, nor be terrified at their presence,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5432,
+        "text": "for Jehovah your God [is] He who is going with you, to fight for you with your enemies -- to save you.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5433,
+        "text": "'And the authorities have spoken unto the people, saying, Who [is] the man that hath built a new house, and hath not dedicated it? -- let him go and turn back to his house, lest he die in battle, and another man dedicate it.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5434,
+        "text": "'And who [is] the man that hath planted a vineyard, and hath not made it common? -- let him go and turn back to his house, lest he die in battle, and another man make it common.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5435,
+        "text": "'And who [is] the man that hath betrothed a woman, and hath not taken her? -- let him go and turn back to his house, lest he die in battle, and another man take her.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5436,
+        "text": "'And the authorities have added to speak unto the people, and said, Who [is] the man that is afraid and tender of heart? -- let him go and turn back to his house, and the heart of his brethren doth not melt like his heart;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5437,
+        "text": "and it hath come to pass as the authorities finish to speak unto the people, that they have appointed princes of the hosts at the head of the people.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5438,
+        "text": "'When thou drawest near unto a city to fight against it, then thou hast called unto it for Peace,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 5439,
+        "text": "and it hath been, if Peace it answer thee, and hath opened to thee, then it hath come to pass -- all the people who are found in it are to thee for tributaries, and have served thee.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5440,
+        "text": "'And if it doth not make peace with thee, and hath made with thee war, then thou hast laid siege against it,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5441,
+        "text": "and Jehovah thy God hath given it into thy hand, and thou hast smitten every male of it by the mouth of the sword.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5442,
+        "text": "Only, the women, and the infants, and the cattle, and all that is in the city, all its spoil, thou dost seize for thyself, and thou hast eaten the spoil of thine enemies which Jehovah thy God hath given to thee.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5443,
+        "text": "So thou dost do to all the cities which are very far off from thee, which are not of the cities of these nations.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5444,
+        "text": "'Only, of the cities of these peoples which Jehovah thy God is giving to thee [for] an inheritance, thou dost not keep alive any breathing;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5445,
+        "text": "for thou dost certainly devote the Hittite, and the Amorite, the Canaanite, and the Perizzite, the Hivite, and the Jebusite, as Jehovah thy God hath commanded thee,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5446,
+        "text": "so that they teach you not to do according to all their abominations which they have done to their gods, and ye have sinned against Jehovah your God.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5447,
+        "text": "'When thou layest siege unto a city many days, to fight against it, to capture it, thou dost not destroy its trees to force an axe against them, for of them thou dost eat, and them thou dost not cut down -- for man's [is] the tree of the field -- to go in at thy presence in the siege.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5448,
+        "text": "Only, the tree, which thou knowest that it [is] not a fruit-tree, it thou dost destroy, and hast cut down, and hast built a bulwark against the city which is making with thee war till thou hast subdued it.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

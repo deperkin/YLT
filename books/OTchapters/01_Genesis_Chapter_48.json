@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 48,
+    "count": 48,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1453,
+        "text": "And it cometh to pass, after these things, that [one] saith to Joseph, 'Lo, thy father is sick;' and he taketh his two sons with him, Manasseh and Ephraim.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1454,
+        "text": "And [one] declareth to Jacob, and saith, 'Lo, thy son Joseph is coming unto thee;' and Israel doth strengthen himself, and sit upon the bed.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1455,
+        "text": "And Jacob saith unto Joseph, 'God Almighty hath appeared unto me, in Luz, in the land of Canaan, and blesseth me,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1456,
+        "text": "and saith unto me, Lo, I am making thee fruitful, and have multiplied thee, and given thee for an assembly of peoples, and given this land to thy seed after thee, a possession age-during.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1457,
+        "text": "'And now, thy two sons, who are born to thee in the land of Egypt, before my coming unto thee to Egypt, mine they [are]; Ephraim and Manasseh, as Reuben and Simeon they are mine;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1458,
+        "text": "and thy family which thou hast begotten after them are thine; by the name of their brethren they are called in their inheritance.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1459,
+        "text": "'And I -- in my coming in from Padan-Aram Rachel hath died by me in the land of Canaan, in the way, while yet a kibrath of land to enter Ephrata, and I bury her there in the way of Ephrata, which [is] Bethlehem.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1460,
+        "text": "And Israel seeth the sons of Joseph, and saith, 'Who [are] these?'",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 1461,
+        "text": "and Joseph saith unto his father, 'They [are] my sons, whom God hath given to me in this [place];' and he saith, 'Bring them, I pray thee, unto me, and I bless them.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1462,
+        "text": "And the eyes of Israel have been heavy from age, he is unable to see; and he bringeth them nigh unto him, and he kisseth them, and cleaveth to them;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1463,
+        "text": "and Israel saith unto Joseph, 'To see thy face I had not thought, and lo, God hath shewed me also thy seed.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1464,
+        "text": "And Joseph bringeth them out from between his knees, and boweth himself on his face to the earth;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1465,
+        "text": "and Joseph taketh them both, Ephraim in his right hand towards Israel's left, and Manasseh in his left towards Israel's right, and bringeth [them] nigh to him.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1466,
+        "text": "And Israel putteth out his right hand, and placeth [it] upon the head of Ephraim, who [is] the younger, and his left hand upon the head of Manasseh; he hath guided his hands wisely, for Manasseh [is] the first-born.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1467,
+        "text": "And he blesseth Joseph, and saith, 'God, before whom my fathers Abraham and Isaac walked habitually: God who is feeding me from my being unto this day:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1468,
+        "text": "the Messenger who is redeeming me from all evil doth bless the youths, and my name is called upon them, and the name of my fathers Abraham and Isaac; and they increase into a multitude in the midst of the land.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1469,
+        "text": "And Joseph seeth that his father setteth his right hand on the head of Ephraim, and it is wrong in his eyes, and he supporteth the hand of his father to turn it aside from off the head of Ephraim to the head of Manasseh;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1470,
+        "text": "and Joseph saith unto his father, 'Not so, my father, for this [is] the first-born; set thy right hand on his head.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1471,
+        "text": "And his father refuseth, and saith, 'I have known, my son, I have known; he also becometh a people, and he also is great, and yet, his young brother is greater than he, and his seed is the fulness of the nations;'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1472,
+        "text": "and he blesseth them in that day, saying, 'By thee doth Israel bless, saying, God set thee as Ephraim and as Manasseh;' and he setteth Ephraim before Manasseh.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1473,
+        "text": "And Israel saith unto Joseph, 'Lo, I am dying, and God hath been with you, and hath brought you back unto the land of your fathers;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1474,
+        "text": "and I -- I have given to thee one portion above thy brethren, which I have taken out of the hand of the Amorite by my sword and by my bow.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

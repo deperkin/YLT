@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 71,
+    "count": 549,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14978,
+        "text": "In Thee, O Jehovah, I have trusted, Let me not be ashamed to the age.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14979,
+        "text": "In Thy righteousness Thou dost deliver me, And dost cause me to escape, Incline unto me Thine ear, and save me.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14980,
+        "text": "Be to me for a rock -- a habitation, To go in continually, Thou hast given command to save me, For my rock and my bulwark [art] Thou.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14981,
+        "text": "O my God, cause me to escape From the hand of the wicked, From the hand of the perverse and violent.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14982,
+        "text": "For Thou [art] my hope, O Lord Jehovah, My trust from my youth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14983,
+        "text": "By Thee I have been supported from the womb, From my mother's bowels Thou dost cut me out, In Thee [is] my praise continually.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14984,
+        "text": "As a wonder I have been to many, And Thou [art] my strong refuge.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14985,
+        "text": "Filled is my mouth [with] Thy praise, All the day [with] Thy beauty.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14986,
+        "text": "Cast me not off at the time of old age, According to the consumption of my power forsake me not.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14987,
+        "text": "For mine enemies have spoken against me, And those watching my soul have taken counsel together,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14988,
+        "text": "Saying, 'God hath forsaken him, Pursue and catch him, for there is no deliverer.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14989,
+        "text": "O God, be not far from me, O my God, for my help make haste.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14990,
+        "text": "They are ashamed, they are consumed, Who are opposing my soul, They are covered [with] reproach and blushing, Who are seeking my evil,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14991,
+        "text": "And I continually do wait with hope, And have added unto all Thy praise.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 14992,
+        "text": "My mouth recounteth Thy righteousness, All the day Thy salvation, For I have not known the numbers.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14993,
+        "text": "I come in the might of the Lord Jehovah, I mention Thy righteousness -- Thine only.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14994,
+        "text": "God, Thou hast taught me from my youth, And hitherto I declare Thy wonders.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14995,
+        "text": "And also unto old age and grey hairs, O God, forsake me not, Till I declare Thy strength to a generation, To every one that cometh Thy might.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14996,
+        "text": "And Thy righteousness, O God, [is] unto the heights, Because Thou hast done great things, O God, who [is] like Thee?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14997,
+        "text": "Because Thou hast showed me many and sad distresses, Thou turnest back -- Thou revivest me, And from the depths of the earth, Thou turnest back -- Thou bringest me up.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14998,
+        "text": "Thou dost increase my greatness, And Thou surroundest -- Thou comfortest me,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14999,
+        "text": "I also thank Thee with a vessel of psaltery, Thy truth, O my God, I sing to Thee with a harp, O Holy One of Israel,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15000,
+        "text": "My lips cry aloud when I sing praise to Thee, And my soul that Thou hast redeemed,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15001,
+        "text": "My tongue also all the day uttereth Thy righteousness, Because ashamed -- because confounded, Have been those seeking my evil!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 119,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3660,
+        "text": "And Jehovah speaketh unto Moses, and unto Aaron, saying,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3661,
+        "text": "'Each by his standard, with ensigns of the house of their fathers, do the sons of Israel encamp; over-against round about the tent of meeting they encamp.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3662,
+        "text": "And those encamping eastward towards the sun-rising, [are of] the standard of the camp of Judah, by their hosts; and the prince of the sons of Judah [is] Nahshon, son of Amminadab;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 3663,
+        "text": "and his host, and their numbered ones, [are] four and seventy thousand and six hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3664,
+        "text": "And those encamping by him [are of] the tribe of Issachar; and the prince of the sons of Issachar [is] Nethaneel son of Zuar;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3665,
+        "text": "and his host, and its numbered ones, [are] four and fifty thousand and four hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3666,
+        "text": "The tribe of Zebulun; and the prince of the sons of Zebulun [is] Eliab son of Helon;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3667,
+        "text": "and his host, and its numbered ones, [are] seven and fifty thousand and four hundred;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3668,
+        "text": "all those numbered of the camp of Judah [are] a hundred thousand, and eighty thousand, and six thousand, and four hundred, by their hosts; they journey first.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3669,
+        "text": "The standard of the camp of Reuben [is] southward, by their hosts; and the prince of the sons of Reuben [is] Elizur son of Shedeur;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3670,
+        "text": "and his host, and its numbered ones, [are] six and forty thousand and five hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3671,
+        "text": "And those encamping by him [are of] the tribe of Simeon; and the prince of the sons of Simeon [is] Shelumiel son of Zurishaddai;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3672,
+        "text": "and his host, and their numbered ones, [are] nine and fifty thousand and three hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3673,
+        "text": "And the tribe of Gad; and the prince of the sons of Gad [is] Eliasaph son of Reuel;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3674,
+        "text": "and his host, and their numbered ones, [are] five and forty thousand and six hundred and fifty.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3675,
+        "text": "All those numbered of the camp of Reuben [are] a hundred thousand, and one and fifty thousand, and four hundred and fifty, by their hosts; and they journey second.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3676,
+        "text": "And the tent of meeting -- the camp of the Levites -- hath journeyed in the midst of the camps; as they encamp so they journey, each at his station by their standards.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3677,
+        "text": "The standard of the camp of Ephraim, by their hosts, [is] westward; and the prince of the sons of Ephraim [is] Elishama son of Ammihud;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3678,
+        "text": "and his host, and their numbered ones, [are] forty thousand and five hundred.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3679,
+        "text": "And by him [is] the tribe of Manasseh; and the prince of the sons of Manasseh [is] Gamaliel son of Pedahzur;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3680,
+        "text": "and his host, and their numbered ones, [are] two and thirty thousand, and two hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3681,
+        "text": "And the tribe of Benjamin; and the prince of the sons of Benjamin [is] Abidan son of Gideoni;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3682,
+        "text": "and his host, and their numbered ones, [are] five and thirty thousand and four hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3683,
+        "text": "All those numbered of the camp of Ephraim [are] a hundred thousand, and eight thousand, and a hundred, by their hosts; and they journey third.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3684,
+        "text": "The standard of the camp of Dan [is] northward, by their hosts; and the prince of the sons of Dan [is] Ahiezer son of Ammishaddai;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3685,
+        "text": "and his host, and their numbered ones, [are] two and sixty thousand and seven hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3686,
+        "text": "And those encamping by him [are of] the tribe of Asher; and the prince of the sons of Asher [is] Pagiel son of Ocran;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3687,
+        "text": "and his host, and their numbered ones, [are] one and forty thousand and five hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3688,
+        "text": "And the tribe of Naphtali; and the prince of the sons of Naphtali [is] Ahira son of Enan;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3689,
+        "text": "and his host, and their numbered ones, [are] three and fifty thousand and four hundred.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3690,
+        "text": "All those numbered of the camp of Dan [are] a hundred thousand, and seven and fifty thousand, and six hundred; at the rear they journey, by their standards.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3691,
+        "text": "These [are] those numbered of the sons of Israel by the house of their fathers; all those numbered of the camps by their hosts [are] six hundred thousand, and three thousand, and five hundred and fifty.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3692,
+        "text": "And the Levites have not numbered themselves in the midst of the sons of Israel, as Jehovah hath commanded Moses.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3693,
+        "text": "And the sons of Israel do according to all that Jehovah hath commanded Moses; so they have encamped by their standards, and so they have journeyed; each by his families, by the house of his fathers.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

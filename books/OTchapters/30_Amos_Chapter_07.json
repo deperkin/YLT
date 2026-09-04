@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 30,"name": "Amos","MaxChapters": 9},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 886,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22466,
+        "text": "Thus hath the Lord Jehovah shewed me, and lo, He is forming locusts at the beginning of the ascending of the latter growth, and lo, the latter growth [is] after the mowings of the king;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22467,
+        "text": "and it hath come to pass, when it hath finished to consume the herb of the land, that I say: 'Lord Jehovah, forgive, I pray Thee, How doth Jacob arise -- for he [is] small?'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22468,
+        "text": "Jehovah hath repented of this, 'It shall not be,' said Jehovah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22469,
+        "text": "Thus hath the Lord Jehovah shewed me, and lo, the Lord Jehovah is calling to contend by fire, and it consumeth the great deep, yea, it hath consumed the portion, and I say:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22470,
+        "text": "'Lord Jehovah, cease, I pray Thee, How doth Jacob arise -- for he [is] small?'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22471,
+        "text": "Jehovah hath repented of this, 'It also shall not be,' said the Lord Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22472,
+        "text": "Thus hath He shewed me, and lo, the Lord is standing by a wall [made according to] a plumb-line, and in His hand a plumb-line;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22473,
+        "text": "and Jehovah saith unto me, 'What art thou seeing, Amos?' And I say, 'A plumb-line;' and the Lord saith: 'Lo, I am setting a plumb-line in the midst of My people Israel, I do not add any more to pass over to it.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22474,
+        "text": "And desolated have been high places of Isaac, And sanctuaries of Israel are wasted, And I have risen against the house of Jeroboam with a sword.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22475,
+        "text": "And Amaziah priest of Beth-El sendeth unto Jeroboam king of Israel, saying, 'Amos hath conspired against thee in the midst of the house of Israel; the land is not able to bear all his words,",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 22476,
+        "text": "for thus said Amos: By sword die doth Jeroboam, And Israel certainly removeth from off its land.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22477,
+        "text": "And Amaziah saith unto Amos, 'Seer, go flee for thee unto the land of Judah, and eat there bread, and there thou dost prophesy;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22478,
+        "text": "and [at] Beth-El do not add to prophesy any more, for it [is] the king's sanctuary, and it [is] the royal house.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22479,
+        "text": "And Amos answereth and saith unto Amaziah, 'I [am] no prophet, nor a prophet's son [am] I, but a herdsman I [am], and a cultivator of sycamores,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22480,
+        "text": "and Jehovah taketh me from after the flock, and Jehovah saith unto me, Go, prophesy unto My people Israel.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22481,
+        "text": "And now, hear a word of Jehovah: thou art saying, Do not prophesy against Israel, nor drop [any thing] against the house of Isaac,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22482,
+        "text": "therefore thus said Jehovah: Thy wife in the city doth go a-whoring, And thy sons and thy daughters by sword do fall, And thy land by line is apportioned, And thou on an unclean land diest, And Israel certainly removeth from off its land.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

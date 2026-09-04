@@ -1,0 +1,257 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 32,
+    "count": 82,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2440,
+        "text": "And the people see that Moses is delaying to come down from the mount, and the people assemble against Aaron, and say unto him, 'Rise, make for us gods who go before us, for this Moses -- the man who brought us up out of the land of Egypt -- we have not known what hath happened to him.'",
+        "WordCount": 59,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2441,
+        "text": "And Aaron saith unto them, 'Break off the rings of gold which [are] in the ears of your wives, your sons, and your daughters, and bring in unto me;'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2442,
+        "text": "and all the people themselves break off the rings of gold which [are] in their ears, and bring in unto Aaron,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2443,
+        "text": "and he receiveth from their hand, and doth fashion it with a graving tool, and doth make it a molten calf, and they say, 'These thy gods, O Israel, who brought thee up out of the land of Egypt.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2444,
+        "text": "And Aaron seeth, and buildeth an altar before it, and Aaron calleth, and saith, 'A festival to Jehovah -- to-morrow;'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2445,
+        "text": "and they rise early on the morrow, and cause burnt-offerings to ascend, and bring nigh peace-offerings; and the people sit down to eat and to drink, and rise up to play.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2446,
+        "text": "And Jehovah saith unto Moses, 'Go, descend, for thy people whom thou hast brought up out of the land of Egypt hath done corruptly,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 2447,
+        "text": "they have turned aside hastily from the way that I have commanded them; they have made for themselves a molten calf, and bow themselves to it, and sacrifice to it, and say, These thy gods, O Israel, who brought thee up out of the land of Egypt.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2448,
+        "text": "And Jehovah saith unto Moses, 'I have seen this people, and lo, it [is] a stiff-necked people;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2449,
+        "text": "and now, let Me alone, and My anger doth burn against them, and I consume them, and I make thee become a great nation.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2450,
+        "text": "And Moses appeaseth the face of Jehovah his God, and saith, 'Why, O Jehovah, doth Thine anger burn against Thy people, whom Thou hast brought forth out of the land of Egypt with great power and with a strong hand?",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2451,
+        "text": "why do the Egyptians speak, saying, For evil He brought them out to slay them among mountains, and to consume them from off the face of the ground? turn back from the heat of Thine anger, and repent of the evil against Thy people.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2452,
+        "text": "'Be mindful of Abraham, of Isaac, and of Israel, Thy servants, to whom Thou hast sworn by Thyself, and unto whom Thou speakest: I multiply your seed as stars of the heavens, and all this land, as I have said, I give to your seed, and they have inherited to the age;'",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2453,
+        "text": "and Jehovah repenteth of the evil which He hath spoken of doing to His people.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2454,
+        "text": "And Moses turneth, and goeth down from the mount, and the two tables of the testimony [are] in his hand, tables written on both their sides, on this and on that [are] they written;",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 2455,
+        "text": "and the tables are the work of God, and the writing is the writing of God, graven on the tables.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2456,
+        "text": "And Joshua heareth the voice of the people in their shouting, and saith unto Moses, 'A noise of battle in the camp!'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2457,
+        "text": "and he saith, 'It is not the voice of the crying of might, nor is it the voice of the crying of weakness -- a voice of singing I am hearing.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2458,
+        "text": "And it cometh to pass, when he hath drawn near unto the camp, that he seeth the calf, and the dancing, and the anger of Moses burneth, and he casteth out of his hands the tables, and breaketh them under the mount;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2459,
+        "text": "and he taketh the calf which they have made, and burneth [it] with fire, and grindeth until [it is] small, and scattereth on the face of the waters, and causeth the sons of Israel to drink.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2460,
+        "text": "And Moses saith unto Aaron, 'What hath this people done to thee, that thou hast brought in upon it a great sin?'",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 2461,
+        "text": "and Aaron saith, 'Let not the anger of my lord burn; thou -- thou hast known the people that it [is] in evil;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2462,
+        "text": "and they say to me, Make for us gods, who go before us, for this Moses -- the man who brought us up out of the land of Egypt -- we have not known what hath happened to him;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2463,
+        "text": "and I say to them, Whoso hath gold, let them break [it] off, and they give to me, and I cast it into the fire, and this calf cometh out.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2464,
+        "text": "And Moses seeth the people that it [is] unbridled, for Aaron hath made it unbridled for contempt among its withstanders,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2465,
+        "text": "and Moses standeth in the gate of the camp, and saith, 'Who [is] for Jehovah? -- unto me!' and all the sons of Levi are gathered unto him;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2466,
+        "text": "and he saith to them, 'Thus said Jehovah, God of Israel, Put each his sword by his thigh, pass over and turn back from gate to gate through the camp, and slay each his brother, and each his friend, and each his relation.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2467,
+        "text": "And the sons of Levi do according to the word of Moses, and there fall of the people on that day about three thousand men,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2468,
+        "text": "and Moses saith, 'Consecrate your hand to-day to Jehovah, for a man [is] against his son, and against his brother, so as to bring on you to-day a blessing.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2469,
+        "text": "And it cometh to pass, on the morrow, that Moses saith unto the people, 'Ye -- ye have sinned a great sin, and now I go up unto Jehovah, if so be I atone for your sin.'",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 2470,
+        "text": "And Moses turneth back unto Jehovah, and saith, 'Oh this people hath sinned a great sin, that they make to themselves a god of gold;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 2471,
+        "text": "and now, if Thou takest away their sin -- and if not -- blot me, I pray thee, out of Thy book which Thou hast written.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 2472,
+        "text": "And Jehovah saith unto Moses, 'Whoso hath sinned against Me -- I blot him out of My book;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 2473,
+        "text": "and now, go, lead the people whithersoever I have spoken to thee of; lo, My messenger goeth before thee, and in the day of my charging -- then I have charged upon them their sin.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 2474,
+        "text": "And Jehovah plagueth the people, because they made the calf which Aaron made.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

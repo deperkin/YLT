@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 4,
+    "count": 482,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13967,
+        "text": "To the Overseer with Stringed Instruments. -- A Psalm of David. In my calling answer Thou me, O God of my righteousness. In adversity Thou gavest enlargement to me; Favour me, and hear my prayer.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13968,
+        "text": "Sons of men! till when [is] my glory for shame? Ye love a vain thing, ye seek a lie. Selah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13969,
+        "text": "And know ye that Jehovah Hath separated a saintly one to Himself. Jehovah heareth in my calling to Him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13970,
+        "text": "'Tremble ye, and do not sin;' Say ye [thus] in your heart on your bed, And be ye silent. Selah.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13971,
+        "text": "Sacrifice ye sacrifices of righteousness, And trust ye unto Jehovah.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13972,
+        "text": "Many are saying, 'Who doth show us good?' Lift on us the light of Thy face, O Jehovah,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 13973,
+        "text": "Thou hast given joy in my heart, From the time their corn and their wine Have been multiplied.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13974,
+        "text": "In peace together I lie down and sleep, For Thou, O Jehovah, alone, In confidence dost cause me to dwell!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

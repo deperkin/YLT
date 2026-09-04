@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 114,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3448,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3449,
+        "text": "'Command the sons of Israel, and they bring unto thee pure olive oil, beaten, for the lamp, to cause a light to go up continually;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3450,
+        "text": "at the outside of the vail of the testimony in the tent of meeting doth Aaron arrange it from evening till morning before Jehovah continually -- a statute age-during to your generations;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3451,
+        "text": "by the pure candlestick he doth arrange the lights before Jehovah continually.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3452,
+        "text": "'And thou hast taken flour, and hast baked twelve cakes with it, two tenth deals are in the one cake,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3453,
+        "text": "and thou hast set them two ranks (six in the rank) on the pure table before Jehovah,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3454,
+        "text": "and thou hast put on the rank pure frankincense, and it hath been to the bread for a memorial, a fire-offering to Jehovah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3455,
+        "text": "'On each sabbath-day he arrangeth it before Jehovah continually, from the sons of Israel -- a covenant age-during;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3456,
+        "text": "and it hath been to Aaron, and to his sons, and they have eaten it in the holy place, for it [is] most holy to him, from the fire-offerings of Jehovah -- a statute age-during.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3457,
+        "text": "And a son of an Israelitish woman goeth out (and he [is] son of an Egyptian man), in the midst of the sons of Israel, and strive in the camp do the son of the Israelitish woman and a man of Israel,",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 3458,
+        "text": "and the son of the Israelitish woman execrateth the Name, and revileth; and they bring him in unto Moses; and his mother's name [is] Shelomith daughter of Dibri, of the tribe of Dan;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3459,
+        "text": "and he causeth him to rest in charge -- to explain to them by the mouth of Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3460,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3461,
+        "text": "'Bring out the reviler unto the outside of the camp; and all those hearing have laid their hands on his head, and all the company have stoned him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3462,
+        "text": "'And unto the sons of Israel thou dost speak, saying, When any man revileth his God -- then he hath borne his sin;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3463,
+        "text": "and he who is execrating the name of Jehovah is certainly put to death; all the company do certainly cast stones at him; as a sojourner so a native, in his execrating the Name, is put to death.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3464,
+        "text": "'And when a man smiteth any soul of man, he is certainly put to death.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3465,
+        "text": "'And he who smiteth a beast repayeth it, body for body.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3466,
+        "text": "'And when a man putteth a blemish in his fellow, as he hath done so it is done to him;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3467,
+        "text": "breach for breach, eye for eye, tooth for tooth; as he putteth a blemish in a man so it is done in him.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3468,
+        "text": "'And he who smiteth a beast repayeth it, and he who smiteth [the life of] man is put to death;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3469,
+        "text": "one judgment is to you; as a sojourner so is a native; for I [am] Jehovah your God.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3470,
+        "text": "And Moses speaketh unto the sons of Israel, and they bring out the reviler unto the outside of the camp, and stone him with stones; and the sons of Israel have done as Jehovah hath commanded Moses.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

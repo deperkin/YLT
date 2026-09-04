@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 141,
+    "count": 619,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16278,
+        "text": "A Psalm, by David. O Jehovah, I have called Thee, haste to me, Give ear [to] my voice when I call to Thee.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16279,
+        "text": "My prayer is prepared -- incense before Thee, The lifting up of my hands -- the evening present.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16280,
+        "text": "Set, O Jehovah, a watch for my mouth, Watch Thou over the door of my lips.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16281,
+        "text": "Incline not my heart to an evil thing, To do habitually actions in wickedness, With men working iniquity, Yea, I eat not of their pleasant things.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16282,
+        "text": "The righteous doth beat me [in] kindness. And doth reprove me, Oil of the head my head disalloweth not, For still my prayer [is] about their vexations.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16283,
+        "text": "Their judges have been released by the sides of a rock, And they have heard my sayings, For they have been pleasant.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16284,
+        "text": "As one tilling and ripping up in the land, Have our bones been scattered at the command of Saul.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16285,
+        "text": "But to Thee, O Jehovah, my Lord, [are] mine eyes, In Thee I have trusted, Make not bare my soul.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16286,
+        "text": "Keep me from the gin they laid for me, Even snares of workers of iniquity.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16287,
+        "text": "The wicked fall in their nets together, till I pass over!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

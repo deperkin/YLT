@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 136,
+    "count": 614,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16198,
+        "text": "Give ye thanks to Jehovah, For good, for to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16199,
+        "text": "Give ye thanks to the God of gods, For to the age [is] His kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16200,
+        "text": "Give ye thanks to the Lord of lords, For to the age [is] His kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16201,
+        "text": "To Him doing great wonders by Himself alone, For to the age [is] His kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16202,
+        "text": "To Him making the heavens by understanding, For to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16203,
+        "text": "To Him spreading the earth over the waters, For to the age [is] His kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16204,
+        "text": "To Him making great lights, For to the age [is] His kindness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16205,
+        "text": "The sun to rule by day, For to the age [is] His kindness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16206,
+        "text": "The moon and stars to rule by night, For to the age [is] His kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16207,
+        "text": "To Him smiting Egypt in their first-born, For to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16208,
+        "text": "And bringing forth Israel from their midst, For to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16209,
+        "text": "By a strong hand, and a stretched-out-arm, For to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16210,
+        "text": "To Him cutting the sea of Suph into parts, For to the age [is] His kindness,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16211,
+        "text": "And caused Israel to pass through its midst, For to the age [is] His kindness,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16212,
+        "text": "And shook out Pharaoh and his force in the sea of Suph, For to the age [is] His kindness.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16213,
+        "text": "To Him leading His people in a wilderness, For to the age [is] His kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16214,
+        "text": "To Him smiting great kings, For to the age [is] His kindness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16215,
+        "text": "Yea, He doth slay honourable kings, For to the age [is] His kindness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16216,
+        "text": "Even Sihon king of the Amorite, For to the age [is] His kindness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16217,
+        "text": "And Og king of Bashan, For to the age [is] His kindness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 16218,
+        "text": "And He gave their land for inheritance, For to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16219,
+        "text": "An inheritance to Israel His servant, For to the age [is] His kindness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16220,
+        "text": "Who in our lowliness hath remembered us, For to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16221,
+        "text": "And He delivereth us from our adversaries, For to the age [is] His kindness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 16222,
+        "text": "Giving food to all flesh, For to the age [is] His kindness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 16223,
+        "text": "Give ye thanks to the God of the heavens, For to the age [is] His kindness!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

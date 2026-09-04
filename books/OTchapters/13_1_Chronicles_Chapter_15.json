@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 353,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10793,
+        "text": "And he maketh for himself houses in the city of David, and prepareth a place for the ark of God, and stretcheth out for it a tent.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10794,
+        "text": "Then said David, 'None [are] to carry the ark of God, except the Levites, for on them hath Jehovah fixed to carry the ark of God, and to serve Him -- unto the age.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10795,
+        "text": "And David assembleth all Israel unto Jerusalem, to bring up the ark of Jehovah unto its place that he had prepared for it.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10796,
+        "text": "And David gathereth the sons of Aaron, and the Levites.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10797,
+        "text": "Of sons of Kohath: Uriel the chief, and his brethren, a hundred and twenty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10798,
+        "text": "Of sons of Merari: Asaiah the chief, and his brethren, two hundred and twenty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10799,
+        "text": "Of sons of Gershom: Joel the chief, and his brethren, a hundred and thirty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10800,
+        "text": "Of sons of Elizaphan: Shemaiah the chief, and his brethren, two hundred.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10801,
+        "text": "Of sons of Hebron: Eliel the chief, and his brethren, eighty.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10802,
+        "text": "Of sons of Uzziel: Amminadab the chief, and his brethren, a hundred and twelve.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10803,
+        "text": "And David calleth to Zadok and to Abiathar the priests, and to the Levites, to Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10804,
+        "text": "and saith to them, 'Ye [are] heads of the fathers of the Levites; sanctify yourselves, ye and your brethren, and ye have brought up the ark of Jehovah, God of Israel, unto [the place] I have prepared for it;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10805,
+        "text": "because at the first [it was] not ye, Jehovah our God made a breach upon us, because we sought Him not according to the ordinance.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10806,
+        "text": "And the priests and the Levites sanctify themselves, to bring up the ark of Jehovah, God of Israel;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10807,
+        "text": "and sons of the Levites bear the ark of God, as Moses commanded, according to the word of Jehovah, on their shoulder, with staves, above them.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10808,
+        "text": "And David saith to the heads of the Levites to appoint their brethren the singers, with instruments of song, psalteries, and harps, and cymbals, sounding, to lift up with the voice for joy.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10809,
+        "text": "And the Levites appoint Heman son of Joel, and of his brethren, Asaph son of Berechiah, and of the sons of Merari their brethren, Ethan son of Kushaiah;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10810,
+        "text": "and with them their brethren, the seconds [in rank], Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah; and Obed-Edom and Jeiel the gatekeepers;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10811,
+        "text": "and the singers, Heman, Asaph, and Ethan, with cymbals of brass to sound,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10812,
+        "text": "and Zechariah, and Aziel, and Shemiramoth, and Jeheil, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries besides virgins,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10813,
+        "text": "and Mattithiah, and Elipheleh, and Mikneiah, and Obed-Edom, and Jeiel, and Azaziah, with harps, on the octave, to oversee.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10814,
+        "text": "And Chenaniah, head of the Levites, [is] over the burden; he instructeth about the burden, for he [is] intelligent.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10815,
+        "text": "And Berechiah and Elkanah [are] gatekeepers for the ark.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10816,
+        "text": "And Shebaniah, and Joshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer the priests, are blowing with trumpets before the ark of God; and Obed-Edom and Jehiah [are] gatekeepers for the ark.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10817,
+        "text": "And it is David, and the elders of Israel, and the heads of the thousands, who are going to bring up the ark of the covenant of Jehovah from the house of Obed-Edom with joy;",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 10818,
+        "text": "and it cometh to pass, in God's helping the Levites bearing the ark of the covenant of Jehovah, that they sacrifice seven bullocks and seven rams.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10819,
+        "text": "And David is wrapped in an upper robe of fine linen, and all the Levites who are bearing the ark, and the singers, and Chenaniah head of the burden of the singers; and on David [is] an Ephod of linen.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10820,
+        "text": "And all Israel are bringing up the ark of the covenant of Jehovah with shouting, and with the sound of a cornet, and with trumpets, and with cymbals, sounding with psalteries and harps,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10821,
+        "text": "and it cometh to pass, the ark of the covenant of Jehovah is entering in unto the city of David, and Michal daughter of Saul is looking through the window, and seeth king David dancing and playing, and despiseth him in her heart.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

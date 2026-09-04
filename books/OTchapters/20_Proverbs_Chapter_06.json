@@ -1,0 +1,257 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 634,
+    "MaxVerses": 35,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16542,
+        "text": "My son! if thou hast been surety for thy friend, Hast stricken for a stranger thy hand,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16543,
+        "text": "Hast been snared with sayings of thy mouth, Hast been captured with sayings of thy mouth,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16544,
+        "text": "Do this now, my son, and be delivered, For thou hast come into the hand of thy friend. Go, trample on thyself, and strengthen thy friend,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16545,
+        "text": "Give not sleep to thine eyes, And slumber to thine eyelids,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16546,
+        "text": "Be delivered as a roe from the hand, And as a bird from the hand of a fowler.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16547,
+        "text": "Go unto the ant, O slothful one, See her ways and be wise;",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16548,
+        "text": "Which hath not captain, overseer, and ruler,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16549,
+        "text": "She doth prepare in summer her bread, She hath gathered in harvest her food.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16550,
+        "text": "Till when, O slothful one, dost thou lie? When dost thou arise from thy sleep?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16551,
+        "text": "A little sleep, a little slumber, A little clasping of the hands to rest,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16552,
+        "text": "And thy poverty hath come as a traveller, And thy want as an armed man.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16553,
+        "text": "A man of worthlessness, a man of iniquity, Walking [with] perverseness of mouth,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16554,
+        "text": "Winking with his eyes, speaking with his feet, Directing with his fingers,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16555,
+        "text": "Frowardness [is] in his heart, devising evil at all times, Contentions he sendeth forth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16556,
+        "text": "Therefore suddenly cometh his calamity, Instantly he is broken -- and no healing.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16557,
+        "text": "These six hath Jehovah hated, Yea, seven [are] abominations to His soul.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16558,
+        "text": "Eyes high -- tongues false -- And hands shedding innocent blood --",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16559,
+        "text": "A heart devising thoughts of vanity -- Feet hasting to run to evil --",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 16560,
+        "text": "A false witness [who] doth breathe out lies -- And one sending forth contentions between brethren.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 16561,
+        "text": "Keep, my son, the command of thy father, And leave not the law of thy mother.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16562,
+        "text": "Bind them on thy heart continually, Tie them on thy neck.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 16563,
+        "text": "In thy going up and down, it leadeth thee, In thy lying down, it watcheth over thee, And thou hast awaked -- it talketh [with] thee.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 16564,
+        "text": "For a lamp [is] the command, And the law a light, And a way of life [are] reproofs of instruction,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 16565,
+        "text": "To preserve thee from an evil woman, From the flattery of the tongue of a strange woman.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 16566,
+        "text": "Desire not her beauty in thy heart, And let her not take thee with her eyelids.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 16567,
+        "text": "For a harlot consumeth unto a cake of bread, And an adulteress the precious soul hunteth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 16568,
+        "text": "Doth a man take fire into his bosom, And are his garments not burnt?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 16569,
+        "text": "Doth a man walk on the hot coals, And are his feet not scorched?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 16570,
+        "text": "So [is] he who hath gone in unto the wife of his neighbour, None who doth touch her is innocent.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 16571,
+        "text": "They do not despise the thief, When he stealeth to fill his soul when he is hungry,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 16572,
+        "text": "And being found he repayeth sevenfold, All the substance of his house he giveth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 16573,
+        "text": "He who committeth adultery [with] a woman lacketh heart, He is destroying his soul who doth it.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 16574,
+        "text": "A stroke and shame he doth find, And his reproach is not wiped away,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 16575,
+        "text": "For jealousy [is] the fury of a man, And he doth not spare in a day of vengeance.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 16576,
+        "text": "He accepteth not the appearance of any atonement, Yea, he doth not consent, Though thou dost multiply bribes!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

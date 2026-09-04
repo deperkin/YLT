@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 94,
+    "count": 572,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15433,
+        "text": "God of vengeance -- Jehovah! God of vengeance, shine forth.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15434,
+        "text": "Be lifted up, O Judge of the earth, Send back a recompence on the proud.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15435,
+        "text": "Till when [do] the wicked, O Jehovah? Till when do the wicked exult?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15436,
+        "text": "They utter -- they speak an old saw, All working iniquity do boast themselves.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15437,
+        "text": "Thy people, O Jehovah, they bruise, And Thine inheritance they afflict.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15438,
+        "text": "Widow and sojourner they slay, And fatherless ones they murder.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15439,
+        "text": "And they say, 'Jehovah doth not see, And the God of Jacob doth not consider.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15440,
+        "text": "Consider, ye brutish among the people, And ye foolish, when do ye act wisely?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15441,
+        "text": "He who planteth the ear doth He not hear? He who formeth the eye doth He not see?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15442,
+        "text": "He who is instructing nations, Doth He not reprove? He who is teaching man knowledge [is] Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15443,
+        "text": "He knoweth the thoughts of man, that they [are] vanity.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15444,
+        "text": "O the happiness of the man Whom Thou instructest, O Jah, And out of Thy law teachest him,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 15445,
+        "text": "To give rest to him from days of evil, While a pit is digged for the wicked.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15446,
+        "text": "For Jehovah leaveth not His people, And His inheritance forsaketh not.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15447,
+        "text": "For to righteousness judgment turneth back, And after it all the upright of heart,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15448,
+        "text": "Who riseth up for me with evil doers? Who stationeth himself for me with workers of iniquity?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15449,
+        "text": "Unless Jehovah [were] a help to me, My soul had almost inhabited silence.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15450,
+        "text": "If I have said, 'My foot hath slipped,' Thy kindness, O Jehovah, supporteth me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15451,
+        "text": "In the abundance of my thoughts within me, Thy comforts delight my soul.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15452,
+        "text": "Is a throne of mischief joined [with] Thee? A framer of perverseness by statute?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15453,
+        "text": "They decree against the soul of the righteous, And innocent blood declare wicked.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15454,
+        "text": "And Jehovah is for a high place to me, And my God [is] for a rock -- my refuge,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15455,
+        "text": "And turneth back on them their iniquity, And in their wickedness cutteth them off; Jehovah our God doth cut them off!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

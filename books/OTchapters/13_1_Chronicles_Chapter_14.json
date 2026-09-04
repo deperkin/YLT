@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 352,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10776,
+        "text": "And Huram king of Tyre sendeth messengers unto David, and cedar-wood, and artificers of walls, and artificers of wood, to build to him a house.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10777,
+        "text": "And David knoweth that Jehovah hath established him for king over Israel, because of the lifting up on high of his kingdom, for the sake of His people Israel.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10778,
+        "text": "And David taketh again wives in Jerusalem, and David begetteth again sons and daughters;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10779,
+        "text": "and these [are] the names of the children whom he hath in Jerusalem: Shammua, and Shobab, Nathan, and Solomon,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10780,
+        "text": "and Ibhar, and Elishua, and Elpalet,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10781,
+        "text": "and Nogah, and Nepheg, and Japhia,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10782,
+        "text": "and Elishama, and Beeliada, and Eliphalet.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10783,
+        "text": "And the Philistines hear that David hath been anointed for king over all Israel, and all the Philistines go up to seek David, and David heareth, and goeth out before them.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 10784,
+        "text": "And the Philistines have come, and rush into the valley of Rephaim,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10785,
+        "text": "and David asketh of God, saying, 'Do I go up against the Philistines -- and hast Thou given them into my hand?' And Jehovah saith to him, 'Go up, and I have given them into thy hand.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10786,
+        "text": "And they go up into Baal-Perazim, and David smiteth them there, and David saith, 'God hath broken up mine enemies by my hand, like the breaking up of waters;' therefore they have called the name of that place Baal-Perazim.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10787,
+        "text": "And they leave there their gods, and David speaketh, and they are burnt with fire.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10788,
+        "text": "And the Philistines add again, and rush into the valley,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10789,
+        "text": "and David asketh again of God, and God saith to him, 'Do not go up after them, turn round from them, and thou hast come to them from over-against the mulberries;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 10790,
+        "text": "and it cometh to pass, when thou hearest the sound of the stepping at the heads of the mulberries, then thou goest out into battle, for God hath gone out before thee to smite the camp of the Philistines.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10791,
+        "text": "And David doth as God commanded him, and they smite the camp of the Philistines from Gibeon even unto Gazer;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10792,
+        "text": "and the name of David goeth out into all the lands, and Jehovah hath put his fear on all the nations.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

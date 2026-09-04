@@ -1,0 +1,194 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 439,
+    "MaxVerses": 26,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12906,
+        "text": "After this hath Job opened his mouth, and revileth his day.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12907,
+        "text": "And Job answereth and saith: --",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12908,
+        "text": "Let the day perish in which I am born, And the night that hath said: 'A man-child hath been conceived.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12909,
+        "text": "That day -- let it be darkness, Let not God require it from above, Nor let light shine upon it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12910,
+        "text": "Let darkness and death-shade redeem it, Let a cloud tabernacle upon it, Let them terrify it as the most bitter of days.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12911,
+        "text": "That night -- let thick darkness take it, Let it not be united to days of the year, Into the number of months let it not come.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12912,
+        "text": "Lo! that night -- let it be gloomy, Let no singing come into it.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12913,
+        "text": "Let the cursers of day mark it, Who are ready to wake up Leviathan.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12914,
+        "text": "Let the stars of its twilight be dark, Let it wait for light, and there is none, And let it not look on the eyelids of the dawn.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12915,
+        "text": "Because it hath not shut the doors Of the womb that was mine! And hide misery from mine eyes.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12916,
+        "text": "Why from the womb do I not die? From the belly I have come forth and gasp!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 12917,
+        "text": "Wherefore have knees been before me? And what [are] breasts, that I suck?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12918,
+        "text": "For now, I have lain down, and am quiet, I have slept -- then there is rest to me,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12919,
+        "text": "With kings and counsellors of earth, These building wastes for themselves.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12920,
+        "text": "Or with princes -- they have gold, They are filling their houses [with] silver.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12921,
+        "text": "(Or as a hidden abortion I am not, As infants -- they have not seen light.)",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12922,
+        "text": "There the wicked have ceased troubling, And there rest do the wearied in power.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12923,
+        "text": "Together prisoners have been at ease, They have not heard the voice of an exactor,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12924,
+        "text": "Small and great [are] there the same. And a servant [is] free from his lord.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12925,
+        "text": "Why giveth He to the miserable light, and life to the bitter soul?",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 12926,
+        "text": "Who are waiting for death, and it is not, And they seek it above hid treasures.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12927,
+        "text": "Who are glad -- unto joy, They rejoice when they find a grave.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12928,
+        "text": "To a man whose way hath been hidden, And whom God doth shut up?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12929,
+        "text": "For before my food, my sighing cometh, And poured out as waters [are] my roarings.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12930,
+        "text": "For a fear I feared and it meeteth me, And what I was afraid of doth come to me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12931,
+        "text": "I was not safe -- nor was I quiet -- Nor was I at rest -- and trouble cometh!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

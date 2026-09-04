@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 6,"name": "Joshua","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 199,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6132,
+        "text": "And these [are] kings of the land whom the sons of Israel have smitten, and possess their land, beyond the Jordan, at the sun-rising, from the brook Arnon unto mount Hermon, and all the plain eastward.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6133,
+        "text": "Sihon, king of the Amorite, who is dwelling in Heshbon, ruling from Aroer which [is] on the border of the brook Arnon, and the middle of the brook, and half of Gilead, and unto Jabok the brook, the border of the Bene-Ammon;",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6134,
+        "text": "And the plain unto the sea of Chinneroth eastward, and unto the sea of the plain (the salt sea) eastward, the way to Beth-Jeshimoth, and from the south under the springs of Pisgah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6135,
+        "text": "And the border of Og king of Bashan (of the remnant of the Rephaim), who is dwelling in Ashtaroth and in Edrei,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6136,
+        "text": "and ruling in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurite, and the Maachathite, and the half of Gilead, the border of Sihon king of Heshbon.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6137,
+        "text": "Moses, servant of Jehovah, and the sons of Israel have smitten them, and Moses, servant of Jehovah, giveth it -- a possession to the Reubenite, and to the Gadite, and to the half of the tribe of Manasseh.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6138,
+        "text": "And these [are] kings of the land whom Joshua and the sons of Israel have smitten beyond the Jordan westward, from Baal-Gad, in the valley of Lebanon, and unto the mount of Halak, which is going up to Seir; and Joshua giveth it to the tribes of Israel -- a possession according to their divisions;",
+        "WordCount": 55,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 6139,
+        "text": "in the hill-country, and in the low country, and in the plain, and in the springs, and in the wilderness, and in the south; the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6140,
+        "text": "The king of Jericho, one; The king of Ai, which [is] beside Bethel, one;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6141,
+        "text": "The king of Jerusalem, one; The king of Hebron, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6142,
+        "text": "The king of Jarmuth, one; The king of Lachish, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 6143,
+        "text": "The king of Eglon, one; The king of Gezer, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6144,
+        "text": "The king of Debir, one; The king of Geder, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6145,
+        "text": "The king of Hormah, one; The king of Arad, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6146,
+        "text": "The king of Libnah, one; The king of Adullam, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6147,
+        "text": "The king of Mekkedah, one; The king of Beth-El, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6148,
+        "text": "The king of Tappuah, one; The king of Hepher, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6149,
+        "text": "The king of Aphek, one; The king of Lasharon, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6150,
+        "text": "The king of Madon, one; The king of Hazor, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6151,
+        "text": "The king of Shimron-Meron, one; The king of Achshaph, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6152,
+        "text": "The king of Taanach, one; The king of Megiddo, one;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6153,
+        "text": "The king of Kedesh, one; The king of Jokneam of Carmel, one;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6154,
+        "text": "The king of Dor, at the elevation of Dor, one; The king of the Goyim of Gilgal, one;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6155,
+        "text": "The king of Tirzah, one; all the kings [are] thirty and one.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

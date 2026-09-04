@@ -1,0 +1,124 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 81,
+    "count": 559,
+    "MaxVerses": 16,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15219,
+        "text": "To the Overseer. -- 'On the Gittith.' By Asaph. Cry aloud to God our strength, Shout to the God of Jacob.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15220,
+        "text": "Lift up a song, and give out a timbrel, A pleasant harp with psaltery.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15221,
+        "text": "Blow in the month a trumpet, In the new moon, at the day of our festival,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15222,
+        "text": "For a statute to Israel it [is], An ordinance of the God of Jacob.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15223,
+        "text": "A testimony on Joseph He hath placed it, In his going forth over the land of Egypt. A lip, I have not known -- I hear.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15224,
+        "text": "From the burden his shoulder I turned aside, His hands from the basket pass over.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15225,
+        "text": "In distress thou hast called and I deliver thee, I answer thee in the secret place of thunder, I try thee by the waters of Meribah. Selah.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15226,
+        "text": "Hear, O My people, and I testify to thee, O Israel, if thou dost hearken to me:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15227,
+        "text": "There is not in thee a strange god, And thou bowest not thyself to a strange god.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15228,
+        "text": "I [am] Jehovah thy God, Who bringeth thee up out of the land of Egypt. Enlarge thy mouth, and I fill it.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15229,
+        "text": "But, My people hearkened not to My voice, And Israel hath not consented to Me.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15230,
+        "text": "And I send them away in the enmity of their heart, They walk in their own counsels.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15231,
+        "text": "O that My people were hearkening to Me, Israel in My ways would walk.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15232,
+        "text": "As a little thing their enemies I cause to bow, And against their adversaries I turn back My hand,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15233,
+        "text": "Those hating Jehovah feign obedience to Him, But their time is -- to the age.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15234,
+        "text": "He causeth him to eat of the fat of wheat, And [with] honey from a rock I satisfy thee!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

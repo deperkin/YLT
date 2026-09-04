@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 506,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14301,
+        "text": "By David. Unto Thee, O Jehovah, I call, My rock, be not silent to me! Lest Thou be silent to me, And I have been compared With those going down to the pit.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14302,
+        "text": "Hear the voice of my supplications, In my crying unto Thee, In my lifting up my hands toward thy holy oracle.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14303,
+        "text": "Draw me not with the wicked, And with workers of iniquity, Speaking peace with their neighbours, And evil in their heart.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14304,
+        "text": "Give to them according to their acting, And according to the evil of their doings. According to the work of their hands give to them. Return their deed to them.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14305,
+        "text": "For they attend not to the doing of Jehovah, And unto the work of His hands. He throweth them down, And doth not build them up.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14306,
+        "text": "Blessed [is] Jehovah, For He hath heard the voice of my supplications.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14307,
+        "text": "Jehovah [is] my strength, and my shield, In Him my heart trusted, and I have been helped. And my heart exulteth, And with my song I thank Him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14308,
+        "text": "Jehovah [is] strength to him, Yea, the strength of the salvation of His anointed [is] He.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14309,
+        "text": "Save Thy people, and bless Thine inheritance, And feed them, and carry them to the age!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

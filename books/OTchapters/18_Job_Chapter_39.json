@@ -1,0 +1,222 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 39,
+    "count": 475,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13836,
+        "text": "Hast thou known the time of The bearing of the wild goats of the rock? The bringing forth of hinds thou dost mark!",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13837,
+        "text": "Thou dost number the months they fulfil? And thou hast known the time of their bringing forth!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13838,
+        "text": "They bow down, Their young ones they bring forth safely, Their pangs they cast forth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13839,
+        "text": "Safe are their young ones, They grow up in the field, they have gone out, And have not returned to them.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13840,
+        "text": "Who hath sent forth the wild ass free? Yea, the bands of the wild ass who opened?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13841,
+        "text": "Whose house I have made the wilderness, And his dwellings the barren land,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13842,
+        "text": "He doth laugh at the multitude of a city, The cries of an exactor he heareth not.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13843,
+        "text": "The range of mountains [is] his pasture, And after every green thing he seeketh.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13844,
+        "text": "Is a Reem willing to serve thee? Doth he lodge by thy crib?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13845,
+        "text": "Dost thou bind a Reem in a furrow [with] his thick band? Doth he harrow valleys after thee?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13846,
+        "text": "Dost thou trust in him because great [is] his power? And dost thou leave unto him thy labour?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13847,
+        "text": "Dost thou trust in him That he doth bring back thy seed? And [to] thy threshing-floor doth gather [it]?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13848,
+        "text": "The wing of the rattling ones exulteth, Whether the pinion of the ostrich or hawk.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 13849,
+        "text": "For she leaveth on the earth her eggs, And on the dust she doth warm them,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13850,
+        "text": "And she forgetteth that a foot may press it, And a beast of the field tread it down.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13851,
+        "text": "Her young ones it hath hardened without her, In vain [is] her labour without fear.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13852,
+        "text": "For God hath caused her to forget wisdom, And He hath not given a portion To her in understanding:",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13853,
+        "text": "At the time on high she lifteth herself up, She laugheth at the horse and at his rider.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13854,
+        "text": "Dost thou give to the horse might? Dost thou clothe his neck [with] a mane?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 13855,
+        "text": "Dost thou cause him to rush as a locust? The majesty of his snorting [is] terrible.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13856,
+        "text": "They dig in a valley, and he rejoiceth in power, He goeth forth to meet the armour.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13857,
+        "text": "He laugheth at fear, and is not affrighted, And he turneth not back from the face of the sword.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13858,
+        "text": "Against him rattle doth quiver, The flame of a spear, and a halbert.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13859,
+        "text": "With trembling and rage he swalloweth the ground, And remaineth not stedfast Because of the sound of a trumpet.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13860,
+        "text": "Among the trumpets he saith, Aha, And from afar he doth smell battle, Roaring of princes and shouting.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13861,
+        "text": "By thine understanding flieth a hawk? Spreadeth he his wings to the south?",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 13862,
+        "text": "At thy command goeth an eagle up high? Or lifteth he up his nest?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13863,
+        "text": "A rock he doth inhabit, Yea, he lodgeth on the tooth of a rock, and fortress.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13864,
+        "text": "From thence he hath sought food, To a far off place his eyes look attentively,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13865,
+        "text": "And his brood gulp up blood, And where the pierced [are] -- there [is] he!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

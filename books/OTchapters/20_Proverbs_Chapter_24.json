@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 652,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17081,
+        "text": "Be not envious of evil men, And desire not to be with them.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17082,
+        "text": "For destruction doth their heart meditate, And perverseness do their lips speak.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17083,
+        "text": "By wisdom is a house builded, And by understanding it establisheth itself.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 17084,
+        "text": "And by knowledge the inner parts are filled, [With] all precious and pleasant wealth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17085,
+        "text": "Mighty [is] the wise in strength, And a man of knowledge is strengthening power,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17086,
+        "text": "For by plans thou makest for thyself war, And deliverance [is] in a multitude of counsellors.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17087,
+        "text": "Wisdom [is] high for a fool, In the gate he openeth not his mouth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17088,
+        "text": "Whoso is devising to do evil, Him they call a master of wicked thoughts.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17089,
+        "text": "The thought of folly [is] sin, And an abomination to man [is] a scorner.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17090,
+        "text": "Thou hast shewed thyself weak in a day of adversity, Straitened is thy power,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17091,
+        "text": "If [from] delivering those taken to death, And those slipping to the slaughter -- thou keepest back.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17092,
+        "text": "When thou sayest, 'Lo, we knew not this.' Is not the Ponderer of hearts He who understandeth? And the Keeper of thy soul He who knoweth? And He hath rendered to man according to his work.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17093,
+        "text": "Eat my son, honey that [is] good, And the honeycomb -- sweet to thy palate.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 17094,
+        "text": "So [is] the knowledge of wisdom to thy soul, If thou hast found that there is a posterity And thy hope is not cut off.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17095,
+        "text": "Lay not wait, O wicked one, At the habitation of the righteous. Do not spoil his resting-place.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17096,
+        "text": "For seven [times] doth the righteous fall and rise, And the wicked stumble in evil.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17097,
+        "text": "In the falling of thine enemy rejoice not, And in his stumbling let not thy heart be joyful,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17098,
+        "text": "Lest Jehovah see, and [it be] evil in His eyes, And He hath turned from off him His anger.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17099,
+        "text": "Fret not thyself at evil doers, Be not envious at the wicked,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 17100,
+        "text": "For there is not a posterity to the evil, The lamp of the wicked is extinguished.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17101,
+        "text": "Fear Jehovah, my son, and the king, With changers mix not up thyself,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 17102,
+        "text": "For suddenly doth their calamity rise, And the ruin of them both -- who knoweth!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17103,
+        "text": "These also are for the wise: -- To discern faces in judgment is not good.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 17104,
+        "text": "Whoso is saying to the wicked, 'Thou [art] righteous,' Peoples execrate him -- nations abhor him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 17105,
+        "text": "And to those reproving it is pleasant, And on them cometh a good blessing.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17106,
+        "text": "Lips he kisseth who is returning straightforward words.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17107,
+        "text": "Prepare in an out-place thy work, And make it ready in the field -- go afterwards, Then thou hast built thy house.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 17108,
+        "text": "Be not a witness for nought against thy neighbour, Or thou hast enticed with thy lips.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 17109,
+        "text": "Say not, 'As he did to me, so I do to him, I render to each according to his work.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 17110,
+        "text": "Near the field of a slothful man I passed by, And near the vineyard of a man lacking heart.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 31,
+        "count": 17111,
+        "text": "And lo, it hath gone up -- all of it -- thorns! Covered its face have nettles, And its stone wall hath been broken down.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 17112,
+        "text": "And I see -- I -- I do set my heart, I have seen -- I have received instruction,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 17113,
+        "text": "A little sleep -- a little slumber -- A little folding of the hands to lie down.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 17114,
+        "text": "And thy poverty hath come [as] a traveller, And thy want as an armed man!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

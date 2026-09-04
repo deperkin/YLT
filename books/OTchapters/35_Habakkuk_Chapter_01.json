@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 35,"name": "Habakkuk","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 904,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22733,
+        "text": "The burden that Habakkuk the prophet hath seen:",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22734,
+        "text": "Till when, O Jehovah, have I cried, And Thou dost not hear? I cry unto Thee -- 'Violence,' and Thou dost not save.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22735,
+        "text": "Why dost Thou shew me iniquity, And perversity dost cause to behold? And spoiling and violence [are] before me, And there is strife, and contention doth lift [itself] up,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22736,
+        "text": "Therefore doth law cease, And judgment doth not go forth for ever, For the wicked is compassing the righteous, Therefore wrong judgment goeth forth.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22737,
+        "text": "Look ye on nations, and behold and marvel greatly. For a work He is working in your days, Ye do not believe though it is declared.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22738,
+        "text": "For, lo, I am raising up the Chaldeans, The bitter and hasty nation, That is going to the broad places of earth, To occupy tabernacles not its own.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22739,
+        "text": "Terrible and fearful it [is], From itself its judgment and its excellency go forth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22740,
+        "text": "Swifter than leopards have been its horses, And sharper than evening wolves, And increased have its horsemen, Even its horsemen from afar come in, They fly as an eagle, hasting to consume.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22741,
+        "text": "Wholly for violence it doth come in, Their faces swallowing up the east wind, And it doth gather as the sand a captivity.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22742,
+        "text": "And at kings it doth scoff, And princes [are] a laughter to it, At every fenced place it doth laugh, And it heapeth up dust, and captureth it.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22743,
+        "text": "Then passed on hath the spirit, Yea, he doth transgress, And doth ascribe this his power to his god.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22744,
+        "text": "Art not Thou of old, O Jehovah, my God, my Holy One? We do not die, O Jehovah, For judgment Thou hast appointed it, And, O Rock, for reproof Thou hast founded it.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 22745,
+        "text": "Purer of eyes than to behold evil, To look on perverseness Thou art not able, Why dost Thou behold the treacherous? Thou keepest silent when the wicked Doth swallow the more righteous than he,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22746,
+        "text": "And Thou makest man as fishes of the sea, As a creeping thing -- none ruling over him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22747,
+        "text": "Each of them with a hook he hath brought up, He doth catch it in his net, and gathereth it in his drag, Therefore he doth joy and rejoice.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22748,
+        "text": "Therefore he doth sacrifice to his net, And doth make perfume to his drag, For by them [is] his portion fertile, and his food fat.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22749,
+        "text": "Doth he therefore empty his net, And continually to slay nations spare not?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

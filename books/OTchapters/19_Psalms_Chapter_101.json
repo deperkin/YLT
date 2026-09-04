@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 101,
+    "count": 579,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15515,
+        "text": "A Psalm of David. Kindness and judgment I sing, To Thee, O Jehovah, I sing praise.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15516,
+        "text": "I act wisely in a perfect way, When dost Thou come in unto me? I walk habitually in the integrity of my heart, In the midst of my house.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15517,
+        "text": "I set not before mine eyes a worthless thing, The work of those turning aside I have hated, It adhereth not to me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15518,
+        "text": "A perverse heart turneth aside from me, Wickedness I know not.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15519,
+        "text": "Whoso slandereth in secret his neighbour, Him I cut off, The high of eyes and proud of heart, him I endure not.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15520,
+        "text": "Mine eyes are on the faithful of the land, To dwell with me, Whoso is walking in a perfect way, he serveth me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15521,
+        "text": "He dwelleth not in my house who is working deceit, Whoso is speaking lies Is not established before mine eyes.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15522,
+        "text": "At morning I cut off all the wicked of the land, To cut off from the city of Jehovah All the workers of iniquity!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

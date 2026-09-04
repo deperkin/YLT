@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 98,
+    "count": 576,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15492,
+        "text": "A Psalm. Sing ye to Jehovah a new song, For wonders He hath done, Given salvation to Him hath His right hand and His holy arm.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15493,
+        "text": "Jehovah hath made known His salvation, Before the eyes of the nations, He hath revealed His righteousness,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15494,
+        "text": "He hath remembered His kindness, And His faithfulness to the house of Israel, All ends of earth have seen the salvation of our God.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15495,
+        "text": "Shout to Jehovah, all the earth, Break forth, and cry aloud, and sing.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 15496,
+        "text": "Sing to Jehovah with harp, With harp, and voice of praise,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15497,
+        "text": "With trumpets, and voice of a cornet, Shout ye before the king Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15498,
+        "text": "Roar doth the sea and its fulness, The world and the inhabitants in it.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15499,
+        "text": "Floods clap hand, together hills cry aloud,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15500,
+        "text": "Before Jehovah, For He hath come to judge the earth, He judgeth the world in righteousness, And the people in uprightness!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 492,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14082,
+        "text": "To the Overseer. -- By David. A fool hath said in his heart, 'God is not;' They have done corruptly, They have done abominable actions, There is not a doer of good.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14083,
+        "text": "Jehovah from the heavens Hath looked on the sons of men, To see if there is a wise one -- seeking God.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14084,
+        "text": "The whole have turned aside, Together they have been filthy: There is not a doer of good, not even one.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14085,
+        "text": "Have all working iniquity not known? Those consuming my people have eaten bread, Jehovah they have not called.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 14086,
+        "text": "There they have feared a fear, For God [is] in the generation of the righteous.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14087,
+        "text": "The counsel of the poor ye cause to stink, Because Jehovah [is] his refuge.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14088,
+        "text": "'Who doth give from Zion the salvation of Israel? When Jehovah doth turn back [To] a captivity of His people, Jacob doth rejoice -- Israel is glad!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

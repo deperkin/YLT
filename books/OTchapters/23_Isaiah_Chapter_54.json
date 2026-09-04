@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 54,
+    "count": 733,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18725,
+        "text": "Sing, O barren, she hath not borne! Break forth with singing, and cry aloud, She hath not brought forth! For more [are] the sons of the desolate, Than the sons of the married one, said Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18726,
+        "text": "Enlarge the place of thy tent, And the curtains of thy tabernacles they stretch out, Restrain not -- lengthen thy cords, And thy pins make strong.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18727,
+        "text": "For right and left thou breakest forth, And thy seed doth nations possess,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18728,
+        "text": "And desolate cities they cause to be inhabited. Fear not, for thou art not ashamed, Nor blush, for thou art not confounded, For the shame of thy youth thou forgettest, And the reproach of thy widowhood Thou dost not remember any more.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18729,
+        "text": "For thy Maker [is] thy husband, Jehovah of Hosts [is] His name, And thy Redeemer [is] the Holy One of Israel, 'God of all the earth,' He is called.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18730,
+        "text": "For, as a woman forsaken and grieved in spirit, Called thee hath Jehovah, Even a youthful wife when she is refused, said thy God.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 18731,
+        "text": "In a small moment I have forsaken thee, And in great mercies I do gather thee,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18732,
+        "text": "In overflowing wrath I hid my face [for] a moment from thee, And in kindness age-during I have loved thee, Said thy Redeemer -- Jehovah!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18733,
+        "text": "For, the waters of Noah [is] this to Me, In that I have sworn -- the waters of Noah Do not pass again over the earth -- So I have sworn, Wrath is not upon thee, Nor rebuke against thee.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18734,
+        "text": "For the mountains depart, and the hills remove, And My kindness from thee departeth not, And the covenant of My peace removeth not, Said hath thy loving one -- Jehovah.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18735,
+        "text": "O afflicted, storm-tossed, not comforted, Lo, I am laying with cement thy stones, And have founded thee with sapphires,",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 18736,
+        "text": "And have made of agate thy pinnacles, And thy gates of carbuncle stones, And all thy border of stones of delight,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18737,
+        "text": "And all thy sons are taught of Jehovah, And abundant [is] the peace of thy sons.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18738,
+        "text": "In righteousness thou establishest thyself, Be far from oppression, for thou fearest not, And from ruin, for it cometh not near unto thee.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18739,
+        "text": "Lo, he doth diligently assemble without My desire, Who hath assembled near thee? By thee he falleth!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18740,
+        "text": "Lo, I -- I have prepared an artisan, Blowing on a fire of coals, And bringing out an instrument for his work, And I have prepared a destroyer to destroy.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18741,
+        "text": "No weapon formed against thee prospereth, And every tongue rising against thee, In judgment thou condemnest. This [is] the inheritance of the servants of Jehovah, And their righteousness from me, an affirmation of Jehovah!",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

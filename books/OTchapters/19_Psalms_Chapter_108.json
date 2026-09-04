@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 108,
+    "count": 586,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15744,
+        "text": "A Song, a Psalm of David. Prepared is my heart, O God, I sing, yea, I sing praise, also my honour.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15745,
+        "text": "Awake, psaltery and harp, I awake the dawn.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15746,
+        "text": "I thank Thee among peoples, O Jehovah, And I praise Thee among the nations.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15747,
+        "text": "For great above the heavens [is] Thy kindness, And unto the clouds Thy truth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15748,
+        "text": "Be Thou exalted above the heavens, O God, And above all the earth Thy honour.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15749,
+        "text": "That Thy beloved ones may be delivered, Save [with] Thy right hand, and answer us.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15750,
+        "text": "God hath spoken in His holiness: I exult, I apportion Shechem, And the valley of Succoth I measure,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15751,
+        "text": "Mine [is] Gilead, mine [is] Manasseh, And Ephraim [is] the strength of my head, Judah [is] my lawgiver,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15752,
+        "text": "Moab [is] a pot for my washing, Upon Edom I cast my shoe, Over Philistia I shout habitually.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15753,
+        "text": "Who doth bring me in to the fenced city? Who hath led me unto Edom?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15754,
+        "text": "Hast not Thou, O God, cast us off? And Thou goest not out, O God, with our hosts!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15755,
+        "text": "Give to us help from adversity, And vain is the salvation of man.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15756,
+        "text": "In God we do mightily, And He doth tread down our adversaries!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

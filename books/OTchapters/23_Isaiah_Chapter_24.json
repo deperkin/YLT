@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 703,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18097,
+        "text": "Lo, Jehovah is emptying the land, And is making it waste, And hath overturned [it on] its face, And hath scattered its inhabitants.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18098,
+        "text": "And it hath been -- as a people so a priest, As the servant so his master, As the maid-servant so her mistress, As the buyer so the seller, As the lender so the borrower, As the usurer so he who is lifting [it] on himself.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18099,
+        "text": "Utterly emptied is the land, and utterly spoiled, For Jehovah hath spoken this word:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18100,
+        "text": "Mourned, faded hath the land, Languished, faded hath the world, Languished have they -- the high place of the people of the land.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18101,
+        "text": "And the land hath been defiled under its inhabitants, Because they have transgressed laws, They have changed a statute, They have made void a covenant age-during.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18102,
+        "text": "Therefore a curse hath consumed the land, And the inhabitants in it are become desolate, Therefore consumed have been inhabitants of the land, And few men have been left.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18103,
+        "text": "Mourned hath the new wine, languished the vine, Sighed have all the joyful of heart.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18104,
+        "text": "Ceased hath the joy of tabrets, Ceased hath the noise of exulting ones, Ceased hath the joy of a harp.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18105,
+        "text": "With a song they drink not wine, Bitter is strong drink to those drinking it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 18106,
+        "text": "It was broken down -- a city of emptiness, Shut hath been every house from entrance.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18107,
+        "text": "A cry over the wine [is] in out-places, Darkened hath been all joy, Removed hath been the joy of the land.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18108,
+        "text": "Left in the city [is] desolation, And [with] wasting is the gate smitten.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18109,
+        "text": "When thus it is in the heart of the land, In the midst of the peoples, As the compassing of the olive, As gleanings when harvest hath been finished,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 18110,
+        "text": "They -- they lift up their voice, They sing of the excellency of Jehovah, They have cried aloud from the sea.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18111,
+        "text": "Therefore in prosperity honour ye Jehovah, In isles of the sea, the name of Jehovah, God of Israel.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18112,
+        "text": "From the skirt of the earth we heard songs, The desire of the righteous. And I say, 'Leanness [is] to me, Leanness [is] to me, woe [is] to me.' Treacherous dealers dealt treacherously, Yea, treachery, treacherous dealers dealt treacherously.",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 18113,
+        "text": "Fear, and a snare, and a gin, [Are] on thee, O inhabitant of the land.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18114,
+        "text": "And it hath come to pass, He who is fleeing from the noise of the fear Doth fall into the snare, And he who is coming up from the midst of the snare, Is captured by the gin, For windows on high have been opened, And shaken are foundations of the land.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18115,
+        "text": "Utterly broken down hath been the land, Utterly broken hath been the land, Utterly moved hath been the land.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18116,
+        "text": "Stagger greatly doth the land as a drunkard, And it hath been moved as a lodge, And heavy on it hath been its transgression, And it hath fallen, and addeth not to rise.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18117,
+        "text": "And it hath come to pass, in that day, Jehovah layeth a charge on the host of the high place in the high place, And on the kings of the land on the land.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 18118,
+        "text": "And they have been gathered -- A gathering of bound ones in a pit, And shut up they have been in a prison, And after a multitude of days are inspected.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 18119,
+        "text": "And confounded hath been the moon, And ashamed hath been the sun, For reigned hath Jehovah of Hosts In mount Zion, and in Jerusalem, And over-against His elders -- honour!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 36,"name": "Zephaniah","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 908,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22807,
+        "text": "Bend yourselves, yea, bend ye, O nation not desired,",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22808,
+        "text": "Before the bringing forth of a statute, As chaff hath the day passed on, While yet not come in upon you doth the heat of the anger of Jehovah, While yet not come in upon you doth a day of the anger of Jehovah,",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22809,
+        "text": "Seek Jehovah, all ye humble of the land, Who His judgment have done, Seek ye righteousness, seek humility, It may be ye are hidden in a day of the anger of Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22810,
+        "text": "For Gaza is forsaken, And Ashkelon [is] for a desolation, Ashdod! at noon they do cast her forth, And Ekron is rooted up.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22811,
+        "text": "Ho! O inhabitants of the sea-coast, Nation of the Cherethites, A word of Jehovah [is] against you, Canaan, land of the Philistines, And I have destroyed thee without an inhabitant.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22812,
+        "text": "And the sea-coast hath been habitations, Cottages [for] shepherds, and folds [for] a flock.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22813,
+        "text": "And the coast hath been for the remnant of the house of Judah, By them they have pleasure, In houses of Ashkelon at even they lie down, For inspect them doth Jehovah their God, And He hath turned back [to] their captivity.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22814,
+        "text": "I have heard the reproach of Moab, And the revilings of the sons of Ammon, Wherewith they reproached My people, And magnify [themselves] against their border.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22815,
+        "text": "Therefore, I live, An affirmation of Jehovah of Hosts, God of Israel, Surely, Moab is as Sodom, And the sons of Ammon as Gomorrah, An overrunning of nettles and salt-pits, And a desolation -- unto the age. A residue of My people do seize them, And a remnant of My nation inherit them.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22816,
+        "text": "This [is] to them for their arrogancy, Because they have reproached, And they magnify [themselves] against the people of Jehovah of Hosts.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22817,
+        "text": "Fearful [is] Jehovah against them, For He made bare all gods of the land, And bow themselves to Him, each from his place, Do all islanders of the nations.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22818,
+        "text": "Also ye, O Cushim, pierced of My sword [are] they.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 22819,
+        "text": "And He stretcheth His hand against the north, And doth destroy Asshur, And he setteth Nineveh for a desolation, A dry land like a wilderness.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22820,
+        "text": "And crouched in her midst have droves, Every beast of the nation, Both pelican and hedge-hog in her knobs lodge, A voice doth sing at the window, 'Destruction [is] at the threshold, For the cedar-work is exposed.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22821,
+        "text": "This [is] the exulting city that is dwelling confidently, That is saying in her heart, 'I [am], and beside me there is none,' How hath she been for a desolation, A crouching-place for beasts, Every one passing by her doth hiss, He doth shake his hand!",
+        "WordCount": 46,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

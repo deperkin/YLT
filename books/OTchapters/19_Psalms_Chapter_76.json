@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 76,
+    "count": 554,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15083,
+        "text": "To the Overseer with stringed instruments. -- A Psalm of Asaph. -- A Song. In Judah [is] God known, in Israel His name [is] great.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15084,
+        "text": "And His tabernacle is in Salem, And His habitation in Zion.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15085,
+        "text": "There he hath shivered arrows of a bow, Shield, and sword, and battle. Selah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15086,
+        "text": "Bright [art] Thou, honourable above hills of prey.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15087,
+        "text": "Spoiled themselves have the mighty of heart, They have slept their sleep, And none of the men of might found their hands.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15088,
+        "text": "From Thy rebuke, O God of Jacob, Both rider and horse have been fast asleep.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15089,
+        "text": "Thou, fearful [art] Thou, And who doth stand before Thee, Since Thou hast been angry!",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 15090,
+        "text": "From heaven Thou hast sounded judgment, Earth hath feared, and hath been still,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15091,
+        "text": "In the rising of God to judgment, To save all the humble of earth. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15092,
+        "text": "For the fierceness of man praiseth Thee, The remnant of fierceness Thou girdest on.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15093,
+        "text": "Vow and complete to Jehovah your God, All ye surrounding him. They bring presents to the Fearful One.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15094,
+        "text": "He doth gather the spirit of leaders, Fearful to the kings of earth!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

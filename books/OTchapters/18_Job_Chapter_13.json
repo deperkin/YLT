@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 449,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13155,
+        "text": "Lo, all -- hath mine eye seen, Heard hath mine ear, and it attendeth to it.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13156,
+        "text": "According to your knowledge I have known -- also I. I am not fallen more than you.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13157,
+        "text": "Yet I for the Mighty One do speak, And to argue for God I delight.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13158,
+        "text": "And yet, ye [are] forgers of falsehood, Physicians of nought -- all of you,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13159,
+        "text": "O that ye would keep perfectly silent, And it would be to you for wisdom.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13160,
+        "text": "Hear, I pray you, my argument, And to the pleadings of my lips attend,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13161,
+        "text": "For God do ye speak perverseness? And for Him do ye speak deceit?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13162,
+        "text": "His face do ye accept, if for God ye strive?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13163,
+        "text": "Is [it] good that He doth search you, If, as one mocketh at a man, ye mock at Him?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13164,
+        "text": "He doth surely reprove you, if in secret ye accept faces.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13165,
+        "text": "Doth not His excellency terrify you? And His dread fall upon you?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13166,
+        "text": "Your remembrances [are] similes of ashes, For high places of clay your heights.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13167,
+        "text": "Keep silent from me, and I speak, And pass over me doth what?",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 13168,
+        "text": "Wherefore do I take my flesh in my teeth? And my soul put in my hand?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13169,
+        "text": "Lo, He doth slay me -- I wait not! Only, my ways unto His face I argue.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13170,
+        "text": "Also -- He [is] to me for salvation, For the profane cometh not before Him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13171,
+        "text": "Hear ye diligently my word, And my declaration with your ears.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13172,
+        "text": "Lo, I pray you, I have set in order the cause, I have known that I am righteous.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13173,
+        "text": "Who [is] he that doth strive with me? For now I keep silent and gasp.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13174,
+        "text": "Only two things, O God, do with me: Then from Thy face I am not hidden.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13175,
+        "text": "Thy hand put far off from me, And Thy terror let not terrify me.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13176,
+        "text": "And call Thou, and I -- I answer, Or -- I speak, and answer Thou me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13177,
+        "text": "How many iniquities and sins have I? My transgression and my sin let me know.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 13178,
+        "text": "Why dost Thou hide Thy face? And reckonest me for an enemy to Thee?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13179,
+        "text": "A leaf driven away dost Thou terrify? And the dry stubble dost Thou pursue?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 13180,
+        "text": "For Thou writest against me bitter things, And causest me to possess iniquities of my youth:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13181,
+        "text": "And puttest in the stocks my feet, And observest all my paths, On the roots of my feet Thou settest a print,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13182,
+        "text": "And he, as a rotten thing, weareth away, As a garment hath a moth consumed him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

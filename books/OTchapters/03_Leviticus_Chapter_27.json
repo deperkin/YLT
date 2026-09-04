@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 117,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3572,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3573,
+        "text": "'Speak unto the sons of Israel, and thou hast said unto them, When a man maketh a wonderful vow, by thy valuation the persons [are] Jehovah's.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3574,
+        "text": "When thy valuation hath been of the male from a son of twenty years even unto a son of sixty years, then hath been thy valuation fifty shekels of silver by the shekel of the sanctuary.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3575,
+        "text": "And if it [is] a female -- then hath thy valuation been thirty shekels;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3576,
+        "text": "and if from a son of five years even unto a son of twenty years -- then hath thy valuation been of the male twenty shekels, and for the female, ten shekels;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3577,
+        "text": "and if from a son of a month even unto a son of five years -- then hath thy valuation been of the male five shekels of silver, and for the female thy valuation [is] three shekels of silver;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3578,
+        "text": "and if from a son of sixty years and above -- if a male, then hath thy valuation been fifteen shekels, and for a female, ten shekels.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3579,
+        "text": "'And if he is poorer than thy valuation, then he hath presented himself before the priest, and the priest hath valued him; according to that which the hand of him who is vowing doth reach doth the priest value him.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3580,
+        "text": "'And if [it is] a beast of which they bring near an offering to Jehovah, all that [one] giveth of it to Jehovah is holy;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3581,
+        "text": "he doth not change it nor exchange it, a good for a bad, or a bad for a good; and if he really change beast for beast, -- then it hath been -- it and its exchange is holy.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3582,
+        "text": "'And if [it is] any unclean beast of which they do not bring near an offering to Jehovah, then he hath presented the beast before the priest,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3583,
+        "text": "and the priest hath valued it; whether good or bad, according to thy valuation, O priest, so it is;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3584,
+        "text": "and if he really redeem it, then he hath added its fifth to thy valuation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3585,
+        "text": "'And when a man sanctifieth his house, a holy thing to Jehovah, then hath the priest valued it, whether good or bad; as the priest doth value it so it standeth;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 3586,
+        "text": "and if he who is sanctifying doth redeem his house, then he hath added a fifth of the money of thy valuation to it, and it hath become his.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3587,
+        "text": "'And if of the field of his possession a man sanctify to Jehovah, then hath thy valuation been according to its seed; a homer of barley-seed at fifty shekels of silver;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3588,
+        "text": "if from the year of the jubilee he sanctify his field, according to thy valuation it standeth;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3589,
+        "text": "and if after the jubilee he sanctify his field, then hath the priest reckoned to him the money according to the years which are left, unto the year of the jubilee, and it hath been abated from thy valuation.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3590,
+        "text": "'And if he really redeem the field -- he who is sanctifying it -- then he hath added a fifth of the money of thy valuation to it, and it hath been established to him;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3591,
+        "text": "and if he do not redeem the field, or if he hath sold the field to another man, it is not redeemed any more;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3592,
+        "text": "and the field hath been, in its going out in the jubilee, holy to Jehovah as a field which is devoted; to the priest is its possession.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3593,
+        "text": "'And if the field of his purchase (which [is] not of the fields of his possession) [one] sanctify to Jehovah --",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3594,
+        "text": "then hath the priest reckoned to him the amount of thy valuation unto the year of jubilee, and he hath given thy valuation in that day -- a holy thing to Jehovah;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3595,
+        "text": "in the year of the jubilee the field returneth to him from whom he bought it, to him whose [is] the possession of the land.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3596,
+        "text": "And all thy valuation is by the shekel of the sanctuary: twenty gerahs is the shekel.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3597,
+        "text": "'Only, a firstling which is Jehovah's firstling among beasts -- no man doth sanctify it, whether ox or sheep; it [is] Jehovah's.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 3598,
+        "text": "And if among the unclean beasts, then he hath ransomed [it] at thy valuation, and he hath added its fifth to it; and if it is not redeemed, then it hath been sold at thy valuation.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3599,
+        "text": "'Only, no devoted thing which a man devoteth to Jehovah, of all that he hath, of man, and beast, and of the field of his possession, is sold or redeemed; every devoted thing is most holy to Jehovah.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3600,
+        "text": "'No devoted thing, which is devoted of man, is ransomed, it is surely put to death.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3601,
+        "text": "And all tithe of the land, of the seed of the land, of the fruit of the tree, is Jehovah's -- holy to Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3602,
+        "text": "'And if a man really redeem [any] of his tithe, its fifth he addeth to it.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3603,
+        "text": "'And all the tithe of the herd and of the flock -- all that passeth by under the rod -- the tenth is holy to Jehovah;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3604,
+        "text": "he enquireth not between good and bad, nor doth he change it; and if he really change it -- then it hath been -- it and its exchange is holy; it is not redeemed.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3605,
+        "text": "These [are] the commands which Jehovah hath commanded Moses for the sons of Israel, in mount Sinai.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 28,"name": "Hosea","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 874,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22254,
+        "text": "Ephraim is enjoying wind, And is pursuing an east wind, All the day lying and spoiling he multiplieth, And a covenant with Asshur they make, And oil to Egypt is carried.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22255,
+        "text": "And a controversy hath Jehovah with Judah, To lay a charge on Jacob according to his ways, According to his doings He returneth to him.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22256,
+        "text": "In the womb he took his brother by the heel, And by his strength he was a prince with God,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22257,
+        "text": "Yea, he is a prince unto the Messenger, And he overcometh [by] weeping, And he maketh supplication to Him, At Bethel He doth find him, And there He doth speak with us,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22258,
+        "text": "Even Jehovah, God of the Hosts, Jehovah [is] His memorial.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22259,
+        "text": "And thou, through thy God, dost turn, Kindness and judgment keep thou, And wait on thy God continually.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22260,
+        "text": "Canaan! in his hand [are] balances of deceit! To oppress he hath loved.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 22261,
+        "text": "And Ephraim saith: 'Surely I have become rich, I have found wealth for myself, All my labours -- they find not against me iniquity that [is] sin.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22262,
+        "text": "And I -- Jehovah thy God from the land of Egypt, Again do I turn thee back into tents, As in the days of the appointed time.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22263,
+        "text": "And I have spoken unto the prophets, And I have multiplied vision, And by the hand of the prophets I use similes.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22264,
+        "text": "Surely Gilead [is] iniquity, Only, vanity they have been, In Gilead bullocks they have sacrificed, Also their altars [are] as heaps, on the furrows of a field.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22265,
+        "text": "And Jacob doth flee to the country of Aram, And Israel doth serve for a wife, Yea, for a wife he hath kept watch.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22266,
+        "text": "And by a prophet hath Jehovah brought up Israel out of Egypt, And by a prophet it hath been watched.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22267,
+        "text": "Ephraim hath provoked most bitterly, And his blood on himself he leaveth, And his reproach turn back to him doth his Lord!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

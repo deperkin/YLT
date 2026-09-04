@@ -1,0 +1,47 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 127,
+    "count": 605,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16123,
+        "text": "A Song of the Ascents, by Solomon. If Jehovah doth not build the house, In vain have its builders laboured at it, If Jehovah doth not watch a city, In vain hath a watchman waked.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16124,
+        "text": "Vain for you who are rising early, Who delay sitting, eating the bread of griefs, So He giveth to His beloved one sleep.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16125,
+        "text": "Lo, an inheritance of Jehovah [are] sons, A reward [is] the fruit of the womb.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16126,
+        "text": "As arrows in the hand of a mighty one, So [are] the sons of the young men.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16127,
+        "text": "O the happiness of the man Who hath filled his quiver with them, They are not ashamed, For they speak with enemies in the gate!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

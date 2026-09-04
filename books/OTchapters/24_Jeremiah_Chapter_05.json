@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 750,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 19060,
+        "text": "Go to and fro in streets of Jerusalem, And see, I pray you, and know, And seek in her broad places, if ye find a man, If there be one doing judgment, seeking stedfastness -- Then am I propitious to her.",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 19061,
+        "text": "And if they say, 'Jehovah liveth,' Surely to a falsehood they swear.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 19062,
+        "text": "Jehovah, Thine eyes, are they not on stedfastness? Thou hast smitten them, and they have not grieved, Thou hast consumed them, They have refused to receive instruction, They made their faces harder than a rock, They have refused to turn back.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 19063,
+        "text": "And I -- I said, 'Surely these [are] poor, They have been foolish, For they have not known the way of Jehovah, The judgment of their God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 19064,
+        "text": "I get me to the great, and I speak with them, For they have known the way of Jehovah, The judgment of their God.' Surely they together have broken the yoke, They have drawn away the bands.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 19065,
+        "text": "Therefore smitten them hath a lion out of the forest, A wolf of the deserts doth spoil them, A leopard is watching over their cities, Every one who is going out of them is torn, For many have been their transgressions, Mighty have been their backslidings.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 19066,
+        "text": "For this I am not propitious to thee, Thy sons have forsaken Me, And are satisfied by that which is not god, I satisfy them, and they commit adultery, And at the house of a harlot They gather themselves together.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 19067,
+        "text": "Fed horses -- they have been early risers, Each to the wife of his neighbour they neigh.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 19068,
+        "text": "For these do I not lay a charge? An affirmation of Jehovah, And on a nation such as this, Doth not My soul avenge itself?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 19069,
+        "text": "Go ye up on her walls, and destroy, And a completion make not, Turn aside her branches, for they [are] not Jehovah's,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 19070,
+        "text": "For dealt treacherously against Me have the house of Israel, And the house of Judah, an affirmation of Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 19071,
+        "text": "They have lied against Jehovah, And they say, '[It is] not He, Nor come in against us doth evil, Yea, sword and famine we do not see.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 19072,
+        "text": "And the prophets become wind, And the word is not in them,' -- thus it is done by them.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 19073,
+        "text": "Therefore, thus said Jehovah, God of Hosts, Because of your speaking this word, Lo, I am making My words in thy mouth become fire, And this people wood, and it hath devoured them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 19074,
+        "text": "Lo, I am bringing against you a nation from afar, O house of Israel, an affirmation of Jehovah, A nation -- strong it [is], a nation -- from of old it [is], A nation -- thou knowest not its tongue, Nor understandest what it speaketh.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 19075,
+        "text": "Its quiver [is] as an open sepulchre, All of them -- mighty ones.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 19076,
+        "text": "And it hath consumed thy harvest and thy bread, They consume thy sons, and thy daughters, It consumeth thy flock, and thy herd, It consumeth thy vine, and thy fig-tree, It maketh poor thy fenced cities, In which thou art trusting -- by the sword.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 19077,
+        "text": "And even in those days, an affirmation of Jehovah, I do not make you a completion.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 19078,
+        "text": "And it hath come to pass, when ye say, 'For what hath Jehovah our God done to us all these?' That thou hast said unto them, 'As ye have forsaken Me, And serve the gods of a foreigner in your land, So do ye serve strangers in a land not yours.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 19079,
+        "text": "Declare ye this in the house of Jacob, And sound ye it in Judah, saying,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 19080,
+        "text": "Hear ye, I pray you, this, O people, foolish and without heart, Eyes they have, and they see not, Ears they have, and they hear not.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 19081,
+        "text": "Me do ye not fear, an affirmation of Jehovah? From My presence are ye not pained? Who hath made sand the border of the sea, A limit age-during, and it passeth not over it, They shake themselves, and they are not able, Yea, sounded have its billows, and they pass not over.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 19082,
+        "text": "And this people hath an apostate and rebellious heart, They have turned aside, and they go on.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 19083,
+        "text": "And they have not said in their heart, 'Let us fear, we pray you, Jehovah our God, who is giving rain, The sprinkling and the gathered, in its season, The appointed weeks of harvest He keepeth for us.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 19084,
+        "text": "Your iniquities have turned these away, And your sins have kept the good from you.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 19085,
+        "text": "For the wicked have been found among My people. It looketh about the covering of snares, They have set up a trap -- men they capture.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 19086,
+        "text": "As a cage full of fowls, So their houses are full of deceit, Therefore they have been great, and are rich.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 19087,
+        "text": "They have been fat, they have shone, Yea, they have overpassed the acts of the evil, Judgment they have not judged, The judgment of the fatherless -- and they prosper, And the judgment of the needy they have not judged.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 19088,
+        "text": "For these do not I inspect, an affirmation of Jehovah, On a nation such as this, Doth not My soul avenge itself?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 19089,
+        "text": "An astonishing and horrible thing hath been in the land.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 19090,
+        "text": "The prophets have prophesied falsely, And the priests bear rule by their means, And My people have loved [it] so, And what do they at its latter end?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

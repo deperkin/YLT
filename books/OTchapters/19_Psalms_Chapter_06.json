@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 484,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13987,
+        "text": "To the Overseer with stringed instruments, on the octave. -- A Psalm of David. O Jehovah, in Thine anger reprove me not, Nor in Thy fury chastise me.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13988,
+        "text": "Favour me, O Jehovah, for I [am] weak, Heal me, O Jehovah, For troubled have been my bones,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13989,
+        "text": "And my soul hath been troubled greatly, And Thou, O Jehovah, till when?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13990,
+        "text": "Turn back, O Jehovah, draw out my soul, Save me for Thy kindness' sake.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13991,
+        "text": "For there is not in death Thy memorial, In Sheol, who doth give thanks to Thee?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13992,
+        "text": "I have been weary with my sighing, I meditate through all the night [on] my bed, With my tear my couch I waste.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13993,
+        "text": "Old from provocation is mine eye, It is old because of all mine adversaries,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13994,
+        "text": "Turn from me all ye workers of iniquity, For Jehovah heard the voice of my weeping,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 13995,
+        "text": "Jehovah hath heard my supplication, Jehovah my prayer receiveth.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13996,
+        "text": "Ashamed and troubled greatly are all mine enemies, They turn back -- ashamed [in] a moment!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 691,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17902,
+        "text": "And thou hast said in that day: 'I thank thee, O Jehovah, Though Thou hast been angry with me, Turn back doth Thine anger, And Thou dost comfort me.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17903,
+        "text": "Lo, God [is] my salvation, I trust, and fear not, For my strength and song [is] Jah Jehovah, And He is to me for salvation.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17904,
+        "text": "And ye have drawn waters with joy Out of the fountains of salvation,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17905,
+        "text": "And ye have said in that day, Give ye praise to Jehovah, call in His name. Make known among the peoples His acts. Make mention that set on high is His name.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17906,
+        "text": "Praise ye Jehovah, for excellence He hath done, Known is this in all the earth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17907,
+        "text": "Cry aloud, and sing, O inhabitant of Zion, For great in thy midst [is] the Holy One of Israel!'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

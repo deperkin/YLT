@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 38,"name": "Zechariah","MaxChapters": 14},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 918,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22964,
+        "text": "And it cometh to pass, in the fourth year of Darius the king hath a word of Jehovah been unto Zechariah, in the fourth of the ninth month, in Chisleu.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22965,
+        "text": "And Beth-El sendeth Sherezer and Regem-Melech, and its men, to appease the face of Jehovah,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22966,
+        "text": "speaking unto the priests who [are] at the house of Jehovah of Hosts, and unto the prophets, saying, 'Do I weep in the fifth month -- being separated -- as I have done these so many years?'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22967,
+        "text": "And there is a word of Jehovah of Hosts unto me, saying:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22968,
+        "text": "'Speak unto all the people of the land, and unto the priests, saying:",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22969,
+        "text": "When ye fasted with mourning in the fifth and in the seventh [months] -- even these seventy years -- did ye keep the fast [to] Me -- Me? And when ye eat, and when ye drink, is it not ye who are eating, and ye who are drinking?",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22970,
+        "text": "'Are not [these] the words that Jehovah proclaimed by the hand of the former prophets, in Jerusalem's being inhabited, and [in] safety, and its cities round about it, and the south and the plain -- abiding?'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22971,
+        "text": "And there is a word of Jehovah unto Zechariah, saying:",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22972,
+        "text": "'Thus spake Jehovah of Hosts, saying: True judgment judge ye, And kindness and mercy do one with another.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22973,
+        "text": "And widow, and fatherless, Sojourner, and poor, ye do not oppress, And the calamity of one another ye do not devise in your heart.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22974,
+        "text": "And they refuse to attend, And they give a refractory shoulder, And their ears have made heavy against hearing.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22975,
+        "text": "And their heart they have made adamant, Against hearing the law, and the words, That Jehovah of Hosts sent by His Spirit, By the hand of the former prophets, And their is great wrath from Jehovah of Hosts.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22976,
+        "text": "And it cometh to pass, as He called, And they have not hearkened, So do they call, and I do not hearken, Said Jehovah of Hosts.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22977,
+        "text": "And I toss them on all the nations, That they have not known, The land hath been desolate behind them, Of any passing by and turning back, And they set a desirable land for a desolation!",
+        "WordCount": 36,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

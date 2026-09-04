@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 148,
+    "count": 626,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16373,
+        "text": "Praise ye Jah! Praise ye Jehovah from the heavens, Praise ye Him in high places.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16374,
+        "text": "Praise ye Him, all His messengers, Praise ye Him, all His hosts.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16375,
+        "text": "Praise ye Him, sun and moon, Praise ye Him, all stars of light.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16376,
+        "text": "Praise ye Him, heavens of heavens, And ye waters that are above the heavens.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16377,
+        "text": "They do praise the name of Jehovah, For He commanded, and they were created.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16378,
+        "text": "And He establisheth them for ever to the age, A statute He gave, and they pass not over.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16379,
+        "text": "Praise ye Jehovah from the earth, Dragons and all deeps,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16380,
+        "text": "Fire and hail, snow and vapour, Whirlwind doing His word;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16381,
+        "text": "The mountains and all heights, Fruit tree, and all cedars,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16382,
+        "text": "The wild beast, and all cattle, Creeping thing, and winged bird,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16383,
+        "text": "Kings of earth, and all peoples, Chiefs, and all judges of earth,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 16384,
+        "text": "Young men, and also maidens, Aged men, with youths,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16385,
+        "text": "They praise the name of Jehovah, For His name alone hath been set on high, His honour [is] above earth and heavens.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16386,
+        "text": "And He exalteth the horn of His people, The praise of all His saints, Of the sons of Israel, a people near Him. Praise ye Jah!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

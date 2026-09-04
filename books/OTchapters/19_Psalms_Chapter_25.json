@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 503,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14253,
+        "text": "By David. Unto Thee, O Jehovah, my soul I lift up.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14254,
+        "text": "My God, in Thee I have trusted, Let me not be ashamed, Let not mine enemies exult over me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14255,
+        "text": "Also let none waiting on Thee be ashamed, Let the treacherous dealers without cause be ashamed.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14256,
+        "text": "Thy ways, O Jehovah, cause me to know, Thy paths teach Thou me.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14257,
+        "text": "Cause me to tread in Thy truth, and teach me, For Thou [art] the God of my salvation, Near Thee I have waited all the day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14258,
+        "text": "Remember Thy mercies, O Jehovah, And Thy kindnesses, for from the age [are] they.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14259,
+        "text": "Sins of my youth, and my transgressions, Do not Thou remember. According to Thy kindness be mindful of me, For Thy goodness' sake, O Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14260,
+        "text": "Good and upright [is] Jehovah, Therefore He directeth sinners in the way.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14261,
+        "text": "He causeth the humble to tread in judgment, And teacheth the humble His way.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14262,
+        "text": "All the paths of Jehovah [are] kindness and truth, To those keeping His covenant, And His testimonies.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14263,
+        "text": "For Thy name's sake, O Jehovah, Thou hast pardoned mine iniquity, for it [is] great.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14264,
+        "text": "Who [is] this -- the man fearing Jehovah? He directeth him in the way He doth choose.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14265,
+        "text": "His soul in good doth remain, And his seed doth possess the land.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14266,
+        "text": "The secret of Jehovah [is] for those fearing Him, And His covenant -- to cause them to know.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14267,
+        "text": "Mine eyes [are] continually unto Jehovah, For He bringeth out from a net my feet.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 14268,
+        "text": "Turn Thou unto me, and favour me, For lonely and afflicted [am] I.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14269,
+        "text": "The distresses of my heart have enlarged themselves, From my distresses bring me out.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14270,
+        "text": "See mine affliction and my misery, And bear with all my sins.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14271,
+        "text": "See my enemies, for they have been many, And with violent hatred they have hated me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14272,
+        "text": "Keep my soul, and deliver me, Let me not be ashamed, for I trusted in Thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14273,
+        "text": "Integrity and uprightness do keep me, For I have waited [on] Thee.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14274,
+        "text": "Redeem Israel, O God, from all his distresses!",
+        "WordCount": 8,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

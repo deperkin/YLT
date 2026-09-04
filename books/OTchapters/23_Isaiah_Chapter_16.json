@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 695,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17971,
+        "text": "Send ye a lamb [to] the ruler of the land, From Selah in the wilderness, Unto the mount of the daughter of Zion.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17972,
+        "text": "And it hath come to pass, As a wandering bird, a nest cast out, Are daughters of Moab, [at] fords of Arnon.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17973,
+        "text": "Bring ye in counsel, do judgment, Make as night thy shadow in the midst of noon, Hide outcasts, the wanderer reveal not.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17974,
+        "text": "Sojourn in thee do My outcasts, O Moab, Be a secret hiding-place to them, From the face of a destroyer, For ceased hath the extortioner, Finished hath been a destroyer, Consumed the treaders down out of the land.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17975,
+        "text": "And established in kindness is the throne, And [one] hath sat on it in truth, in the tent of David, Judging and seeking judgment, and hasting righteousness.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17976,
+        "text": "We have heard of the pride of Moab -- very proud, His pride, and his arrogance, and his wrath, Not right [are] his devices.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17977,
+        "text": "Therefore howl doth Moab for Moab, all of it doth howl, For the grape-cakes of Kir-Hareseth it meditateth, Surely they are smitten.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17978,
+        "text": "Because fields of Heshbon languish, The vine of Sibmah, Lords of nations did beat her choice vines, Unto Jazer they have come, They have wandered in a wilderness, Her plants have spread themselves, They have passed over a sea.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17979,
+        "text": "Therefore I weep with the weeping of Jazer, The vine of Sibmah, I water thee [with] my tear, O Heshbon and Elealeh, For -- for thy summer fruits, and for thy harvest, The shouting hath fallen.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17980,
+        "text": "And removed have been gladness and joy from the fruitful field, And in vineyards they sing not, nor shout, Wine in the presses treadeth not the treader, Shouting I have caused to cease.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17981,
+        "text": "Therefore my bowels for Moab as a harp do sound, And mine inward parts for Kir-Haresh.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17982,
+        "text": "And it hath come to pass, when it hath been seen, That weary hath been Moab on the high place, And he hath come unto his sanctuary to pray, And is not able.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17983,
+        "text": "This [is] the word that Jehovah hath spoken unto Moab from that time,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17984,
+        "text": "And now hath Jehovah spoken, saying, 'In three years, as years of an hireling, Lightly esteemed is the honour of Moab, With all the great multitude, And the remnant [is] little, small, not mighty!'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

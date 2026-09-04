@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 67,
+    "count": 545,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14895,
+        "text": "To the Overseer, with stringed instruments. -- A Psalm, a Song. God doth favour us and bless us, Doth cause His face to shine with us. Selah.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14896,
+        "text": "For the knowledge in earth of Thy way, among all nations of Thy salvation.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14897,
+        "text": "Praise Thee do peoples, O God, Praise Thee do peoples, all of them.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14898,
+        "text": "Rejoice and sing do nations, For Thou judgest peoples uprightly, And peoples on earth comfortest. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14899,
+        "text": "Confess Thee do peoples, O God, Confess Thee do peoples -- all of them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14900,
+        "text": "Earth hath given her increase, God doth bless us -- our God,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14901,
+        "text": "God doth bless us, and all ends of earth fear Him!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

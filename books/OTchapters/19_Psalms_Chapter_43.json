@@ -1,0 +1,47 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 43,
+    "count": 521,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14568,
+        "text": "Judge me, O God, And plead my cause against a nation not pious, From a man of deceit and perverseness Thou dost deliver me,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14569,
+        "text": "For thou [art] the God of my strength. Why hast Thou cast me off? Why mourning do I go up and down, In the oppression of an enemy?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14570,
+        "text": "Send forth Thy light and Thy truth, They -- they lead me, they bring me in, Unto Thy holy hill, and unto Thy tabernacles.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14571,
+        "text": "And I go in unto the altar of God, Unto God, the joy of my rejoicing. And I thank Thee with a harp, O God, my God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14572,
+        "text": "What! bowest thou thyself, O my soul? And what! art thou troubled within me? Wait for God, for still I confess Him, The salvation of my countenance, and my God!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

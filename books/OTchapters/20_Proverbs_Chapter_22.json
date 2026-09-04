@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 650,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17017,
+        "text": "A name is chosen rather than much wealth, Than silver and than gold -- good grace.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17018,
+        "text": "Rich and poor have met together, The Maker of them all [is] Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 17019,
+        "text": "The prudent hath seen the evil, and is hidden, And the simple have passed on, and are punished.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 17020,
+        "text": "The end of humility [is] the fear of Jehovah, Riches, and honour, and life.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 17021,
+        "text": "Thorns -- snares [are] in the way of the perverse, Whoso is keeping his soul is far from them.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 17022,
+        "text": "Give instruction to a youth about his way, Even when he is old he turneth not from it.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17023,
+        "text": "The rich over the poor ruleth, And a servant [is] the borrower to the lender.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17024,
+        "text": "Whoso is sowing perverseness reapeth sorrow, And the rod of his anger weareth out.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 17025,
+        "text": "The good of eye -- he is blessed, For he hath given of his bread to the poor.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 17026,
+        "text": "Cast out a scorner -- and contention goeth out, And strife and shame cease.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17027,
+        "text": "Whoso is loving cleanness of heart, Grace [are] his lips, a king [is] his friend.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17028,
+        "text": "The eyes of Jehovah have kept knowledge, And He overthroweth the words of the treacherous.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 17029,
+        "text": "The slothful hath said, 'A lion [is] without, In the midst of the broad places I am slain.'",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 17030,
+        "text": "A deep pit [is] the mouth of strange women, The abhorred of Jehovah falleth there.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 17031,
+        "text": "Folly is bound up in the heart of a youth, The rod of chastisement putteth it far from him.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17032,
+        "text": "He is oppressing the poor to multiply to him, He is giving to the rich -- only to want.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 17033,
+        "text": "Incline thine ear, and hear words of the wise, And thy heart set to my knowledge,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 17034,
+        "text": "For they are pleasant when thou dost keep them in thy heart, They are prepared together for thy lips.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17035,
+        "text": "That thy trust may be in Jehovah, I caused thee to know to-day, even thou.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17036,
+        "text": "Have I not written to thee three times With counsels and knowledge?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17037,
+        "text": "To cause thee to know the certainty of sayings of truth, To return sayings of truth to those sending thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17038,
+        "text": "Rob not the poor because he [is] poor, And bruise not the afflicted in the gate.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 17039,
+        "text": "For Jehovah pleadeth their cause, And hath spoiled the soul of their spoilers.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17040,
+        "text": "Shew not thyself friendly with an angry man, And with a man of fury go not in,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 17041,
+        "text": "Lest thou learn his paths, And have received a snare to thy soul.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17042,
+        "text": "Be not thou among those striking hands, Among sureties [for] burdens.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 17043,
+        "text": "If thou hast nothing to pay, Why doth he take thy bed from under thee?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 17044,
+        "text": "Remove not a border of olden times, That thy fathers have made.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 17045,
+        "text": "Hast thou seen a man speedy in his business? Before kings he doth station himself, He stations not himself before obscure men!",
+        "WordCount": 22,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

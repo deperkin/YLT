@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 72,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2115,
+        "text": "'When a man doth steal an ox or sheep, and hath slaughtered it or sold it, five of the herd he doth repay for the ox, and four of the flock for the sheep.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2116,
+        "text": "'If in the breaking through, the thief is found, and he hath been smitten, and hath died, there is no blood for him;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2117,
+        "text": "if the sun hath risen upon him, blood [is] for him, he doth certainly repay; if he have nothing, then he hath been sold for his theft;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2118,
+        "text": "if the theft is certainly found in his hand alive, whether ox, or ass, or sheep -- double he repayeth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2119,
+        "text": "'When a man depastureth a field or vineyard, and hath sent out his beast, and it hath pastured in the field of another, [of] the best of his field, and the best of his vineyard, he doth repay.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2120,
+        "text": "'When fire goeth forth, and hath found thorns, and a stack, or the standing corn, or the field, hath been consumed, he who causeth the burning doth certainly repay.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2121,
+        "text": "'When a man doth give unto his neighbour silver, or vessels to keep, and it hath been stolen out of the man's house; if the thief is found, he repayeth double.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 2122,
+        "text": "'If the thief is not found, then the master of the house hath been brought near unto God, whether he hath not put forth his hand against the work of his neighbour;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2123,
+        "text": "for every matter of transgression, for ox, for ass, for sheep, for raiment, for any lost thing of which it is said that it is his; unto God cometh the matter of them both; he whom God doth condemn, he repayeth double to his neighbour.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2124,
+        "text": "'When a man doth give unto his neighbour an ass, or ox, or sheep, or any beast to keep, and it hath died, or hath been hurt, or taken captive, none seeing --",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2125,
+        "text": "an oath of Jehovah is between them both, that he hath not put forth his hand against the work of his neighbour, and its owner hath accepted, and he doth not repay;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2126,
+        "text": "but if it is certainly stolen from him, he doth repay to its owner;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2127,
+        "text": "if it is certainly torn, he bringeth it in -- a witness; the torn thing he doth not repay.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2128,
+        "text": "'And when a man doth ask [anything] from his neighbour, and it hath been hurt or hath died -- its owner not being with it -- he doth certainly repay;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2129,
+        "text": "if its owner [is] with it, he doth not repay, -- if it [is] a hired thing, it hath come for its hire.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2130,
+        "text": "'And when a man doth entice a virgin who [is] not betrothed, and hath lain with her, he doth certainly endow her to himself for a wife;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 2131,
+        "text": "if her father utterly refuse to give her to him, money he doth weigh out according to the dowry of virgins.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2132,
+        "text": "'A witch thou dost not keep alive.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2133,
+        "text": "'Whoever lieth with a beast is certainly put to death.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2134,
+        "text": "'He who is sacrificing to a god, save to Jehovah alone, is devoted.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2135,
+        "text": "'And a sojourner thou dost not oppress, nor crush him, for sojourners ye have been in the land of Egypt.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2136,
+        "text": "'Any widow or orphan ye do not afflict;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2137,
+        "text": "if thou dost really afflict him, surely if he at all cry unto Me, I certainly hear his cry;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2138,
+        "text": "and Mine anger hath burned, and I have slain you by the sword, and your wives have been widows, and your sons orphans.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2139,
+        "text": "'If thou dost lend My poor people with thee money, thou art not to him as a usurer; thou dost not lay on him usury;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 2140,
+        "text": "if thou dost at all take in pledge the garment of thy neighbour, during the going in of the sun thou dost return it to him:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2141,
+        "text": "for it alone is his covering, it [is] his garment for his skin; wherein doth he lie down? and it hath come to pass, when he doth cry unto Me, that I have heard, for I [am] gracious.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2142,
+        "text": "'God thou dost not revile, and a prince among thy people thou dost not curse.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2143,
+        "text": "'Thy fulness and thy liquids thou dost not delay; the first-born of thy sons thou dost give to Me;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2144,
+        "text": "so thou dost to thine ox, to thy sheep; seven days it is with its dam, on the eighth day thou dost give it to Me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 2145,
+        "text": "'And ye are holy men to Me, and flesh torn in the field ye do not eat, to a dog ye do cast it.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

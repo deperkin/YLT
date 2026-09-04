@@ -1,0 +1,313 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 39,
+    "count": 89,
+    "MaxVerses": 43,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2666,
+        "text": "And of the blue, and the purple, and the scarlet, they made coloured garments, to minister in the sanctuary; and they make the holy garments which [are] for Aaron, as Jehovah hath commanded Moses.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2667,
+        "text": "And he maketh the ephod, of gold, blue, and purple, and scarlet, and twined linen,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2668,
+        "text": "and they expand the plates of gold, and have cut off wires to work in the midst of the blue, and in the midst of the purple, and in the midst of the scarlet, and in the midst of the linen -- work of a designer;",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2669,
+        "text": "shoulder-pieces they have made for it, joining; at its two ends it is joined.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2670,
+        "text": "And the girdle of his ephod which [is] on it is of the same, according to its work, of gold, blue, and purple, and scarlet, and twined linen, as Jehovah hath commanded Moses.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2671,
+        "text": "And they prepare the shoham stones, set, embroidered [with] gold, opened with openings of a signet, by the names of the sons of Israel;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2672,
+        "text": "and he setteth them on the shoulders of the ephod -- stones of memorial for the sons of Israel, as Jehovah hath commanded Moses.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2673,
+        "text": "And he maketh the breastplate, work of a designer, like the work of the ephod, of gold, blue, and purple, and scarlet, and twined linen;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2674,
+        "text": "it hath been square; double they have made the breastplate, a span its length, and a span its breadth, doubled.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 2675,
+        "text": "And they fill in it four rows of stones; a row of a sardius, a topaz, and a carbuncle [is] the one row;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2676,
+        "text": "and the second row an emerald, a sapphire, and a diamond;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2677,
+        "text": "and the third row an opal, an agate, and an amethyst;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2678,
+        "text": "and the fourth row a beryl, an onyx, and a jasper -- set, embroidered [with] gold, in their settings.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2679,
+        "text": "And the stones, according to the names of the sons of Israel, are twelve, according to their names, openings of a signet, each according to his name, for the twelve tribes.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2680,
+        "text": "And they make on the breastplate wreathed chains, work of thick bands, of pure gold;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2681,
+        "text": "and they make two embroidered things of gold, and two rings of gold, and put the two rings on the two ends of the breastplate,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2682,
+        "text": "and they put the two thick bands of gold on the two rings on the ends of the breastplate;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2683,
+        "text": "and the two ends of the two thick bands they have put on the two embroidered things, and they put them on the shoulders of the ephod, over-against its front.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2684,
+        "text": "And they make two rings of gold, and set [them] on the two ends of the breastplate, on its border, which [is] on the side of the ephod within;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2685,
+        "text": "and they make two rings of gold, and put them on the two shoulders of the ephod below, over-against its front, over-against its joining, above the girdle of the ephod;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 2686,
+        "text": "and they bind the breastplate by its rings unto the rings of the ephod, with a ribbon of blue, to be above the girdle of the ephod, and the breastplate is not loosed from off the ephod, as Jehovah hath commanded Moses.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 2687,
+        "text": "And he maketh the upper robe of the ephod, work of a weaver, completely of blue;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 2688,
+        "text": "and the opening of the upper robe [is] in its midst, as the opening of a habergeon, a border [is] to its opening round about, it is not rent;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 2689,
+        "text": "and they make on the hems of the upper robe pomegranates of blue, and purple, and scarlet, twined.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 2690,
+        "text": "And they make bells of pure gold, and put the bells in the midst of the pomegranates, on the hems of the upper robe, round about, in the midst of the pomegranates;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 2691,
+        "text": "a bell and a pomegranate, a bell and a pomegranate, [are] on the hems of the upper robe, round about, to minister in, as Jehovah hath commanded Moses.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 2692,
+        "text": "And they make the coats of linen, work of a weaver, for Aaron and for his sons,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 2693,
+        "text": "and the mitre of linen, and the beautiful bonnets of linen, and the linen trousers, of twined linen,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 2694,
+        "text": "and the girdle of twined linen, and blue, and purple, and scarlet, work of an embroiderer, as Jehovah hath commanded Moses.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 2695,
+        "text": "And they make the flower of the holy crown of pure gold, and write on it a writing, openings of a signet, 'Holy to Jehovah;'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 2696,
+        "text": "and they put on it a ribbon of blue, to put [it] on the mitre above, as Jehovah hath commanded Moses.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 2697,
+        "text": "And all the service of the tabernacle of the tent of meeting is completed; and the sons of Israel do according to all that Jehovah hath commanded Moses; so they have done.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 33,
+        "count": 2698,
+        "text": "And they bring in the tabernacle unto Moses, the tent, and all its vessels, its hooks, its boards, its bars, and its pillars, and its sockets;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 2699,
+        "text": "and the covering of rams' skins, which are made red, and the covering of badgers' skins, and the vail of the covering;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 2700,
+        "text": "the ark of the testimony and its staves, and the mercy-seat;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 2701,
+        "text": "the table, all its vessels, and the bread of the presence;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 2702,
+        "text": "the pure candlestick, its lamps, the lamps of arrangement, and all its vessels, and the oil for the light.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 2703,
+        "text": "And the golden altar, and the anointing oil, and the spice-perfume, and the covering of the opening of the tent;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 2704,
+        "text": "the brazen altar and the brazen grate which it hath, its staves, and all its vessels, the laver and its base.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 2705,
+        "text": "The hangings of the court, its pillars, and its sockets; and the covering for the gate of the court, its cords, and its pins; and all the vessels of the service of the tabernacle, for the tent of meeting;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 2706,
+        "text": "the coloured clothes to minister in the sanctuary, the holy garments for Aaron the priest, and the garments of his sons, to act as priest in.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 2707,
+        "text": "According to all that Jehovah hath commanded Moses, so have the sons of Israel done all the service;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 2708,
+        "text": "and Moses seeth all the work, and lo, they have done it as Jehovah hath commanded; so they have done. And Moses doth bless them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 441,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12953,
+        "text": "Pray, call, is there any to answer thee? And unto which of the holy ones dost thou turn?",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12954,
+        "text": "For provocation slayeth the perverse, And envy putteth to death the simple,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12955,
+        "text": "I -- I have seen the perverse taking root, And I mark his habitation straightway,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12956,
+        "text": "Far are his sons from safety, And they are bruised in the gate, And there is no deliverer.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12957,
+        "text": "Whose harvest the hungry doth eat, And even from the thorns taketh it, And the designing swallowed their wealth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12958,
+        "text": "For sorrow cometh not forth from the dust, Nor from the ground springeth up misery.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 12959,
+        "text": "For man to misery is born, And the sparks go high to fly.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12960,
+        "text": "Yet I -- I inquire for God, And for God I give my word,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12961,
+        "text": "Doing great things, and there is no searching. Wonderful, till there is no numbering.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12962,
+        "text": "Who is giving rain on the face of the land, And is sending waters on the out-places.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12963,
+        "text": "To set the low on a high place, And the mourners have been high [in] safety.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12964,
+        "text": "Making void thoughts of the subtile, And their hands do not execute wisdom.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12965,
+        "text": "Capturing the wise in their subtilty, And the counsel of wrestling ones was hastened,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12966,
+        "text": "By day they meet darkness, And as night -- they grope at noon.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12967,
+        "text": "And He saveth the wasted from their mouth, And from a strong hand the needy,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12968,
+        "text": "And there is hope to the poor, And perverseness hath shut her mouth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12969,
+        "text": "Lo, the happiness of mortal man, God doth reprove him: And the chastisement of the Mighty despise not,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 12970,
+        "text": "For He doth pain, and He bindeth up, He smiteth, and His hands heal.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12971,
+        "text": "In six distresses He delivereth thee, And in seven evil striketh not on thee.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12972,
+        "text": "In famine He hath redeemed thee from death, And in battle from the hands of the sword.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12973,
+        "text": "When the tongue scourgeth thou art hid, And thou art not afraid of destruction, When it cometh.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12974,
+        "text": "At destruction and at hunger thou mockest, And of the beast of the earth, Thou art not afraid.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12975,
+        "text": "(For with sons of the field [is] thy covenant, And the beast of the field Hath been at peace with thee.)",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12976,
+        "text": "And thou hast known that thy tent [is] peace, And inspected thy habitation, and errest not,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12977,
+        "text": "And hast known that numerous [is] Thy seed, And thine offspring as the herb of the earth;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12978,
+        "text": "Thou comest in full age unto the grave, As the going up of a stalk in its season.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12979,
+        "text": "Lo, this -- we searched it out -- it [is] right, hearken; And thou, know for thyself!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 61,
+    "count": 539,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14821,
+        "text": "To the Overseer, on stringed instruments. -- By David. Hear, O God, my loud cry, attend to my prayer.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14822,
+        "text": "From the end of the land unto Thee I call, In the feebleness of my heart, Into a rock higher than I Thou dost lead me.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14823,
+        "text": "For Thou hast been a refuge for me, A tower of strength because of the enemy.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14824,
+        "text": "I sojourn in Thy tent to the ages, I trust in the secret place of Thy wings. Selah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14825,
+        "text": "For Thou, O God, hast hearkened to my vows, Thou hast appointed the inheritance Of those fearing Thy name.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 14826,
+        "text": "Days to the days of the king Thou addest, His years as generation and generation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14827,
+        "text": "He dwelleth to the age before God, Kindness and truth appoint -- they keep him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14828,
+        "text": "So do I praise Thy name for ever, When I pay my vows day by day!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

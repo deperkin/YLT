@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 368,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11196,
+        "text": "And strengthen himself doth Solomon son of David over his kingdom, and Jehovah his God [is] with him, and maketh him exceedingly great.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11197,
+        "text": "And Solomon saith to all Israel, to heads of the thousands, and of the hundreds, and to judges, and to every honourable one of all Israel, heads of the fathers,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11198,
+        "text": "and they go -- Solomon, and all the assembly with him -- to the high place that [is] in Gibeon, for there hath been God's tent of meeting, that Moses, servant of Jehovah, made in the wilderness,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11199,
+        "text": "but the ark of God had David brought up from Kirjath-Jearim, when David prepared for it, for he stretched out for it a tent in Jerusalem;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11200,
+        "text": "and the altar of brass that Bezaleel son of Uri, son of Hur made, he put before the tabernacle of Jehovah; and Solomon and the assembly seek to it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11201,
+        "text": "And Solomon goeth up thither, on the altar of brass, before Jehovah, that [is] at the tent of meeting, and causeth to ascend upon it a thousand burnt-offerings.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11202,
+        "text": "In that night hath God appeared to Solomon, and saith to him, 'Ask -- what do I give to thee?'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11203,
+        "text": "And Solomon saith to God, 'Thou hast done with David my father great kindness, and hast caused me to reign in his stead.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11204,
+        "text": "Now, O Jehovah God, is Thy word with David my father stedfast, for Thou hast caused me to reign over a people numerous as the dust of the earth;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11205,
+        "text": "now, wisdom and knowledge give to me, and I go out before this people, and I come in, for who doth judge this Thy great people?'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11206,
+        "text": "And God saith to Solomon, 'Because that this hath been with thy heart, and thou hast not asked riches, wealth, and honour, and the life of those hating thee, and also many days hast not asked, and dost ask for thyself wisdom and knowledge, so that thou dost judge My people over which I have caused thee to reign --",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11207,
+        "text": "the wisdom and the knowledge is given to thee, and riches and wealth and honour I give to thee, that there hath not been so to the kings who [are] before thee, and after thee it is not so.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11208,
+        "text": "And Solomon cometh in [from] the high place that [is] in Gibeon to Jerusalem, from before the tent of meeting, and reigneth over Israel,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 11209,
+        "text": "and Solomon gathereth chariots and horsemen, and he hath a thousand and four hundred chariots, and twelve thousand horsemen, and he placeth them in the cities of the chariots, and with the king in Jerusalem.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11210,
+        "text": "And the king maketh the silver and the gold in Jerusalem as stones, and the cedars he made as sycamores that [are] in the low country, for abundance.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11211,
+        "text": "And the source of the horses that [are] to Solomon [is] from Egypt and from Keva; merchants of the king from Keva take at a price,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11212,
+        "text": "and they come up, and bring out from Egypt a chariot for six hundred silverlings, and a horse for fifty and a hundred, and so for all the kings of the Hittites, and the kings of Aram -- by their hand they bring out.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

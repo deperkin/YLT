@@ -1,0 +1,334 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 154,
+    "MaxVerses": 46,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4894,
+        "text": "These [are] the words which Moses hath spoken unto all Israel, beyond the Jordan, in the wilderness, in the plain over-against Suph, between Paran and Tophel, and Laban, and Hazeroth, and Di-Zahab;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4895,
+        "text": "eleven days' from Horeb, the way of mount Seir, unto Kadesh-Barnea.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4896,
+        "text": "And it cometh to pass in the fortieth year, in the eleventh month, on the first of the month hath Moses spoken unto the sons of Israel according to all that Jehovah hath commanded him concerning them;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4897,
+        "text": "after his smiting Sihon king of the Amorite who is dwelling in Heshbon, and Og king of Bashan who is dwelling in Ashtaroth in Edrei,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4898,
+        "text": "beyond the Jordan, in the land of Moab, hath Moses begun to explain this law, saying:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4899,
+        "text": "'Jehovah our God hath spoken unto us in Horeb, saying, Enough to you -- of dwelling in this mount;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4900,
+        "text": "turn ye and journey for you, and enter the mount of the Amorite, and unto all its neighbouring places, in the plain, in the hill-country, and in the low country, and in the south, and in the haven of the sea, the land of the Canaanite, and of Lebanon, unto the great river, the river Phrat;",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4901,
+        "text": "see, I have set before you the land; go in and possess the land which Jehovah hath sworn to your fathers, to Abraham, to Isaac, and to Jacob, to give to them, and to their seed after them.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4902,
+        "text": "'And I speak unto you at that time, saying, I am not able by myself to bear you;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 4903,
+        "text": "Jehovah your God hath multiplied you, and lo, ye [are] to-day as the stars of the heavens for multitude;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4904,
+        "text": "Jehovah, God of your fathers, is adding to you, as ye [are], a thousand times, and doth bless you as He hath spoken to you.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4905,
+        "text": "'How do I bear by myself your pressure, and your burden, and your strife?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4906,
+        "text": "Give for yourselves men, wise and intelligent, and known to your tribes, and I set them for your heads;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4907,
+        "text": "and ye answer me and say, Good [is] the thing which thou hast spoken -- to do.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4908,
+        "text": "'And I take the heads of your tribes, men, wise and known, and I appoint them heads over you, princes of thousands, and princes of hundreds, and princes of fifties, and princes of tens, and authorities, for your tribes.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4909,
+        "text": "And I command your judges at that time, saying, Hearkening between your brethren -- then ye have judged righteousness between a man, and his brother, and his sojourner;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4910,
+        "text": "ye do not discern faces in judgment; as the little so the great ye do hear; ye are not afraid of the face of any, for the judgment is God's, and the thing which is too hard for you, ye bring near unto me, and I have heard it;",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4911,
+        "text": "and I command you, at that time, all the things which ye do.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4912,
+        "text": "'And we journey from Horeb, and go [through] all that great and fearful wilderness which ye have seen -- the way of the hill-country of the Amorite, as Jehovah our God hath commanded us, and we come in unto Kadesh-Barnea.",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 4913,
+        "text": "'And I say unto you, Ye have come in unto the hill-country of the Amorite, which Jehovah our God is giving to us;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4914,
+        "text": "see, Jehovah thy God hath set before thee the land; go up, possess, as Jehovah, God of thy fathers, hath spoken to thee; fear not, nor be affrighted.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4915,
+        "text": "'And ye come near unto me, all of you, and say, Let us send men before us, and they search for us the land, and they bring us back word [concerning] the way in which we go up into it, and the cities unto which we come in;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4916,
+        "text": "and the thing is good in mine eyes, and I take of you twelve men, one man for a tribe.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4917,
+        "text": "'And they turn and go up to the hill-country, and come in unto the valley of Eshcol, and spy it,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4918,
+        "text": "and they take with their hand of the fruit of the land, and bring down unto us, and bring us back word, and say, Good is the land which Jehovah our God is giving to us.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4919,
+        "text": "'And ye have not been willing to go up, and ye provoke the mouth of Jehovah your God,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4920,
+        "text": "and murmur in your tents, and say, In Jehovah's hating us He hath brought us out of the land of Egypt, to give us into the hand of the Amorite -- to destroy us;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4921,
+        "text": "whither are we going up? our brethren have melted our heart, saying, A people greater and taller than we, cities great and fenced to heaven, and also sons of Anakim -- we have seen there.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4922,
+        "text": "'And I say unto you, Be not terrified, nor be afraid of them;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4923,
+        "text": "Jehovah your God, who is going before you -- He doth fight for you, according to all that He hath done with you in Egypt before your eyes,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4924,
+        "text": "and in the wilderness, where thou hast seen that Jehovah thy God hath borne thee as a man beareth his son, in all the way which ye have gone, till your coming in unto this place.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4925,
+        "text": "'And in this thing ye are not stedfast in Jehovah your God,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4926,
+        "text": "who is going before you in the way to search out to you a place for your encamping, in fire by night, to shew you in the way in which ye go, and in a cloud by day.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4927,
+        "text": "'And Jehovah heareth the voice of your words, and is wroth, and sweareth, saying,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4928,
+        "text": "Not one of these men of this evil generation doth see the good land which I have sworn to give to your fathers,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 4929,
+        "text": "save Caleb son of Jephunneh -- he doth see it, and to him I give the land on which he hath trodden, and to his sons, because that he hath been fully after Jehovah.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4930,
+        "text": "'Also with me hath Jehovah been angry for your sake, saying, Also, thou dost not go in thither;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4931,
+        "text": "Joshua son of Nun, who is standing before thee, he goeth in thither; him strengthen thou; for he doth cause Israel to inherit.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4932,
+        "text": "'And your infants, of whom ye have said, For a prey they are, and your sons who have not known to-day good and evil, they go in thither, and to them I give it, and they possess it;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4933,
+        "text": "and ye, turn for yourselves, and journey toward the wilderness, the way of the Red Sea.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4934,
+        "text": "'And ye answer and say unto me, We have sinned against Jehovah; we -- we go up, and we have fought, according to all that which Jehovah our God hath commanded us; and ye gird on each his weapons of war, and ye are ready to go up into the hill-country;",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 4935,
+        "text": "and Jehovah saith unto me, Say to them, Ye do not go up, nor fight, for I am not in your midst, and ye are not smitten before your enemies.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 4936,
+        "text": "'And I speak unto you, and ye have not hearkened, and provoke the mouth of Jehovah, and act proudly, and go up into the hill-country;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 4937,
+        "text": "and the Amorite who is dwelling in that hill-country cometh out to meet you, and they pursue you as the bees do, and smite you in Seir -- unto Hormah.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 4938,
+        "text": "'And ye turn back and weep before Jehovah, and Jehovah hath not hearkened to your voice, nor hath he given ear unto you;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 4939,
+        "text": "and ye dwell in Kadesh many days, according to the days which ye had dwelt.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

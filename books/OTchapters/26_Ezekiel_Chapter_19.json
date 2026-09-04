@@ -1,0 +1,110 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 19,
+    "count": 821,
+    "MaxVerses": 14,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20883,
+        "text": "And thou, lift up a lamentation unto princes of Israel,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20884,
+        "text": "and thou hast said: What [is] thy mother? -- a lioness, Among lions she hath crouched down, In the midst of young lions she hath multiplied her whelps.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20885,
+        "text": "And she bringeth up one of her whelps, A young lion it hath been, And it learneth to tear prey, man it hath devoured.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20886,
+        "text": "And hear of it do nations, In their pit it hath been caught, And they bring it in with chains unto the land of Egypt.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20887,
+        "text": "And she seeth, that stayed -- perished hath her hope, And she taketh one of her whelps, A young lion she hath made it.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20888,
+        "text": "And it goeth up and down in the midst of lions, A young lion it hath been, And it learneth to tear prey, man it hath devoured.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20889,
+        "text": "And it knoweth his forsaken habitations, And their cities it hath laid waste, And desolate is the land and its fulness, Because of the voice of his roaring.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20890,
+        "text": "And set against it do nations Round about from the provinces. And they spread out for it their net, In their pit it hath been caught.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20891,
+        "text": "And they put it in prison -- in chains, And they bring it unto the king of Babylon, They bring it in unto bulwarks, So that its voice is not heard any more On mountains of Israel.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20892,
+        "text": "Thy mother [is] as a vine in thy blood by waters planted, Fruitful and full of boughs it hath been, Because of many waters.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 20893,
+        "text": "And it hath strong rods for sceptres of rulers, And high is its stature above thick branches, And it appeareth in its height In the multitude of its thin shoots.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20894,
+        "text": "And it is plucked up in fury, To the earth it hath been cast, And the east wind hath dried up its fruit, Broken and withered hath been the rod of its strength, Fire hath consumed it.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20895,
+        "text": "And now -- it is planted in a wilderness, In a land dry and thirsty.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20896,
+        "text": "And go forth doth fire from a rod of its boughs, Its fruit it hath devoured, And it hath no rod of strength -- a sceptre to rule, Lamentation it [is] -- and it is for a lamentation!'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 7,"name": "Judges","MaxChapters": 21},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 217,
+    "MaxVerses": 40,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 6656,
+        "text": "And the sons of Israel do the evil thing in the eyes of Jehovah, and Jehovah giveth them into the hand of Midian seven years,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 6657,
+        "text": "and the hand of Midian is strong against Israel, from the presence of Midian have the sons of Israel made for themselves the flowings which [are] in the mountains, and the caves, and the strongholds.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 6658,
+        "text": "And it hath been, if Israel hath sowed, that Midian hath come up, and Amalek, and the sons of the east, yea, they have come up against him,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 6659,
+        "text": "and encamp against them, and destroy the increase of the land till thine entering Gaza; and they leave no sustenance in Israel, either sheep, or ox, or ass;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 6660,
+        "text": "for they and their cattle come up, with their tents; they come in as the fulness of the locust for multitude, and of them and of their cattle there is no number, and they come into the land to destroy it.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 6661,
+        "text": "And Israel is very weak from the presence of Midian, and the sons of Israel cry unto Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 6662,
+        "text": "And it cometh to pass when the sons of Israel have cried unto Jehovah, concerning Midian,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 6663,
+        "text": "that Jehovah sendeth a man, a prophet, unto the sons of Israel, and he saith to them, 'Thus said Jehovah, God of Israel, I -- I have brought you up out of Egypt, and I bring you out from a house of servants,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 6664,
+        "text": "and I deliver you out of the hand of the Egyptians, and out of the hand of all your oppressors, and I cast them out from your presence, and I give to you their land,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 6665,
+        "text": "and I say to you, I [am] Jehovah your God, ye do not fear the gods of the Amorite in whose land ye are dwelling: -- and ye have not hearkened to My voice.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 6666,
+        "text": "And the messenger of Jehovah cometh and sitteth under the oak which [is] in Ophrah, which [is] to Joash the Abi-Ezrite, and Gideon his son is beating out wheat in the wine-press, to remove [it] from the presence of the Midianites;",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 6667,
+        "text": "and the messenger of Jehovah appeareth unto him, and saith unto him, 'Jehovah [is] with thee, O mighty one of valour.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 6668,
+        "text": "And Gideon saith unto him, 'O, my lord -- and Jehovah is with us! -- and why hath all this found us? and where [are] all His wonders which our fathers recounted to us, saying, Hath not Jehovah brought us up out of Egypt? and now Jehovah hath left us, and doth give us into the hand of Midian.'",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 6669,
+        "text": "And Jehovah turneth unto him and saith, 'Go in this -- thy power; and thou hast saved Israel out of the hand of Midian -- have not I sent thee.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 6670,
+        "text": "And he saith unto him, 'O, my lord, wherewith do I save Israel? lo, my chief [is] weak in Manasseh, and I the least in the house of my father.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 6671,
+        "text": "And Jehovah saith unto him, 'Because I am with thee -- thou hast smitten the Midianites as one man.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 6672,
+        "text": "And he saith unto Him, 'If, I pray Thee, I have found grace in Thine eyes, then Thou hast done for me a sign that Thou art speaking with me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 6673,
+        "text": "Move not, I pray Thee, from this, till my coming in unto Thee, and I have brought out my present, and put it before Thee;' and he saith, 'I -- I do abide till thy return.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 6674,
+        "text": "And Gideon hath gone in, and prepareth a kid of the goats, and of an ephah of flour unleavened things; the flesh he hath put in a basket, and the broth he hath put in a pot, and he bringeth out unto Him, unto the place of the oak, and bringeth [it] nigh.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 6675,
+        "text": "And the messenger of God saith unto him, 'Take the flesh and the unleavened things, and place on this rock -- and the broth pour out;' and he doth so.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 6676,
+        "text": "And the messenger of Jehovah putteth forth the end of the staff which [is] in His hand, and cometh against the flesh, and against the unleavened things, and the fire goeth up out of the rock and consumeth the flesh and the unleavened things -- and the messenger of Jehovah hath gone from his eyes.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 6677,
+        "text": "And Gideon seeth that He [is] a messenger of Jehovah, and Gideon saith, 'Alas, Lord Jehovah! because that I have seen a messenger of Jehovah face to face!'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 6678,
+        "text": "And Jehovah saith to him, 'Peace to thee; fear not; thou dost not die.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 6679,
+        "text": "And Gideon buildeth there an altar to Jehovah, and calleth it Jehovah-Shalom, unto this day it [is] yet in Ophrah of the Abi-Ezrites.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 6680,
+        "text": "And it cometh to pass, on that night, that Jehovah saith to him, 'Take the young ox which [is] to thy father, and the second bullock of seven years, and thou hast thrown down the altar of Baal which [is] to thy father, and the shrine which [is] by it thou dost cut down,",
+        "WordCount": 54,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 6681,
+        "text": "and thou hast built an altar to Jehovah thy God on the top of this stronghold, by the arrangement, and hast taken the second bullock, and caused to ascend a burnt-offering with the wood of the shrine which thou cuttest down.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 6682,
+        "text": "And Gideon taketh ten men of his servants, and doth as Jehovah hath spoken unto him, and it cometh to pass, because he hath been afraid of the house of his father, and the men of the city, to do [it] by day, that he doth [it] by night.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 6683,
+        "text": "And the men of the city rise early in the morning, and lo, broken down hath been the altar of Baal, and the shrine which is by it hath been cut down, and the second bullock hath been offered on the altar which is built.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 6684,
+        "text": "And they say one to another, 'Who hath done this thing?' and they inquire and seek, and they say, 'Gideon son of Joash hath done this thing.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 6685,
+        "text": "And the men of the city say unto Joash, 'Bring out thy son, and he dieth, because he hath broken down the altar of Baal, and because he hath cut down the shrine which [is] by it.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 6686,
+        "text": "And Joash saith to all who have stood against him, 'Ye, do ye plead for Baal? ye -- do ye save him? he who pleadeth for him is put to death during the morning; if he [is] a god he himself doth plead against him, because he hath broken down his altar.'",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 6687,
+        "text": "And he calleth him, on that day, Jerubbaal, saying, 'The Baal doth plead against him, because he hath broken down his altar.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 6688,
+        "text": "And all Midian and Amalek and the sons of the east have been gathered together, and pass over, and encamp in the valley of Jezreel,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 6689,
+        "text": "and the Spirit of Jehovah hath clothed Gideon, and he bloweth with a trumpet, and Abi-Ezer is called after him;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 6690,
+        "text": "and messengers he hath sent into all Manasseh, and it also is called after him; and messengers he hath sent into Asher, and into Zebulun, and into Naphtali, and they come up to meet them.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 6691,
+        "text": "And Gideon saith unto God, 'If Thou art Saviour of Israel by my hand, as Thou hast spoken,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 6692,
+        "text": "lo, I am placing the fleece of wool in the threshing-floor: if dew is on the fleece alone, and on all the earth drought -- then I have known that Thou dost save Israel by my hand, as Thou hast spoken;'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 6693,
+        "text": "and it is so, and he riseth early on the morrow, and presseth the fleece, and wringeth dew out of the fleece -- the fulness of the bowl, of water.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 6694,
+        "text": "And Gideon saith unto God, 'Let not Thine anger burn against me, and I speak only this time; let me try, I pray Thee, only this time with the fleece -- let there be, I pray Thee, drought on the fleece alone, and on all the earth let there be dew.'",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 6695,
+        "text": "And God doth so on that night, and there is drought on the fleece alone, and on all the earth there hath been dew.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

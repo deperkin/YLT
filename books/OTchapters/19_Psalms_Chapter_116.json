@@ -1,0 +1,145 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 116,
+    "count": 594,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15850,
+        "text": "I have loved, because Jehovah heareth My voice, my supplication,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15851,
+        "text": "Because He hath inclined His ear to me, And during my days I call.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15852,
+        "text": "Compassed me have cords of death, And straits of Sheol have found me, Distress and sorrow I find.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15853,
+        "text": "And in the name of Jehovah I call: I pray Thee, O Jehovah, deliver my soul,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15854,
+        "text": "Gracious [is] Jehovah, and righteous, Yea, our God [is] merciful,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15855,
+        "text": "A preserver of the simple [is] Jehovah, I was low, and to me He giveth salvation.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15856,
+        "text": "Turn back, O my soul, to thy rest, For Jehovah hath conferred benefits on thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15857,
+        "text": "For Thou hast delivered my soul from death, My eyes from tears, my feet from overthrowing.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15858,
+        "text": "I walk habitually before Jehovah In the lands of the living.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15859,
+        "text": "I have believed, for I speak, I -- I have been afflicted greatly.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 15860,
+        "text": "I said in my haste, 'Every man [is] a liar.'",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15861,
+        "text": "What do I return to Jehovah? All His benefits [are] upon me.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15862,
+        "text": "The cup of salvation I lift up, And in the name of Jehovah I call.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15863,
+        "text": "My vows to Jehovah let me complete, I pray you, before all His people.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15864,
+        "text": "Precious in the eyes of Jehovah [is] the death for His saints.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15865,
+        "text": "Cause [it] to come, O Jehovah, for I [am] Thy servant. I [am] Thy servant, son of Thy handmaid, Thou hast opened my bonds.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15866,
+        "text": "To Thee I sacrifice a sacrifice of thanks, And in the name of Jehovah I call.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15867,
+        "text": "My vows to Jehovah let me complete, I pray you, before all His people,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15868,
+        "text": "In the courts of the house of Jehovah, In thy midst, O Jerusalem, praise ye Jah!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

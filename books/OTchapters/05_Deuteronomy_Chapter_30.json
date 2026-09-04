@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 183,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5710,
+        "text": "'And it hath been, when all these things come upon thee, the blessing and the reviling, which I have set before thee, and thou hast brought [them] back unto thy heart, among all the nations whither Jehovah thy God hath driven thee away,",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5711,
+        "text": "and hast turned back unto Jehovah thy God, and hearkened to His voice, according to all that I am commanding thee to-day, thou and thy sons, with all thy heart, and with all thy soul --",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5712,
+        "text": "then hath Jehovah thy God turned back [to] thy captivity, and pitied thee, yea, He hath turned back and gathered thee out of all the peoples whither Jehovah thy God hath scattered thee.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5713,
+        "text": "'If thine outcast is in the extremity of the heavens, thence doth Jehovah thy God gather thee, and thence He doth take thee;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5714,
+        "text": "and Jehovah thy God hath brought thee in unto the land which thy fathers have possessed, and thou hast inherited it, and He hath done thee good, and multiplied thee above thy fathers.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5715,
+        "text": "'And Jehovah thy God hath circumcised thy heart, and the heart of thy seed, to love Jehovah thy God with all thy heart, and with all thy soul, for the sake of thy life;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5716,
+        "text": "and Jehovah thy God hath put all this oath on thine enemies, and on those hating thee, who have pursued thee.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5717,
+        "text": "'And thou dost turn back, and hast hearkened to the voice of Jehovah, and hast done all His commands which I am commanding thee to-day;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5718,
+        "text": "and Jehovah thy God hath made thee abundant in every work of thy hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, for good; for Jehovah turneth back to rejoice over thee for good, as He rejoiced over thy fathers,",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5719,
+        "text": "for thou dost hearken to the voice of Jehovah thy God, to keep His commands, and His statutes, which are written in the book of this law, for thou turnest back unto Jehovah thy God, with all thy heart, and with all thy soul.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5720,
+        "text": "'For this command which I am commanding thee to-day, it is not too wonderful for thee, nor [is] it far off.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 5721,
+        "text": "It is not in the heavens, -- saying, Who doth go up for us into the heavens, and doth take it for us, and doth cause us to hear it -- that we may do it.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5722,
+        "text": "And it [is] not beyond the sea, -- saying, Who doth pass over for us beyond the sea, and doth take it for us, and doth cause us to hear it -- that we may do it?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5723,
+        "text": "For very near unto thee is the word, in thy mouth, and in thy heart -- to do it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5724,
+        "text": "'See, I have set before thee to-day life and good, and death and evil,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 5725,
+        "text": "in that I am commanding thee to-day to love Jehovah thy God, to walk in His ways, and to keep His commands, and His statutes, and His judgments; and thou hast lived and multiplied, and Jehovah thy God hath blessed thee in the land whither thou art going in to possess it.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5726,
+        "text": "'And if thy heart doth turn, and thou dost not hearken, and hast been driven away, and hast bowed thyself to other gods, and served them,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5727,
+        "text": "I have declared to you this day, that ye do certainly perish, ye do not prolong days on the ground which thou art passing over the Jordan to go in thither to possess it.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5728,
+        "text": "'I have caused to testify against you to-day the heavens and the earth; life and death I have set before thee, the blessing and the reviling; and thou hast fixed on life, so that thou dost live, thou and thy seed,",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5729,
+        "text": "to love Jehovah thy God, to hearken to His voice, and to cleave to Him (for He [is] thy life, and the length of thy days), to dwell on the ground which Jehovah hath sworn to thy fathers, to Abraham, to Isaac, and to Jacob, to give to them.'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

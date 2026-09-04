@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 36,
+    "count": 153,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4881,
+        "text": "And the heads of the fathers of the families of the sons of Gilead, son of Machir, son of Manasseh, of the families of the sons of Joseph, come near, and speak before Moses, and before the princes, heads of the fathers of the sons of Israel,",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4882,
+        "text": "and say, Jehovah commanded my lord to give the land for inheritance by lot to the sons of Israel, and my lord hath been commanded by Jehovah to give the inheritance of Zelophehad our brother to his daughters.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4883,
+        "text": "'And -- they have been to one of the sons of the [other] tribes of the sons of Israel for wives, and their inheritance hath been withdrawn from the inheritance of our fathers, and hath been added to the inheritance of the tribe which is theirs, and from the lot of our inheritance it is withdrawn,",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4884,
+        "text": "and if it is the jubilee of the sons of Israel, then hath their inheritance been added to the inheritance of the tribe which is theirs, and from the inheritance of the tribe of our fathers is their inheritance withdrawn.'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4885,
+        "text": "And Moses commandeth the sons of Israel, by the command of Jehovah, saying, 'Rightly are the tribe of the sons of Joseph speaking;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 4886,
+        "text": "this [is] the thing which Jehovah hath commanded concerning the daughters of Zelophehad, saying, To those good in their eyes let them be for wives; only, to a family of the tribe of their fathers let them be for wives;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4887,
+        "text": "and the inheritance of the sons of Israel doth not turn round from tribe unto tribe; for each to the inheritance of the tribe of his fathers, do the sons of Israel cleave.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4888,
+        "text": "'And every daughter possessing an inheritance, of the tribes of the sons of Israel, is to one of the family of the tribe of her father for a wife, so that the sons of Israel possess each the inheritance of his fathers,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4889,
+        "text": "and the inheritance doth not turn round from [one] tribe to another tribe; for each to his inheritance do they cleave, the tribes of the sons of Israel.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4890,
+        "text": "As Jehovah hath commanded Moses, so have the daughters of Zelophehad done,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4891,
+        "text": "and Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, daughters of Zelophehad, are to the sons of their fathers' brethren for wives;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4892,
+        "text": "[to men] of the families of the sons of Manasseh, son of Joseph, they have been for wives, and their inheritance is with the tribe of the family of their father.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4893,
+        "text": "These [are] the commands and the judgments which Jehovah hath commanded, by the hand of Moses, concerning the sons of Israel, in the plains of Moab, by Jordan, [near] Jericho.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

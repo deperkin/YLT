@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 110,
+    "count": 588,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15788,
+        "text": "A Psalm of David. The affirmation of Jehovah to my Lord: 'Sit at My right hand, Till I make thine enemies thy footstool.'",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15789,
+        "text": "The rod of thy strength doth Jehovah send from Zion, Rule in the midst of thine enemies.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15790,
+        "text": "Thy people [are] free-will gifts in the day of Thy strength, in the honours of holiness, From the womb, from the morning, Thou hast the dew of thy youth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15791,
+        "text": "Jehovah hath sworn, and doth not repent, 'Thou [art] a priest to the age, According to the order of Melchizedek.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15792,
+        "text": "The Lord on thy right hand smote kings In the day of His anger.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 15793,
+        "text": "He doth judge among the nations, He hath completed the carcases, Hath smitten the head over the mighty earth.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15794,
+        "text": "From a brook in the way he drinketh, Therefore he doth lift up the head!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

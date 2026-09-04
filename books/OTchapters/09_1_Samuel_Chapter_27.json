@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 263,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7932,
+        "text": "And David saith unto his heart, 'Now am I consumed one day by the hand of Saul; there is nothing for me better than that I diligently escape unto the land of the Philistines, and Saul hath been despairing of me -- of seeking me any more in all the border of Israel, and I have escaped out of his hand.'",
+        "WordCount": 61,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7933,
+        "text": "And David riseth, and passeth over, he and six hundred men who [are] with him, unto Achish son of Maoch king of Gath;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7934,
+        "text": "and David dwelleth with Achish in Gath, he and his men, each one with his household, [even] David and his two wives, Ahinoam the Jezreelitess, and Abigail wife of Nabal the Carmelitess.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7935,
+        "text": "And it is declared to Saul that David hath fled to Gath, and he hath not added any more to seek him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7936,
+        "text": "And David saith unto Achish, 'If, I pray thee, I have found grace in thine eyes, they give to me a place in one of the cities of the field, and I dwell there, yea, why doth thy servant dwell in the royal city with thee?'",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7937,
+        "text": "And Achish giveth to him in that day Ziklag, therefore hath Ziklag been to the kings of Judah till this day.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 7938,
+        "text": "And the number of the days which David hath dwelt in the field of the Philistines [is] days and four months;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7939,
+        "text": "and David goeth up and his men, and they push unto the Geshurite, and the Gerizite, and the Amalekite, (for they are inhabitants of the land from of old), as thou comest in to Shur and unto the land of Egypt,",
+        "WordCount": 41,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 7940,
+        "text": "and David hath smitten the land, and doth not keep alive man and woman, and hath taken sheep, and oxen, and asses, and camels, and garments, and turneth back, and cometh in unto Achish.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7941,
+        "text": "And Achish saith, 'Whither have ye pushed to-day?' and David saith, 'Against the south of Judah, and against the south of the Jerahmeelite, and unto the south of the Kenite.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7942,
+        "text": "Neither man nor woman doth David keep alive, to bring in [word] to Gath, saying, 'Lest they declare [it] against us, saying, Thus hath David done, and thus [is] his custom all the days that he hath dwelt in the fields of the Philistines.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7943,
+        "text": "And Achish believeth in David, saying, 'He hath made himself utterly abhorred among his people, in Israel, and hath been to me for a servant age-during.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

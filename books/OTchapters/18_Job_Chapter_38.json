@@ -1,0 +1,299 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 38,
+    "count": 474,
+    "MaxVerses": 41,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13795,
+        "text": "And Jehovah answereth Job out of the whirlwind, and saith: --",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13796,
+        "text": "Who [is] this -- darkening counsel, By words without knowledge?",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13797,
+        "text": "Gird, I pray thee, as a man, thy loins, And I ask thee, and cause thou Me to know.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13798,
+        "text": "Where wast thou when I founded earth? Declare, if thou hast known understanding.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 13799,
+        "text": "Who placed its measures -- if thou knowest? Or who hath stretched out upon it a line?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13800,
+        "text": "On what have its sockets been sunk? Or who hath cast its corner-stone?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13801,
+        "text": "In the singing together of stars of morning, And all sons of God shout for joy,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13802,
+        "text": "And He shutteth up with doors the sea, In its coming forth, from the womb it goeth out.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13803,
+        "text": "In My making a cloud its clothing, And thick darkness its swaddling band,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13804,
+        "text": "And I measure over it My statute, And place bar and doors,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13805,
+        "text": "And say, 'Hitherto come thou, and add not, And a command is placed On the pride of thy billows.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13806,
+        "text": "Hast thou commanded morning since thy days? Causest thou the dawn to know its place?",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 13807,
+        "text": "To take hold on the skirts of the earth, And the wicked are shaken out of it,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13808,
+        "text": "It turneth itself as clay of a seal And they station themselves as clothed.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13809,
+        "text": "And withheld from the wicked is their light, And the arm lifted up is broken.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13810,
+        "text": "Hast thou come in to springs of the sea? And in searching the deep Hast thou walked up and down?",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13811,
+        "text": "Revealed to thee were the gates of death? And the gates of death-shade dost thou see?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13812,
+        "text": "Thou hast understanding, Even unto the broad places of earth! Declare -- if thou hast known it all.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13813,
+        "text": "Where [is] this -- the way light dwelleth? And darkness, where [is] this -- its place?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13814,
+        "text": "That thou dost take it unto its boundary, And that thou dost understand The paths of its house.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13815,
+        "text": "Thou hast known -- for then thou art born And the number of thy days [are] many!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13816,
+        "text": "Hast thou come in unto the treasure of snow? Yea, the treasures of hail dost thou see?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13817,
+        "text": "That I have kept back for a time of distress, For a day of conflict and battle.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13818,
+        "text": "Where [is] this, the way light is apportioned? It scattereth an east wind over the earth.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13819,
+        "text": "Who hath divided for the flood a conduit? And a way for the lightning of the voices?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 13820,
+        "text": "To cause [it] to rain on a land -- no man, A wilderness -- no man in it.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 13821,
+        "text": "To satisfy a desolate and waste place, And to cause to shoot up The produce of the tender grass?",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 13822,
+        "text": "Hath the rain a father? Or who hath begotten the drops of dew?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 13823,
+        "text": "From whose belly came forth the ice? And the hoar-frost of the heavens, Who hath begotten it?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 13824,
+        "text": "As a stone waters are hidden, And the face of the deep is captured.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 13825,
+        "text": "Dost thou bind sweet influences of Kimah? Or the attractions of Kesil dost thou open?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 13826,
+        "text": "Dost thou bring out Mazzaroth in its season? And Aysh for her sons dost thou comfort?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 13827,
+        "text": "Hast thou known the statutes of heaven? Or dost thou appoint Its dominion in the earth?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 13828,
+        "text": "Dost thou lift up to the cloud thy voice, And abundance of water doth cover thee?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 13829,
+        "text": "Dost thou send out lightnings, and they go And say unto thee, 'Behold us?'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 13830,
+        "text": "Who hath put in the inward parts wisdom? Or who hath given To the covered part understanding?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 13831,
+        "text": "Who doth number the clouds by wisdom? And the bottles of the heavens, Who doth cause to lie down,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 13832,
+        "text": "In the hardening of dust into hardness, And clods cleave together?",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 13833,
+        "text": "Dost thou hunt for a lion prey? And the desire of young lions fulfil?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 13834,
+        "text": "When they bow down in dens -- Abide in a thicket for a covert?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 13835,
+        "text": "Who doth prepare for a raven his provision, When his young ones cry unto God? They wander without food.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

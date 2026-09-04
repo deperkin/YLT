@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 47,
+    "count": 525,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14627,
+        "text": "To the Overseer. -- By sons of Korah. A Psalm. All ye peoples, clap the hand, Shout to God with a voice of singing,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14628,
+        "text": "For Jehovah Most High [is] fearful, A great king over all the earth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14629,
+        "text": "He leadeth peoples under us, and nations under our feet.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14630,
+        "text": "He doth choose for us our inheritance, The excellency of Jacob that He loves. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14631,
+        "text": "God hath gone up with a shout, Jehovah with the sound of a trumpet.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 14632,
+        "text": "Praise God -- praise -- give praise to our king, praise.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14633,
+        "text": "For king of all the earth [is] God, Give praise, O understanding one.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14634,
+        "text": "God hath reigned over nations, God hath sat on His holy throne,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14635,
+        "text": "Nobles of peoples have been gathered, [With] the people of the God of Abraham, For to God [are] the shields of earth, Greatly hath He been exalted!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

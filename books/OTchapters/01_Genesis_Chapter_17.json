@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 17,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 399,
+        "text": "And Abram is a son of ninety and nine years, and Jehovah appeareth unto Abram, and saith unto him, 'I [am] God Almighty, walk habitually before Me, and be thou perfect;",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 400,
+        "text": "and I give My covenant between Me and thee, and multiply thee very exceedingly.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 401,
+        "text": "And Abram falleth upon his face, and God speaketh with him, saying,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 402,
+        "text": "'I -- lo, My covenant [is] with thee, and thou hast become father of a multitude of nations;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 403,
+        "text": "and thy name is no more called Abram, but thy name hath been Abraham, for father of a multitude of nations have I made thee;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 404,
+        "text": "and I have made thee exceeding fruitful, and made thee become nations, and kings go out from thee.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 405,
+        "text": "'And I have established My covenant between Me and thee, and thy seed after thee, to their generations, for a covenant age-during, to become God to thee, and to thy seed after thee;",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 406,
+        "text": "and I have given to thee, and to thy seed after thee, the land of thy sojournings, the whole land of Canaan, for a possession age-during, and I have become their God.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 407,
+        "text": "And God saith unto Abraham, 'And thou dost keep My covenant, thou and thy seed after thee, to their generations;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 408,
+        "text": "this [is] My covenant which ye keep between Me and you, and thy seed after thee: Every male of you [is] to be circumcised;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 409,
+        "text": "and ye have circumcised the flesh of your foreskin, and it hath become a token of a covenant between Me and you.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 410,
+        "text": "'And a son of eight days is circumcised by you; every male to your generations, born in the house, or bought with money from any son of a stranger, who is not of thy seed;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 411,
+        "text": "he is certainly circumcised who [is] born in thine house, or bought with thy money; and My covenant hath become in your flesh a covenant age-during;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 412,
+        "text": "and an uncircumcised one, a male, the flesh of whose foreskin is not circumcised, even that person hath been cut off from his people; My covenant he hath broken.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 413,
+        "text": "And God saith unto Abraham, 'Sarai thy wife -- thou dost not call her name Sarai, for Sarah [is] her name;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 414,
+        "text": "and I have blessed her, and have also given to thee a son from her; and I have blessed her, and she hath become nations -- kings of peoples are from her.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 415,
+        "text": "And Abraham falleth upon his face, and laugheth, and saith in his heart, 'To the son of an hundred years is one born? or doth Sarah -- daughter of ninety years -- bear?'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 416,
+        "text": "And Abraham saith unto God, 'O that Ishmael may live before Thee;'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 417,
+        "text": "and God saith, 'Sarah thy wife is certainly bearing a son to thee, and thou hast called his name Isaac, and I have established My covenant with him, for a covenant age-during, to his seed after him.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 418,
+        "text": "As to Ishmael, I have heard thee; lo, I have blessed him, and made him fruitful, and multiplied him, very exceedingly; twelve princes doth he beget, and I have made him become a great nation;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 419,
+        "text": "and My covenant I establish with Isaac, whom Sarah doth bear to thee at this appointed time in the next year;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 420,
+        "text": "and He finisheth speaking with him, and God goeth up from Abraham.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 421,
+        "text": "And Abraham taketh Ishmael his son, and all those born in his house, and all those bought with his money -- every male among the men of Abraham's house -- and circumciseth the flesh of their foreskin, in this self-same day, as God hath spoken with him.",
+        "WordCount": 47,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 422,
+        "text": "And Abraham [is] a son of ninety and nine years in the flesh of his foreskin being circumcised;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 423,
+        "text": "and Ishmael his son [is] a son of thirteen years in the flesh of his foreskin being circumcised;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 424,
+        "text": "in this self-same day hath Abraham been circumcised, and Ishmael his son;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 425,
+        "text": "and all the men of his house -- born in the house, and bought with money from the son of a stranger -- have been circumcised with him.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

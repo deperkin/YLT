@@ -1,0 +1,376 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 89,
+    "count": 567,
+    "MaxVerses": 52,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15328,
+        "text": "An instruction, by Ethan the Ezrahite. Of the kind acts of Jehovah, to the age I sing, To all generations I make known Thy faithfulness with my mouth,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15329,
+        "text": "For I said, 'To the age is kindness built, The heavens! Thou dost establish Thy faithfulness in them.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15330,
+        "text": "I have made a covenant for My chosen, I have sworn to David My servant:",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15331,
+        "text": "'Even to the age do I establish thy seed, And have built to generation and generation thy throne. Selah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15332,
+        "text": "and the heavens confess Thy wonders, O Jehovah, Thy faithfulness also [is] in an assembly of holy ones.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 15333,
+        "text": "For who in the sky, Compareth himself to Jehovah? Is like to Jehovah among sons of the mighty?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15334,
+        "text": "God is very terrible, In the secret counsel of His holy ones, And fearful over all surrounding Him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15335,
+        "text": "O Jehovah, God of Hosts, Who [is] like Thee -- a strong Jah? And Thy faithfulness [is] round about Thee.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15336,
+        "text": "Thou [art] ruler over the pride of the sea, In the lifting up of its billows Thou dost restrain them.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15337,
+        "text": "Thou hast bruised Rahab, as one wounded. With the arm of Thy strength Thou hast scattered Thine enemies.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15338,
+        "text": "Thine [are] the heavens -- the earth also [is] Thine, The habitable world and its fulness, Thou hast founded them.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15339,
+        "text": "North and south Thou hast appointed them, Tabor and Hermon in Thy name do sing.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15340,
+        "text": "Thou hast an arm with might, Strong is Thy hand -- high Thy right hand.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15341,
+        "text": "Righteousness and judgment [Are] the fixed place of Thy throne, Kindness and truth go before Thy face.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15342,
+        "text": "O the happiness of the people knowing the shout, O Jehovah, in the light of Thy face they walk habitually.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 15343,
+        "text": "In Thy name they rejoice all the day, And in Thy righteousness they are exalted,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15344,
+        "text": "For the beauty of their strength [art] Thou, And in Thy good will is our horn exalted,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15345,
+        "text": "For of Jehovah [is] our shield, And of the Holy One of Israel our king.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15346,
+        "text": "Then Thou hast spoken in vision, To Thy saint, yea, Thou sayest, I have placed help upon a mighty one, Exalted a chosen one out of the people,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 15347,
+        "text": "I have found David My servant, With My holy oil I have anointed him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15348,
+        "text": "With whom My hand is established, My arm also doth strengthen him.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15349,
+        "text": "An enemy exacteth not upon him, And a son of perverseness afflicteth him not.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15350,
+        "text": "And I have beaten down before him his adversaries, And those hating him I plague,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15351,
+        "text": "And My faithfulness and kindness [are] with him, And in My name is his horn exalted.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15352,
+        "text": "And I have set on the sea his hand, And on the rivers his right hand.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15353,
+        "text": "He proclaimeth me: 'Thou [art] my Father, My God, and the rock of my salvation.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15354,
+        "text": "I also first-born do appoint him, Highest of the kings of the earth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15355,
+        "text": "To the age I keep for him My kindness, And My covenant [is] stedfast with him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15356,
+        "text": "And I have set his seed for ever, And his throne as the days of the heavens.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15357,
+        "text": "If his sons forsake My law, And in My judgments do not walk;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15358,
+        "text": "If My statutes they pollute, And My commands do not keep,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15359,
+        "text": "I have looked after with a rod their transgression, And with strokes their iniquity,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15360,
+        "text": "And My kindness I break not from him, Nor do I deal falsely in My faithfulness.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 15361,
+        "text": "I profane not My covenant, And that which is going forth from My lips I change not.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15362,
+        "text": "Once I have sworn by My holiness, I lie not to David,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 15363,
+        "text": "His seed is to the age, And his throne [is] as the sun before Me,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15364,
+        "text": "As the moon it is established -- to the age, And the witness in the sky is stedfast. Selah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 15365,
+        "text": "And Thou, Thou hast cast off, and dost reject, Thou hast shown Thyself wroth With Thine anointed,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 39,
+        "count": 15366,
+        "text": "Hast rejected the covenant of Thy servant, Thou hast polluted to the earth his crown,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 15367,
+        "text": "Thou hast broken down all his hedges, Thou hast made his fenced places a ruin.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 15368,
+        "text": "Spoiled him have all passing by the way, He hath been a reproach to his neighbours,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 15369,
+        "text": "Thou hast exalted the right hand of his adversaries, Thou hast caused all his enemies to rejoice.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15370,
+        "text": "Also -- Thou turnest back the sharpness of his sword, And hast not established him in battle,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 15371,
+        "text": "Hast caused [him] to cease from his brightness, And his throne to the earth hast cast down.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 15372,
+        "text": "Thou hast shortened the days of his youth, Hast covered him over [with] shame. Selah.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 15373,
+        "text": "Till when, O Jehovah, art Thou hidden? For ever doth Thy fury burn as fire?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 15374,
+        "text": "Remember, I pray Thee, what [is] life-time? Wherefore in vain hast Thou created All the sons of men?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 15375,
+        "text": "Who [is] the man that liveth, and doth not see death? He delivereth his soul from the hand of Sheol. Selah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 15376,
+        "text": "Where [are] Thy former kindnesses, O Lord. Thou hast sworn to David in Thy faithfulness,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 15377,
+        "text": "Remember, O Lord, the reproach of Thy servants, I have borne in my bosom all the strivings of the peoples,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 15378,
+        "text": "Wherewith Thine enemies reproached, O Jehovah, Wherewith they have reproached The steps of Thine anointed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 15379,
+        "text": "Blessed [is] Jehovah to the age. Amen, and amen!",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

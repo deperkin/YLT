@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 36,"name": "Zephaniah","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 909,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22822,
+        "text": "Woe [to] the rebellious and polluted, The oppressing city!",
+        "WordCount": 9,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22823,
+        "text": "She hath not hearkened to the voice, She hath not accepted instruction, In Jehovah she hath not trusted, Unto her God she hath not drawn near.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22824,
+        "text": "Her heads in her midst [are] roaring lions, Her judges [are] evening wolves, They have not gnawn the bone in the morning.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22825,
+        "text": "Her prophets unstable -- men of treachery, Her priests have polluted the sanctuary, They have violated the law.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22826,
+        "text": "Jehovah [is] righteous in her midst, He doth not do perverseness, Morning by morning His judgment he giveth to the light, It hath not been lacking, And the perverse doth not know shame.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22827,
+        "text": "I have cut off nations, Desolated have been their chief ones, I have laid waste their out-places without any passing by, Destroyed have been their cities, Without man, without inhabitant.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22828,
+        "text": "I have said: Only, ye do fear Me, Ye do accept instruction, And her habitation is not cut off, All that I have appointed for her, But they have risen early, They have corrupted all their doings.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22829,
+        "text": "Therefore, wait for Me -- an affirmation of Jehovah, For the day of My rising for prey, For My judgment [is] to gather nations, To assemble kingdoms, To pour out on them Mine indignation, All the heat of Mine anger, For by the fire of My jealousy consumed is all the earth.",
+        "WordCount": 52,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22830,
+        "text": "For then do I turn unto peoples a pure lip, To call all of them by the name of Jehovah, To serve Him [with] one shoulder.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22831,
+        "text": "From beyond the rivers of Cush, my supplicants, The daughter of My scattered ones, Do bring My present.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22832,
+        "text": "In that day thou art not ashamed because of any of thine actions, Wherewith thou hast transgressed against Me, For then do I turn aside from thy midst The exulting ones of thine excellency, And thou dost add no more to be haughty, In My holy mountain.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22833,
+        "text": "And I have left in thy midst a people humble and poor, And they have trusted in the name of Jehovah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22834,
+        "text": "The remnant of Israel do no perversity, nor speak lies, Nor found in their mouth is a deceitful tongue, For they have delight, and have lain down, And there is none troubling.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22835,
+        "text": "Cry aloud, O daughter of Zion, shout, O Israel, Rejoice and exult with the whole heart, O daughter of Jerusalem.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 22836,
+        "text": "Jehovah hath turned aside thy judgments, He hath faced thine enemy, The king of Israel, Jehovah, [is] in thy midst, Thou seest evil no more.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22837,
+        "text": "In that day it is said to Jerusalem, 'Fear not, O Zion, let not thy hands be feeble.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22838,
+        "text": "Jehovah thy God [is] in thy midst, A mighty one doth save, He rejoiceth over thee with joy, He doth work in His love, He joyeth over thee with singing.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22839,
+        "text": "Mine afflicted from the appointed place I have gathered, from thee they have been, Bearing for her sake reproach.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22840,
+        "text": "Lo, I am dealing with all afflicting thee at that time, And I have saved the halting one, And the driven out ones I do gather, And have set them for a praise and for a name, In all the land of their shame.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22841,
+        "text": "At that time I bring you in, Even at the time of My assembling you, For I give you for a name, and for a praise, Among all peoples of the land, In My turning back [to] your captivity before your eyes, said Jehovah!",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

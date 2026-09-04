@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 121,
+    "count": 599,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16083,
+        "text": "A Song of the Ascents. I lift up mine eyes unto the hills, Whence doth my help come?",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16084,
+        "text": "My help [is] from Jehovah, maker of heaven and earth,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16085,
+        "text": "He suffereth not thy foot to be moved, Thy preserver slumbereth not.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16086,
+        "text": "Lo, He slumbereth not, nor sleepeth, He who is preserving Israel.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16087,
+        "text": "Jehovah [is] thy preserver, Jehovah [is] thy shade on thy right hand,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16088,
+        "text": "By day the sun doth not smite thee, Nor the moon by night.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16089,
+        "text": "Jehovah preserveth thee from all evil, He doth preserve thy soul.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16090,
+        "text": "Jehovah preserveth thy going out and thy coming in, From henceforth even unto the age!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 109,
+    "count": 587,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15757,
+        "text": "To the Overseer. -- A Psalm of David. O God of my praise, be not silent,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15758,
+        "text": "For the mouth of wickedness, and the mouth of deceit, Against me they have opened, They have spoken with me -- A tongue of falsehood, and words of hatred!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15759,
+        "text": "They have compassed me about, And they fight me without cause.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15760,
+        "text": "For my love they oppose me, and I -- prayer!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15761,
+        "text": "And they set against me evil for good, And hatred for my love.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15762,
+        "text": "Appoint Thou over him the wicked, And an adversary standeth at his right hand.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15763,
+        "text": "In his being judged, he goeth forth wicked, And his prayer is for sin.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15764,
+        "text": "His days are few, his oversight another taketh,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15765,
+        "text": "His sons are fatherless, and his wife a widow.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15766,
+        "text": "And wander continually do his sons, Yea, they have begged, And have sought out of their dry places.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15767,
+        "text": "An exactor layeth a snare for all that he hath, And strangers spoil his labour.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15768,
+        "text": "He hath none to extend kindness, Nor is there one showing favour to his orphans.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15769,
+        "text": "His posterity is for cutting off, In another generation is their name blotted out.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15770,
+        "text": "The iniquity of his fathers Is remembered unto Jehovah, And the sin of his mother is not blotted out.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15771,
+        "text": "They are before Jehovah continually, And He cutteth off from earth their memorial.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15772,
+        "text": "Because that he hath not remembered to do kindness, And pursueth the poor man and needy, And the smitten of heart -- to slay,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15773,
+        "text": "And he loveth reviling, and it meeteth him, And he hath not delighted in blessing, And it is far from him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15774,
+        "text": "And he putteth on reviling as his robe, And it cometh in as water into his midst, And as oil into his bones.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15775,
+        "text": "It is to him as apparel -- he covereth himself, And for a continual girdle he girdeth it on.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15776,
+        "text": "This [is] the wage of mine accusers from Jehovah, And of those speaking evil against my soul.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15777,
+        "text": "And Thou, O Jehovah Lord, Deal with me for Thy name's sake, Because Thy kindness [is] good, deliver me.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 15778,
+        "text": "For I [am] poor and needy, And my heart hath been pierced in my midst.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15779,
+        "text": "As a shadow when it is stretched out I have gone, I have been driven away as a locust.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15780,
+        "text": "My knees have been feeble from fasting, And my flesh hath failed of fatness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15781,
+        "text": "And I -- I have been a reproach to them, They see me, they shake their head.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 15782,
+        "text": "Help me, O Jehovah my God, Save me, according to Thy kindness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15783,
+        "text": "And they know that this [is] Thy hand, Thou, O Jehovah, Thou hast done it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15784,
+        "text": "They revile, and Thou dost bless, They have risen, and are ashamed, And Thy servant doth rejoice.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15785,
+        "text": "Mine accusers put on blushing, and are covered, As an upper robe [is] their shame.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15786,
+        "text": "I thank Jehovah greatly with my mouth, And in the midst of many I praise Him,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15787,
+        "text": "For He standeth at the right hand of the needy, To save from those judging his soul.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

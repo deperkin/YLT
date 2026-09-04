@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 15,
+    "count": 168,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5321,
+        "text": "'At the end of seven years thou dost make a release,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5322,
+        "text": "and this [is] the matter of the release: Every owner of a loan [is] to release his hand which he doth lift up against his neighbour, he doth not exact of his neighbour and of his brother, but hath proclaimed a release to Jehovah;",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5323,
+        "text": "of the stranger thou mayest exact, and that which is thine with thy brother doth thy hand release;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5324,
+        "text": "only when there is no needy one with thee, for Jehovah doth greatly bless thee in the land which Jehovah thy God is giving to thee -- an inheritance to possess it.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5325,
+        "text": "'Only, if thou dost diligently hearken to the voice of Jehovah thy God, to observe to do all this command which I am commanding thee to-day,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5326,
+        "text": "for Jehovah thy God hath blessed thee as He hath spoken to thee; and thou hast lent [to] many nations, and thou hast not borrowed; and thou hast ruled over many nations, and over thee they do not rule.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5327,
+        "text": "'When there is with thee any needy one of one of thy brethren, in one of thy cities, in thy land which Jehovah thy God is giving to thee, thou dost not harden thy heart, nor shut thy hand from thy needy brother;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5328,
+        "text": "for thou dost certainly open thy hand to him, and dost certainly lend him sufficient for his lack which he lacketh.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5329,
+        "text": "'Take heed to thee lest there be a word in thy heart -- worthless, saying, Near [is] the seventh year, the year of release; and thine eye is evil against thy needy brother, and thou dost not give to him, and he hath called concerning thee unto Jehovah, and it hath been in thee sin;",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5330,
+        "text": "thou dost certainly give to him, and thy heart is not sad in thy giving to him, for because of this thing doth Jehovah thy God bless thee in all thy works, and in every putting forth of thy hand;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5331,
+        "text": "because the needy one doth not cease out of the land, therefore I am commanding thee, saying, Thou dost certainly open thy hand to thy brother, to thy poor, and to thy needy one, in thy land.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5332,
+        "text": "'When thy brother is sold to thee, a Hebrew or a Hebrewess, and he hath served thee six years -- then in the seventh year thou dost send him away free from thee.",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 5333,
+        "text": "And when thou dost send him away free from thee, thou dost not send him away empty;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5334,
+        "text": "thou dost certainly encircle him out of thy flock, and out of thy threshing-floor, and out of thy wine-vat; [of] that which Jehovah thy God hath blessed thee thou dost give to him,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5335,
+        "text": "and thou hast remembered that a servant thou hast been in the land of Egypt, and Jehovah thy God doth ransom thee; therefore I am commanding thee this thing to-day.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5336,
+        "text": "'And it hath been, when he saith unto thee, I go not out from thee -- because he hath loved thee, and thy house, because [it is] good for him with thee --",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5337,
+        "text": "then thou hast taken the awl, and hast put [it] through his ear, and through the door, and he hath been to thee a servant age-during; and also to thy handmaid thou dost do so.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5338,
+        "text": "'It is not hard in thine eyes, in thy sending him away free from thee; for the double of the hire of an hireling he hath served thee six years, and Jehovah thy God hath blessed thee in all that thou dost.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5339,
+        "text": "'Every firstling that is born in thy herd and in thy flock -- the male thou dost sanctify to Jehovah thy God; thou dost not work with the firstling of thine ox, nor shear the firstling of thy flock;",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 5340,
+        "text": "before Jehovah thy God thou dost eat it year by year, in the place which Jehovah doth choose, thou and thy house.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5341,
+        "text": "'And when there is in it a blemish, lame, or blind, any evil blemish, thou dost not sacrifice it to Jehovah thy God;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5342,
+        "text": "within thy gates thou dost eat it, the unclean and the clean alike, as the roe, and as the hart.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5343,
+        "text": "Only, its blood thou dost not eat; on the earth thou dost pour it as water.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

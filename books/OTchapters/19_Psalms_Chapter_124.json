@@ -1,0 +1,68 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 124,
+    "count": 602,
+    "MaxVerses": 8,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16104,
+        "text": "A Song of the Ascents, by David. Save [for] Jehovah -- who hath been for us, (Pray, let Israel say),",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16105,
+        "text": "Save [for] Jehovah -- who hath been for us, In the rising up of man against us,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16106,
+        "text": "Then alive they had swallowed us up, In the burning of their anger against us,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16107,
+        "text": "Then the waters had overflowed us, The stream passed over our soul,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16108,
+        "text": "Then passed over our soul had the proud waters.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16109,
+        "text": "Blessed [is] Jehovah who hath not given us, A prey to their teeth.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16110,
+        "text": "Our soul as a bird hath escaped from a snare of fowlers, The snare was broken, and we have escaped.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16111,
+        "text": "Our help [is] in the name of Jehovah, Maker of the heavens and earth!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

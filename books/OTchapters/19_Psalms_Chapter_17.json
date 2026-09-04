@@ -1,0 +1,117 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 17,
+    "count": 495,
+    "MaxVerses": 15,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14105,
+        "text": "A Prayer of David. Hear, O Jehovah, righteousness, attend my cry, Give ear [to] my prayer, without lips of deceit.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14106,
+        "text": "From before thee my judgment doth go out; Thine eyes do see uprightly.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14107,
+        "text": "Thou hast proved my heart, Thou hast inspected by night, Thou hast tried me, Thou findest nothing; My thoughts pass not over my mouth.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14108,
+        "text": "As to doings of man, Through a word of Thy lips I have observed The paths of a destroyer;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14109,
+        "text": "To uphold my goings in Thy paths, My steps have not slidden.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14110,
+        "text": "I -- I called Thee, for Thou dost answer me, O God, incline Thine ear to me, hear my speech.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14111,
+        "text": "Separate wonderfully Thy kindness, O Saviour of the confiding, By Thy right hand, from withstanders.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14112,
+        "text": "Keep me as the apple, the daughter of the eye; In shadow of Thy wings thou dost hide me.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14113,
+        "text": "From the face of the wicked who spoiled me. Mine enemies in soul go round against me.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14114,
+        "text": "Their fat they have closed up, Their mouths have spoken with pride:",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14115,
+        "text": "'Our steps now have compassed [him];' Their eyes they set to turn aside in the land.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14116,
+        "text": "His likeness as a lion desirous to tear, As a young lion dwelling in secret places.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14117,
+        "text": "Arise, O Jehovah, go before his face, Cause him to bend. Deliver my soul from the wicked, Thy sword,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14118,
+        "text": "From men, Thy hand, O Jehovah, From men of the world, their portion [is] in life, And [with] Thy hidden things Thou fillest their belly, They are satisfied [with] sons; And have left their abundance to their sucklings.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14119,
+        "text": "I -- in righteousness, I see Thy face; I am satisfied, in awaking, [with] Thy form!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

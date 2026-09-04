@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 21,
+    "count": 21,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 515,
+        "text": "And Jehovah hath looked after Sarah as He hath said, and Jehovah doth to Sarah as He hath spoken;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 516,
+        "text": "and Sarah conceiveth, and beareth a son to Abraham, to his old age, at the appointed time that God hath spoken of with him;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 517,
+        "text": "and Abraham calleth the name of his son who is born to him, whom Sarah hath born to him -- Isaac;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 518,
+        "text": "and Abraham circumciseth Isaac his son, [being] a son of eight days, as God hath commanded him.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 519,
+        "text": "And Abraham [is] a son of a hundred years in Isaac his son being born to him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 520,
+        "text": "and Sarah saith, 'God hath made laughter for me; every one who is hearing laugheth for me.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 521,
+        "text": "She saith also, 'Who hath said to Abraham, Sarah hath suckled sons, that I have born a son for his old age?'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 522,
+        "text": "And the lad groweth, and is weaned, and Abraham maketh a great banquet in the day of Isaac's being weaned;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 523,
+        "text": "and Sarah seeth the son of Hagar the Egyptian, whom she hath borne to Abraham, mocking,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 524,
+        "text": "and she saith to Abraham, 'Cast out this handmaid and her son; for the son of this handmaid hath no possession with my son -- with Isaac.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 525,
+        "text": "And the thing is very wrong in the eyes of Abraham, for his son's sake;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 526,
+        "text": "and God saith unto Abraham, 'Let it not be wrong in thine eyes because of the youth, and because of thy handmaid: all that Sarah saith unto thee -- hearken to her voice, for in Isaac is a seed called to thee.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 527,
+        "text": "As to the son of the handmaid also, for a nation I set him, because he [is] thy seed.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 528,
+        "text": "And Abraham riseth early in the morning, and taketh bread, and a bottle of water, and giveth unto Hagar (placing [it] on her shoulder), also the lad, and sendeth her out; and she goeth on, and goeth astray in the wilderness of Beer-Sheba;",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 529,
+        "text": "and the water is consumed from the bottle, and she placeth the lad under one of the shrubs.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 530,
+        "text": "And she goeth and sitteth by herself over-against, afar off, about a bow-shot, for she said, 'Let me not look on the death of the lad;' and she sitteth over-against, and lifteth up her voice, and weepeth.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 531,
+        "text": "And God heareth the voice of the youth; and the messenger of God calleth unto Hagar from the heavens, and saith to her, 'What to thee, Hagar? fear not; for God hath hearkened unto the voice of the youth where he [is];",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 532,
+        "text": "rise, lift up the youth, and lay hold on him with thy hand, for for a great nation I set him.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 533,
+        "text": "And God openeth her eyes, and she seeth a well of water, and she goeth and filleth the bottle [with] water, and causeth the youth to drink;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 534,
+        "text": "and God is with the youth, and he groweth, and dwelleth in the wilderness, and is an archer;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 535,
+        "text": "and he dwelleth in the wilderness of Paran, and his mother taketh for him a wife from the land of Egypt.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 536,
+        "text": "And it cometh to pass at that time that Abimelech speaketh -- Phichol also, head of his host -- unto Abraham, saying, 'God [is] with thee in all that thou art doing;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 537,
+        "text": "and now, swear to me by God here: thou dost not lie to me, or to my continuator, or to my successor; according to the kindness which I have done with thee thou dost with me, and with the land in which thou hast sojourned.'",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 538,
+        "text": "And Abraham saith, 'I -- I do swear.'",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 539,
+        "text": "And Abraham reasoned with Abimelech concerning the matter of a well of water which Abimelech's servants have taken violently away,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 540,
+        "text": "and Abimelech saith, 'I have not known who hath done this thing, and even thou didst not declare to me, and I also, I have not heard save to-day.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 541,
+        "text": "And Abraham taketh sheep and oxen, and giveth to Abimelech, and they make, both of them, a covenant;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 542,
+        "text": "and Abraham setteth seven Lambs of the flock by themselves.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 543,
+        "text": "And Abimelech saith unto Abraham, 'What [are] they -- these seven lambs which thou hast set by themselves?'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 544,
+        "text": "And he saith, 'For -- the seven lambs thou dost accept from my hand, so that it becometh a witness for me that I have digged this well;'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 545,
+        "text": "therefore hath he called that place 'Beer-Sheba,' for there have both of them sworn.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 546,
+        "text": "And they make a covenant in Beer-Sheba, and Abimelech riseth -- Phichol also, head of his host -- and they turn back unto the land of the Philistines;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 547,
+        "text": "and [Abraham] planteth a tamarisk in Beer-Sheba, and preacheth there in the name of Jehovah, God age-during;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 34,
+        "count": 548,
+        "text": "and Abraham sojourneth in the land of the Philistines many days.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

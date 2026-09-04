@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 27,
+    "count": 77,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2274,
+        "text": "'And thou hast made the altar of shittim wood, five cubits the length, and five cubits the breadth -- the altar is square -- and three cubits its height.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2275,
+        "text": "And thou hast made its horns on its four corners, its horns are of the same, and thou hast overlaid it [with] brass.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2276,
+        "text": "And thou hast made its pots to remove its ashes, and its shovels, and its bowls, and its forks, and its fire-pans, even all its vessels thou dost make of brass.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2277,
+        "text": "'And thou hast made for it a grate of net-work of brass, and hast made on the net four rings of brass on its four extremities,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2278,
+        "text": "and hast put it under the compass of the altar beneath, and the net hath been unto the middle of the altar.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2279,
+        "text": "'And thou hast made staves for the altar, staves of shittim wood, and hast overlaid them [with] brass.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2280,
+        "text": "And the staves have been brought into the rings, and the staves have been on the two sides of the altar in bearing it.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2281,
+        "text": "Hollow with boards thou dost make it, as it hath been shewed thee in the mount, so do they make [it].",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2282,
+        "text": "'And thou hast made the court of the tabernacle: for the south side southward, hangings for the court of twined linen, a hundred by the cubit [is] the length for the one side,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 2283,
+        "text": "and its twenty pillars and their twenty sockets [are] of brass, the pegs of the pillars and their fillets [are] of silver;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2284,
+        "text": "and so for the north side in length, hangings of a hundred [cubits] in length, and its twenty pillars and their twenty sockets [are] of brass, the pegs of the pillars and their fillets [are] of silver.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2285,
+        "text": "'And [for] the breadth of the court at the west side [are] hangings of fifty cubits, their pillars ten, and their sockets ten.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 2286,
+        "text": "And [for] the breadth of the court at the east side, eastward, [are] fifty cubits.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2287,
+        "text": "And the hangings at the side [are] fifteen cubits, their pillars three, and their sockets three.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2288,
+        "text": "And at the second side [are] hangings fifteen [cubits], their pillars three, and their sockets three.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2289,
+        "text": "'And for the gate of the court a covering of twenty cubits, blue, and purple, and scarlet, and twined linen, work of an embroiderer; their pillars four, their sockets four.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2290,
+        "text": "All the pillars of the court round about [are] filleted [with] silver, their pegs [are] silver, and their sockets brass.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2291,
+        "text": "'The length of the court [is] a hundred by the cubit, and the breadth fifty by fifty, and the height five cubits, of twined linen, and their sockets [are] brass,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 2292,
+        "text": "even all the vessels of the tabernacle, in all its service, and all its pins, and all the pins of the court, [are] brass.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 2293,
+        "text": "'And thou -- thou dost command the sons of Israel, and they bring unto thee pure beaten olive oil for the light, to cause the lamp to go up continually;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 2294,
+        "text": "in the tent of meeting, at the outside of the vail, which [is] over the testimony, doth Aaron -- his sons also -- arrange it from evening till morning before Jehovah -- a statute age-during to their generations, from the sons of Israel.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

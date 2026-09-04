@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 14,"name": "2 Chronicles","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 380,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 11455,
+        "text": "In the eighteenth year of king Jeroboam -- Abijah reigneth over Judah;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 11456,
+        "text": "three years he hath reigned in Jerusalem, (and the name of his mother [is] Michaiah daughter of Uriel, from Gibeah,) and war hath been between Abijah and Jeroboam.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 11457,
+        "text": "And Abijah directeth the war with a force of mighty men of war, four hundred thousand chosen men, and Jeroboam hath set in array with him battle, with eight hundred thousand chosen men, mighty of valour.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 11458,
+        "text": "And Abijah riseth up on the hill of Zemaraim that [is] in the hill-country of Ephraim, and saith, 'Hear me, Jeroboam and all Israel!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 11459,
+        "text": "Is it not for you to know that Jehovah, God of Israel, hath given the kingdom to David over Israel to the age, to him and to his sons -- a covenant of salt?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 11460,
+        "text": "and rise up doth Jeroboam, son of Nebat, servant of Solomon son of David, and rebelleth against his lord!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 11461,
+        "text": "'And there are gathered unto him vain men, sons of worthlessness, and they strengthen themselves against Rehoboam son of Solomon, and Rehoboam was a youth, and tender of heart, and hath not strengthened himself against them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 11462,
+        "text": "'And now, ye are saying to strengthen yourselves before the kingdom of Jehovah in the hand of the sons of David, and ye [are] a numerous multitude, and with you calves of gold that Jeroboam hath made to you for gods.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 11463,
+        "text": "'Have ye not cast out the priests of Jehovah, the sons of Aaron, and the Levites, and make to you priests like the peoples of the lands? every one who hath come to fill his hand with a bullock, a son of the herd, and seven rams, even he hath been a priest to No-gods!",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 11464,
+        "text": "'As for us, Jehovah [is] our God, and we have not forsaken Him, and priests are ministering to Jehovah, sons of Aaron and the Levites, in the work,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 11465,
+        "text": "and are making perfume to Jehovah, burnt-offerings morning by morning, and evening by evening, and perfume of spices, and the arrangement of bread [is] on the pure table, and the candlestick of gold, and its lamps, to burn evening by evening, for we are keeping the charge of Jehovah our God, and ye -- ye have forsaken Him.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 11466,
+        "text": "'And lo, with us -- at [our] head -- [is] God, and His priests and trumpets of shouting to shout against you; O sons of Israel, do not fight with Jehovah, God of your fathers, for ye do not prosper.'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 11467,
+        "text": "And Jeroboam hath brought round the ambush to come in from behind them, and they are before Judah, and the ambush [is] behind them.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 11468,
+        "text": "And Judah turneth, and lo, against them [is] the battle, before and behind, and they cry to Jehovah, and the priests are blowing with trumpets,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 11469,
+        "text": "and the men of Judah shout -- and it cometh to pass, at the shouting of the men of Judah, that God hath smitten Jeroboam, and all Israel, before Abijah and Judah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 11470,
+        "text": "And the sons of Israel flee from the face of Judah, and God giveth them into their hand,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 11471,
+        "text": "and Abijah and his people smite among them a great smiting, and there fall wounded of Israel five hundred thousand chosen men.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 11472,
+        "text": "And the sons of Israel are humbled at that time, and the sons of Judah are strong, for they have leant on Jehovah, God of their fathers.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 11473,
+        "text": "And Abijah pursueth after Jeroboam, and captureth from him cities, Beth-El and its small towns, and Jeshanah and its small towns, and Ephraim and its small towns.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 11474,
+        "text": "And Jeroboam hath not retained power any more in the days of Abijah, and Jehovah smiteth him, and he dieth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 11475,
+        "text": "And Abijah strengtheneth himself, and taketh to him fourteen wives, and begetteth twenty and two sons, and sixteen daughters,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 11476,
+        "text": "and the rest of the matters of Abijah, and his ways, and his words, are written in the 'Inquiry' of the prophet Iddo.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

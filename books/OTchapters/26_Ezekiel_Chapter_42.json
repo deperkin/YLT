@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 42,
+    "count": 844,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21554,
+        "text": "And he bringeth me forth unto the outer court, the way northward, and he bringeth me in unto the chamber that [is] over-against the separate place, and that [is] over-against the building at the north.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21555,
+        "text": "At the front of the length [is] a hundred cubits [at] the north opening, and the breadth fifty cubits.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21556,
+        "text": "Over-against the twenty [cubits] that are to the inner court, and over-against the pavement that [is] to the outer court, [is] gallery over-against gallery, in the three [storeys].",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21557,
+        "text": "And at the front of the chambers [is] a walk of ten cubits in breadth unto the inner part, a way of one cubit, and their openings [are] at the north.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21558,
+        "text": "And the upper chambers [are] short, for the galleries contain more than these, than the lower, and than the middle one, of the building;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21559,
+        "text": "for they [are] threefold, and they have no pillars as the pillars of the court, therefore it hath been kept back -- more than the lower and than the middle one -- from the ground.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21560,
+        "text": "As to the wall that [is] at the outside, over-against the chambers, the way of the outer-court at the front of the chambers, its length [is] fifty cubits;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21561,
+        "text": "for the length of the chambers that [are] to the outer court [is] fifty cubits, and of those on the front of the temple a hundred cubits.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21562,
+        "text": "And under these chambers [is] the entrance from the east, in one's going into them from the outer court.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21563,
+        "text": "In the breadth of the wall of the court eastward, unto the front of the separate place, and unto the front of the building, [are] chambers.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21564,
+        "text": "And the way before them [is] as the appearance of the chambers that [are] northward, according to their length so [is] their breadth, and all their outlets, and according to their fashions, and according to their openings.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21565,
+        "text": "And according to the openings of the chambers that [are] southward [is] an opening at the head of the way, the way directly in the front of the wall eastward in entering them.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21566,
+        "text": "And he saith unto me, 'The north chambers, the south chambers, that [are] at the front of the separate place, they [are] holy chambers, where the priests (who [are] near to Jehovah) eat the most holy things, there they place the most holy things, and the present, and the sin-offering, and the guilt-offering, for the place [is] holy.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 21567,
+        "text": "In the priests' going in, they come not out from the sanctuary unto the outer court, and there they place their garments with which they minister, for they [are] holy, and have put on other garments, and have drawn near unto that which [is] for the people.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21568,
+        "text": "And he hath finished the measurements of the inner house, and hath brought me forth the way of the gate whose front [is] eastward, and he hath measured it all round about.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 21569,
+        "text": "He hath measured the east side with the measuring-reed, five hundred reeds, with the measuring-reed round about.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21570,
+        "text": "He hath measured the north side, five hundred reeds, with the measuring reed round about.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21571,
+        "text": "The south side he hath measured, five hundred reeds, with the measuring-reed.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21572,
+        "text": "He hath turned round unto the west side, he hath measured five hundred reeds with the measuring-reed.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21573,
+        "text": "At the four sides he hath measured it, a wall [is] to it all round about, the length five hundred, and the breadth five hundred, to separate between the holy and the profane place.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

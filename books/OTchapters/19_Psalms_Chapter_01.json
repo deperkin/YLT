@@ -1,0 +1,54 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 479,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13941,
+        "text": "O the happiness of that one, who Hath not walked in the counsel of the wicked. And in the way of sinners hath not stood, And in the seat of scorners hath not sat;",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13942,
+        "text": "But -- in the law of Jehovah [is] his delight, And in His law he doth meditate by day and by night:",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13943,
+        "text": "And he hath been as a tree, Planted by rivulets of water, That giveth its fruit in its season, And its leaf doth not wither, And all that he doth he causeth to prosper.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13944,
+        "text": "Not so the wicked: But -- as chaff that wind driveth away!",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 13945,
+        "text": "Therefore the wicked rise not in judgment, Nor sinners in the company of the righteous,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13946,
+        "text": "For Jehovah is knowing the way of the righteous, And the way of the wicked is lost!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

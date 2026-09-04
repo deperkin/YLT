@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 692,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17908,
+        "text": "The burden of Babylon that Isaiah son of Amoz hath seen:",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17909,
+        "text": "'On a high mountain lift ye up an ensign, Raise the voice to them, wave the hand, And they go in to the openings of nobles.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17910,
+        "text": "I have given charge to My sanctified ones, Also I have called My mighty ones for Mine anger, Those rejoicing at Mine excellency.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17911,
+        "text": "A voice of a multitude in the mountains, A likeness of a numerous people, A voice of noise from the kingdoms of nations who are gathered, Jehovah of Hosts inspecting a host of battle!",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17912,
+        "text": "They are coming in from a land afar off, From the end of the heavens, Jehovah and the instruments of His indignation, To destroy all the land.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17913,
+        "text": "Howl ye, for near [is] the day of Jehovah, As destruction from the Mighty it cometh.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 17914,
+        "text": "Therefore, all hands do fail, And every heart of man doth melt.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17915,
+        "text": "And they have been troubled, Pains and pangs they take, As a travailing woman they are pained, A man at his friend they marvel, The appearance of flames -- their faces!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17916,
+        "text": "Lo, the day of Jehovah doth come, Fierce, with wrath, and heat of anger, To make the land become a desolation, Yea, its sinning ones He destroyeth from it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17917,
+        "text": "For the stars of the heavens, and their constellations, Cause not their light to shine, Darkened hath been the sun in its going out, And the moon causeth not its light to come forth.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17918,
+        "text": "And I have appointed on the world evil, And on the wicked their iniquity, And have caused to cease the excellency of the proud, And the excellency of the terrible I make low.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17919,
+        "text": "I make man more rare than fine gold, And a common man than pure gold of Ophir.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17920,
+        "text": "Therefore the heavens I cause to tremble, And the earth doth shake from its place, In the wrath of Jehovah of Hosts, And in a day of the heat of his anger.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17921,
+        "text": "And it hath been, as a roe driven away, And as a flock that hath no gatherer, Each unto his people -- they turn, And each unto his land -- they flee.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17922,
+        "text": "Every one who is found is thrust through, And every one who is added falleth by sword.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 17923,
+        "text": "And their sucklings are dashed to pieces before their eyes, Spoiled are their houses, and their wives lain with.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17924,
+        "text": "Lo, I am stirring up against them the Medes, Who silver esteem not, And gold -- they delight not in it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17925,
+        "text": "And bows dash young men to pieces, And the fruit of the womb they pity not, On sons their eye hath no pity.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 17926,
+        "text": "And Babylon, the beauty of kingdoms, The glory, the excellency of the Chaldeans, Hath been as overthrown by God, With Sodom and with Gomorrah.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 17927,
+        "text": "She doth not sit for ever, Nor continueth unto many generations, Nor doth Arab pitch tent there, And shepherds lie not down there.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17928,
+        "text": "And Ziim have lain down there, And full have been their houses of howlings, And dwelt there have daughters of an ostrich, And goats do skip there.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17929,
+        "text": "And Aiim have responded in his forsaken habitations, And dragons in palaces of delight, And near to come [is] her time, And her days are not drawn out!",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

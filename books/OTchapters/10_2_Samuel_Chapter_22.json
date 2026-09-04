@@ -1,0 +1,369 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 22,
+    "count": 289,
+    "MaxVerses": 51,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8604,
+        "text": "And David speaketh to Jehovah the words of this song in the day Jehovah hath delivered him out of the hand of all his enemies, and out of the hand of Saul,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8605,
+        "text": "and he saith: 'Jehovah [is] my rock, And my bulwark, and a deliverer to me,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 8606,
+        "text": "My God [is] my rock -- I take refuge in Him; My shield, and the horn of my salvation, My high tower, and my refuge! My Saviour, from violence Thou savest me!",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8607,
+        "text": "The Praised One, I call Jehovah: And from mine enemies I am saved.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8608,
+        "text": "When the breakers of death compassed me, The streams of the worthless terrify me,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8609,
+        "text": "The cords of Sheol have surrounded me, Before me have been the snares of death.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8610,
+        "text": "In mine adversity I call Jehovah, And unto my God I call, And He heareth from His temple my voice, And my cry [is] in His ears,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8611,
+        "text": "And shake and tremble doth the earth, Foundations of the heavens are troubled, And are shaken, for He hath wrath!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8612,
+        "text": "Gone up hath smoke by His nostrils. And fire from His mouth devoureth, Brands have been kindled by it.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8613,
+        "text": "And He inclineth heaven, and cometh down, And thick darkness [is] under His feet.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8614,
+        "text": "And He rideth on a cherub, and doth fly, And is seen on the wings of the wind.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8615,
+        "text": "And He setteth darkness Round about Him -- tabernacles, Darkness of waters -- thick clouds of the skies.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8616,
+        "text": "From the brightness before Him Were brands of fire kindled!",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8617,
+        "text": "Thunder from the heavens doth Jehovah, And the Most High giveth forth His voice.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8618,
+        "text": "And He sendeth forth arrows, And scattereth them; Lightning, and troubleth them;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8619,
+        "text": "And seen are the streams of the sea, Revealed are foundations of the world, By the rebuke of Jehovah, From the breath of the spirit of His anger.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8620,
+        "text": "He sendeth from above -- He taketh me, He draweth me out of many waters.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8621,
+        "text": "He delivereth me from my strong enemy, From those hating me, For they were stronger than I.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8622,
+        "text": "They are before me in a day of my calamity, And Jehovah is my support,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8623,
+        "text": "And He bringeth me out to a large place, He draweth me out for He delighted in me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8624,
+        "text": "Jehovah recompenseth me, According to my righteousness, According to the cleanness of my hands, He doth return to me.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8625,
+        "text": "For I have kept the ways of Jehovah, And have not done wickedly against my God.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8626,
+        "text": "For all His judgments [are] before me, As to His statutes, I turn not from them.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8627,
+        "text": "And I am perfect before Him, And I keep myself from mine iniquity.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8628,
+        "text": "And Jehovah returneth to me, According to my righteousness, According to my cleanness before His eyes.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8629,
+        "text": "With the kind Thou shewest Thyself kind, With the perfect man Thou shewest Thyself perfect,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8630,
+        "text": "With the pure Thou shewest Thyself pure, And with the perverse Thou shewest Thyself a wrestler.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8631,
+        "text": "And the poor people Thou dost save, And Thine eyes on the high causest to fall.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8632,
+        "text": "For Thou [art] my lamp, O Jehovah, And Jehovah doth lighten my darkness.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 8633,
+        "text": "For by Thee I run -- a troop, By my God I leap a wall.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8634,
+        "text": "God! Perfect [is] His way, The saying of Jehovah is tried, A shield He [is] to all those trusting in Him.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 8635,
+        "text": "For who is God save Jehovah? And who a Rock save our God?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 8636,
+        "text": "God -- my bulwark, [my] strength, And He maketh perfect my way;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 8637,
+        "text": "Making my feet like hinds, And on my high places causeth me to stand,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 8638,
+        "text": "Teaching my hands for battle, And brought down was a bow of brass by mine arms,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 8639,
+        "text": "And Thou givest to me the shield of Thy salvation, And Thy lowliness maketh me great.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 8640,
+        "text": "Thou enlargest my step under me, And mine ankles have not slidden.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 8641,
+        "text": "I pursue mine enemies and destroy them, And I turn not till they are consumed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 8642,
+        "text": "And I consume them, and smite them, And they rise not, and fall under my feet.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 8643,
+        "text": "And Thou girdest me [with] strength for battle, Thou causest my withstanders to bow under me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 8644,
+        "text": "And mine enemies -- Thou givest to me the neck, Those hating me -- and I cut them off.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 8645,
+        "text": "They look, and there is no saviour; Unto Jehovah, and He hath not answered them.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 8646,
+        "text": "And I beat them as dust of the earth, As mire of the streets I beat them small -- I spread them out!",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 8647,
+        "text": "And -- Thou dost deliver me From the strivings of my people, Thou placest me for a head of nations; A people I have not known do serve me.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 8648,
+        "text": "Sons of a stranger feign obedience to me, At the hearing of the ear they hearken to me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 8649,
+        "text": "Sons of a stranger fade away, And gird themselves by their close places.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 8650,
+        "text": "Jehovah liveth, and blessed [is] my Rock, And exalted is my God -- The Rock of my salvation.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 8651,
+        "text": "God -- who is giving vengeance to me, And bringing down peoples under me,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 8652,
+        "text": "And bringing me forth from mine enemies, Yea, above my withstanders Thou raisest me up. From a man of violence Thou deliverest me.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 8653,
+        "text": "Therefore I confess Thee, O Jehovah, among nations. And to Thy name I sing praise.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 8654,
+        "text": "Magnifying the salvations of His king, And doing loving-kindness to His anointed, To David, and to his seed -- unto the age!'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 62,
+    "count": 540,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14829,
+        "text": "To the Overseer, for Jeduthun. -- A Psalm of David. Only -- toward God [is] my soul silent, From Him [is] my salvation.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14830,
+        "text": "Only -- He [is] my rock, and my salvation, My tower, I am not much moved.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14831,
+        "text": "Till when do ye devise mischief against a man? Ye are destroyed all of you, As a wall inclined, a hedge that is cast down.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14832,
+        "text": "Only -- from his excellency They have consulted to drive away, They enjoy a lie, with their mouth they bless, And with their heart revile. Selah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14833,
+        "text": "Only -- for God, be silent, O my soul, For from Him [is] my hope.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14834,
+        "text": "Only -- He [is] my rock and my salvation, My tower, I am not moved.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14835,
+        "text": "On God [is] my salvation, and my honour, The rock of my strength, my refuge [is] in God.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14836,
+        "text": "Trust in Him at all times, O people, Pour forth before Him your heart, God [is] a refuge for us. Selah.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 14837,
+        "text": "Only -- vanity [are] the low, a lie the high. In balances to go up they than vanity [are] lighter.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14838,
+        "text": "Trust not in oppression, And in robbery become not vain, Wealth -- when it increaseth -- set not the heart.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14839,
+        "text": "Once hath God spoken, twice I heard this, That 'strength [is] with God.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14840,
+        "text": "And with Thee, O Lord, [is] kindness, For Thou dost recompense to each, According to his work!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

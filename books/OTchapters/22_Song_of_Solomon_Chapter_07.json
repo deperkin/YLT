@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 22,"name": "Song of Solomon","MaxChapters": 8},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 678,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17629,
+        "text": "As the chorus of 'Mahanaim.' How beautiful were thy feet with sandals, O daughter of Nadib. The turnings of thy sides [are] as ornaments, Work of the hands of an artificer.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17630,
+        "text": "Thy waist [is] a basin of roundness, It lacketh not the mixture, Thy body a heap of wheat, fenced with lilies,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17631,
+        "text": "Thy two breasts as two young ones, twins of a roe,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17632,
+        "text": "Thy neck as a tower of the ivory, Thine eyes pools in Heshbon, near the gate of Bath-Rabbim, Thy face as a tower of Lebanon looking to Damascus,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17633,
+        "text": "Thy head upon thee as Carmel, And the locks of thy head as purple, The king is bound with the flowings!",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17634,
+        "text": "How fair and how pleasant hast thou been, O love, in delights.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17635,
+        "text": "This thy stature hath been like to a palm, And thy breasts to clusters.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 17636,
+        "text": "I said, 'Let me go up on the palm, Let me lay hold on its boughs, Yea, let thy breasts be, I pray thee, as clusters of the vine, And the fragrance of thy face as citrons,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17637,
+        "text": "And thy palate as the good wine -- 'Flowing to my beloved in uprightness, Strengthening the lips of the aged!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17638,
+        "text": "I [am] my beloved's, and on me [is] his desire.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17639,
+        "text": "Come, my beloved, we go forth to the field,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17640,
+        "text": "We lodge in the villages, we go early to the vineyards, We see if the vine hath flourished, The sweet smelling-flower hath opened. The pomegranates have blossomed, There do I give to thee my loves;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17641,
+        "text": "The mandrakes have given fragrance, And at our openings all pleasant things, New, yea, old, my beloved, I laid up for thee!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

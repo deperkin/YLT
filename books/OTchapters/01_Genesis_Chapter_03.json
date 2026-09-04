@@ -1,0 +1,180 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 3,
+    "MaxVerses": 24,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 57,
+        "text": "And the serpent hath been subtile above every beast of the field which Jehovah God hath made, and he saith unto the woman, 'Is it true that God hath said, Ye do not eat of every tree of the garden?'",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 58,
+        "text": "And the woman saith unto the serpent, 'Of the fruit of the trees of the garden we do eat,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 59,
+        "text": "and of the fruit of the tree which [is] in the midst of the garden God hath said, Ye do not eat of it, nor touch it, lest ye die.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 60,
+        "text": "And the serpent saith unto the woman, 'Dying, ye do not die,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 61,
+        "text": "for God doth know that in the day of your eating of it -- your eyes have been opened, and ye have been as God, knowing good and evil.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 62,
+        "text": "And the woman seeth that the tree [is] good for food, and that it [is] pleasant to the eyes, and the tree is desirable to make [one] wise, and she taketh of its fruit and eateth, and giveth also to her husband with her, and he doth eat;",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 63,
+        "text": "and the eyes of them both are opened, and they know that they [are] naked, and they sew fig-leaves, and make to themselves girdles.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 64,
+        "text": "And they hear the sound of Jehovah God walking up and down in the garden at the breeze of the day, and the man and his wife hide themselves from the face of Jehovah God in the midst of the trees of the garden.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 65,
+        "text": "And Jehovah God calleth unto the man, and saith to him, 'Where [art] thou?'",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 66,
+        "text": "and he saith, 'Thy sound I have heard in the garden, and I am afraid, for I am naked, and I hide myself.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 67,
+        "text": "And He saith, 'Who hath declared to thee that thou [art] naked? of the tree of which I have commanded thee not to eat, hast thou eaten?'",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 68,
+        "text": "and the man saith, 'The woman whom Thou didst place with me -- she hath given to me of the tree -- and I do eat.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 69,
+        "text": "And Jehovah God saith to the woman, 'What [is] this thou hast done?' and the woman saith, 'The serpent hath caused me to forget -- and I do eat.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 70,
+        "text": "And Jehovah God saith unto the serpent, 'Because thou hast done this, cursed [art] thou above all the cattle, and above every beast of the field: on thy belly dost thou go, and dust thou dost eat, all days of thy life;",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 71,
+        "text": "and enmity I put between thee and the woman, and between thy seed and her seed; he doth bruise thee -- the head, and thou dost bruise him -- the heel.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 72,
+        "text": "Unto the woman He said, 'Multiplying I multiply thy sorrow and thy conception, in sorrow dost thou bear children, and toward thy husband [is] thy desire, and he doth rule over thee.'",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 73,
+        "text": "And to the man He said, 'Because thou hast hearkened to the voice of thy wife, and dost eat of the tree concerning which I have charged thee, saying, Thou dost not eat of it, cursed [is] the ground on thine account; in sorrow thou dost eat of it all days of thy life,",
+        "WordCount": 54,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 74,
+        "text": "and thorn and bramble it doth bring forth to thee, and thou hast eaten the herb of the field;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 75,
+        "text": "by the sweat of thy face thou dost eat bread till thy return unto the ground, for out of it hast thou been taken, for dust thou [art], and unto dust thou turnest back.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 76,
+        "text": "And the man calleth his wife's name Eve: for she hath been mother of all living.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 77,
+        "text": "And Jehovah God doth make to the man and to his wife coats of skin, and doth clothe them.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 78,
+        "text": "And Jehovah God saith, 'Lo, the man was as one of Us, as to the knowledge of good and evil; and now, lest he send forth his hand, and have taken also of the tree of life, and eaten, and lived to the age,' --",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 79,
+        "text": "Jehovah God sendeth him forth from the garden of Eden to serve the ground from which he hath been taken;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 80,
+        "text": "yea, he casteth out the man, and causeth to dwell at the east of the garden of Eden the cherubs and the flame of the sword which is turning itself round to guard the way of the tree of life.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

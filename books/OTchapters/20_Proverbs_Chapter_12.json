@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 640,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16721,
+        "text": "Whoso is loving instruction, is loving knowledge, And whoso is hating reproof [is] brutish.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16722,
+        "text": "The good bringeth forth favour from Jehovah, And the man of wicked devices He condemneth.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16723,
+        "text": "A man is not established by wickedness, And the root of the righteous is not moved.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16724,
+        "text": "A virtuous woman [is] a crown to her husband, And as rottenness in his bones [is] one causing shame.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16725,
+        "text": "The thoughts of the righteous [are] justice, The counsels of the wicked -- deceit.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16726,
+        "text": "The words of the wicked [are]: 'Lay wait for blood,' And the mouth of the upright delivereth them.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16727,
+        "text": "Overthrow the wicked, and they are not, And the house of the righteous standeth.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16728,
+        "text": "According to his wisdom is a man praised, And the perverted of heart becometh despised.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16729,
+        "text": "Better [is] the lightly esteemed who hath a servant, Than the self-honoured who lacketh bread.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16730,
+        "text": "The righteous knoweth the life of his beast, And the mercies of the wicked [are] cruel.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16731,
+        "text": "Whoso is tilling the ground is satisfied [with] bread, And whoso is pursuing vanities is lacking heart,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16732,
+        "text": "The wicked hath desired the net of evil doers, And the root of the righteous giveth.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16733,
+        "text": "In transgression of the lips [is] the snare of the wicked, And the righteous goeth out from distress.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16734,
+        "text": "From the fruit of the mouth [is] one satisfied [with] good, And the deed of man's hands returneth to him.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16735,
+        "text": "The way of a fool [is] right in his own eyes, And whoso is hearkening to counsel [is] wise.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16736,
+        "text": "The fool -- in a day is his anger known, And the prudent is covering shame.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16737,
+        "text": "Whoso uttereth faithfulness declareth righteousness, And a false witness -- deceit.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16738,
+        "text": "A rash speaker is like piercings of a sword, And the tongue of the wise is healing.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16739,
+        "text": "The lip of truth is established for ever, And for a moment -- a tongue of falsehood.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16740,
+        "text": "Deceit [is] in the heart of those devising evil, And to those counselling peace [is] joy.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16741,
+        "text": "No iniquity is desired by the righteous, And the wicked have been full of evil.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16742,
+        "text": "An abomination to Jehovah [are] lying lips, And stedfast doers [are] his delight.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16743,
+        "text": "A prudent man is concealing knowledge, And the heart of fools proclaimeth folly.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16744,
+        "text": "The hand of the diligent ruleth, And slothfulness becometh tributary.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16745,
+        "text": "Sorrow in the heart of a man boweth down, And a good word maketh him glad.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16746,
+        "text": "The righteous searcheth his companion, And the way of the wicked causeth them to err.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16747,
+        "text": "The slothful roasteth not his hunting, And the wealth of a diligent man is precious.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16748,
+        "text": "In the path of righteousness [is] life, And in the way of [that] path [is] no death!",
+        "WordCount": 17,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

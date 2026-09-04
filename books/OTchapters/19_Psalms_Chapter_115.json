@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 115,
+    "count": 593,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15832,
+        "text": "Not to us, O Jehovah, not to us, But to Thy name give honour, For Thy kindness, for Thy truth.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15833,
+        "text": "Why do the nations say, 'Where, pray, [is] their God.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15834,
+        "text": "And our God [is] in the heavens, All that He hath pleased He hath done.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15835,
+        "text": "Their idols [are] silver and gold, work of man's hands,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15836,
+        "text": "A mouth they have, and they speak not, Eyes they have, and they see not,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15837,
+        "text": "Ears they have, and they hear not, A nose they have, and they smell not,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15838,
+        "text": "Their hands, but they handle not, Their feet, and they walk not;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15839,
+        "text": "Nor do they mutter through their throat, Like them are their makers, Every one who is trusting in them.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15840,
+        "text": "O Israel, trust in Jehovah, 'Their help and their shield [is] He.'",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 15841,
+        "text": "O house of Aaron, trust in Jehovah, 'Their help and their shield [is] He.'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15842,
+        "text": "Ye fearing Jehovah, trust in Jehovah, 'Their help and their shield [is] He.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15843,
+        "text": "Jehovah hath remembered us, He blesseth, He blesseth the house of Israel, He blesseth the house of Aaron,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15844,
+        "text": "He blesseth those fearing Jehovah, The small with the great.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15845,
+        "text": "Jehovah addeth to you, to you, and to your sons.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15846,
+        "text": "Blessed [are] ye of Jehovah, maker of heaven and earth,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15847,
+        "text": "The heavens -- the heavens [are] Jehovah's, And the earth He hath given to sons of men,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15848,
+        "text": "The dead praise not Jah, Nor any going down to silence.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15849,
+        "text": "And we, we bless Jah, From henceforth, and unto the age. Praise ye Jah!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

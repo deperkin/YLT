@@ -1,0 +1,201 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 805,
+    "MaxVerses": 27,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20504,
+        "text": "And He saith unto me, 'Son of man, that which thou findest eat, eat this roll, and go, speak unto the house of Israel.'",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20505,
+        "text": "And I open my mouth, and He causeth me to eat this roll.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20506,
+        "text": "And He saith unto me, 'Son of man, thy belly thou dost feed, and thy bowels thou dost fill with this roll that I am giving unto thee;' and I eat it, and it is in my mouth as honey for sweetness.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20507,
+        "text": "And He saith unto me, 'Son of man, go, enter in unto the house of Israel, and thou hast spoken with My words unto them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20508,
+        "text": "For, not unto a people deep of lip and heavy of tongue [art] thou sent -- unto the house of Israel;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20509,
+        "text": "not unto many peoples, deep of lip and heavy of tongue, whose words thou dost not understand. If I had not sent thee unto them -- they, they do hearken unto thee,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20510,
+        "text": "but the house of Israel are not willing to hearken unto thee, for they are not willing to hearken unto Me, for all the house of Israel are brazen-faced and strong-hearted.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20511,
+        "text": "'Lo, I have made thy face strong against their face, and thy forehead strong against their forehead.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20512,
+        "text": "As an adamant harder than a rock I have made thy forehead; thou dost not fear them, nor art thou affrighted before them, for a rebellious house [are] they.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20513,
+        "text": "And He saith unto me, 'Son of man, all My words, that I speak unto thee, receive with thy heart, and with thine ears hear;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20514,
+        "text": "and go, enter in unto the Removed, unto the sons of thy people, and thou hast spoken unto them, and hast said unto them: Thus said the Lord Jehovah: whether they hear, or whether they forbear.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20515,
+        "text": "And lift me up doth a spirit, and I hear behind me a noise, a great rushing -- 'Blessed [is] the honour of Jehovah from His place!' --",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20516,
+        "text": "even a noise of the wings of the living creatures touching one another, and a noise of the wheels over-against them, even a noise of a great rushing.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20517,
+        "text": "And a spirit hath lifted me up, and doth take me away, and I go bitterly, in the heat of my spirit, and the hand of Jehovah on me [is] strong.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20518,
+        "text": "And I come in unto the Removed, at Tel-Ahib, who are dwelling at the river Chebar, and where they are dwelling I also dwell seven days, causing astonishment in their midst.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20519,
+        "text": "And it cometh to pass, at the end of seven days,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 20520,
+        "text": "that there is a word of Jehovah unto me, saying, 'Son of man, a watchman I have given thee to the house of Israel, and thou hast heard from My mouth a word, and hast warned them from Me.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20521,
+        "text": "In My saying to the wicked: Thou dost surely die; and thou hast not warned him, nor hast spoken to warn the wicked from his wicked way, so that he doth live; he -- the wicked -- in his iniquity dieth, and his blood from thy hand I require.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20522,
+        "text": "And thou, because thou hast warned the wicked, and he hath not turned back from his wickedness, and from his wicked way, he in his iniquity dieth, and thou thy soul hast delivered.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20523,
+        "text": "'And in the turning back of the righteous from his righteousness, and he hath done perversity, and I have put a stumbling-block before him, he dieth; because thou hast not warned him, in his sin he dieth, and not remembered is his righteousness that he hath done, and his blood from thy hand I require.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20524,
+        "text": "And thou, because thou hast warned him -- the righteous -- that the righteous sin not, and he hath not sinned, he surely liveth, because he hath been warned; and thou thy soul hast delivered.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20525,
+        "text": "And there is on me there a hand of Jehovah, and He saith to me, 'Rise, go forth to the valley, and there I do speak with thee.'",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 20526,
+        "text": "And I rise and go forth unto the valley, and lo, there the honour of Jehovah is standing as the honour that I had seen by the river Chebar, and I fall on my face.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20527,
+        "text": "And come into me doth a spirit, and causeth me to stand on my feet, and He speaketh with me, and saith unto me, 'Go in, be shut up in the midst of thy house.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20528,
+        "text": "'And thou, son of man, lo, they have put on thee thick bands, and have bound thee with them, and thou goest not forth in their midst;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20529,
+        "text": "and thy tongue I cause to cleave unto thy palate, and thou hast been dumb, and art not to them for a reprover, for a rebellious house [are] they.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20530,
+        "text": "And in My speaking with thee, I do open thy mouth, and thou hast said unto them: Thus said the Lord Jehovah; the hearer doth hear, and the forbearer doth forbear; for a rebellious house [are] they.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

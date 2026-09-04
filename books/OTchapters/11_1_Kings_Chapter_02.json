@@ -1,0 +1,334 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 11,"name": "1 Kings","MaxChapters": 22},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 293,
+    "MaxVerses": 46,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8772,
+        "text": "And draw near do the days of David to die, and he chargeth Solomon his son, saying,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8773,
+        "text": "'I am going in the way of all the earth, and thou hast been strong, and become a man,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8774,
+        "text": "and kept the charge of Jehovah thy God, to walk in His ways, to keep His statutes, His commands, and His judgments, and His testimonies, as it is written in the law of Moses, so that thou dost wisely all that thou dost, and whithersoever thou turnest,",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8775,
+        "text": "so that Jehovah doth establish His word which He spake unto me, saying, If thy sons observe their way to walk before Me in truth, with all their heart, and with all their soul; saying, There is not cut off a man of thine from the throne of Israel.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8776,
+        "text": "'And also, thou hast known that which he did to me -- Joab son of Zeruiah -- that which he did to two heads of the hosts of Israel, to Abner son of Ner, and to Amasa son of Jether -- that he slayeth them, and maketh the blood of war in peace, and putteth the blood of war in his girdle, that [is] on his loins, and in his sandals that [are] on his feet;",
+        "WordCount": 76,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8777,
+        "text": "and thou hast done according to thy wisdom, and dost not let his old age go down in peace to Sheol.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8778,
+        "text": "'And to the sons of Barzillai the Gileadite thou dost do kindness, and they have been among those eating at thy table, for so they drew near unto me in my fleeing from the face of Absalom thy brother.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8779,
+        "text": "'And lo, with thee [is] Shimei son of Gera, the Benjamite of Bahurim, and he reviled me -- a grievous reviling -- in the day of my going to Mahanaim; and he hath come down to meet me at the Jordan, and I swear to him by Jehovah, saying, I do not put thee to death by the sword;",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8780,
+        "text": "and now, acquit him not, for a wise man thou [art], and thou hast known that which thou dost to him, and hast brought down his old age with blood to Sheol.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8781,
+        "text": "And David lieth down with his fathers, and is buried in the city of David,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8782,
+        "text": "and the days that David hath reigned over Israel [are] forty years, in Hebron he hath reigned seven years, and in Jerusalem he hath reigned thirty and three years.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8783,
+        "text": "And Solomon hath sat on the throne of David his father, and his kingdom is established greatly,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 8784,
+        "text": "and Adonijah son of Haggith cometh in unto Bath-Sheba, mother of Solomon, and she saith, 'Is thy coming peace?' and he saith, 'Peace.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8785,
+        "text": "And he saith, 'I have a word unto thee,' and she saith, 'Speak.'",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8786,
+        "text": "And he saith, 'Thou hast known that the kingdom was mine, and towards me set their faces had all Israel for reigning, and the kingdom is turned round about, and is my brother's, for from Jehovah it was his;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8787,
+        "text": "and now, one petition I am asking of thee -- turn not back my face;' and she saith unto him, 'Speak.'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8788,
+        "text": "And he saith, 'Speak, I pray thee, to Solomon the king, for he doth not turn back thy face, and he doth give to me Abishag the Shunammite for a wife.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8789,
+        "text": "And Bath-Sheba saith, 'Good; I do speak for thee unto the king.'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8790,
+        "text": "And Bath-Sheba cometh in unto king Solomon to speak to him for Adonijah, and the king riseth to meet her, and boweth himself to her, and sitteth on his throne, and placeth a throne for the mother of the king, and she sitteth at his right hand.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8791,
+        "text": "And she saith, 'One small petition I ask of thee, turn not back my face;' and the king saith to her, 'Ask, my mother, for I do not turn back thy face.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8792,
+        "text": "And she saith, 'Let Abishag the Shunammite be given to Adonijah thy brother for a wife.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8793,
+        "text": "And king Solomon answereth and saith to his mother, 'And why art thou asking Abishag the Shunammite for Adonijah? also ask for him the kingdom -- for he [is] mine elder brother -- even for him, and for Abiathar the priest, and for Joab son of Zeruiah.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8794,
+        "text": "And king Solomon sweareth by Jehovah, saying, 'Thus doth God to me, and thus He doth add -- surely against his soul hath Adonijah spoken this word;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8795,
+        "text": "and now, Jehovah liveth, who hath established me, and causeth me to sit on the throne of David my father, and who hath made for me an house as He spake -- surely to-day is Adonijah put to death.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8796,
+        "text": "And king Solomon sendeth by the hand of Benaiah son of Jehoiada, and he falleth upon him, and he dieth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8797,
+        "text": "And to Abiathar the priest said the king, 'To Anathoth go, unto thy fields; for a man of death thou [art], but in this day I do not put thee to death, because thou hast borne the ark of the Lord Jehovah before David my father, and because thou wast afflicted in all that my father was afflicted in.'",
+        "WordCount": 59,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 8798,
+        "text": "And Solomon casteth out Abiathar from being priest to Jehovah, to fulfil the word of Jehovah which He spake concerning the house of Eli in Shiloh.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8799,
+        "text": "And the report hath come unto Joab -- for Joab hath turned aside after Adonijah, though after Absalom he did not turn aside -- and Joab fleeth unto the tent of Jehovah, and layeth hold on the horns of the altar.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8800,
+        "text": "And it is declared to king Solomon that Joab hath fled unto the tent of Jehovah, and lo, near the altar; and Solomon sendeth Benaiah son of Jehoiada, saying, 'Go, fall upon him.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 8801,
+        "text": "And Benaiah cometh in unto the tent of Jehovah, and saith unto him, 'Thus said the king, Come out;' and he saith, 'Nay, but here I die.' And Benaiah bringeth back the king word, saying, 'Thus spake Joab, yea, thus he answered me.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8802,
+        "text": "And the king saith to him, 'Do as he hath spoken, and fall upon him, and thou hast buried him, and turned aside the causeless blood which Joab shed, from off me, and from off the house of my father;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 8803,
+        "text": "and Jehovah hath turned back his blood on his own head, who hath fallen on two men more righteous and better than he, and slayeth them with the sword, -- and my father David knew not -- Abner son of Ner, head of the host of Israel, and Amasa son of Jether, head of the host of Judah;",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 8804,
+        "text": "yea, turned back hath their blood on the head of Joab, and on the head of his seed to the age; and for David, and for his seed, and for his house, and for his throne, there is peace unto the age, from Jehovah.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 8805,
+        "text": "And Benaiah son of Jehoiada goeth up and falleth upon him, and putteth him to death, and he is buried in his own house in the wilderness,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 8806,
+        "text": "and the king putteth Benaiah son of Jehoiada in his stead over the host, and Zadok the priest hath the king put in the stead of Abiathar.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 8807,
+        "text": "And the king sendeth and calleth for Shimei, and saith to him, 'Build for thee a house in Jerusalem, and thou hast dwelt there, and dost not go out thence any where;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 8808,
+        "text": "and it hath been, in the day of thy going out, and thou hast passed over the brook Kidron, thou dost certainly know that thou dost surely die -- thy blood is on thy head.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 8809,
+        "text": "And Shimei saith to the king, 'The word [is] good; as my lord the king hath spoken so doth thy servant do;' and Shimei dwelleth in Jerusalem many days.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 8810,
+        "text": "And it cometh to pass, at the end of three years, that flee do two of the servants of Shimei unto Achish son of Maachah, king of Gath, and they declare to Shimei, saying, 'Lo, thy servants [are] in Gath;'",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 8811,
+        "text": "and Shimei riseth, and saddleth his ass, and goeth to Gath, unto Achish, to seek his servants, and Shimei goeth and bringeth his servants from Gath.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 8812,
+        "text": "And it is declared to Solomon that Shimei hath gone from Jerusalem to Gath, and doth return,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 8813,
+        "text": "and the king sendeth and calleth for Shimei, and saith unto him, 'Have I not caused thee to swear by Jehovah -- and I testify against thee, saying, In the day of thy going out, and thou hast gone anywhere, thou dost certainly know that thou dost surely die; and thou sayest unto me, The word I have heard [is] good?",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 8814,
+        "text": "and wherefore hast thou not kept the oath of Jehovah, and the charge that I charged upon thee?'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 8815,
+        "text": "And the king saith unto Shimei, 'Thou hast known all the evil that thy heart hath known, which thou didst to David my father, and Jehovah hath turned back thine evil on thy head,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 8816,
+        "text": "and king Solomon [is] blessed, and the throne of David is established before Jehovah unto the age.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 8817,
+        "text": "And the king chargeth Benaiah son of Jehoiada, and he goeth out and falleth on him, and he dieth, and the kingdom is established in the hand of Solomon.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

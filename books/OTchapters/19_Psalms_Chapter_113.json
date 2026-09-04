@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 113,
+    "count": 591,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15815,
+        "text": "Praise ye Jah! Praise, ye servants of Jehovah. Praise the name of Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15816,
+        "text": "The name of Jehovah is blessed, From henceforth, and unto the age.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15817,
+        "text": "From the rising of the sun unto its going in, Praised [is] the name of Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15818,
+        "text": "High above all nations [is] Jehovah, Above the heavens [is] his honour.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15819,
+        "text": "Who [is] as Jehovah our God, He is exalting [Himself] to sit?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15820,
+        "text": "He is humbling [Himself] to look On the heavens and on the earth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15821,
+        "text": "He is raising up from the dust the poor, From a dunghill He exalteth the needy.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15822,
+        "text": "To cause to sit with princes, With the princes of His people.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15823,
+        "text": "Causing the barren one of the house to sit, A joyful mother of sons; praise ye Jah!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 23,
+    "count": 176,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5502,
+        "text": "'One wounded, bruised, or cut in the member doth not enter into the assembly of Jehovah;",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5503,
+        "text": "a bastard doth not enter into the assembly of Jehovah; even a tenth generation of him doth not enter into the assembly of Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5504,
+        "text": "'An Ammonite and a Moabite doth not enter into the assembly of Jehovah; even a tenth generation of them doth not enter into the assembly of Jehovah -- to the age;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5505,
+        "text": "because that they have not come before you with bread and with water in the way, in your coming out from Egypt, and because he hath hired against thee Balaam son of Beor, of Pethor of Aram-Naharaim, to revile thee;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5506,
+        "text": "and Jehovah thy God hath not been willing to hearken unto Balaam, and Jehovah thy God doth turn for thee the reviling to a blessing, because Jehovah thy God hath loved thee;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5507,
+        "text": "thou dost not seek their peace and their good all thy days -- to the age.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5508,
+        "text": "'Thou dost not abominate an Edomite, for thy brother he [is]; thou dost not abominate an Egyptian, for a sojourner thou hast been in his land;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5509,
+        "text": "sons who are begotten of them, a third generation of them, doth enter into the assembly of Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 5510,
+        "text": "'When a camp goeth out against thine enemies, then thou hast kept from every evil thing.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 5511,
+        "text": "'When there is in thee a man who is not clean, from an accident at night -- then he hath gone out unto the outside of the camp -- he doth not come in unto the midst of the camp --",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5512,
+        "text": "and it hath been, at the turning of the evening, he doth bathe with water, and at the going in of the sun he doth come in unto the midst of the camp.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5513,
+        "text": "'And a station thou hast at the outside of the camp, and thou hast gone out thither without,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5514,
+        "text": "and a nail thou hast on thy staff, and it hath been, in thy sitting without, that thou hast digged with it, and turned back, and covered thy filth;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5515,
+        "text": "for Jehovah thy God is walking up and down in the midst of thy camp, to deliver thee, and to give thine enemies before thee, and thy camp hath been holy, and He doth not see in thee the nakedness of anything, and hath turned back from after thee.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5516,
+        "text": "'Thou dost not shut up a servant unto his lord, who is delivered unto thee from his lord;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 5517,
+        "text": "with thee he doth dwell, in thy midst, in the place which he chooseth within one of thy gates, where it is pleasing to him; thou dost not oppress him.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5518,
+        "text": "'There is not a whore among the daughters of Israel, nor is there a whoremonger among the sons of Israel;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5519,
+        "text": "thou dost not bring a gift of a whore, or a price of a dog, into the house of Jehovah thy God, for any vow; for the abomination of Jehovah thy God [are] even both of them.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 5520,
+        "text": "'Thou dost not lend in usury to thy brother; usury of money, usury of food, usury of anything which is lent on usury.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5521,
+        "text": "To a stranger thou mayest lend in usury, and to thy brother thou dost not lend in usury, so that Jehovah thy God doth bless thee in every putting forth of thy hand on the land whither thou goest in to possess it.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5522,
+        "text": "'When thou vowest a vow to Jehovah thy God, thou dost not delay to complete it; for Jehovah thy God doth certainly require it from thee, and it hath been in thee -- sin.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5523,
+        "text": "'And when thou forbearest to vow, it is not in thee a sin.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5524,
+        "text": "The produce of thy lips thou dost keep, and hast done [it], as thou hast vowed to Jehovah thy God; a free-will-offering, which thou hast spoken with thy mouth.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5525,
+        "text": "'When thou comest in unto the vineyard of thy neighbour, then thou hast eaten grapes, according to thy desire, thy sufficiency; but into thy vessel thou dost not put [any].",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5526,
+        "text": "When thou comest in among the standing-corn of thy neighbour, then thou hast plucked the ears with thy hand, but a sickle thou dost not wave over the standing-corn of thy neighbour.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

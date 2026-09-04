@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 21,"name": "Ecclesiastes","MaxChapters": 12},
+  "chapter": {
+    "Cnumber": 6,
+    "count": 665,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17419,
+        "text": "There is an evil that I have seen under the sun, and it [is] great on man:",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17420,
+        "text": "A man to whom God giveth wealth, and riches, and honour, and there is no lack to his soul of all that he desireth, and God giveth him not power to eat of it, but a stranger eateth it; this [is] vanity, and it [is] an evil disease.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17421,
+        "text": "If a man doth beget a hundred, and live many years, and is great, because they are the days of his years, and his soul is not satisfied from the goodness, and also he hath not had a grave, I have said, 'Better than he [is] the untimely birth.'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17422,
+        "text": "For in vanity he came in, and in darkness he goeth, and in darkness his name is covered,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17423,
+        "text": "Even the sun he hath not seen nor known, more rest hath this than that.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17424,
+        "text": "And though he had lived a thousand years twice over, yet good he hath not seen; to the same place doth not every one go?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17425,
+        "text": "All the labour of man [is] for his mouth, and yet the soul is not filled.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17426,
+        "text": "For what advantage [is] to the wise above the fool? What to the poor who knoweth to walk before the living?",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17427,
+        "text": "Better [is] the sight of the eyes than the going of the soul. This also [is] vanity and vexation of spirit.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17428,
+        "text": "What [is] that which hath been? already is its name called, and it is known that it [is] man, and he is not able to contend with him who is stronger than he.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 17429,
+        "text": "For there are many things multiplying vanity; what advantage [is] to man?",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 17430,
+        "text": "For who knoweth what [is] good for a man in life, the number of the days of the life of his vanity, and he maketh them as a shadow? for who declareth to man what is after him under the sun?",
+        "WordCount": 41,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

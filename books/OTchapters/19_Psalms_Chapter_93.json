@@ -1,0 +1,47 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 93,
+    "count": 571,
+    "MaxVerses": 5,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15428,
+        "text": "Jehovah hath reigned, Excellency He hath put on, Jehovah put on strength, He girded Himself, Also -- established is the world, unmoved.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15429,
+        "text": "Established is Thy throne since then, From the age Thou [art].",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15430,
+        "text": "Floods have lifted up, O Jehovah, Floods have lifted up their voice, Floods lift up their breakers.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15431,
+        "text": "Than the voices of many mighty waters, Breakers of a sea, mighty on high [is] Jehovah,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15432,
+        "text": "Thy testimonies have been very stedfast, To Thy house comely [is] holiness, O Jehovah, for length of days!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

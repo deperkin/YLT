@@ -1,0 +1,54 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 13,
+    "count": 491,
+    "MaxVerses": 6,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14076,
+        "text": "To the Overseer. -- A Psalm of David. Till when, O Jehovah, Dost Thou forget me? -- for ever? Till when dost Thou hide Thy face from me?",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14077,
+        "text": "Till when do I set counsels in my soul? Sorrow in my heart daily? Till when is mine enemy exalted over me?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14078,
+        "text": "Look attentively; Answer me, O Jehovah, my God, Enlighten mine eyes, lest I sleep in death,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14079,
+        "text": "Lest mine enemy say, 'I overcame him,' Mine adversaries joy when I am moved.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14080,
+        "text": "And I, in Thy kindness I have trusted, Rejoice doth my heart in Thy salvation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14081,
+        "text": "I do sing to Jehovah, For He hath conferred benefits upon me!",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

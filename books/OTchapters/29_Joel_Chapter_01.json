@@ -1,0 +1,152 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 29,"name": "Joel","MaxChapters": 3},
+  "chapter": {
+    "Cnumber": 1,
+    "count": 877,
+    "MaxVerses": 20,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22293,
+        "text": "A word of Jehovah that hath been unto Joel, son of Pethuel:",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22294,
+        "text": "Hear this, ye aged ones, And give ear, all ye inhabitants of the land, Hath this been in your days? Or in the days of your fathers?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22295,
+        "text": "Concerning it to your sons talk ye, And your sons to their sons, And their sons to another generation.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22296,
+        "text": "What is left of the palmer-worm, eaten hath the locust, And what is left of the locust, Eaten hath the cankerworm, And what is left of the cankerworm, Eaten hath the caterpillar.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22297,
+        "text": "Awake, ye drunkards, and weep, And howl all drinking wine, because of the juice, For it hath been cut off from your mouth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22298,
+        "text": "For a nation hath come up on my land, Strong, and there is no number, Its teeth [are] the teeth of a lion, And it hath the jaw-teeth of a lioness.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22299,
+        "text": "It hath made my vine become a desolation, And my fig-tree become a chip, It hath made it thoroughly bare, and hath cast down, Made white have been its branches.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22300,
+        "text": "Wail, as a virgin girdeth with sackcloth, For the husband of her youth.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22301,
+        "text": "Cut off hath been present and libation from the house of Jehovah, Mourned have the priests, ministrants of Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22302,
+        "text": "Spoiled is the field, mourned hath the ground, For spoiled is the corn, Dried up hath been new wine, languish doth oil.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22303,
+        "text": "Be ashamed, ye husbandmen, Howl, vine-dressers, for wheat and for barley, For perished hath the harvest of the field.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22304,
+        "text": "The vine hath been dried up, And the fig-tree doth languish, Pomegranate, also palm, and apple-tree, All trees of the field have withered, For dried up hath been joy from the sons of men.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22305,
+        "text": "Gird, and lament, ye priests, Howl, ye ministrants of the altar, Come in, lodge in sackcloth, ministrants of my God, For withheld from the house of your God hath been present and libation.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22306,
+        "text": "Sanctify a fast, proclaim a restraint, Gather the elders -- all the inhabitants of the land, [Into] the house of Jehovah your God,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 22307,
+        "text": "And cry unto Jehovah, 'Alas for the day! For near [is] a day of Jehovah, And as destruction from the mighty it cometh.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22308,
+        "text": "Is not before our eyes food cut off? From the house of our God joy and rejoicing?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22309,
+        "text": "Rotted have scattered things under their clods, Desolated have been storehouses, Broken down have been granaries, For withered hath the corn.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22310,
+        "text": "How have cattle sighed! Perplexed have been droves of oxen, For there is no pasture for them, Also droves of sheep have been desolated.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22311,
+        "text": "Unto Thee, O Jehovah, I do call, For fire hath consumed comely places of a wilderness, And a flame hath set on fire all trees of the field.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22312,
+        "text": "Also the cattle of the field long for Thee, For dried up have been streams of water, And fire hath consumed comely places of a wilderness!'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

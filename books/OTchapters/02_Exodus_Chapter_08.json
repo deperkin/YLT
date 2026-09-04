@@ -1,0 +1,236 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 8,
+    "count": 58,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1712,
+        "text": "And Jehovah saith unto Moses, 'Go in unto Pharaoh: and thou hast said unto him, Thus said Jehovah, Send My people away, and they serve Me;",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1713,
+        "text": "and if thou art refusing to send away, lo, I am smiting all thy border with frogs;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1714,
+        "text": "and the River hath teemed [with] frogs, and they have gone up and gone into thy house, and into the inner-chamber of thy bed, and on thy couch, and into the house of thy servants, and among thy people, and into thine ovens, and into thy kneading-troughs;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1715,
+        "text": "yea, on thee, and on thy people, and on all thy servants do the frogs go up.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1716,
+        "text": "And Jehovah saith unto Moses, 'Say unto Aaron, Stretch out thy hand, with thy rod, against the streams, against the rivers, and against the ponds, and cause the frogs to come up against the land of Egypt.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 1717,
+        "text": "And Aaron stretcheth out his hand against the waters of Egypt, and the frog cometh up, and covereth the land of Egypt;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1718,
+        "text": "and the scribes do so with their flashings, and cause the frogs to come up against the land of Egypt.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1719,
+        "text": "And Pharaoh calleth for Moses and for Aaron, and saith, 'Make supplication unto Jehovah, that he turn aside the frogs from me, and from my people, and I send the people away, and they sacrifice to Jehovah.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1720,
+        "text": "And Moses saith to Pharaoh, 'Beautify thyself over me; when do I make supplication for thee, and for thy servants, and for thy people, to cut off the frogs from thee and from thy houses -- only in the River they do remain?'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1721,
+        "text": "and he saith, 'To-morrow.' And he saith, According to thy word [it is], so that thou knowest that there is none like Jehovah our God,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1722,
+        "text": "and the frogs have turned aside from thee, and from thy houses, and from thy servants, and from thy people; only in the River they do remain.'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1723,
+        "text": "And Moses -- Aaron also -- goeth out from Pharaoh, and Moses crieth unto Jehovah, concerning the matter of the frogs which He hath set on Pharaoh;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 1724,
+        "text": "and Jehovah doth according to the word of Moses, and the frogs die out of the houses, out of the courts, and out of the fields,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1725,
+        "text": "and they heap them up together, and the land stinketh.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1726,
+        "text": "And Pharaoh seeth that there hath been a respite, and he hath hardened his heart, and hath not hearkened unto them, as Jehovah hath spoken.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1727,
+        "text": "And Jehovah saith unto Moses, 'Say unto Aaron, Stretch out thy rod, and smite the dust of the land, and it hath become gnats in all the land of Egypt.'",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 1728,
+        "text": "And they do so, and Aaron stretcheth out his hand with his rod, and smiteth the dust of the land, and the gnats are on man and on beast; all the dust of the land hath been gnats in all the land of Egypt.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1729,
+        "text": "And the scribes do so with their flashings, to bring out the gnats, and they have not been able, and the gnats are on man and on beast;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1730,
+        "text": "and the scribes say unto Pharaoh, 'It [is] the finger of God;' and the heart of Pharaoh is strong, and he hath not hearkened unto them, as Jehovah hath spoken.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1731,
+        "text": "And Jehovah saith unto Moses, 'Rise early in the morning, and station thyself before Pharaoh, lo, he is going out to the waters, and thou hast said unto him, Thus said Jehovah, Send My people away, and they serve Me;",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 1732,
+        "text": "for, if thou art not sending My people away, lo, I am sending against thee, and against thy servants, and against thy people, and against thy houses, the beetle, and the houses of the Egyptians have been full of the beetle, and also the ground on which they are.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1733,
+        "text": "'And I have separated in that day the land of Goshen, in which My people are staying, that the beetle is not there, so that thou knowest that I [am] Jehovah in the midst of the land,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1734,
+        "text": "and I have put a division between My people and thy people: to-morrow is this sign.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 1735,
+        "text": "And Jehovah doth so, and the grievous beetle entereth the house of Pharaoh, and the house of his servants, and in all the land of Egypt the land is corrupted from the presence of the beetle.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1736,
+        "text": "And Pharaoh calleth unto Moses and to Aaron, and saith, 'Go, sacrifice to your God in the land;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1737,
+        "text": "and Moses saith, 'Not right to do so, for the abomination of the Egyptians we do sacrifice to Jehovah our God; lo, we sacrifice the abomination of the Egyptians before their eyes -- and they do not stone us!",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1738,
+        "text": "A journey of three days we go into the wilderness, and have sacrificed to Jehovah our God, as He saith unto us.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1739,
+        "text": "And Pharaoh saith, 'I send you away, and ye have sacrificed to Jehovah your God in the wilderness, only go not very far off; make ye supplication for me;'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1740,
+        "text": "and Moses saith, 'Lo, I am going out from thee, and have made supplication unto Jehovah, and the beetle hath turned aside from Pharaoh, from his servants, and from his people -- to-morrow, only let not Pharaoh add to deceive -- in not sending the people away to sacrifice to Jehovah.'",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1741,
+        "text": "And Moses goeth out from Pharaoh, and maketh supplication unto Jehovah,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1742,
+        "text": "and Jehovah doth according to the word of Moses, and turneth aside the beetle from Pharaoh, from his servants, and from his people -- there hath not been left one;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 1743,
+        "text": "and Pharaoh hardeneth his heart also at this time, and hath not sent the people away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

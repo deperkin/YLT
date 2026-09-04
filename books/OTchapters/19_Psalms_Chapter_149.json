@@ -1,0 +1,75 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 149,
+    "count": 627,
+    "MaxVerses": 9,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16387,
+        "text": "Praise ye Jah! Sing ye to Jehovah a new song, His praise in an assembly of saints.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16388,
+        "text": "Israel doth rejoice in his Maker, Sons of Zion do joy in their king.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16389,
+        "text": "They praise His name in a dance, With timbrel and harp sing praise to Him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16390,
+        "text": "For Jehovah is pleased with His people, He beautifieth the humble with salvation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16391,
+        "text": "Exult do saints in honour, They sing aloud on their beds.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16392,
+        "text": "The exaltation of God [is] in their throat, And a two-edged sword in their hand.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16393,
+        "text": "To do vengeance among nations, Punishments among the peoples.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16394,
+        "text": "To bind their kings with chains, And their honoured ones with fetters of iron,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16395,
+        "text": "To do among them the judgment written, An honour it [is] for all his saints. Praise ye Jah!",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

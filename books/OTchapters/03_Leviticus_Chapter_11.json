@@ -1,0 +1,341 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 101,
+    "MaxVerses": 47,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2999,
+        "text": "And Jehovah speaketh unto Moses and unto Aaron, saying unto them,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3000,
+        "text": "'Speak unto the sons of Israel, saying, This [is] the beast which ye do eat out of all the beasts which [are] on the earth:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3001,
+        "text": "any dividing a hoof, and cleaving the cleft of the hoofs, bringing up the cud, among the beasts, it ye do eat.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3002,
+        "text": "'Only, this ye do not eat -- of those bringing up the cud, and of those dividing the hoof -- the camel, though it is bringing up the cud, yet the hoof not dividing -- it [is] unclean to you;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3003,
+        "text": "and the rabbit, though it is bringing up the cud, yet the hoof it divideth not -- unclean it [is] to you;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3004,
+        "text": "and the hare, though it is bringing up the cud, yet the hoof hath not divided -- unclean it [is] to you;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3005,
+        "text": "and the sow, though it is dividing the hoof, and cleaving the cleft of the hoof, yet the cud it bringeth not up -- unclean it [is] to you.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3006,
+        "text": "'Of their flesh ye do not eat, and against their carcase ye do not come -- unclean they [are] to you.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3007,
+        "text": "'This ye do eat of all which [are] in the waters; any one that hath fins and scales in the waters, in the seas, and in the brooks, them ye do eat;",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 3008,
+        "text": "and any one that hath not fins and scales in the seas, and in the brooks, of any teeming creature of the waters, and of any creature which liveth, which [is] in the waters -- an abomination they [are] to you;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3009,
+        "text": "yea, an abomination they are to you; of their flesh ye do not eat, and their carcase ye abominate.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3010,
+        "text": "'Any one that hath not fins and scales in the waters -- an abomination it [is] to you.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3011,
+        "text": "'And these ye do abominate of the fowl; they are not eaten, an abomination they [are]: the eagle, and the ossifrage, and the ospray,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3012,
+        "text": "and the vulture, and the kite after its kind,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 3013,
+        "text": "every raven after its kind,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3014,
+        "text": "and the owl, and the night-hawk, and the cuckoo, and the hawk after its kind,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3015,
+        "text": "and the little owl, and the cormorant, and the great owl,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3016,
+        "text": "and the swan, and the pelican, and the gier eagle,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3017,
+        "text": "and the stork, the heron after its kind, and the lapwing, and the bat.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3018,
+        "text": "'Every teeming creature which is flying, which is going on four -- an abomination it [is] to you.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 3019,
+        "text": "'Only -- this ye do eat of any teeming thing which is flying, which is going on four, which hath legs above its feet, to move with them on the earth;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3020,
+        "text": "these of them ye do eat: the locust after its kind, and the bald locust after its kind, and the beetle after its kind, and the grasshopper after its kind;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3021,
+        "text": "and every teeming thing which is flying, which hath four feet -- an abomination it [is] to you.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3022,
+        "text": "'And by these ye are made unclean, any one who is coming against their carcase is unclean till the evening;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3023,
+        "text": "and anyone who is lifting up [aught] of their carcase doth wash his garments, and hath been unclean till the evening: --",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3024,
+        "text": "even every beast which is dividing the hoof, and is not cloven-footed, and the cud is not bringing up -- unclean they [are] to you; any one who is coming against them is unclean.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3025,
+        "text": "'And any one going on its paws, among all the beasts which are going on four -- unclean they [are] to you; any one who is coming against their carcase is unclean until the evening;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3026,
+        "text": "and he who is lifting up their carcase doth wash his garments, and hath been unclean until the evening -- unclean they [are] to you.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3027,
+        "text": "'And this [is] to you the unclean among the teeming things which are teeming on the earth: the weasel, and the mouse, and the tortoise after its kind,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3028,
+        "text": "and the ferret, and the chameleon, and the lizard, and the snail, and the mole;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3029,
+        "text": "these [are] the unclean to you among all which are teeming; any one who is coming against them in their death is unclean till the evening.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3030,
+        "text": "'And anything on which any one of them falleth, in their death, is unclean, of any vessel of wood or garment or skin or sack, any vessel in which work is done is brought into water, and hath been unclean till the evening, then it hath been clean;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3031,
+        "text": "and any earthen vessel, into the midst of which [any] one of them falleth, all that [is] in its midst is unclean, and it ye do break.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3032,
+        "text": "'Of all the food which is eaten, that on which cometh [such] water, is unclean, and all drink which is drunk in any [such] vessel is unclean;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3033,
+        "text": "and anything on which [any] of their carcase falleth is unclean (oven or double pots), it is broken down, unclean they [are], yea, unclean they are to you.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3034,
+        "text": "'Only -- a fountain or pit, a collection of water, is clean, but that which is coming against their carcase is unclean;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3035,
+        "text": "and when [any] of their carcase falleth on any sown seed which is sown -- it [is] clean;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3036,
+        "text": "and when water is put on the seed, and [any] of its carcase hath fallen on it -- unclean it [is] to you.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3037,
+        "text": "'And when any of the beasts which are to you for food dieth, he who is coming against its carcase is unclean till the evening;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3038,
+        "text": "and he who is eating of its carcase doth wash his garments, and hath been unclean till the evening; and he who is lifting up its carcase doth wash his garments, and hath been unclean till the evening.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 3039,
+        "text": "'And every teeming thing which is teeming on the earth is an abomination, it is not eaten;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3040,
+        "text": "any thing going on the belly, and any going on four, unto every multiplier of feet, to every teeming thing which is teeming on the earth -- ye do not eat them, for they [are] an abomination;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3041,
+        "text": "ye do not make yourselves abominable with any teeming thing which is teeming, nor do ye make yourselves unclean with them, so that ye have been unclean thereby.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 44,
+        "count": 3042,
+        "text": "'For I [am] Jehovah your God, and ye have sanctified yourselves, and ye have been holy, for I [am] holy; and ye do not defile your persons with any teeming thing which is creeping on the earth;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 3043,
+        "text": "for I [am] Jehovah who am bringing you up out of the land of Egypt to become your God; and ye have been holy, for I [am] holy.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3044,
+        "text": "'This [is] a law of the beasts, and of the fowl, and of every living creature which is moving in the waters, and of every creature which is teeming on the earth,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 3045,
+        "text": "to make separation between the unclean and the pure, and between the beast that is eaten, and the beast that is not eaten.'",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

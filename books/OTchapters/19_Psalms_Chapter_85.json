@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 85,
+    "count": 563,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15273,
+        "text": "To the Overseer. -- By sons of Korah. A Psalm. Thou hast accepted, O Jehovah, Thy land, Thou hast turned [to] the captivity of Jacob.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15274,
+        "text": "Thou hast borne away the iniquity of Thy people, Thou hast covered all their sin. Selah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15275,
+        "text": "Thou hast gathered up all Thy wrath, Thou hast turned back from the fierceness of Thine anger.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15276,
+        "text": "Turn back [to] us, O God of our salvation, And make void Thine anger with us.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15277,
+        "text": "To the age art Thou angry against us? Dost Thou draw out Thine anger To generation and generation?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15278,
+        "text": "Dost Thou not turn back? Thou revivest us, And Thy people do rejoice in Thee.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15279,
+        "text": "Show us, O Jehovah, thy kindness, And Thy salvation Thou dost give to us.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15280,
+        "text": "I hear what God Jehovah speaketh, For He speaketh peace unto His people, And unto His saints, and they turn not back to folly.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15281,
+        "text": "Only, near to those fearing Him [is] His salvation, That honour may dwell in our land.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15282,
+        "text": "Kindness and truth have met, Righteousness and peace have kissed,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15283,
+        "text": "Truth from the earth springeth up, And righteousness from heaven looketh out,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15284,
+        "text": "Jehovah also giveth that which is good, And our land doth give its increase.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15285,
+        "text": "Righteousness before Him goeth, And maketh His footsteps for a way!",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

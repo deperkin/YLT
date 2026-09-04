@@ -1,0 +1,334 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 3,"name": "Leviticus","MaxChapters": 27},
+  "chapter": {
+    "Cnumber": 26,
+    "count": 116,
+    "MaxVerses": 46,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 3526,
+        "text": "'Ye do not make to yourselves idols; and graven image or standing image ye do not set up to yourselves; and a stone of imagery ye do not put in your land, to bow yourselves to it; for I [am] Jehovah your God.",
+        "WordCount": 43,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 3527,
+        "text": "'My sabbaths ye do keep, and My sanctuary ye do reverence; I [am] Jehovah.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 3528,
+        "text": "'If in My statutes ye walk, and My commands ye keep, and have done them,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 3529,
+        "text": "then I have given your rains in their season, and the land hath given her produce, and the tree of the field doth give its fruit;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 3530,
+        "text": "and reached to you hath the threshing, the gathering, and the gathering doth reach the sowing -[time]; and ye have eaten your bread to satiety, and have dwelt confidently in your land.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 3531,
+        "text": "'And I have given peace in the land, and ye have lain down, and there is none causing trembling; and I have caused evil beasts to cease out of the land, and the sword doth not pass over into your land.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 3532,
+        "text": "'And ye have pursued your enemies, and they have fallen before you by the sword;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 3533,
+        "text": "and five of you have pursued a hundred, and a hundred of you do pursue a myriad; and your enemies have fallen before you by the sword.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 3534,
+        "text": "'And I have turned unto you, and have made you fruitful, and have multiplied you, and have established My covenant with you;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 3535,
+        "text": "and ye have eaten old [store], and the old because of the new ye bring out.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 3536,
+        "text": "'And I have given My tabernacle in your midst, and My soul doth not loathe you;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 3537,
+        "text": "and I have walked habitually in your midst, and have become your God, and ye -- ye are become My people;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 3538,
+        "text": "I [am] Jehovah your God, who have brought you out of the land of the Egyptians, from being their servants; and I break the bars of your yoke, and cause you to go erect.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 3539,
+        "text": "'And if ye do not hearken to Me, and do not all these commands;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 3540,
+        "text": "and if at My statutes ye kick, and if My judgments your soul loathe, so as not to do all My commands -- to your breaking My covenant --",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 3541,
+        "text": "I also do this to you, and I have appointed over you trouble, the consumption, and the burning fever, consuming eyes, and causing pain of soul; and your seed in vain ye have sowed, and your enemies have eaten it;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 3542,
+        "text": "and I have set My face against you, and ye have been smitten before your enemies; and those hating you have ruled over you, and ye have fled, and there is none pursuing you.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 3543,
+        "text": "'And if unto these ye hearken not to Me, -- then I have added to chastise you seven times for your sins;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 3544,
+        "text": "and I have broken the pride of your strength, and have made your heavens as iron, and your earth as brass;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 3545,
+        "text": "and consumed hath been your strength in vain, and your land doth not give her produce, and the tree of the land doth not give its fruit.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 3546,
+        "text": "'And if ye walk with Me [in] opposition, and are not willing to hearken to Me, then I have added to you a plague seven times, according to your sins,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 3547,
+        "text": "and sent against you the beast of the field, and it hath bereaved you; and I have cut off your cattle, and have made you few, and your ways have been desolate.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 3548,
+        "text": "'And if by these ye are not instructed by Me, and have walked with Me [in] opposition,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 3549,
+        "text": "then I have walked -- I also -- with you in opposition, and have smitten you, even I, seven times for your sins;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 3550,
+        "text": "and I have brought in on you a sword, executing the vengeance of a covenant; and ye have been gathered unto your cities, and I have sent pestilence into your midst, and ye have been given into the hand of an enemy.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 3551,
+        "text": "'In My breaking to you the staff of bread, then ten women have baked your bread in one oven, and have given back your bread by weight; and ye have eaten, and are not satisfied.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 3552,
+        "text": "'And if for this ye hearken not to Me, and have walked with Me in opposition,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 3553,
+        "text": "then I have walked with you in the fury of opposition, and have chastised you, even I, seven times for your sins.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 3554,
+        "text": "'And ye have eaten the flesh of your sons; even flesh of your daughters ye do eat.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 3555,
+        "text": "And I have destroyed your high places, and cut down your images, and have put your carcases on the carcases of your idols, and My soul hath loathed you;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 3556,
+        "text": "and I have made your cities a waste, and have made desolate your sanctuaries, and I smell not at your sweet fragrances;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 3557,
+        "text": "and I have made desolate the land, and your enemies, who are dwelling in it, have been astonished at it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 3558,
+        "text": "And you I scatter among nations, and have drawn out after you a sword, and your land hath been a desolation, and your cities are a waste.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 3559,
+        "text": "'Then doth the land enjoy its sabbaths -- all the days of the desolation, and ye in the land of your enemies -- then doth the land rest, and hath enjoyed its sabbaths;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 3560,
+        "text": "all the days of the desolation it resteth that which it hath not rested in your sabbaths in your dwelling on it.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 3561,
+        "text": "'And those who are left of you -- I have also brought a faintness into their heart in the lands of their enemies, and the sound of a leaf driven away hath pursued them, and they have fled -- flight from a sword -- and they have fallen, and there is none pursuing.",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 3562,
+        "text": "And they have stumbled one on another, as from the face of a sword, and there is none pursuing, and ye have no standing before your enemies,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 3563,
+        "text": "and ye have perished among the nations, and the land of your enemies hath consumed you.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 3564,
+        "text": "'And those who are left of you -- they consume away in their iniquity, in the lands of your enemies; and also in the iniquities of their fathers, with them they consume away.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 3565,
+        "text": "'And -- they have confessed their iniquity, and the iniquity of their fathers, in their trespass which they have trespassed against Me, and also, that they have walked with Me, in opposition,",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 41,
+        "count": 3566,
+        "text": "also I walk to them in opposition, and have brought them into the land of their enemies -- or then their uncircumcised heart is humbled, and then they accept the punishment of their iniquity, --",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 3567,
+        "text": "then I have remembered My covenant [with] Jacob, and also My covenant [with] Isaac, and also My covenant [with] Abraham I remember, and the land I remember.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 3568,
+        "text": "'And -- the land is left of them, and doth enjoy its sabbaths, in the desolation without them, and they accept the punishment of their iniquity, because, even because, against My judgments they have kicked, and My statutes hath their soul loathed,",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 3569,
+        "text": "and also even this, in their being in the land of their enemies, I have not rejected them, nor have I loathed them, to consume them, to break My covenant with them; for I [am] Jehovah their God; --",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 3570,
+        "text": "then I have remembered for them the covenant of the ancestors, whom I brought forth out of the land of Egypt before the eyes of the nations to become their God; I [am] Jehovah.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 3571,
+        "text": "These [are] the statutes, and the judgments, and the laws, which Jehovah hath given between Him and the sons of Israel, in mount Sinai, by the hand of Moses.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

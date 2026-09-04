@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 450,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13183,
+        "text": "Man, born of woman! Of few days, and full of trouble!",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13184,
+        "text": "As a flower he hath gone forth, and is cut off, And he fleeth as a shadow and standeth not.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13185,
+        "text": "Also -- on this Thou hast opened Thine eyes, And dost bring me into judgment with Thee.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13186,
+        "text": "Who giveth a clean thing out of an unclean? not one.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13187,
+        "text": "If determined are his days, The number of his months [are] with Thee, His limit Thou hast made, And he passeth not over;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13188,
+        "text": "Look away from off him that he may cease, Till he enjoy as an hireling his day.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13189,
+        "text": "For there is of a tree hope, if it be cut down, That again it doth change, That its tender branch doth not cease.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13190,
+        "text": "If its root becometh old in the earth, And its stem doth die in the dust,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13191,
+        "text": "From the fragrance of water it doth flourish, And hath made a crop as a plant.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13192,
+        "text": "And a man dieth, and becometh weak, And man expireth, and where [is] he?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13193,
+        "text": "Waters have gone away from a sea, And a river becometh waste and dry.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13194,
+        "text": "And man hath lain down, and riseth not, Till the wearing out of the heavens they awake not, Nor are roused from their sleep.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13195,
+        "text": "O that in Sheol Thou wouldest conceal me, Hide me till the turning of Thine anger, Set for me a limit, and remember me.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13196,
+        "text": "If a man dieth -- doth he revive? All days of my warfare I wait, till my change come.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13197,
+        "text": "Thou dost call, and I -- I answer Thee; To the work of Thy hands Thou hast desire.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13198,
+        "text": "But now, my steps Thou numberest, Thou dost not watch over my sin.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 13199,
+        "text": "Sealed up in a bag [is] my transgression, And Thou sewest up mine iniquity.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13200,
+        "text": "And yet, a falling mountain wasteth away, And a rock is removed from its place.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13201,
+        "text": "Stones have waters worn away, Their outpourings wash away the dust of earth, And the hope of man Thou hast destroyed.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13202,
+        "text": "Thou prevailest [over] him for ever, and he goeth, He is changing his countenance, And Thou sendest him away.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13203,
+        "text": "Honoured are his sons, and he knoweth not; And they are little, and he attendeth not to them.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13204,
+        "text": "Only -- his flesh for him is pained, And his soul for him doth mourn.'",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 2,
+    "count": 747,
+    "MaxVerses": 37,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18967,
+        "text": "And there is a word of Jehovah unto me, saying,",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18968,
+        "text": "'Go, and thou hast called in the ears of Jerusalem, saying, Thus said Jehovah: I have remembered for thee The kindness of thy youth, the love of thine espousals, Thy going after Me in a wilderness, in a land not sown.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18969,
+        "text": "Holy [is] Israel to Jehovah, The first-fruit of His increase, All consuming him are guilty, Evil cometh in unto them, an affirmation of Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18970,
+        "text": "Hear a word of Jehovah, O house of Jacob, And all ye families of the house of Israel.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18971,
+        "text": "Thus said Jehovah: What -- have your fathers found in Me perversity, That they have gone far off from Me, And go after the vanity, and become vain,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18972,
+        "text": "And have not said, Where [is] Jehovah, Who bringeth us up out of the land of Egypt, Who leadeth us in a wilderness, In a land of deserts and pits, In a dry land, and of death-shade, In a land -- none hath passed through it, Nor dwelt hath man there?'",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18973,
+        "text": "Yea, I bring you in to a land of fruitful fields, To eat its fruit and its goodness, And ye come in and defile My land, And Mine inheritance have made an abomination.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18974,
+        "text": "The priests have not said, 'Where [is] Jehovah?' And those handling the law have not known Me. And the shepherds transgressed against Me, And the prophets have prophesied by Baal, And after those who profit not have gone.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18975,
+        "text": "Therefore, yet I plead with you, An affirmation of Jehovah, And with your sons' sons I plead.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18976,
+        "text": "For, pass to the isles of Chittim, and see, And to Kedar send, and consider well, And see if there hath been like this:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18977,
+        "text": "Hath a nation changed gods? (And they [are] no gods!) And My people hath changed its honour For that which doth not profit.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18978,
+        "text": "Be astonished, ye heavens, at this, Yea, be frightened, be greatly wasted, An affirmation of Jehovah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18979,
+        "text": "For two evils hath My people done, Me they have forsaken, a fountain of living waters, To hew out for themselves wells -- broken wells, That contain not the waters.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18980,
+        "text": "A servant [is] Israel? Is he a child of the house? Wherefore hath he been for a prey?",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 18981,
+        "text": "Against him roar do young lions, They have given forth their voice, And make his land become a desolation, His cities have been burnt without inhabitant.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18982,
+        "text": "Also sons of Noph and Tahapanes Consume thee -- the crown of the head!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 18983,
+        "text": "Dost thou not do this to thyself? [By] thy forsaking Jehovah thy God, At the time He is leading thee in the way?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18984,
+        "text": "And now, what -- to thee in the way of Egypt, To drink the waters of Sihor? And what -- to thee in the way of Asshur, To drink the waters of the River?",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18985,
+        "text": "Instruct thee doth thy wickedness, And thy backslidings reprove thee, Know and see that an evil and a bitter thing [Is] thy forsaking Jehovah thy God, And My fear not being on thee, An affirmation of the Lord Jehovah of Hosts.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18986,
+        "text": "For from of old thou hast broken thy yoke, Drawn away thy bands, and sayest, 'I do not serve,' For, on every high height, and under every green tree, Thou art wandering -- a harlot.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 18987,
+        "text": "And I planted thee a choice vine, wholly a true seed, And how hast thou been turned to Me, To the degenerate shoots of a strange vine?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 18988,
+        "text": "But though thou dost wash with nitre, And dost multiply to thyself soap, Marked is thine iniquity before Me, An affirmation of the Lord Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 18989,
+        "text": "How sayest thou, 'I have not been defiled, After the Baalim I have not gone?' See thy way in a valley, know what thou hast done, A swift dromedary winding her ways,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 18990,
+        "text": "A wild ass accustomed to a wilderness, In the desire of her soul she hath swallowed up wind, Her meeting -- who doth turn her back? None seeking her do weary themselves, In her month they find her.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 18991,
+        "text": "Withhold thy foot from being unshod, And thy throat from thirst, And thou sayest, 'It is incurable, No, for I have loved strangers, and after them I go.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 18992,
+        "text": "As the shame of a thief when he is found, So put to shame have been the house of Israel, They, their kings, their heads, And their priests, and their prophets,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 18993,
+        "text": "Saying to wood, 'My father [art] thou!' And to a stone, 'Thou hast brought me forth,' For they turned unto me the back and not the face, And in the time of their vexation, They say, 'Arise Thou, and save us.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 18994,
+        "text": "And where [are] thy gods, that thou hast made to thyself? Let them arise, if they may save thee, In the time of thy vexation, For -- the number of thy cities have been thy gods, O Judah,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 18995,
+        "text": "Why do ye strive with Me? All of you have transgressed against Me, An affirmation of Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 18996,
+        "text": "In vain I have smitten your sons, Instruction they have not accepted, Devoured hath your sword your prophets, As a destroying lion.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 18997,
+        "text": "O generation, see ye the word of Jehovah: A wilderness have I been to Israel? A land of thick darkness? Wherefore have My people said, 'We mourned, We come not in again unto Thee.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 18998,
+        "text": "Doth a virgin forget her ornaments? A bride her bands? And My people have forgotten Me days without number.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 18999,
+        "text": "What -- dost thou make pleasing thy ways to seek love? Therefore even the wicked thou hast taught thy ways.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 19000,
+        "text": "Also in thy skirts hath been found the blood of innocent needy souls, Not by digging have I found them, but upon all these.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 19001,
+        "text": "And thou sayest, 'Because I have been innocent, Surely turned back hath His anger from me?' Lo, I have been judged with thee, Because of thy saying, 'I have not sinned.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 19002,
+        "text": "What? thou art very vile to repeat thy way, Even of Egypt thou art ashamed, As thou hast been ashamed of Asshur,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 19003,
+        "text": "Also from this thou goest out, And thy hands on thy head, For Jehovah hath kicked at thy confidences, And thou dost not give prosperity to them!",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

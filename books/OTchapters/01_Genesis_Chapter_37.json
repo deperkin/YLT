@@ -1,0 +1,264 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 37,
+    "count": 37,
+    "MaxVerses": 36,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 1085,
+        "text": "And Jacob dwelleth in the land of his father's sojournings -- in the land of Canaan.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 1086,
+        "text": "These [are] births of Jacob: Joseph, a son of seventeen years, hath been enjoying himself with his brethren among the flock, (and he [is] a youth,) with the sons of Bilhah, and with the sons of Zilpah, his father's wives, and Joseph bringeth in an account of their evil unto their father.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 1087,
+        "text": "And Israel hath loved Joseph more than any of his sons, for he [is] a son of his old age, and hath made for him a long coat;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 1088,
+        "text": "and his brethren see that their father hath loved him more than any of his brethren, and they hate him, and have not been able to speak [to] him peaceably.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 1089,
+        "text": "And Joseph dreameth a dream, and declareth to his brethren, and they add still more to hate him.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 1090,
+        "text": "And he saith unto them, 'Hear ye, I pray you, this dream which I have dreamed:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 1091,
+        "text": "that, lo, we are binding bundles in the midst of the field, and lo, my bundle hath arisen, and hath also stood up, and lo, your bundles are round about, and bow themselves to my bundle.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 1092,
+        "text": "And his brethren say to him, 'Dost thou certainly reign over us? dost thou certainly rule over us?' and they add still more to hate him, for his dreams, and for his words.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 1093,
+        "text": "And he dreameth yet another dream, and recounteth it to his brethren, and saith, 'Lo, I have dreamed a dream again, and lo, the sun and the moon, and eleven stars, are bowing themselves to me.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 1094,
+        "text": "And he recounteth unto his father, and unto his brethren; and his father pusheth against him, and saith to him, 'What [is] this dream which thou hast dreamt? do we certainly come -- I, and thy mother, and thy brethren -- to bow ourselves to thee, to the earth?'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 1095,
+        "text": "and his brethren are zealous against him, and his father hath watched the matter.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 1096,
+        "text": "And his brethren go to feed the flock of their father in Shechem,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 1097,
+        "text": "and Israel saith unto Joseph, 'Are not thy brethren feeding in Shechem? come, and I send thee unto them;' and he saith to him, 'Here [am] I;'",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 1098,
+        "text": "and he saith to him, 'Go, I pray thee, see the peace of thy brethren, and the peace of the flock, and bring me back word;' and he sendeth him from the valley of Hebron, and he cometh to Shechem.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 1099,
+        "text": "And a man findeth him, and lo, he is wandering in the field, and the man asketh him, saying, 'What seekest thou?'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 1100,
+        "text": "and he saith, 'My brethren I am seeking, declare to me, I pray thee, where they are feeding?'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 1101,
+        "text": "And the man saith, 'They have journeyed from this, for I have heard some saying, Let us go to Dothan,' and Joseph goeth after his brethren, and findeth them in Dothan.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 1102,
+        "text": "And they see him from afar, even before he draweth near unto them, and they conspire against him to put him to death.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 1103,
+        "text": "And they say one unto another, 'Lo, this man of the dreams cometh;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 1104,
+        "text": "and now, come, and we slay him, and cast him into one of the pits, and have said, An evil beast hath devoured him; and we see what his dreams are.'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 1105,
+        "text": "And Reuben heareth, and delivereth him out of their hand, and saith, 'Let us not smite the life;'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 1106,
+        "text": "and Reuben saith unto them, 'Shed no blood; cast him into this pit which [is] in the wilderness, and put not forth a hand upon him,' -- in order to deliver him out of their hand, to bring him back unto his father.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 1107,
+        "text": "And it cometh to pass, when Joseph hath come unto his brethren, that they strip Joseph of his coat, the long coat which [is] upon him,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 1108,
+        "text": "and take him and cast him into the pit, and the pit [is] empty, there is no water in it.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 1109,
+        "text": "And they sit down to eat bread, and they lift up their eyes, and look, and lo, a company of Ishmaelites coming from Gilead, and their camels bearing spices, and balm, and myrrh, going to take [them] down to Egypt.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 1110,
+        "text": "And Judah saith unto his brethren, 'What gain when we slay our brother, and have concealed his blood?",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 1111,
+        "text": "Come, and we sell him to the Ishmaelites, and our hands are not on him, for he [is] our brother -- our flesh;' and his brethren hearken.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 1112,
+        "text": "And Midianite merchantmen pass by and they draw out and bring up Joseph out of the pit, and sell Joseph to the Ishmaelites for twenty silverlings, and they bring Joseph into Egypt.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 1113,
+        "text": "And Reuben returneth unto the pit, and lo, Joseph is not in the pit, and he rendeth his garments,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 1114,
+        "text": "and he returneth unto his brethren, and saith, 'The lad is not, and I -- whither am I going?'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 1115,
+        "text": "And they take the coat of Joseph, and slaughter a kid of the goats, and dip the coat in the blood,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 1116,
+        "text": "and send the long coat, and they bring [it] in unto their father, and say, 'This have we found; discern, we pray thee, whether it [is] thy son's coat or not?'",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 1117,
+        "text": "And he discerneth it, and saith, 'My son's coat! an evil beast hath devoured him; torn -- torn is Joseph!'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 1118,
+        "text": "And Jacob rendeth his raiment, and putteth sackcloth on his loins, and becometh a mourner for his son many days,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 1119,
+        "text": "and all his sons and all his daughters rise to comfort him, and he refuseth to comfort himself, and saith, 'For -- I go down mourning unto my son, to Sheol,' and his father weepeth for him.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 1120,
+        "text": "And the Medanites have sold him unto Egypt, to Potiphar, a eunuch of Pharaoh, head of the executioners.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

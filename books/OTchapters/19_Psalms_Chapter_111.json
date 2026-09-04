@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 111,
+    "count": 589,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15795,
+        "text": "Praise ye Jah! I thank Jehovah with the whole heart, In the secret meeting of the upright, And of the company.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15796,
+        "text": "Great [are] the works of Jehovah, Sought out by all desiring them.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15797,
+        "text": "Honourable and majestic is His work, And His righteousness is standing for ever.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15798,
+        "text": "A memorial He hath made of His wonders, Gracious and merciful [is] Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15799,
+        "text": "Prey He hath given to those fearing Him, He remembereth to the age His covenant.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15800,
+        "text": "The power of His works He hath declared to His people, To give to them the inheritance of nations.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 15801,
+        "text": "The works of His hands [are] true and just, Stedfast [are] all His appointments.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15802,
+        "text": "They are sustained for ever to the age. They are made in truth and uprightness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 15803,
+        "text": "Redemption He hath sent to His people, He hath appointed to the age His covenant, Holy and fearful [is] His name.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15804,
+        "text": "The beginning of wisdom [is] fear of Jehovah, Good understanding have all doing them, His praise [is] standing for ever!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

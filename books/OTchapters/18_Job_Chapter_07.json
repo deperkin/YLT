@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 443,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13010,
+        "text": "Is there not a warfare to man on earth? And as the days of an hireling his days?",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13011,
+        "text": "As a servant desireth the shadow, And as a hireling expecteth his wage,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13012,
+        "text": "So I have been caused to inherit months of vanity, And nights of misery they numbered to me.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13013,
+        "text": "If I lay down then I said, 'When do I rise!' And evening hath been measured, And I have been full of tossings till dawn.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13014,
+        "text": "Clothed hath been my flesh [with] worms, And a clod of dust, My skin hath been shrivelled and is loathsome,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13015,
+        "text": "My days swifter than a weaving machine, And they are consumed without hope.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13016,
+        "text": "Remember Thou that my life [is] a breath, Mine eye turneth not back to see good.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13017,
+        "text": "The eye of my beholder beholdeth me not. Thine eyes [are] upon me -- and I am not.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13018,
+        "text": "Consumed hath been a cloud, and it goeth, So he who is going down to Sheol cometh not up.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13019,
+        "text": "He turneth not again to his house, Nor doth his place discern him again.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13020,
+        "text": "Also I -- I withhold not my mouth -- I speak in the distress of my spirit, I talk in the bitterness of my soul.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13021,
+        "text": "A sea -[monster] am I, or a dragon, That thou settest over me a guard?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13022,
+        "text": "When I said, 'My bed doth comfort me,' He taketh away in my talking my couch.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13023,
+        "text": "And thou hast affrighted me with dreams, And from visions thou terrifiest me,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13024,
+        "text": "And my soul chooseth strangling, Death rather than my bones.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13025,
+        "text": "I have wasted away -- not to the age do I live. Cease from me, for my days [are] vanity.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13026,
+        "text": "What [is] man that Thou dost magnify him? And that Thou settest unto him Thy heart?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 13027,
+        "text": "And inspectest him in the mornings, In the evenings dost try him?",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13028,
+        "text": "How long dost Thou not look from me? Thou dost not desist till I swallow my spittle.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13029,
+        "text": "I have sinned, what do I to Thee, O watcher of man? Why hast Thou set me for a mark to Thee, And I am for a burden to myself -- and what?",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13030,
+        "text": "Thou dost not take away my transgression, And cause to pass away mine iniquity, Because now, for dust I lie down: And Thou hast sought me -- and I am not!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

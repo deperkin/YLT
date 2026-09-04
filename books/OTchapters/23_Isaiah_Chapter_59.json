@@ -1,0 +1,159 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 23,"name": "Isaiah","MaxChapters": 66},
+  "chapter": {
+    "Cnumber": 59,
+    "count": 738,
+    "MaxVerses": 21,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 18802,
+        "text": "Lo, the hand of Jehovah Hath not been shortened from saving, Nor heavy his ear from hearing.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 18803,
+        "text": "But your iniquities have been separating Between you and your God, And your sins have hidden The Presence from you -- from hearing.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 18804,
+        "text": "For your hands have been polluted with blood, And your fingers with iniquity, Your lips have spoken falsehood, Your tongue perverseness doth mutter.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 18805,
+        "text": "There is none calling in righteousness, And there is none pleading in faithfulness, Trusting on emptiness, and speaking falsehood, Conceiving perverseness, and bearing iniquity.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 18806,
+        "text": "Eggs of a viper they have hatched, And webs of a spider they weave, Whoso is eating their eggs doth die, And the crushed hatcheth a viper.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 18807,
+        "text": "Their webs become not a garment, Nor do they cover themselves with their works, Their works [are] works of iniquity, And a deed of violence [is] in their hands.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 18808,
+        "text": "Their feet to evil do run, And they haste to shed innocent blood, Their thoughts [are] thoughts of iniquity, Spoiling and destruction [are] in their highways.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 18809,
+        "text": "A way of peace they have not known, And there is no judgment in their paths, Their paths they have made perverse for themselves, No treader in it hath known peace.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 18810,
+        "text": "Therefore hath judgment been far from us, And righteousness reacheth us not, We wait for light, and lo, darkness, For brightness -- in thick darkness we go,",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 18811,
+        "text": "We feel like the blind [for] the wall, Yea, as without eyes we feel, We have stumbled at noon as at twilight, In desolate places as the dead.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 18812,
+        "text": "We make a noise as bears -- all of us, And as doves we coo sorely; We wait for judgment, and there is none, For salvation -- it hath been far from us.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 18813,
+        "text": "For our transgressions have been multiplied before Thee, And our sins have testified against us, For our transgressions [are] with us, And our iniquities -- we have known them.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 18814,
+        "text": "Transgressing, and lying against Jehovah, And removing from after our God, Speaking oppression and apostasy, Conceiving and uttering from the heart Words of falsehood.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 18815,
+        "text": "And removed backward is judgment, And righteousness afar off standeth, For truth hath been feeble in the street, And straightforwardness is not able to enter,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 18816,
+        "text": "And the truth is lacking, And whoso is turning aside from evil, Is making himself a spoil. And Jehovah seeth, and it is evil in His eyes, That there is no judgment.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 18817,
+        "text": "And He seeth that there is no man, And is astonished that there is no intercessor, And His own arm giveth salvation to Him, And His righteousness -- it sustained Him.",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 18818,
+        "text": "And He putteth on righteousness as a breastplate, And an helmet of salvation on His head, And He putteth on garments of vengeance [for] clothing, And is covered, as [with] an upper-robe, [with] zeal.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 18819,
+        "text": "According to deeds -- so He repayeth. Fury to His adversaries, [their] deed to His enemies, To the isles [their] deed He repayeth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 18820,
+        "text": "And they fear from the west the name of Jehovah, And from the rising of the sun -- His honour, When come in as a flood doth an adversary, The Spirit of Jehovah hath raised an ensign against him.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 18821,
+        "text": "And come to Zion hath a redeemer, Even to captives of transgression in Jacob, An affirmation of Jehovah.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 18822,
+        "text": "And I -- this [is] My covenant with them, said Jehovah, My Spirit that [is] on thee, And My words that I have put in thy mouth, Depart not from thy mouth, And from the mouth of thy seed, And from the mouth of thy seed's seed, said Jehovah, From henceforth unto the age!",
+        "WordCount": 54,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

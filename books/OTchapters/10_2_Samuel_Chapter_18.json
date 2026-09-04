@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 18,
+    "count": 285,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8480,
+        "text": "And David inspecteth the people who [are] with him, and setteth over them heads of thousands and heads of hundreds,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8481,
+        "text": "and David sendeth the third of the people by the hand of Joab, and the third by the hand of Abishai, son of Zeruiah, brother of Joab, and the third by the hand of Ittai the Gittite, and the king saith unto the people, 'I certainly go out -- I also -- with you.'",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8482,
+        "text": "And the people say, 'Thou dost not go out, for if we utterly flee, they do not set [their] heart upon us; and if half of us die, they do not set [their] heart unto us -- for now like us [are] ten thousand; and now, better that thou be to us from the city for an helper.'",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8483,
+        "text": "And the king saith unto them, 'That which is good in your eyes I do;' and the king standeth at the side of the gate, and all the people have gone out by hundreds and by thousands,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 8484,
+        "text": "and the king chargeth Joab, and Abishai, and Ittai, saying, 'Gently -- for me, for the youth, for Absalom;' and all the people heard in the king's charging all the heads concerning Absalom.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8485,
+        "text": "And the people goeth out into the field to meet Israel, and the battle is in a forest of Ephraim;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8486,
+        "text": "and smitten there are the people of Israel before the servants of David, and the smiting there is great on that day -- twenty thousand;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8487,
+        "text": "and the battle is there scattered over the face of all the land, and the forest multiplieth to devour among the people more than those whom the sword hath devoured in that day.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8488,
+        "text": "And Absalom meeteth before the servants of David, and Absalom is riding on the mule, and the mule cometh in under an entangled bough of the great oak, and his head taketh hold on the oak, and he is placed between the heavens and the earth, and the mule that [is] under him hath passed on.",
+        "WordCount": 56,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 8489,
+        "text": "And one man seeth, and declareth to Joab, and saith, 'Lo, I saw Absalom hanged in an oak.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8490,
+        "text": "And Joab saith to the man who is declaring [it] to him, 'And lo, thou hast seen -- and wherefore didst thou not smite him there to the earth -- and on me to give to thee ten silverlings and one girdle?'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8491,
+        "text": "And the man saith unto Joab, 'Yea, though I am weighing on my hand a thousand silverlings, I do not put forth my hand unto the son of the king; for in our ears hath the king charged thee, and Abishai, and Ittai, saying, Observe ye who [is] against the youth -- against Absalom;",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8492,
+        "text": "or I had done against my soul a vain thing, and no matter is hid from the king, and thou -- thou dost station thyself over-against.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8493,
+        "text": "And Joab saith, 'Not right -- I tarry before thee;' and he taketh three darts in his hand, and striketh them into the heart of Absalom, while he [is] alive, in the midst of the oak.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8494,
+        "text": "And they go round -- ten youths bearing weapons of Joab -- and smite Absalom, and put him to death.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8495,
+        "text": "And Joab bloweth with a trumpet, and the people turneth back from pursuing after Israel, for Joab hath kept back the people;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8496,
+        "text": "and they take Absalom and cast him in the forest unto the great pit, and set up over him a very great heap of stones, and all Israel have fled -- each to his tent.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8497,
+        "text": "And Absalom hath taken, and setteth up for himself in his life, the standing-pillar that [is] in the king's valley, for he said, 'I have no son to cause my name to be remembered;' and he calleth the standing-pillar by his own name, and it is called 'The monument of Absalom' unto this day.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 8498,
+        "text": "And Ahimaaz son of Zadok said, 'Let me run, I pray thee, and I bear the king tidings, for Jehovah hath delivered him out of the hand of his enemies;'",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 8499,
+        "text": "and Joab saith to him, 'Thou art not a man of tidings this day, but thou hast borne tidings on another day, and this day thou dost not bear tidings, because the king's son [is] dead.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8500,
+        "text": "And Joab saith to Cushi, 'Go, declare to the king that which thou hast seen;' and Cushi boweth himself to Joab, and runneth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8501,
+        "text": "And Ahimaaz son of Zadok addeth again, and saith unto Joab, 'And whatever it be, let me run, I pray thee, I also, after the Cushite.' And Joab saith, 'Why [is] this -- thou art running, my son, and for thee there are no tidings found?' --",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8502,
+        "text": "'And, whatever it be, [said he,] let me run.' And he saith to him, 'Run;' and Ahimaaz runneth the way of the circuit, and passeth by the Cushite.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8503,
+        "text": "And David is sitting between the two gates, and the watchman goeth unto the roof of the gate, unto the wall, and lifteth up his eyes, and looketh, and lo, a man running by himself.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8504,
+        "text": "And the watchman calleth, and declareth to the king, and the king saith, 'If by himself, tidings [are] in his mouth;' and he cometh, coming on and drawing near.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8505,
+        "text": "And the watchman seeth another man running, and the watchman calleth unto the gatekeeper, and saith, 'Lo, a man running by himself;' and the king saith, 'Also this one is bearing tidings.'",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8506,
+        "text": "And the watchman saith, 'I see the running of the first as the running of Ahimaaz son of Zadok.' And the king saith, 'This [is] a good man, and with good tidings he cometh.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8507,
+        "text": "And Ahimaaz calleth and saith unto the king, 'Peace;' and he boweth himself to the king, on his face, to the earth, and saith, 'Blessed [is] Jehovah thy God who hath shut up the men who lifted up their hand against my lord the king.'",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8508,
+        "text": "And the king saith, 'Peace to the youth -- to Absalom?' And Ahimaaz saith, 'I saw the great multitude, at the sending away of the servant of the king, even thy servant [by] Joab, and I have not known what [it is].'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 8509,
+        "text": "And the king saith, 'Turn round, station thyself here;' and he turneth round and standeth still.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 8510,
+        "text": "And lo, the Cushite hath come, and the Cushite saith, 'Let tidings be proclaimed, my lord, O king; for Jehovah hath delivered thee to-day out of the hand of all those rising up against thee.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 8511,
+        "text": "And the king saith unto the Cushite, 'Peace to the youth -- to Absalom?' And the Cushite saith, 'Let them be -- as the youth -- the enemies of my lord the king, and all who have risen up against thee for evil.'",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 8512,
+        "text": "And the king trembleth, and goeth up on the upper chamber of the gate, and weepeth, and thus he hath said in his going, 'My son! Absalom my son; my son Absalom; oh that I had died for thee, Absalom, my son, my son.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 12,"name": "2 Kings","MaxChapters": 25},
+  "chapter": {
+    "Cnumber": 14,
+    "count": 327,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 9898,
+        "text": "In the second year of Joash son of Jehoahaz king of Israel reigned hath Amaziah son of Joash king of Judah;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 9899,
+        "text": "a son of twenty and five years was he in his reigning, and twenty and nine years he hath reigned in Jerusalem, and the name of his mother [is] Jehoaddan of Jerusalem,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 9900,
+        "text": "and he doth that which [is] right in the eyes of Jehovah, only not like David his father, according to all that Joash his father did he hath done,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 9901,
+        "text": "only, the high places have not turned aside -- yet are the people sacrificing and making perfume in high places.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 9902,
+        "text": "And it cometh to pass, when the kingdom hath been strong in his hand, that he smiteth his servants, those smiting the king his father,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 9903,
+        "text": "and the sons of those smiting [him] he hath not put to death, as it is written in the book of the law of Moses that Jehovah commanded, saying, 'Fathers are not put to death for sons, and sons are not put to death for fathers, but each for his own sin is put to death.'",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 9904,
+        "text": "He hath smitten Edom, in the valley of salt -- ten thousand, and seized Selah in war, and [one] calleth its name Joktheel unto this day,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 9905,
+        "text": "then hath Amaziah sent messengers unto Jehoash son of Jehoahaz, son of Jehu, king of Israel, saying, 'Come, we look one another in the face.'",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 9906,
+        "text": "And Jehoash king of Israel sendeth unto Amaziah king of Judah, saying, 'The thorn that [is] in Lebanon hath sent unto the cedar that [is] in Lebanon, saying, Give thy daughter to my son for a wife; and pass by doth a beast of the field that [is] in Lebanon, and treadeth down the thorn.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 9907,
+        "text": "Thou hast certainly smitten Edom, and thy heart hath lifted thee up; be honoured, and abide in thy house; and why dost thou stir thyself up in evil, that thou hast fallen, thou, and Judah with thee?'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 9908,
+        "text": "And Amaziah hath not hearkened, and go up doth Jehoash king of Israel, and they look one another in the face, he and Amaziah king of Judah, in Beth-Shemesh, that [is] Judah's,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 9909,
+        "text": "and Judah is smitten before Israel, and they flee each to his tent.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 9910,
+        "text": "And Amaziah king of Judah, son of Jehoash son of Ahaziah, caught hath Jehoash king of Israel in Beth-Shemesh, and they come in to Jerusalem, and he bursteth through the wall of Jerusalem, at the gate of Ephraim unto the gate of the corner, four hundred cubits,",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 9911,
+        "text": "and hath taken all the gold and the silver, and all the vessels that are found in the house of Jehovah, and in the treasures of the house of the king, and the sons of the pledges, and turneth back to Samaria.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 9912,
+        "text": "And the rest of the matters of Jehoash that he did, and his might, and how he fought with Amaziah king of Judah, are they not written on the book of the Chronicles of the kings of Israel?",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 9913,
+        "text": "And Jehoash lieth with his fathers, and is buried in Samaria with the kings of Israel, and reign doth Jeroboam his son in his stead.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 9914,
+        "text": "And Amaziah son of Joash king of Judah liveth after the death of Jehoash son of Jehoahaz king of Israel fifteen years,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 9915,
+        "text": "and the rest of the matters of Amaziah are they not written on the book of the Chronicles of the kings of Judah?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 9916,
+        "text": "And they make a conspiracy against him in Jerusalem, and he fleeth to Lachish, and they send after him to Lachish, and put him to death there,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 9917,
+        "text": "and lift him up on the horses, and he is buried in Jerusalem, with his fathers, in the city of David.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 9918,
+        "text": "And all the people of Judah take Azariah, and he [is] a son of sixteen years, and cause him to reign instead of his father Amaziah;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 9919,
+        "text": "he hath built Elath, and bringeth it back to Judah, after the lying of the king with his fathers.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 9920,
+        "text": "In the fifteenth year of Amaziah son of Joash king of Judah, reigned hath Jeroboam son of Joash king of Israel in Samaria -- forty and one years,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 9921,
+        "text": "and he doth the evil thing in the eyes of Jehovah, he hath not turned aside from all the sins of Jeroboam son of Nebat that he caused Israel to sin.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 9922,
+        "text": "He hath brought back the border of Israel, from the entering in of Hamath unto the sea of the desert, according to the word of Jehovah, God of Israel, that He spake by the hand of His servant Jonah son of Amittai the prophet, who [is] of Gath-Hepher,",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 9923,
+        "text": "for Jehovah hath seen the affliction of Israel -- very bitter, and there is none restrained, and there is none left, and there is no helper to Israel;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 9924,
+        "text": "and Jehovah hath not spoken to blot out the name of Israel from under the heavens, and saveth them by the hand of Jeroboam son of Joash.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 9925,
+        "text": "And the rest of the matters of Jeroboam, and all that he did, and his might with which he fought, and with which he brought back Damascus, and Hamath of Judah, into Israel, are they not written on the book of the Chronicles of the kings of Israel?",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 9926,
+        "text": "And Jeroboam lieth with his fathers, with the kings of Israel, and reign doth Zechariah his son in his stead.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

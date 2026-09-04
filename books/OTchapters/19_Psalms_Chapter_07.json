@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 485,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13997,
+        "text": "'The Erring One,' by David, that he sung to Jehovah concerning the words of Cush a Benjamite. O Jehovah, my God, in Thee I have trusted, Save me from all my pursuers, and deliver me.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13998,
+        "text": "Lest he tear as a lion my soul, Rending, and there is no deliverer.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13999,
+        "text": "O Jehovah, my God, if I have done this, If there is iniquity in my hands,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14000,
+        "text": "If I have done my well-wisher evil, And draw mine adversary without cause,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14001,
+        "text": "An enemy pursueth my soul, and overtaketh, And treadeth down to the earth my life, And my honour placeth in the dust. Selah.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14002,
+        "text": "Rise, O Jehovah, in Thine anger, Be lifted up at the wrath of mine adversaries, And awake Thou for me: Judgment Thou hast commanded:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14003,
+        "text": "And a company of peoples compass Thee, And over it on high turn Thou back,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14004,
+        "text": "Jehovah doth judge the peoples; Judge me, O Jehovah, According to my righteousness, And according to mine integrity on me,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14005,
+        "text": "Let, I pray Thee be ended the evil of the wicked, And establish Thou the righteous, And a trier of hearts and reins is the righteous God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14006,
+        "text": "My shield [is] on God, Saviour of the upright in heart!",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 14007,
+        "text": "God [is] a righteous judge, And He is not angry at all times.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14008,
+        "text": "If [one] turn not, His sword he sharpeneth, His bow he hath trodden -- He prepareth it,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 14009,
+        "text": "Yea, for him He hath prepared Instruments of death, His arrows for burning pursuers He maketh.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14010,
+        "text": "Lo, he travaileth [with] iniquity, And he hath conceived perverseness, And hath brought forth falsehood.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14011,
+        "text": "A pit he hath prepared, and he diggeth it, And he falleth into a ditch he maketh.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14012,
+        "text": "Return doth his perverseness on his head, And on his crown his violence cometh down.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14013,
+        "text": "I thank Jehovah, According to His righteousness, And praise the name of Jehovah Most High!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

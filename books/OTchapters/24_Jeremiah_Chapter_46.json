@@ -1,0 +1,208 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 24,"name": "Jeremiah","MaxChapters": 52},
+  "chapter": {
+    "Cnumber": 46,
+    "count": 791,
+    "MaxVerses": 28,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20047,
+        "text": "That which hath been the word of Jehovah unto Jeremiah the prophet concerning the nations,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20048,
+        "text": "For Egypt, concerning the force of Pharaoh-Necho king of Egypt, that hath been by the river Phrat, in Carchemish, that Nebuchadrezzar king of Babylon hath smitten, in the fourth year of Jehoiakim son of Josiah king of Judah:",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20049,
+        "text": "'Set ye in array shield and buckler, And draw nigh to battle.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20050,
+        "text": "Gird the horses, and go up, ye horsemen, And station yourselves with helmets, Polish the javelins, put on the coats of mail.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20051,
+        "text": "Wherefore have I seen them dismayed -- They are turned backward, And their mighty ones are beaten down, And [to] a refuge they have fled, and not turned the face? Fear [is] round about -- an affirmation of Jehovah.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20052,
+        "text": "The swift do not flee, nor do the mighty escape, Northward, by the side of the river Phrat, They have stumbled and fallen.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20053,
+        "text": "Who is this? as a flood he cometh up, As rivers do his waters shake themselves!",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20054,
+        "text": "Egypt, as a flood cometh up, And as rivers the waters shake themselves. And he saith, I go up; I cover the land, I destroy the city and the inhabitants in it.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20055,
+        "text": "Go up, ye horses; and boast yourselves, ye chariots, And go forth, ye mighty, Cush and Phut handling the shield, And Lud handling -- treading the bow.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20056,
+        "text": "And that day [is] to the Lord Jehovah of Hosts A day of vengeance, To be avenged of His adversaries, And the sword hath devoured, and been satisfied, And it hath been watered from their blood, For a sacrifice [is] to the Lord Jehovah of Hosts, In the land of the north, by the river Phrat.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20057,
+        "text": "Go up to Gilead, and take balm, O virgin daughter of Egypt, In vain thou hast multiplied medicines, Healing there is none for thee.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20058,
+        "text": "Nations have heard of thy shame, And thy cry hath filled the land, For the mighty on the mighty did stumble, Together they have fallen -- both of them!'",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 20059,
+        "text": "The word that Jehovah hath spoken unto Jeremiah the prophet concerning the coming in of Nebuchadrezzar king of Babylon, to smite the land of Egypt:",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20060,
+        "text": "'Declare ye in Egypt, and sound in Migdol, Yea, sound in Noph, and in Tahpanhes say: Station thyself, yea, prepare for thee, For a sword hath devoured around thee,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20061,
+        "text": "Wherefore hath thy bull been swept away? He hath not stood, because Jehovah thrust him away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20062,
+        "text": "He hath multiplied the stumbling, Yea one hath fallen upon his neighbour, And they say: Rise, and we turn back to our people, And unto the land of our birth, Because of the oppressing sword.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20063,
+        "text": "They have cried there: Pharaoh king of Egypt [is] a desolation, Passed by hath the appointed time.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20064,
+        "text": "I live -- an affirmation of the King, Jehovah of Hosts [is] His name, Surely as Tabor [is] among mountains, And as Carmel by the sea -- he cometh in,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20065,
+        "text": "Goods for removal make for thee, O inhabitant, daughter of Egypt, For Noph becometh a desolation, And hath been burnt up, without inhabitant.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20066,
+        "text": "A heifer very fair [is] Egypt, Rending from the north doth come into her.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20067,
+        "text": "Even her hired ones in her midst [are] as calves of the stall, For even they have turned, They have fled together, they have not stood, For the day of their calamity hath come on them, The time of their inspection.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20068,
+        "text": "Its voice as a serpent goeth on, For with a force they go, And with axes they have come in to her, As hewers of trees.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20069,
+        "text": "They have cut down her forest, An affirmation of Jehovah -- for it is not searched, For they have been more than the grasshopper, And they have no numbering.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20070,
+        "text": "Ashamed hath been the daughter of Egypt, She hath been given into the hand of the people of the north.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20071,
+        "text": "Said hath Jehovah of Hosts, God of Israel: Lo, I am seeing after Amon of No, And after Pharaoh, and after Egypt, And after her gods, and after her kings, And after Pharaoh, and after those trusting in him,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20072,
+        "text": "And I have given them into the hand of those seeking their life, And into the hand of Nebuchadrezzar king of Babylon, And into the hand of his servants, And afterwards it is inhabited, As [in] days of old -- an affirmation of Jehovah.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20073,
+        "text": "And thou, thou dost not fear, my servant Jacob, Nor [art] thou dismayed, O Israel, For lo, I am saving thee from afar, And thy seed from the land of their captivity, And Jacob hath turned back, And hath been at rest, and been at ease, And there is none disturbing.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 20074,
+        "text": "Thou, thou dost not fear, My servant Jacob, An affirmation of Jehovah -- for with thee I [am], For I make an end of all the nations Whither I have driven thee, And of thee I do not make an end, And I have reproved thee in judgment, And do not entirely acquit thee!'",
+        "WordCount": 54,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 146,
+    "count": 624,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16343,
+        "text": "Praise ye Jah! Praise, O my soul, Jehovah.",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16344,
+        "text": "I praise Jehovah during my life, I sing praise to my God while I exist.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16345,
+        "text": "Trust not in princes -- in a son of man, For he hath no deliverance.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16346,
+        "text": "His spirit goeth forth, he returneth to his earth, In that day have his thoughts perished.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16347,
+        "text": "O the happiness of him Who hath the God of Jacob for his help, His hope [is] on Jehovah his God,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16348,
+        "text": "Making the heavens and earth, The sea and all that [is] in them, Who is keeping truth to the age,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16349,
+        "text": "Doing judgment for the oppressed, Giving bread to the hungry.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16350,
+        "text": "Jehovah is loosing the prisoners, Jehovah is opening (the eyes of) the blind, Jehovah is raising the bowed down, Jehovah is loving the righteous,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16351,
+        "text": "Jehovah is preserving the strangers, The fatherless and widow He causeth to stand, And the way of the wicked He turneth upside down.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16352,
+        "text": "Jehovah doth reign to the age, Thy God, O Zion, to generation and generation, Praise ye Jah!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

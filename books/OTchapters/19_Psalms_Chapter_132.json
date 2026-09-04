@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 132,
+    "count": 610,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16153,
+        "text": "A Song of the Ascents. Remember, Jehovah, for David, all his afflictions.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16154,
+        "text": "Who hath sworn to Jehovah. He hath vowed to the Mighty One of Jacob:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16155,
+        "text": "'If I enter into the tent of my house, If I go up on the couch of my bed,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16156,
+        "text": "If I give sleep to mine eyes, To mine eyelids -- slumber,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 16157,
+        "text": "Till I do find a place for Jehovah, Tabernacles for the Mighty One of Jacob.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16158,
+        "text": "'Lo, we have heard it in Ephratah, We have found it in the fields of the forest.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16159,
+        "text": "We come in to His tabernacles, We bow ourselves at His footstool.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 16160,
+        "text": "Arise, O Jehovah, to Thy rest, Thou, and the ark of Thy strength,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 16161,
+        "text": "Thy priests do put on righteousness, And Thy pious ones cry aloud.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 16162,
+        "text": "For the sake of David Thy servant, Turn not back the face of Thine anointed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 16163,
+        "text": "Jehovah hath sworn truth to David, He turneth not back from it: Of the fruit of thy body, I set on the throne for thee.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16164,
+        "text": "If thy sons keep My covenant, And My testimonies that I teach them, Their sons also for ever and ever, Do sit on the throne for thee.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 16165,
+        "text": "For Jehovah hath fixed on Zion, He hath desired [it] for a seat to Himself,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 16166,
+        "text": "This [is] My rest for ever and ever, Here do I sit, for I have desired it.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 16167,
+        "text": "Her provision I greatly bless, Her needy ones I satisfy [with] bread,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 16168,
+        "text": "And her priests I clothe [with] salvation, And her pious ones do sing aloud.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 16169,
+        "text": "There I cause to spring up a horn for David, I have arranged a lamp for Mine anointed.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 16170,
+        "text": "His enemies I do clothe [with] shame, And upon him doth his crown flourish!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 2,"name": "Exodus","MaxChapters": 40},
+  "chapter": {
+    "Cnumber": 24,
+    "count": 74,
+    "MaxVerses": 18,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 2179,
+        "text": "And unto Moses He said, 'Come up unto Jehovah, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel, and ye have bowed yourselves afar off;'",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 2180,
+        "text": "and Moses hath drawn nigh by himself unto Jehovah; and they draw not nigh, and the people go not up with him.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 2181,
+        "text": "And Moses cometh in, and recounteth to the people all the words of Jehovah, and all the judgments, and all the people answer -- one voice, and say, 'All the words which Jehovah hath spoken we do.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 2182,
+        "text": "And Moses writeth all the words of Jehovah, and riseth early in the morning, and buildeth an altar under the hill, and twelve standing pillars for the twelve tribes of Israel;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 2183,
+        "text": "and he sendeth the youths of the sons of Israel, and they cause burnt-offerings to ascend, and sacrifice sacrifices of peace-offerings to Jehovah -- calves.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 2184,
+        "text": "And Moses taketh half of the blood, and putteth in basins, and half of the blood hath he sprinkled on the altar;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 2185,
+        "text": "and he taketh the Book of the Covenant, and proclaimeth in the ears of the people, and they say, 'All that which Jehovah hath spoken we do, and obey.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 2186,
+        "text": "And Moses taketh the blood, and sprinkleth on the people, and saith, 'Lo, the blood of the covenant which Jehovah hath made with you, concerning all these things.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 2187,
+        "text": "And Moses goeth up, Aaron also, Nadab and Abihu, and seventy of the elders of Israel,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 2188,
+        "text": "and they see the God of Israel, and under His feet [is] as the white work of the sapphire, and as the substance of the heavens for purity;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 2189,
+        "text": "and unto those of the sons of Israel who are near He hath not put forth His hand, and they see God, and eat and drink.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 2190,
+        "text": "And Jehovah saith unto Moses, 'Come up unto Me to the mount, and be there, and I give to thee the tables of stone, and the law, and the command, which I have written to direct them.'",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 2191,
+        "text": "And Moses riseth -- Joshua his minister also -- and Moses goeth up unto the mount of God;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 2192,
+        "text": "and unto the elders he hath said, 'Abide ye for us in this [place], until that we turn back unto you, and lo, Aaron and Hur [are] with you -- he who hath matters doth come nigh unto them.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 2193,
+        "text": "And Moses goeth up unto the mount, and the cloud covereth the mount;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 2194,
+        "text": "and the honour of Jehovah doth tabernacle on mount Sinai, and the cloud covereth it six days, and He calleth unto Moses on the seventh day from the midst of the cloud.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 2195,
+        "text": "And the appearance of the honour of Jehovah [is] as a consuming fire on the top of the mount, before the eyes of the sons of Israel;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 2196,
+        "text": "and Moses goeth into the midst of the cloud, and goeth up unto the mount, and Moses is on the mount forty days and forty nights.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

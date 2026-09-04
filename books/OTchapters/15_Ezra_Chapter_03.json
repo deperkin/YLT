@@ -1,0 +1,103 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 15,"name": "Ezra","MaxChapters": 10},
+  "chapter": {
+    "Cnumber": 3,
+    "count": 406,
+    "MaxVerses": 13,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12099,
+        "text": "And the seventh month cometh, and the sons of Israel [are] in the cities, and the people are gathered, as one men, unto Jerusalem.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12100,
+        "text": "And rise doth Jeshua son of Jozadak, and his brethren the priests, and Zerubbabel son of Shealtiel, and his brethren, and they build the altar of the God of Israel, to cause to ascend upon it burnt-offerings, as it is written in the law of Moses, the man of God.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12101,
+        "text": "And they establish the altar on its bases, because of the fear upon them of the peoples of the lands, and he causeth burnt-offerings to ascend upon it to Jehovah, burnt-offerings for the morning and for the evening.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12102,
+        "text": "And they make the feast of the booths as it is written, and the burnt-offering of the day daily in number according to the ordinance, the matter of a day in its day;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12103,
+        "text": "and after this a continual burnt-offering, and for new moons, and for all appointed seasons of Jehovah that are sanctified; and for every one who is willingly offering a willing-offering to Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12104,
+        "text": "From the first day of the seventh month they have begun to cause burnt-offerings to ascend to Jehovah, and the temple of Jehovah hath not been founded,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12105,
+        "text": "and they give money to hewers and to artificers, and food, and drink, and oil to Zidonians and to Tyrians, to bring in cedar-trees from Lebanon unto the sea of Joppa, according to the permission of Cyrus king of Persia concerning them.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12106,
+        "text": "And in the second year of their coming in unto the house of God, to Jerusalem, in the second month, began Zerubbabel son of Shealtiel, and Jeshua son of Jozadak, and the remnant of their brethren the priests and the Levites, and all those coming from the captivity to Jerusalem, and they appoint the Levites from a son of twenty years and upward, to overlook the work of the house of Jehovah.",
+        "WordCount": 72,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 12107,
+        "text": "And Jeshua standeth, [and] his sons, and his brethren, Kadmiel and his sons, sons of Judah together, to overlook those doing the work in the house of God; the sons of Henadad, [and] their sons and their brethren the Levites.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12108,
+        "text": "And those building have founded the temple of Jehovah, and they appoint the priests, clothed, with trumpets, and the Levites, sons of Asaph, with cymbals, to praise Jehovah, by means of [the instruments of] David king of Israel.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12109,
+        "text": "And they respond in praising and in giving thanks to Jehovah, for good, for to the age His kindness [is] over Israel, and all the people have shouted -- a great shout -- in giving praise to Jehovah, because the house of Jehovah hath been founded.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12110,
+        "text": "And many of the priests, and the Levites, and the heads of the fathers, the aged men who had seen the first house -- in this house being founded before their eyes -- are weeping with a loud voice, and many with a shout, in joy, lifting up the voice;",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12111,
+        "text": "and the people are not discerning the noise of the shout of joy from the noise of the weeping of the people, for the people are shouting -- a great shout -- and the noise hath been heard unto a distance.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

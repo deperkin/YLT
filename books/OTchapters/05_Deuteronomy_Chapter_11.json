@@ -1,0 +1,236 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 5,"name": "Deuteronomy","MaxChapters": 34},
+  "chapter": {
+    "Cnumber": 11,
+    "count": 164,
+    "MaxVerses": 32,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 5210,
+        "text": "'And thou hast loved Jehovah thy God, and kept His charge, and His statutes, and His judgments, and His commands, all the days;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 5211,
+        "text": "and ye have known to-day -- for it is not your sons who have not known, and who have not seen the chastisement of Jehovah your God, His greatness, His strong hand, and His stretched-out arm,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 5212,
+        "text": "and His signs, and His doings, which He hath done in the midst of Egypt, to Pharaoh king of Egypt, and to all his land;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 5213,
+        "text": "and that which He hath done to the force of Egypt, to its horses, and to its chariot, when He hath caused the waters of the Red Sea to flow against their faces in their pursuing after them, and Jehovah destroyeth them, unto this day;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 5214,
+        "text": "and that which He hath done to you in the wilderness, till your coming in unto this place;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 5215,
+        "text": "and that which He hath done to Dathan, and to Abiram, sons of Eliab, sons of Reuben, when the earth hath opened her mouth and swalloweth them, and their houses, and their tents, and all that liveth, which is at their feet, in the midst of all Israel:",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 5216,
+        "text": "' -- But [it is] your eyes which are seeing all the great work of Jehovah, which He hath done;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 5217,
+        "text": "and ye have kept all the command which I am commanding thee to-day, so that ye are strong, and have gone in, and possessed the land whither ye are passing over to possess it,",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 5218,
+        "text": "and so that ye prolong days on the ground which Jehovah hath sworn to your fathers to give to them and to their seed -- a land flowing with milk and honey.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 5219,
+        "text": "'For the land whither thou art going in to possess it, is not as the land of Egypt whence ye have come out, where thou sowest thy seed, and hast watered with thy foot, as a garden of the green herb;",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 5220,
+        "text": "but the land whither ye are passing over to possess it, [is] a land of hills and valleys; of the rain of the heavens it drinketh water;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 5221,
+        "text": "a land which Jehovah thy God is searching; continually [are] the eyes of Jehovah thy God upon it, from the beginning of the year even unto the latter end of the year.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 5222,
+        "text": "'And it hath been -- if thou hearken diligently unto My commands which I am commanding you to-day, to love Jehovah your God, and to serve Him with all your heart, and with all your soul --",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 5223,
+        "text": "that I have given the rain of your land in its season -- sprinkling and gathered -- and thou hast gathered thy corn, and thy new wine, and thine oil,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 5224,
+        "text": "and I have given herbs in thy field for thy cattle, and thou hast eaten, and been satisfied.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 5225,
+        "text": "'Take heed to yourselves, lest your heart be enticed, and ye have turned aside, and served other gods, and bowed yourselves to them,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 5226,
+        "text": "and the anger of Jehovah hath burned against you, and He hath restrained the heavens, and there is no rain, and the ground doth not give her increase, and ye have perished hastily from off the good land which Jehovah is giving to you.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 5227,
+        "text": "'And ye have placed these my words on your heart, and on your soul, and have bound them for a sign on your hand, and they have been for frontlets between your eyes;",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 5228,
+        "text": "and ye have taught them to your sons, by speaking of them in thy sitting in thy house, and in thy going in the way, and in thy lying down, and in thy rising up,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 5229,
+        "text": "and hast written them on the side-posts of thy house, and on thy gates,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 5230,
+        "text": "so that your days are multiplied, and the days of your sons, on the ground which Jehovah hath sworn to your fathers to give to them, as the days of the heavens on the earth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 5231,
+        "text": "'For, if ye diligently keep all this command which I am commanding you -- to do it, to love Jehovah your God, to walk in all His ways, and to cleave to Him,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 5232,
+        "text": "then hath Jehovah dispossessed all these nations from before you, and ye have possessed nations, greater and mightier than you;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 5233,
+        "text": "every place on which the sole of your foot treadeth is yours; from the wilderness, and Lebanon, from the river, the river Phrat, even unto the farther sea is your border;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 5234,
+        "text": "no man doth station himself in your presence; your dread and your fear doth Jehovah your God put on the face of all the land on which ye tread, as He hath spoken to you.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 5235,
+        "text": "'See, I am setting before you to-day a blessing and a reviling:",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 5236,
+        "text": "the blessing, when ye hearken unto the commands of Jehovah your God, which I am commanding you to-day;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 5237,
+        "text": "and the reviling, if ye do not hearken unto the commands of Jehovah your God, and have turned aside out of the way which I am commanding you to-day, to go after other gods which ye have not known.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 5238,
+        "text": "'And it hath been, when Jehovah thy God doth bring thee in unto the land whither thou art going in to possess it, that thou hast given the blessing on mount Gerizim, and the reviling on mount Ebal;",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 5239,
+        "text": "are they not beyond the Jordan, behind the way of the going in of the sun, in the land of the Canaanite, who is dwelling in the plain over-against Gilgal, near the oaks of Moreh?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 5240,
+        "text": "for ye are passing over the Jordan to go in to possess the land which Jehovah your God is giving to you; and ye have possessed it, and dwelt in it,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 5241,
+        "text": "and observed to do all the statutes and the judgments which I am setting before you to day.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

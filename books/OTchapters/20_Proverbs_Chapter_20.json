@@ -1,0 +1,222 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 20,
+    "count": 648,
+    "MaxVerses": 30,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16956,
+        "text": "Wine [is] a scorner -- strong drink [is] noisy, And any going astray in it is not wise.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16957,
+        "text": "The fear of a king [is] a growl as of a young lion, He who is causing him to be wroth is wronging his soul.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 16958,
+        "text": "An honour to a man is cessation from strife, And every fool intermeddleth.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 16959,
+        "text": "Because of winter the slothful plougheth not, He asketh in harvest, and there is nothing.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16960,
+        "text": "Counsel in the heart of a man [is] deep water, And a man of understanding draweth it up.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 16961,
+        "text": "A multitude of men proclaim each his kindness, And a man of stedfastness who doth find?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 16962,
+        "text": "The righteous is walking habitually in his integrity, O the happiness of his sons after him!",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 16963,
+        "text": "A king sitting on a throne of judgment, Is scattering with his eyes all evil,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 16964,
+        "text": "Who saith, 'I have purified my heart, I have been cleansed from my sin?'",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 16965,
+        "text": "A stone and a stone, an ephah and an ephah, Even both of them [are] an abomination to Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 16966,
+        "text": "Even by his actions a youth maketh himself known, Whether his work be pure or upright.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 16967,
+        "text": "A hearing ear, and a seeing eye, Jehovah hath made even both of them.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 16968,
+        "text": "Love not sleep, lest thou become poor, Open thine eyes -- be satisfied [with] bread.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 16969,
+        "text": "'Bad, bad,' saith the buyer, And going his way then he boasteth himself.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 16970,
+        "text": "Substance, gold, and a multitude of rubies, Yea, a precious vessel, [are] lips of knowledge.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 16971,
+        "text": "Take his garment when a stranger hath been surety, And for strangers pledge it.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 16972,
+        "text": "Sweet to a man [is] the bread of falsehood, And afterwards is his mouth filled [with] gravel.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 16973,
+        "text": "Purposes by counsel thou dost establish, And with plans make thou war.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 16974,
+        "text": "A revealer of secret counsels is the busybody, And for a deceiver [with] his lips make not thyself surety.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 16975,
+        "text": "Whoso is vilifying his father and his mother, Extinguished is his lamp in blackness of darkness.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 21,
+        "count": 16976,
+        "text": "An inheritance gotten wrongly at first, Even its latter end is not blessed.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 16977,
+        "text": "Do not say, 'I recompense evil,' Wait for Jehovah, and He delivereth thee.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 23,
+        "count": 16978,
+        "text": "An abomination to Jehovah [are] a stone and a stone, And balances of deceit [are] not good.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 16979,
+        "text": "From Jehovah [are] the steps of a man, And man -- how understandeth he his way?",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 16980,
+        "text": "A snare to a man [is] he hath swallowed a holy thing, And after vows to make inquiry.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 16981,
+        "text": "A wise king is scattering the wicked, And turneth back on them the wheel.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 27,
+        "count": 16982,
+        "text": "The breath of man [is] a lamp of Jehovah, Searching all the inner parts of the heart.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 16983,
+        "text": "Kindness and truth keep a king, And he hath supported by kindness his throne.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 16984,
+        "text": "The beauty of young men is their strength, And the honour of old men is grey hairs.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 16985,
+        "text": "The bandages of a wound thou removest with the evil, Also the plagues of the inner parts of the heart!",
+        "WordCount": 20,
+        "StartsParagraph": true
+      }
+    ]
+  }
+}

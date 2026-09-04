@@ -1,0 +1,229 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 28,
+    "count": 145,
+    "MaxVerses": 31,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4579,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4580,
+        "text": "'Command the sons of Israel, and thou hast said unto them, My offering, My bread for My fire-offerings, My sweet fragrance, ye take heed to bring near to Me in its appointed season.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4581,
+        "text": "'And thou hast said to them, This [is] the fire-offering which ye bring near to Jehovah: two lambs, sons of a year, perfect ones, daily, a continual burnt-offering;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4582,
+        "text": "the one lamb thou preparest in the morning, and the second lamb thou preparest between the evenings;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4583,
+        "text": "and a tenth of the ephah of flour for a present, mixed with beaten oil, a fourth of the hin;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4584,
+        "text": "a continual burnt-offering, which was made in mount Sinai, for sweet fragrance, a fire-offering to Jehovah;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4585,
+        "text": "and its libation, a fourth of the hin for the one lamb; in the sanctuary cause thou a libation of strong drink to be poured out to Jehovah.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4586,
+        "text": "'And the second lamb thou dost prepare between the evenings; as the present of the morning, and as its libation thou preparest -- a fire-offering, a sweet fragrance to Jehovah.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4587,
+        "text": "'And on the sabbath-day, two lambs, sons of a year, perfect ones, and two-tenth deals of flour, a present, mixed with oil, and its libation;",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 4588,
+        "text": "the burnt-offering of the sabbath in its sabbath, besides the continual burnt-offering and its libation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4589,
+        "text": "'And in the beginnings of your months ye bring near a burnt-offering to Jehovah: two bullocks, sons of the herd, and one ram, seven lambs, sons of a year, perfect ones;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4590,
+        "text": "and three-tenth deals of flour, a present, mixed with oil, for the one bullock, and two-tenth deals of flour, a present, mixed with oil, for the one ram;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 4591,
+        "text": "and a several tenth deal of flour, a present, mixed with oil, for the one lamb; a burnt-offering, a sweet fragrance, a fire-offering to Jehovah;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4592,
+        "text": "and their libations are a half of the hin to a bullock, and a third of the hin to a ram, and a fourth of the hin to a lamb, of wine; this [is] the burnt-offering of every month for the months of the year;",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4593,
+        "text": "and one kid of the goats for a sin-offering to Jehovah; besides the continual burnt-offering it is prepared, and its libation.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4594,
+        "text": "'And in the first month, in the fourteenth day of the month, [is] the passover to Jehovah;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 4595,
+        "text": "and in the fifteenth day of this month [is] a festival, seven days unleavened food is eaten;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4596,
+        "text": "in the first day [is] an holy convocation, ye do no servile work,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4597,
+        "text": "and ye have brought near a fire-offering, a burnt-offering to Jehovah: two bullocks, sons of the herd, and one ram, and seven lambs, sons of a year, perfect ones they are for you;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4598,
+        "text": "and their present, flour mixed with oil, three-tenth deals for a bullock, and two-tenth deals for a ram ye do prepare;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4599,
+        "text": "a several tenth deal thou preparest for the one lamb, for the seven lambs,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4600,
+        "text": "and one goat, a sin-offering, to make atonement for you.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4601,
+        "text": "'Apart from the burnt-offering of the morning, which [is] for the continual burnt-offering, ye prepare these;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 4602,
+        "text": "according to these ye prepare daily, seven days, bread of a fire-offering, a sweet fragrance, to Jehovah; besides the continual burnt-offering it is prepared, and its libation;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4603,
+        "text": "and on the seventh day a holy convocation ye have, ye do no servile work.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4604,
+        "text": "'And in the day of the first-fruits, in your bringing near a new present to Jehovah, in your weeks, a holy convocation ye have; ye do no servile work;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4605,
+        "text": "and ye have brought near a burnt-offering for sweet fragrance to Jehovah: two bullocks, sons of the herd, one ram, seven lambs, sons of a year,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4606,
+        "text": "and their present, flour mixed with oil, three-tenth deals to the one bullock, two-tenth deals to the one ram,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4607,
+        "text": "a several tenth deal to the one lamb, for the seven lambs;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4608,
+        "text": "one kid of the goats to make atonement for you;",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4609,
+        "text": "apart from the continual burnt-offering and its present ye prepare [them] (perfect ones they are for you) and their libations.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

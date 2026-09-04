@@ -1,0 +1,82 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 64,
+    "count": 542,
+    "MaxVerses": 10,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14852,
+        "text": "To the Overseer. -- A Psalm of David. Hear, O God, my voice, in my meditation, From the fear of an enemy Thou keepest my life,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14853,
+        "text": "Hidest me from the secret counsel of evil doers, From the tumult of workers of iniquity.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14854,
+        "text": "Who sharpened as a sword their tongue, They directed their arrow -- a bitter word.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14855,
+        "text": "To shoot in secret places the perfect, Suddenly they shoot him, and fear not.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14856,
+        "text": "They strengthen for themselves an evil thing, They recount of the hiding of snares, They have said, 'Who doth look at it?'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14857,
+        "text": "They search out perverse things, 'We perfected a searching search,' And the inward part of man, and the heart [are] deep.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14858,
+        "text": "And God doth shoot them [with] an arrow, Sudden have been their wounds,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 14859,
+        "text": "And they cause him to stumble, Against them [is] their own tongue, Every looker on them fleeth away.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14860,
+        "text": "And all men fear, and declare the work of God, And His deed they have considered wisely.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14861,
+        "text": "The righteous doth rejoice in Jehovah, And hath trusted in Him, And boast themselves do all the upright of heart!",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

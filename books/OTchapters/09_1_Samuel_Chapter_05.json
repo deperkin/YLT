@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 9,"name": "1 Samuel","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 241,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 7321,
+        "text": "And the Philistines have taken the ark of God, and bring it in from Eben-Ezer to Ashdod,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 7322,
+        "text": "and the Philistines take the ark of God and bring it into the house of Dagon, and set it near Dagon.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 7323,
+        "text": "And the Ashdodites rise early on the morrow, and lo, Dagon is fallen on its face to the earth, before the ark of Jehovah; and they take Dagon, and put it back to its place.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 7324,
+        "text": "And they rise early in the morning on the morrow, and lo, Dagon is fallen on its face to the earth, before the ark of Jehovah, and the head of Dagon, and the two palms of its hands are cut off at the threshold, only the fishy part hath been left to him;",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 7325,
+        "text": "therefore the priests of Dagon, and all those coming into the house of Dagon, tread not on the threshold of Dagon, in Ashdod, till this day.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 7326,
+        "text": "And the hand of Jehovah is heavy on the Ashdodites, and He maketh them desolate, and smiteth them with emerods, Ashdod and its borders.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 7327,
+        "text": "And the men of Ashdod see that [it is] so, and have said, 'The ark of the God of Israel doth not abide with us, for hard hath been His hand upon us, and upon Dagon our god.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 7328,
+        "text": "And they send and gather all the princes of the Philistines unto them, and say, 'What do we do to the ark of the God of Israel?' and they say, 'To Gath let the ark of the God of Israel be brought round;' and they bring round the ark of the God of Israel;",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 7329,
+        "text": "and it cometh to pass after they have brought it round, that the hand of Jehovah is against the city -- a very great destruction; and He smiteth the men of the city, from small even unto great; and break forth on them do emerods.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 7330,
+        "text": "And they send the ark of God to Ekron, and it cometh to pass, at the coming in of the ark of God to Ekron, that the Ekronites cry out, saying, 'They have brought round unto us the ark of the God of Israel, to put us to death -- and our people.'",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 7331,
+        "text": "And they send and gather all the princes of the Philistines, and say, 'Send away the ark of the God of Israel, and it turneth back to its place, and it doth not put us to death -- and our people;' for there hath been a deadly destruction throughout all the city, very heavy hath the hand of God been there,",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 7332,
+        "text": "and the men who have not died have been smitten with emerods, and the cry of the city goeth up into the heavens.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

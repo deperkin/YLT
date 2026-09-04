@@ -1,0 +1,61 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 142,
+    "count": 620,
+    "MaxVerses": 7,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 16288,
+        "text": "An Instruction of David, a Prayer when he is in the cave. My voice [is] unto Jehovah, I cry, My voice [is] unto Jehovah, I entreat grace.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 16289,
+        "text": "I pour forth before Him my meditation, My distress before Him I declare.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 16290,
+        "text": "When my spirit hath been feeble in me, Then Thou hast known my path; In the way [in] which I walk, They have hid a snare for me.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 16291,
+        "text": "Looking on the right hand -- and seeing, And I have none recognizing; Perished hath refuge from me, There is none inquiring for my soul.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 16292,
+        "text": "I have cried unto thee, O Jehovah, I have said, 'Thou [art] my refuge, My portion in the land of the living.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 16293,
+        "text": "Attend Thou unto my loud cry, For I have become very low, Deliver Thou me from my pursuers, For they have been stronger than I.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 16294,
+        "text": "Bring forth from prison my soul to confess Thy name, The righteous do compass me about, When Thou conferrest benefits upon me!",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

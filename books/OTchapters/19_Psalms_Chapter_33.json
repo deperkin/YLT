@@ -1,0 +1,166 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 33,
+    "count": 511,
+    "MaxVerses": 22,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14368,
+        "text": "Sing, ye righteous, in Jehovah, For upright ones praise [is] comely.",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14369,
+        "text": "Give ye thanks to Jehovah with a harp, With psaltery of ten strings sing praise to Him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14370,
+        "text": "Sing ye to Him a new song, Play skilfully with shouting.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14371,
+        "text": "For upright [is] the word of Jehovah, And all His work [is] in faithfulness.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14372,
+        "text": "Loving righteousness and judgment, Of the kindness of Jehovah is the earth full.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14373,
+        "text": "By the word of Jehovah The heavens have been made, And by the breath of His mouth all their host.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 14374,
+        "text": "Gathering as a heap the waters of the sea, Putting in treasuries the depths.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14375,
+        "text": "Afraid of Jehovah are all the earth, Of Him are all the inhabitants of the world afraid.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14376,
+        "text": "For He hath said, and it is, He hath commanded, and it standeth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14377,
+        "text": "Jehovah made void the counsel of nations, He disallowed the thoughts of the peoples.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14378,
+        "text": "The counsel of Jehovah to the age standeth, The thoughts of His heart to all generations.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 14379,
+        "text": "O the happiness of the nation whose God [is] Jehovah, Of the people He did choose, For an inheritance to Him.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 14380,
+        "text": "From the heavens hath Jehovah looked, He hath seen all the sons of men.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 14381,
+        "text": "From the fixed place of His dwelling, He looked unto all inhabitants of the earth;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 14382,
+        "text": "Who is forming their hearts together, Who is attending unto all their works.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 14383,
+        "text": "The king is not saved by the multitude of a force. A mighty man is not delivered, By abundance of power.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 14384,
+        "text": "A false thing [is] the horse for safety, And by the abundance of his strength He doth not deliver.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 14385,
+        "text": "Lo, the eye of Jehovah [is] to those fearing Him, To those waiting for His kindness,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 14386,
+        "text": "To deliver from death their soul, And to keep them alive in famine.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 14387,
+        "text": "Our soul hath waited for Jehovah, Our help and our shield [is] He,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 14388,
+        "text": "For in Him doth our heart rejoice, For in His holy name we have trusted.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 14389,
+        "text": "Let Thy kindness, O Jehovah, be upon us, As we have waited for Thee!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

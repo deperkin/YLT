@@ -1,0 +1,243 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 20,"name": "Proverbs","MaxChapters": 31},
+  "chapter": {
+    "Cnumber": 30,
+    "count": 658,
+    "MaxVerses": 33,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 17253,
+        "text": "Words of a Gatherer, son of an obedient one, the declaration, an affirmation of the man: -- I have wearied myself [for] God, I have wearied myself [for] God, and am consumed.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 17254,
+        "text": "For I am more brutish than any one, And have not the understanding of a man.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 17255,
+        "text": "Nor have I learned wisdom, Yet the knowledge of Holy Ones I know.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 17256,
+        "text": "Who went up to heaven, and cometh down? Who hath gathered the wind in his fists? Who hath bound waters in a garment? Who established all ends of the earth? What [is] His name? and what His son's name? Surely thou knowest!",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 17257,
+        "text": "Every saying of God [is] tried, A shield He [is] to those trusting in Him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 17258,
+        "text": "Add not to His words, lest He reason with thee, And thou hast been found false.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 17259,
+        "text": "Two things I have asked from Thee, Withhold not from me before I die.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 17260,
+        "text": "Vanity and a lying word put far from me, Poverty or wealth give not to me, Cause me to eat the bread of my portion,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 17261,
+        "text": "Lest I become satiated, and have denied, And have said, 'Who [is] Jehovah?' And lest I be poor, and have stolen, And have laid hold of the name of my God.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 17262,
+        "text": "Accuse not a servant unto his lord, Lest he disesteem thee, and thou be found guilty.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 17263,
+        "text": "A generation [is], that lightly esteemeth their father, And their mother doth not bless.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 17264,
+        "text": "A generation -- pure in their own eyes, But from their own filth not washed.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 17265,
+        "text": "A generation -- how high are their eyes, Yea, their eyelids are lifted up.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 17266,
+        "text": "A generation -- swords [are] their teeth, And knives -- their jaw-teeth, To consume the poor from earth, And the needy from [among] men.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 17267,
+        "text": "To the leech [are] two daughters, 'Give, give, Lo, three things are not satisfied, Four have not said 'Sufficiency;'",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 17268,
+        "text": "Sheol, and a restrained womb, Earth -- it [is] not satisfied [with] water, And fire -- it hath not said, 'Sufficiency,'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 17269,
+        "text": "An eye that mocketh at a father, And despiseth to obey a mother, Dig it out do ravens of the valley, And eat it do young eagles.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 17270,
+        "text": "Three things have been too wonderful for me, Yea, four that I have not known:",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 17271,
+        "text": "The way of the eagle in the heavens, The way of a serpent on a rock, The way of a ship in the heart of the sea, And the way of a man in youth.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 17272,
+        "text": "So -- the way of an adulterous woman, She hath eaten and hath wiped her mouth, And hath said, 'I have not done iniquity.'",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 17273,
+        "text": "For three things hath earth been troubled, And for four -- it is not able to bear:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 17274,
+        "text": "For a servant when he reigneth, And a fool when he is satisfied with bread,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 17275,
+        "text": "For a hated one when she ruleth, And a maid-servant when she succeedeth her mistress.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 17276,
+        "text": "Four [are] little ones of earth, And they are made wiser than the wise:",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 17277,
+        "text": "The ants [are] a people not strong, And they prepare in summer their food,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 17278,
+        "text": "Conies [are] a people not strong, And they place in a rock their house,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 17279,
+        "text": "A king there is not to the locust, And it goeth out -- each one shouting,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 17280,
+        "text": "A spider with two hands taketh hold, And is in the palaces of a king.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 17281,
+        "text": "Three there are going well, Yea, four are good in going:",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 17282,
+        "text": "An old lion -- mighty among beasts, That turneth not back from the face of any,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 17283,
+        "text": "A girt one of the loins, or a he-goat, And a king -- no rising up with him.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 17284,
+        "text": "If thou hast been foolish in lifting up thyself, And if thou hast devised evil -- hand to mouth!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 17285,
+        "text": "For the churning of milk bringeth out butter, And the wringing of the nose bringeth out blood, And the forcing of anger bringeth out strife!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

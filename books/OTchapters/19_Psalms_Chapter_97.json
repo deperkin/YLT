@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 97,
+    "count": 575,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15480,
+        "text": "Jehovah hath reigned, The earth is joyful, many isles rejoice.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15481,
+        "text": "Cloud and darkness [are] round about Him, Righteousness and judgment the basis of His throne.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15482,
+        "text": "Fire before Him goeth, And burneth round about His adversaries.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15483,
+        "text": "Lightened have His lightnings the world, The earth hath seen, and is pained.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15484,
+        "text": "Hills, like wax, melted before Jehovah, Before the Lord of all the earth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15485,
+        "text": "The heavens declared His righteousness, And all the peoples have seen His honour.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15486,
+        "text": "Ashamed are all servants of a graven image, Those boasting themselves in idols, Bow yourselves to him, all ye gods.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15487,
+        "text": "Zion hath heard and rejoiceth, And daughters of Judah are joyful, Because of Thy judgments, O Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15488,
+        "text": "For Thou, Jehovah, [art] Most High over all the earth, Greatly Thou hast been exalted over all gods.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15489,
+        "text": "Ye who love Jehovah, hate evil, He is keeping the souls of His saints, From the hand of the wicked he delivereth them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15490,
+        "text": "Light [is] sown for the righteous, And for the upright of heart -- joy.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15491,
+        "text": "Rejoice, ye righteous, in Jehovah, And give thanks at the remembrance of his holiness!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

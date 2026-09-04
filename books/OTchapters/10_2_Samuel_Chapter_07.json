@@ -1,0 +1,215 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 10,"name": "2 Samuel","MaxChapters": 24},
+  "chapter": {
+    "Cnumber": 7,
+    "count": 274,
+    "MaxVerses": 29,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 8182,
+        "text": "And it cometh to pass, when the king sat in his house, and Jehovah hath given rest to him round about, from all his enemies,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 8183,
+        "text": "that the king saith unto Nathan the prophet, 'See, I pray thee, I am dwelling in a house of cedars, and the ark of God is dwelling in the midst of the curtain.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 8184,
+        "text": "And Nathan saith unto the king, 'All that [is] in thine heart -- go, do, for Jehovah [is] with thee.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 8185,
+        "text": "And it cometh to pass in that night, that the word of Jehovah is unto Nathan, saying,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 8186,
+        "text": "'Go, and thou hast said unto My servant, unto David, Thus said Jehovah, Dost thou build for Me a house for My dwelling in?",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 8187,
+        "text": "for I have not dwelt in a house even from the day of My bringing up the sons of Israel out of Egypt, even unto this day, and am walking up and down in a tent and in a tabernacle.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 8188,
+        "text": "During all [the time] that I have walked up and down among all the sons of Israel, a word have I spoken with one of the tribes of Israel which I commanded to feed my people Israel, saying, 'Why have ye not built to Me a house of cedars?",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 8189,
+        "text": "and now, thus dost thou say to My servant, to David: 'Thus said Jehovah of Hosts, I have taken thee from the comely place, from after the flock, to be leader over My people, over Israel;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 8190,
+        "text": "and I am with thee whithersoever thou hast gone, and I cut off all thine enemies from thy presence, and have made for thee a great name, as the name of the great ones who [are] in the earth,",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 8191,
+        "text": "and I have appointed a place for My people, for Israel, and have planted it, and it hath tabernacled in its place, and it is not troubled any more, and the sons of perverseness do not add to afflict it any more, as in the beginning,",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 8192,
+        "text": "even from the day that I appointed judges over My people Israel; and I have given rest to thee from all thine enemies, and Jehovah hath declared to thee that Jehovah doth make for thee a house.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 8193,
+        "text": "'When thy days are full, and thou hast lain with thy fathers, then I have raised up thy seed after thee which goeth out from thy bowels, and have established his kingdom;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 8194,
+        "text": "He doth build a house for My Name, and I have established the throne of his kingdom unto the age.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 8195,
+        "text": "I am to him for a father, and he is to Me for a son; whom in his dealings perversely I have even reproved with a rod of men, and with strokes of the sons of Adam,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 8196,
+        "text": "and My kindness doth not turn aside from him, as I turned it aside from Saul, whom I turned aside from before thee,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 8197,
+        "text": "and stedfast [is] thy house and thy kingdom unto the age before thee, thy throne is established unto the age.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 8198,
+        "text": "According to all these words, and according to all this vision, so spake Nathan unto David.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 8199,
+        "text": "And king David cometh in and sitteth before Jehovah, and saith, 'Who [am] I, Lord Jehovah? and what my house, that Thou hast brought me hitherto?",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 8200,
+        "text": "And yet this [is] little in Thine eyes, Lord Jehovah, and Thou dost speak also concerning the house of Thy servant afar off; and this [is] the law of the Man, Lord Jehovah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 8201,
+        "text": "And what doth David add more to speak unto Thee? and Thou, Thou hast known Thy servant, Lord Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 8202,
+        "text": "Because of Thy word, and according to Thy heart, Thou hast done all this greatness, to cause Thy servant to know [it].",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 8203,
+        "text": "Therefore Thou hast been great, Jehovah God, for there is none like Thee, and there is no God save Thee, according to all that we have heard with our ears.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 8204,
+        "text": "'And who [is] as Thy people, as Israel -- one nation in the earth, whom God hath gone to redeem to Him for a people, and to make for Him a name -- and to do for you the greatness -- even fearful things for Thy land, at the presence of Thy people, whom Thou hast redeemed to Thee out of Egypt -- [among the] nations and their gods?",
+        "WordCount": 69,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 8205,
+        "text": "Yea, Thou dost establish to Thee Thy people Israel, to Thee for a people unto the age, and Thou, Jehovah, hast been to them for God.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 8206,
+        "text": "'And now, Jehovah God, the word which Thou hast spoken concerning Thy servant, and concerning his house, establish unto the age, and do as Thou hast spoken;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 8207,
+        "text": "And Thy Name is great unto the age, saying, Jehovah of Hosts [is] God over Israel, and the house of Thy servant David is established before Thee,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 8208,
+        "text": "For Thou, Jehovah of Hosts, God of Israel, Thou hast uncovered the ear of Thy servant, saying, A house I build for thee, therefore hath Thy servant found his heart to pray unto Thee this prayer;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 8209,
+        "text": "And now, Lord Jehovah, Thou [art] God Himself, and Thy words are truth, and Thou speakest unto Thy servant this goodness,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 8210,
+        "text": "And now, begin and bless the house of Thy servant, to be unto the age before Thee, for Thou, Lord Jehovah, hast spoken, and by Thy blessing is the house of Thy servant blessed -- to the age.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

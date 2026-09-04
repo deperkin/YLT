@@ -1,0 +1,145 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 80,
+    "count": 558,
+    "MaxVerses": 19,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15200,
+        "text": "To the Overseer. -- 'On the Lilies.' A testimony of Asaph. -- A Psalm. Shepherd of Israel, give ear, Leading Joseph as a flock, Inhabiting the cherubs -- shine forth,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15201,
+        "text": "Before Ephraim, and Benjamin, and Manasseh, Wake up Thy might, and come for our salvation.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15202,
+        "text": "O God, cause us to turn back, And cause Thy face to shine, and we are saved.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15203,
+        "text": "Jehovah, God of Hosts, till when? Thou hast burned against the prayer of Thy people.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15204,
+        "text": "Thou hast caused them to eat bread of tears, And causest them to drink With tears a third time.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15205,
+        "text": "Thou makest us a strife to our neighbours, And our enemies mock at it.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15206,
+        "text": "God of Hosts, turn us back, And cause Thy face to shine, and we are saved.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15207,
+        "text": "A vine out of Egypt Thou dost bring, Thou dost cast out nations, and plantest it.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15208,
+        "text": "Thou hast looked before it, and dost root it, And it filleth the land,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15209,
+        "text": "Covered have been hills [with] its shadow, And its boughs [are] cedars of God.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15210,
+        "text": "It sendeth forth its branches unto the sea, And unto the river its sucklings.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15211,
+        "text": "Why hast Thou broken down its hedges, And all passing by the way have plucked it?",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15212,
+        "text": "A boar out of the forest doth waste it, And a wild beast of the fields consumeth it.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15213,
+        "text": "God of Hosts, turn back, we beseech Thee, Look from heaven, and see, and inspect this vine,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15214,
+        "text": "And the root that Thy right hand planted, And the branch Thou madest strong for Thee,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15215,
+        "text": "Burnt with fire -- cut down, From the rebuke of Thy face they perish.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15216,
+        "text": "Let Thy hand be on the man of Thy right hand, On the son of man Thou hast strengthened for Thyself.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15217,
+        "text": "And we do not go back from Thee, Thou dost revive us, and in Thy name we call.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15218,
+        "text": "O Jehovah, God of Hosts, turn us back, Cause Thy face to shine, and we are saved!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 12,
+    "count": 448,
+    "MaxVerses": 25,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13130,
+        "text": "And Job answereth and saith: --",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13131,
+        "text": "Truly -- ye [are] the people, And with you doth wisdom die.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13132,
+        "text": "I also have a heart like you, I am not fallen more than you, And with whom is there not like these?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13133,
+        "text": "A laughter to his friend I am: 'He calleth to God, and He answereth him,' A laughter [is] the perfect righteous one.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13134,
+        "text": "A torch -- despised in the thoughts of the secure Is prepared for those sliding with the feet.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13135,
+        "text": "At peace are the tents of spoilers, And those provoking God have confidence, He into whose hand God hath brought.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 13136,
+        "text": "And yet, ask, I pray thee, [One of] the beasts, and it doth shew thee, And a fowl of the heavens, And it doth declare to thee.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 13137,
+        "text": "Or talk to the earth, and it sheweth thee, And fishes of the sea recount to thee:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13138,
+        "text": "'Who hath not known in all these, That the hand of Jehovah hath done this?",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13139,
+        "text": "In whose hand [is] the breath of every living thing, And the spirit of all flesh of man.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13140,
+        "text": "Doth not the ear try words? And the palate taste food for itself?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13141,
+        "text": "With the very aged [is] wisdom, And [with] length of days understanding.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 13142,
+        "text": "With Him [are] wisdom and might, To him [are] counsel and understanding.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13143,
+        "text": "Lo, He breaketh down, and it is not built up, He shutteth against a man, And it is not opened.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13144,
+        "text": "Lo, He keepeth in the waters, and they are dried up, And he sendeth them forth, And they overturn the land.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13145,
+        "text": "With Him [are] strength and wisdom, His the deceived and deceiver.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13146,
+        "text": "Causing counsellors to go away a spoil, And judges He maketh foolish.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 13147,
+        "text": "The bands of kings He hath opened, And He bindeth a girdle on their loins.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 13148,
+        "text": "Causing ministers to go away a spoil And strong ones He overthroweth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 13149,
+        "text": "Turning aside the lip of the stedfast, And the reason of the aged He taketh away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 13150,
+        "text": "Pouring contempt upon princes, And the girdle of the mighty He made feeble.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 13151,
+        "text": "Removing deep things out of darkness, And He bringeth out to light death-shade.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 13152,
+        "text": "Magnifying the nations, and He destroyeth them, Spreading out the nations, and He quieteth them.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 13153,
+        "text": "Turning aside the heart Of the heads of the people of the land, And he causeth them to wander In vacancy -- no way!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 13154,
+        "text": "They feel darkness, and not light, He causeth them to wander as a drunkard.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

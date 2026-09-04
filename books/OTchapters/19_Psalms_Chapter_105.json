@@ -1,0 +1,327 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 105,
+    "count": 583,
+    "MaxVerses": 45,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 15608,
+        "text": "Give ye thanks to Jehovah -- call ye in His name, Make known among the peoples His acts.",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 15609,
+        "text": "Sing ye to Him -- sing praise to Him, Meditate ye on all His wonders.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 15610,
+        "text": "Boast yourselves in His Holy Name, The heart of those seeking Jehovah rejoiceth.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 15611,
+        "text": "Seek ye Jehovah and His strength, Seek ye His face continually.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 15612,
+        "text": "Remember His wonders that He did, His signs and the judgments of His mouth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 15613,
+        "text": "O seed of Abraham, His servant, O sons of Jacob, His chosen ones.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 15614,
+        "text": "He [is] Jehovah our God, In all the earth [are] His judgments.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 15615,
+        "text": "He hath remembered to the age His covenant, The word He commanded to a thousand generations,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 15616,
+        "text": "That He hath made with Abraham, And His oath to Isaac,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 15617,
+        "text": "And doth establish it to Jacob for a statute, To Israel -- a covenant age-during,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 15618,
+        "text": "Saying, 'To thee I give the land of Canaan, The portion of your inheritance,'",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 15619,
+        "text": "In their being few in number, But a few, and sojourners in it.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 15620,
+        "text": "And they go up and down, from nation unto nation, From a kingdom unto another people.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 15621,
+        "text": "He hath not suffered any to oppress them And He reproveth for their sakes kings.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 15622,
+        "text": "'Strike not against Mine anointed, And to My prophets do not evil.'",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 15623,
+        "text": "And He calleth a famine on the land, The whole staff of bread He hath broken.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 15624,
+        "text": "He hath sent before them a man, For a servant hath Joseph been sold.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 15625,
+        "text": "They have afflicted with fetters his feet, Iron hath entered his soul,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 15626,
+        "text": "Till the time of the coming of His word The saying of Jehovah hath tried him.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 15627,
+        "text": "The king hath sent, and looseth him, The ruler of the peoples, and draweth him out.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 15628,
+        "text": "He hath made him lord of his house, And ruler over all his possessions.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 15629,
+        "text": "To bind his chiefs at his pleasure, And his elders he maketh wise.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 15630,
+        "text": "And Israel cometh in to Egypt, And Jacob hath sojourned in the land of Ham.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 15631,
+        "text": "And He maketh His people very fruitful, And maketh it mightier than its adversaries.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 15632,
+        "text": "He turned their heart to hate His people, To conspire against His servants.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 26,
+        "count": 15633,
+        "text": "He hath sent Moses His servant, Aaron whom He had fixed on.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 15634,
+        "text": "They have set among them the matters of His signs, And wonders in the land of Ham.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 15635,
+        "text": "He hath sent darkness, and it is dark, And they have not provoked His word.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 15636,
+        "text": "He hath turned their waters to blood, And putteth to death their fish.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 15637,
+        "text": "Teemed hath their land [with] frogs, In the inner chambers of their kings.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 15638,
+        "text": "He hath said, and the beetle cometh, Lice into all their border.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 15639,
+        "text": "He hath made their showers hail, A flaming fire [is] in their land.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 15640,
+        "text": "And He smiteth their vine and their fig, And shivereth the trees of their border.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 15641,
+        "text": "He hath said, and the locust cometh, And the cankerworm -- innumerable,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 15642,
+        "text": "And it consumeth every herb in their land, And it consumeth the fruit of their ground.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 15643,
+        "text": "And He smiteth every first-born in their land, The first-fruit of all their strength,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 15644,
+        "text": "And bringeth them out with silver and gold, And there is not in its tribes a feeble one.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 15645,
+        "text": "Rejoiced hath Egypt in their going forth, For their fear had fallen upon them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 15646,
+        "text": "He hath spread a cloud for a covering, And fire to enlighten the night.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 15647,
+        "text": "They have asked, and He bringeth quails, And [with] bread of heaven satisfieth them.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 15648,
+        "text": "He hath opened a rock, and waters issue, They have gone on in dry places -- a river.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 15649,
+        "text": "For He hath remembered His holy word, With Abraham His servant,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 15650,
+        "text": "And He bringeth forth His people with joy, With singing His chosen ones.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 15651,
+        "text": "And He giveth to them the lands of nations, And the labour of peoples they possess,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 15652,
+        "text": "That they may observe His statutes, And His laws may keep. Praise ye Jehovah!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

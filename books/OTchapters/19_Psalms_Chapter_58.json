@@ -1,0 +1,89 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 58,
+    "count": 536,
+    "MaxVerses": 11,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 14781,
+        "text": "To the Overseer. -- 'Destroy not.' -- A secret treasure, by David. Is it true, O dumb one, righteously ye speak? Uprightly ye judge, O sons of men?",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 14782,
+        "text": "Even in heart ye work iniquities, In the land the violence of your hands ye ponder.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 14783,
+        "text": "The wicked have been estranged from the womb, They have erred from the belly, speaking lies.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 14784,
+        "text": "Their poison [is] as poison of a serpent, As a deaf asp shutting its ear,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 14785,
+        "text": "Which hearkeneth not to the voice of whisperers, A charmer of charms most skilful.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 14786,
+        "text": "O God, break their teeth in their mouth, The jaw-teeth of young lions break down, O Jehovah.",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 14787,
+        "text": "They are melted as waters, They go up and down for themselves, His arrow proceedeth as they cut themselves off.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 14788,
+        "text": "As a snail that melteth he goeth on, [As] an untimely birth of a woman, They have not seen the sun.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 14789,
+        "text": "Before your pots discern the bramble, As well the raw as the heated He whirleth away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 14790,
+        "text": "The righteous rejoiceth that he hath seen vengeance, His steps he washeth in the blood of the wicked.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 14791,
+        "text": "And man saith: 'Surely fruit [is] for the righteous: Surely there is a God judging in the earth!'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

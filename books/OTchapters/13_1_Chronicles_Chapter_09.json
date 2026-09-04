@@ -1,0 +1,320 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 13,"name": "1 Chronicles","MaxChapters": 29},
+  "chapter": {
+    "Cnumber": 9,
+    "count": 347,
+    "MaxVerses": 44,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 10617,
+        "text": "And all Israel have reckoned themselves by genealogy, and lo, they are written on the book of the kings of Israel and Judah -- they were removed to Babylon for their trespass.",
+        "WordCount": 32,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 10618,
+        "text": "And the first inhabitants, who [are] in their possession, in their cities, of Israel, [are] the priests, the Levites, and the Nethinim.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 10619,
+        "text": "And in Jerusalem dwelt of the sons of Judah, and of the sons of Benjamin, and of the sons of Ephraim and Manasseh:",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 10620,
+        "text": "Uthai son of Ammihud, son of Omri, son of Imri, son of Bani, of the sons of Pharez, son of Judah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 10621,
+        "text": "And of the Shilonite: Asaiah the first-born, and his sons.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 10622,
+        "text": "And of the sons of Zerah: Jeuel, and their brethren, six hundred and ninety.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 10623,
+        "text": "And of the sons of Benjamin: Sallu son of Meshullam, son of Hodaviah, son of Hassenuah,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 10624,
+        "text": "and Ibneiah son of Jeroham, and Elah son of Uzzi, son of Michri, and Meshullam son of Shephatiah, son of Reuel, son of Ibnijah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 10625,
+        "text": "And their brethren, according to their generations, [are] nine hundred and fifty and six. All these [are] men, heads of fathers, according to the house of their fathers.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 10626,
+        "text": "And of the priests: Jedaiah, and Jehoiarib, and Jachin,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 10627,
+        "text": "and Azariah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, leader in the house of God;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 10628,
+        "text": "and Adaiah son of Jeroham, son of Pashhur, son of Malchijah, and Maasai son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 10629,
+        "text": "And their brethren, heads to the house of their fathers, a thousand and seven hundred and sixty, mighty in valour, [are] for the work of the service of the house of God.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 10630,
+        "text": "And of the Levites: Shemaiah son of Hashshub, son of Azrikam, son of Hashabiah, of the sons of Merari;",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 10631,
+        "text": "and Bakbakkar, Heresh, and Galal, and Mattaniah son of Micah, son of Zichri, son of Asaph;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 10632,
+        "text": "and Obadiah son of Shemariah, son of Galal, son of Jeduthun, and Berechiah, son of Asa, son of Elkanah, who is dwelling in the villages of the Netophathite.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 10633,
+        "text": "And the gatekeepers [are] Shallum, and Akkub, and Talmon, and Ahiman, and their brethren -- Shallum [is] the head;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 10634,
+        "text": "and hitherto they [are] at the gate of the king eastward; they [are] the gatekeepers for the companies of the sons of Levi.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 10635,
+        "text": "And Shallum son of Kore, son of Ebiasaph, son of Korah, and his brethren, of the house of his father, the Korahites, [are] over the work of the service, keepers of the thresholds of the tent, and their fathers [are] over the camp of Jehovah, keepers of the entrance;",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 10636,
+        "text": "and Phinehas son of Eleazar hath been leader over them formerly; Jehovah [is] with him.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 10637,
+        "text": "Zechariah son of Meshelemiah [is] gatekeeper at the opening of the tent of meeting.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 10638,
+        "text": "All of those who are chosen for gatekeepers at the thresholds [are] two hundred and twelve; they [are] in their villages, by their genealogy; they whom David and Samuel the seer appointed in their office.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 10639,
+        "text": "And they and their sons [are] over the gates of the house of Jehovah, even of the house of the tent, by watches.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 10640,
+        "text": "At four sides are the gatekeepers, east, west, north, and south.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 10641,
+        "text": "And their brethren in their villages [are] to come in for seven days from time to time with these.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 10642,
+        "text": "For in office [are] the four chiefs of the gatekeepers, they are Levites, and they have been over the chambers, and over the treasuries of the house of God,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 10643,
+        "text": "and round about the house of God they lodge, for on them [is] the watch, and they [are] over the opening, even morning by morning.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 10644,
+        "text": "And [some] of them [are] over the vessels of service, for by number they bring them in, and by number they take them out.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 10645,
+        "text": "And [some] of them are appointed over the vessels, even over all the vessels of the sanctuary, and over the fine flour, and the wine, and the oil, and the frankincense, and the spices.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 10646,
+        "text": "And [some] of the sons of the priests are mixing the mixture for spices.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 10647,
+        "text": "And Mattithiah, of the Levites (he [is] the first-born to Shallum the Korahite), [is] in office over the work of the pans.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 10648,
+        "text": "And of the sons of the Kohathite, [some] of their brethren [are] over the bread of the arrangement, to prepare [it] sabbath by sabbath.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 10649,
+        "text": "And these who sing, heads of fathers of the Levites, in the chambers, [are] free, for by day and by night [they are] over them in the work.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 10650,
+        "text": "These heads of the fathers of the Levites throughout their generations [are] heads. These have dwelt in Jerusalem.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 10651,
+        "text": "And in Gibeon dwelt hath the father of Gibeon, Jehiel, and the name of his wife [is] Maachah;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 10652,
+        "text": "and his son, the first-born, [is] Abdon, and Zur, and Kish, and Baal, and Ner, and Nadab,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 10653,
+        "text": "and Gedor, and Ahio, and Zechariah, and Mikloth.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 10654,
+        "text": "And Mikloth begat Shimeam, and they also, over-against their brethren, have dwelt in Jerusalem with their brethren.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 10655,
+        "text": "And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchi-Shua, and Abinadab, and Esh-Baal.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 10656,
+        "text": "And a son of Jonathan [is] Merib-Baal, and Merib-Baal begat Micah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 10657,
+        "text": "And sons of Micah: Pithon, and Melech, and Tahrea,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 10658,
+        "text": "and Ahaz -- he begat Jaarah, and Jaarah begat Alemeth, and Azmaveth, and Zimri, and Zimri begat Moza,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 10659,
+        "text": "and Moza begat Binea, and Rephaiah [is] his son. Eleasah his son, Azel his son.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 10660,
+        "text": "And to Azel [are] six sons, and these their names: Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these [are] sons of Azel.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

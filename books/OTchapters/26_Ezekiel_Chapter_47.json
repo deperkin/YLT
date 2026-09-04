@@ -1,0 +1,173 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 26,"name": "Ezekiel","MaxChapters": 48},
+  "chapter": {
+    "Cnumber": 47,
+    "count": 849,
+    "MaxVerses": 23,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 21681,
+        "text": "And he causeth me to turn back unto the opening of the house; and lo, water is coming forth from under the threshold of the house eastward, for the front of the house [is] eastward, and the water is coming down from beneath, from the right side of the house, from the south of the altar.",
+        "WordCount": 56,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 21682,
+        "text": "And he causeth me to go out the way of the gate northward, and causeth me to turn round the way without, unto the gate that [is] without, the way that is looking eastward, and lo, water is coming forth from the right side.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 21683,
+        "text": "In the going out of the man eastward, and a line in his hand, then he measureth a thousand by the cubit, and he causeth me to pass over into water -- water to the ankles.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 21684,
+        "text": "And he measureth a thousand, and causeth me to pass over into water -- water to the knees. And he measureth a thousand, and causeth me to pass over -- water to the loins.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 21685,
+        "text": "And he measureth a thousand -- a stream that I am not able to pass over; for risen have the waters -- waters to swim in -- a stream that is not passed over.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 21686,
+        "text": "And he saith unto me, 'Hast thou seen, son of man?' and he leadeth me, and bringeth me back unto the edge of the stream.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 21687,
+        "text": "In my turning back, then, lo, at the edge of the stream [are] very many trees, on this side and on that side.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 21688,
+        "text": "And he saith unto me, 'These waters are going forth unto the east circuit, and have gone down unto the desert, and have entered the sea; unto the sea they are brought forth, and the waters have been healed.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 21689,
+        "text": "And it hath come to pass, every living creature that teemeth, whithersoever the streams come, doth live: and there hath been great abundance of fish, for these waters have come thither, and they are healed; and every thing whither the stream cometh hath lived.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 21690,
+        "text": "And it hath come to pass, fishers do stand by it, from En-Gedi even unto En-Eglaim; a spreading place of nets they are; according to their own kind is their fish, as the fish of the great sea, very many.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 21691,
+        "text": "Its miry and its marshy places -- they are not healed; to salt they have been given up.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 21692,
+        "text": "And by the stream there cometh up on its edge, on this side and on that side, every [kind of] fruit-tree whose leaf fadeth not, and not consumed is its fruit, according to its months it yieldeth first-fruits, because its waters from the sanctuary are coming forth; and its fruits hath been for food, and its leaf for medicine.",
+        "WordCount": 59,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 21693,
+        "text": "'Thus said the Lord Jehovah: This [is] the border whereby ye inherit the land, according to the twelve tribes of Israel; Joseph [hath] portions.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 21694,
+        "text": "And ye have inherited it, one as well as another, in that I have lifted up My hand to give it to your fathers; and this land hath fallen to you in inheritance.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 21695,
+        "text": "'And this [is] the border of the land at the north quarter; from the great sea, the way of Hethlon, at the coming in to Zedad:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 21696,
+        "text": "Hamath, Berothah, Sibraim, that [is] between the border of Damascus and the border of Hamath; Hazar-Hatticon, that [is] at the coast of Havran.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 21697,
+        "text": "And the border from the sea hath been Hazar-Enan, the border of Damascus, and Zaphon at the north, and the border of Hamath: and [this is] the north quarter.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 21698,
+        "text": "'And the east quarter [is] from between Havran, and Damascus, and Gilead, and the land of Israel, [to] the Jordan; from the border over-against the eastern sea ye measure: and [this is] the east quarter.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 21699,
+        "text": "'And the south quarter southward [is] from Tamar unto the waters of Meriboth-Kadesh, the stream unto the great sea: and [this is] the south quarter southward.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 21700,
+        "text": "'And the west quarter [is] the great sea, from the border till over-against the coming in to Hamath: this [is] the west quarter.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 21701,
+        "text": "'And ye have divided this land to you, according to the tribes of Israel;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 21702,
+        "text": "and it hath come to pass, ye separate it for an inheritance to yourselves, and to the sojourners who are sojourning in your midst, who have begotten sons in your midst, and they have been to you as native, with the sons of Israel, with you they are separated for an inheritance in the midst of the tribes of Israel.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 21703,
+        "text": "And it hath come to pass, in the tribe with which the sojourner sojourneth, there ye give his inheritance -- an affirmation of the Lord Jehovah.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

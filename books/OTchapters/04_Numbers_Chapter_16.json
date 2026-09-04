@@ -1,0 +1,362 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 4,"name": "Numbers","MaxChapters": 36},
+  "chapter": {
+    "Cnumber": 16,
+    "count": 133,
+    "MaxVerses": 50,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 4196,
+        "text": "And Korah, son of Izhar, son of Kohath, son of Levi, taketh both Dathan and Abiram sons of Eliab, and On son of Peleth, sons of Reuben,",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 4197,
+        "text": "and they rise up before Moses, with men of the sons of Israel, two hundred and fifty, princes of the company, called of the convention, men of name,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 4198,
+        "text": "and they are assembled against Moses and against Aaron, and say unto them, 'Enough of you! for all the company -- all of them [are] holy, and in their midst [is] Jehovah; and wherefore do ye lift yourselves up above the assembly of Jehovah?'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 4199,
+        "text": "And Moses heareth, and falleth on his face,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 4200,
+        "text": "and he speaketh unto Korah, and unto all his company, saying, 'Morning! -- and Jehovah is knowing those who are his, and him who is holy, and hath brought near unto Him; even him whom He doth fix on He bringeth near unto Him.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 4201,
+        "text": "This do: take to yourselves censers, Korah, and all his company,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 4202,
+        "text": "and put in them fire, and put on them perfume, before Jehovah to-morrow, and it hath been, the man whom Jehovah chooseth, he [is] the holy one; -- enough of you, sons of Levi.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 4203,
+        "text": "And Moses saith unto Korah, 'Hear ye, I pray you, sons of Levi;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 4204,
+        "text": "is it little to you that the God of Israel hath separated you from the company of Israel to bring you near unto Himself, to do the service of the tabernacle of Jehovah, and to stand before the company to serve them? --",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 4205,
+        "text": "yea, He doth bring thee near, and all thy brethren the sons of Levi with thee -- and ye have sought also the priesthood!",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 4206,
+        "text": "Therefore, thou and all thy company who are met [are] against Jehovah; and Aaron, what [is] he, that ye murmur against him?'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 4207,
+        "text": "And Moses sendeth to call for Dathan and for Abiram sons of Eliab, and they say, 'We do not come up;",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 4208,
+        "text": "is it little that thou hast brought us up out of a land flowing with milk and honey to put us to death in a wilderness that thou also certainly makest thyself prince over us?",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 4209,
+        "text": "Yea, unto a land flowing with milk and honey thou hast not brought us in, nor dost thou give to us an inheritance of field and vineyard; the eyes of these men dost thou pick out? we do not come up.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 4210,
+        "text": "And it is very displeasing to Moses, and he saith unto Jehovah, 'Turn not Thou unto their present; not one ass from them have I taken, nor have I afflicted one of them.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 4211,
+        "text": "And Moses saith unto Korah, 'Thou and all thy company, be ye before Jehovah, thou, and they, and Aaron, to-morrow;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 4212,
+        "text": "and take ye each his censer, and ye have put on them perfume, and brought near before Jehovah, each his censer, two hundred and fifty censers; and thou and Aaron, each his censer.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 4213,
+        "text": "And they take each his censer, and put on them fire, and lay on them perfume, and they stand at the opening of the tent of meeting, with Moses and Aaron.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 4214,
+        "text": "And Korah assembleth against them all the company unto the opening of the tent of meeting, and the honour of Jehovah is seen by all the company.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 4215,
+        "text": "And Jehovah speaketh unto Moses and unto Aaron, saying,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 4216,
+        "text": "'Be ye separated from the midst of this company, and I consume them in a moment;'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 4217,
+        "text": "and they fall on their faces, and say, 'God, God of the spirits of all flesh -- the one man sinneth, and against all the company Thou art wroth!'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 4218,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 4219,
+        "text": "'Speak unto the company, saying, Go ye up from round about the tabernacle of Korah, Dathan, and Abiram.'",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 4220,
+        "text": "And Moses riseth, and goeth unto Dathan and Abiram, and the elders of Israel go after him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 4221,
+        "text": "and he speaketh unto the company, saying, 'Turn aside, I pray you, from the tents of these wicked men, and come not against anything that they have, lest ye be consumed in all their sins.'",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 4222,
+        "text": "And they go up from the tabernacle of Korah, Dathan and Abiram, from round about, and Dathan, and Abiram have come out, standing at the opening of their tents, and their wives, and their sons, and their infants.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 4223,
+        "text": "And Moses saith, 'By this ye do know that Jehovah hath sent me to do all these works, that [they are] not from my own heart;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 4224,
+        "text": "if according to the death of all men these die -- or the charge of all men is charged upon them -- Jehovah hath not sent me;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 4225,
+        "text": "and if a strange thing Jehovah do, and the ground hath opened her mouth and swallowed them, and all that they have, and they have gone down alive to Sheol -- then ye have known that these men have despised Jehovah.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 4226,
+        "text": "And it cometh to pass at his finishing speaking all these words, that the ground which [is] under them cleaveth,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 4227,
+        "text": "and the earth openeth her mouth, and swalloweth them, and their houses, and all the men who [are] for Korah, and all the goods,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 4228,
+        "text": "and they go down, they, and all that they have, alive to Sheol, and the earth closeth over them, and they perish from the midst of the assembly;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 4229,
+        "text": "and all Israel who [are] round about them have fled at their voice, for they said, 'Lest the earth swallow us;'",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 4230,
+        "text": "and fire hath come out from Jehovah, and consumeth the two hundred and fifty men bringing near the perfume.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 36,
+        "count": 4231,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 4232,
+        "text": "'Say unto Eleazar son of Aaron the priest, and he lifteth up the censers from the midst of the burning, and the fire scatter thou yonder, for they have been hallowed,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 4233,
+        "text": "[even] the censers of these sinners against their own souls; and they have made them spread-out plates, a covering for the altar, for they have brought them near before Jehovah, and they are hallowed; and they are become a sign to the sons of Israel.'",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 4234,
+        "text": "And Eleazar the priest taketh the brazen censers which they who are burnt had brought near, and they spread them out, a covering for the altar --",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 4235,
+        "text": "a memorial to the sons of Israel, so that a stranger who is not of the seed of Aaron doth not draw near to make a perfume before Jehovah, and is not as Korah, and as his company, -- as Jehovah hath spoken by the hand of Moses to him.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 4236,
+        "text": "And all the company of the sons of Israel murmur, on the morrow, against Moses and against Aaron, saying, 'Ye -- ye have put to death the people of Jehovah.'",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 42,
+        "count": 4237,
+        "text": "And it cometh to pass, in the company being assembled against Moses and against Aaron, that they turn towards the tent of meeting, and lo, the cloud hath covered it, and the honour of Jehovah is seen;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 4238,
+        "text": "and Moses cometh -- Aaron also -- unto the front of the tent of meeting.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 4239,
+        "text": "And Jehovah speaketh unto Moses, saying,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 4240,
+        "text": "'Get you up from the midst of this company, and I consume them in a moment;' and they fall on their faces,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 4241,
+        "text": "and Moses saith unto Aaron, 'Take the censer, and put on it fire from off the altar, and place perfume, and go, hasten unto the company, and make atonement for them, for the wrath hath gone out from the presence of Jehovah -- the plague hath begun.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 4242,
+        "text": "And Aaron taketh as Moses hath spoken, and runneth unto the midst of the assembly, and lo, the plague hath begun among the people; and he giveth the perfume, and maketh atonement for the people,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 4243,
+        "text": "and standeth between the dead and the living, and the plague is restrained;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 4244,
+        "text": "and those who die by the plague are fourteen thousand and seven hundred, apart from those who die for the matter of Korah;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 4245,
+        "text": "and Aaron turneth back unto Moses, unto the opening of the tent of meeting, and the plague hath been restrained.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 19,"name": "Psalms","MaxChapters": 150},
+  "chapter": {
+    "Cnumber": 5,
+    "count": 483,
+    "MaxVerses": 12,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13975,
+        "text": "To the Overseer, 'Concerning the Inheritances.' -- A Psalm of David. My sayings hear, O Jehovah, Consider my meditation.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13976,
+        "text": "Be attentive to the voice of my cry, My king and my God, For unto Thee I pray habitually.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13977,
+        "text": "Jehovah, [at] morning Thou hearest my voice, [At] morning I set in array for Thee, And I look out.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13978,
+        "text": "For not a God desiring wickedness [art] Thou, Evil inhabiteth Thee not.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13979,
+        "text": "The boastful station not themselves before Thine eyes: Thou hast hated all working iniquity.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13980,
+        "text": "Thou destroyest those speaking lies, A man of blood and deceit Jehovah doth abominate.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13981,
+        "text": "And I, in the abundance of Thy kindness, I enter Thy house, I bow myself toward Thy holy temple in Thy fear.",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13982,
+        "text": "O Jehovah, lead me in Thy righteousness, Because of those observing me, Make straight before me Thy way,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13983,
+        "text": "For there is no stability in their mouth. Their heart [is] mischiefs, An open grave [is] their throat, Their tongue they make smooth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13984,
+        "text": "Declare them guilty, O God, Let them fall from their own counsels, In the abundance of their transgressions Drive them away, Because they have rebelled against Thee.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 13985,
+        "text": "And rejoice do all trusting in Thee, To the age they sing, and Thou coverest them over, And those loving Thy name exult in Thee.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13986,
+        "text": "For Thou blessest the righteous, O Jehovah, As a buckler with favour dost compass him!",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

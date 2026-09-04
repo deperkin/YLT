@@ -1,0 +1,131 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 18,"name": "Job","MaxChapters": 42},
+  "chapter": {
+    "Cnumber": 42,
+    "count": 478,
+    "MaxVerses": 17,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 13924,
+        "text": "And Job answereth Jehovah and saith: --",
+        "WordCount": 7,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 13925,
+        "text": "Thou hast known that [for] all things Thou art able, And not withheld from Thee is [any] device:",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 13926,
+        "text": "'Who [is] this, hiding counsel without knowledge?' Therefore, I have declared, and understand not, Too wonderful for me, and I know not.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 13927,
+        "text": "'Hear, I pray thee, and I -- I do speak, I ask thee, and cause thou me to know.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 13928,
+        "text": "By the hearing of the ear I heard Thee, And now mine eye hath seen Thee.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 13929,
+        "text": "Therefore do I loathe [it], And I have repented on dust and ashes.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 13930,
+        "text": "And it cometh to pass after Jehovah's speaking these words unto Job, that Jehovah saith unto Eliphaz the Temanite, 'Burned hath Mine anger against thee, and against thy two friends, because ye have not spoken concerning Me rightly, like My servant Job.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 13931,
+        "text": "And now, take to you seven bullocks and seven rams, and go ye unto My servant Job, and ye have caused a burnt-offering to ascend for you; and Job My servant doth pray for you, for surely his face I accept, so as not to do with you folly, because ye have not spoken concerning Me rightly, like My servant Job.",
+        "WordCount": 61,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 13932,
+        "text": "And they go -- Eliphaz the Temanite, and Bildad the Shuhite, Zophar the Naamathite -- and do as Jehovah hath spoken unto them; and Jehovah doth accept the face of Job.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 13933,
+        "text": "And Jehovah hath turned [to] the captivity of Job in his praying for his friends, and Jehovah doth add [to] all that Job hath -- to double.",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 13934,
+        "text": "And come unto him do all his brethren, and all his sisters, and all his former acquaintances, and they eat bread with him in his house, and bemoan him, and comfort him concerning all the evil that Jehovah had brought upon him, and they gave to him each one kesitah, and each one ring of gold.",
+        "WordCount": 56,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 13935,
+        "text": "And Jehovah hath blessed the latter end of Job more than his beginning, and he hath fourteen thousand of a flock, and six thousand camels, and a thousand pairs of oxen, and a thousand she-asses.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 13936,
+        "text": "And he hath seven sons and three daughters;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 13937,
+        "text": "and he calleth the name of the one Jemima, and the name of the second Kezia, and the name of the third Keren-Happuch.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 13938,
+        "text": "And there have not been found women fair as the daughters of Job in all the land, and their father doth give to them an inheritance in the midst of their brethren.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 13939,
+        "text": "And Job liveth after this a hundred and forty years, and seeth his sons, and his sons' sons, four generations;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 13940,
+        "text": "and Job dieth, aged and satisfied [with] days.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}

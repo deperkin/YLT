@@ -1,0 +1,250 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {"Bnumber": 1,"name": "Genesis","MaxChapters": 50},
+  "chapter": {
+    "Cnumber": 25,
+    "count": 25,
+    "MaxVerses": 34,
+    "verses": [
+      {
+        "Vnumber": 1,
+        "count": 660,
+        "text": "And Abraham addeth and taketh a wife, and her name [is] Keturah;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 661,
+        "text": "and she beareth to him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 662,
+        "text": "And Jokshan hath begotten Sheba and Dedan; and the sons of Dedan were Asshurim, and Letushim, and Leummim;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 663,
+        "text": "and the sons of Midian [are] Ephah, and Epher, and Hanoch, and Abidah, and Eldaah: all these [are] sons of Keturah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 664,
+        "text": "And Abraham giveth all that he hath to Isaac;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 665,
+        "text": "and to the sons of the concubines whom Abraham hath, Abraham hath given gifts, and sendeth them away from Isaac his son (in his being yet alive) eastward, unto the east country.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 666,
+        "text": "And these [are] the days of the years of the life of Abraham, which he lived, a hundred and seventy and five years;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 667,
+        "text": "and Abraham expireth, and dieth in a good old age, aged and satisfied, and is gathered unto his people.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 668,
+        "text": "And Isaac and Ishmael his sons bury him at the cave of Machpelah, at the field of Ephron, son of Zoar the Hittite, which [is] before Mamre --",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 669,
+        "text": "the field which Abraham bought from the sons of Heth -- there hath Abraham been buried, and Sarah his wife.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 670,
+        "text": "And it cometh to pass after the death of Abraham, that God blesseth Isaac his son; and Isaac dwelleth by the Well of the Living One, my Beholder.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 671,
+        "text": "And these [are] births of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, hath borne to Abraham;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 672,
+        "text": "and these [are] the names of the sons of Ishmael, by their names, according to their births: first-born of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 673,
+        "text": "and Mishma, and Dumah, and Massa,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 674,
+        "text": "Hadar, and Tema, Jetur, Naphish, and Kedemah:",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 675,
+        "text": "these are sons of Ishmael, and these their names, by their villages, and by their towers; twelve princes according to their peoples.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 676,
+        "text": "And these [are] the years of the life of Ishmael, a hundred and thirty and seven years; and he expireth, and dieth, and is gathered unto his people;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 677,
+        "text": "and they tabernacle from Havilah unto Shur, which [is] before Egypt, in [thy] going towards Asshur; in the presence of all his brethren hath he fallen.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 678,
+        "text": "And these [are] births of Isaac, Abraham's son: Abraham hath begotten Isaac;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 679,
+        "text": "and Isaac is a son of forty years in his taking Rebekah, daughter of Bethuel the Aramaean, from Padan-Aram, sister of Laban the Aramaean, to him for a wife.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 680,
+        "text": "And Isaac maketh entreaty to Jehovah before his wife, for she [is] barren: and Jehovah is entreated of him, and Rebekah his wife conceiveth,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 681,
+        "text": "and the children struggle together within her, and she saith, 'If [it is] right -- why [am] I thus?' and she goeth to seek Jehovah.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 682,
+        "text": "And Jehovah saith to her, 'Two nations [are] in thy womb, and two peoples from thy bowels are parted; and the [one] people than the [other] people is stronger; and the elder doth serve the younger.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 683,
+        "text": "And her days to bear are fulfilled, and lo, twins [are] in her womb;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 684,
+        "text": "and the first cometh out all red as a hairy robe, and they call his name Esau;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 685,
+        "text": "and afterwards hath his brother come out, and his hand is taking hold on Esau's heel, and one calleth his name Jacob; and Isaac [is] a son of sixty years in her bearing them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 686,
+        "text": "And the youths grew, and Esau is a man acquainted [with] hunting, a man of the field; and Jacob [is] a plain man, inhabiting tents;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 687,
+        "text": "and Isaac loveth Esau, for [his] hunting [is] in his mouth; and Rebekah is loving Jacob.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 688,
+        "text": "And Jacob boileth pottage, and Esau cometh in from the field, and he [is] weary;",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 30,
+        "count": 689,
+        "text": "and Esau saith unto Jacob, 'Let me eat, I pray thee, some of this red red thing, for I [am] weary;' therefore hath [one] called his name Edom [Red];",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 690,
+        "text": "and Jacob saith, 'Sell to-day thy birthright to me.'",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 691,
+        "text": "And Esau saith, 'Lo, I am going to die, and what is this to me -- birthright?'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 692,
+        "text": "and Jacob saith, 'Swear to me to-day:' and he sweareth to him, and selleth his birthright to Jacob;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 693,
+        "text": "and Jacob hath given to Esau bread and pottage of lentiles, and he eateth, and drinketh, and riseth, and goeth; and Esau despiseth the birthright.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }
+    ]
+  }
+}
