@@ -1,0 +1,28 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 36,
+    "name": "Zephaniah",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Zeph.","Zep.","Zp."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 907,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 2,
+          "count": 908,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 3,
+          "count": 909,
+          "MaxVerses": 20
+        }
+      ]
+  }
+}

@@ -1,0 +1,2034 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 15,
+    "name": "Ezra",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Ezra","Ezr.","Ez."],
+    "MaxChapters": 10,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 404,
+          "MaxVerses": 11,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12018,
+        "text": "And in the first year of Cyrus king of Persia, at the completion of the word of Jehovah from the mouth of Jeremiah, hath Jehovah waked up the spirit of Cyrus king of Persia, and he causeth an intimation to pass over into all his kingdom, and also in writing, saying,",
+        "WordCount": 51,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12019,
+        "text": "'Thus said Cyrus king of Persia, All kingdoms of the earth hath Jehovah, God of the heavens, given to me, and He hath laid a charge on me to build to Him a house in Jerusalem, that [is] in Judah;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12020,
+        "text": "who [is] among you of all His people? His God is with him, and he doth go up to Jerusalem, that [is] in Judah, and build the house of Jehovah, God of Israel -- He [is] God -- that [is] in Jerusalem.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12021,
+        "text": "'And every one who is left, of any of the places where he [is] a sojourner, assist him do the men of his place with silver, and with gold, and with goods, and with beasts, along with a free-will offering for the house of God, that [is] in Jerusalem.'",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12022,
+        "text": "And heads of the fathers of Judah and Benjamin rise, and the priests and the Levites, even every one whose spirit God hath waked, to go up to build the house of Jehovah, that [is] in Jerusalem;",
+        "WordCount": 37,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 12023,
+        "text": "and all those round about them have strengthened [them] with their hands, with vessels of silver, with gold, with goods, and with beasts, and with precious things, apart from all that hath been offered willingly.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12024,
+        "text": "And the king Cyrus hath brought out the vessels of the house of Jehovah that Nebuchadnezzar hath brought out of Jerusalem, and putteth them in the house of his gods;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12025,
+        "text": "yea, Cyrus king of Persia bringeth them out by the hand of Mithredath the treasurer, and numbereth them to Sheshbazzar the prince of Judah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12026,
+        "text": "And this [is] their number: dishes of gold thirty, dishes of silver a thousand, knives nine and twenty,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12027,
+        "text": "basins of gold thirty, basins of silver (seconds) four hundred and ten, other vessels a thousand.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12028,
+        "text": "All the vessels of gold and of silver [are] five thousand and four hundred; the whole hath Sheshbazzar brought up with the going up of the removal from Babylon to Jerusalem.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 405,
+          "MaxVerses": 70,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12029,
+        "text": "And these [are] sons of the province who are going up -- of the captives of the removal that Nebuchadnezzar king of Babylon removed to Babylon, and they turn back to Jerusalem and Judah, each to his city --",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12030,
+        "text": "who have come in with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah: The number of the men of the people of Israel:",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12031,
+        "text": "Sons of Parosh, two thousand a hundred seventy and two.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12032,
+        "text": "Sons of Shephatiah, three hundred seventy and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12033,
+        "text": "Sons of Arah, seven hundred five and seventy.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12034,
+        "text": "Sons of Pahath-Moab, of the sons of Jeshua, Joab, two thousand eight hundred and twelve.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12035,
+        "text": "Sons of Elam, a thousand two hundred fifty and four.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12036,
+        "text": "Sons of Zattu, nine hundred and forty and five.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12037,
+        "text": "Sons of Zaccai, seven hundred and sixty.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12038,
+        "text": "Sons of Bani, six hundred forty and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12039,
+        "text": "Sons of Bebai, six hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12040,
+        "text": "Sons of Azgad, a thousand two hundred twenty and two.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12041,
+        "text": "Sons of Adonikam, six hundred sixty and six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12042,
+        "text": "Sons of Bigvai, two thousand fifty and six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12043,
+        "text": "Sons of Adin, four hundred fifty and four.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12044,
+        "text": "Sons of Ater of Hezekiah, ninety and eight.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12045,
+        "text": "Sons of Bezai, three hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12046,
+        "text": "Sons of Jorah, a hundred and twelve.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12047,
+        "text": "Sons of Hashum, two hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12048,
+        "text": "Sons of Gibbar, ninety and five.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12049,
+        "text": "Sons of Beth-Lehem, a hundred twenty and three.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12050,
+        "text": "Men of Netophah, fifty and six.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12051,
+        "text": "Men of Anathoth, a hundred twenty and eight.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12052,
+        "text": "Sons of Azmaveth, forty and two.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12053,
+        "text": "Sons of Kirjath-Arim, Chephirah, and Beeroth, seven hundred and forty and three.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12054,
+        "text": "Sons of Ramah and Gaba, six hundred twenty and one.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12055,
+        "text": "Men of Michmas, a hundred twenty and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 12056,
+        "text": "Men of Beth-El and Ai, two hundred twenty and three.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12057,
+        "text": "Sons of Nebo, fifty and two.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12058,
+        "text": "Sons of Magbish, a hundred fifty and six.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12059,
+        "text": "Sons of another Elam, a thousand two hundred fifty and four.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 12060,
+        "text": "Sons of Harim, three hundred and twenty.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 12061,
+        "text": "Sons of Lod, Hadid, and Ono, seven hundred twenty and five.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 12062,
+        "text": "Sons of Jericho, three hundred forty and five.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 12063,
+        "text": "Sons of Senaah, three thousand and six hundred and thirty.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 12064,
+        "text": "The Priests: sons of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 37,
+        "count": 12065,
+        "text": "Sons of Imner, a thousand fifty and two.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 12066,
+        "text": "Sons of Pashhur, a thousand two hundred forty and seven.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 12067,
+        "text": "Sons of Harim, a thousand and seventeen.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 12068,
+        "text": "The Levites; sons of Jeshua and Kadmiel, of the sons of Hodaviah, seventy and four.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 12069,
+        "text": "The singers: sons of Asaph, a hundred twenty and eight.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 12070,
+        "text": "Sons of the gatekeepers; sons of Shallum, sons of Ater, sons of Talmon, sons of Akkub, sons of Hatita, sons of Shobai, the whole [are] a hundred thirty and nine.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 12071,
+        "text": "The Nethinim: sons of Ziha, sons of Hasupha, sons of Tabbaoth,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 12072,
+        "text": "Sons of Keros, sons of Siaha, sons of Padon,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 12073,
+        "text": "Sons of Lebanah, sons of Hagabah, sons of Akkub,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 12074,
+        "text": "Sons of Hagab, sons of Shalmai, sons of Hanan,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 12075,
+        "text": "Sons of Giddel, sons of Gahar, sons of Reaiah,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 12076,
+        "text": "Sons of Rezin, sons of Nekoda, sons of Gazzam,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 12077,
+        "text": "Sons of Uzza, sons of Paseah, sons of Besai,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 12078,
+        "text": "Sons of Asnah, sons of Mehunim, sons of Nephusim,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 12079,
+        "text": "Sons of Bakbuk, sons of Hakupha, sons of Harhur,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 12080,
+        "text": "Sons of Bazluth, sons of Mehida, sons of Harsha,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 12081,
+        "text": "Sons of Barkos, sons of Sisera, sons of Thamah,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 12082,
+        "text": "Sons of Neziah, sons of Hatipha.",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 12083,
+        "text": "Sons of the servants of Solomon: sons of Sotai, sons of Sophereth, sons of Peruda,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 56,
+        "count": 12084,
+        "text": "Sons of Jaalah, sons of Darkon, sons of Giddel,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 12085,
+        "text": "Sons of Shephatiah, sons of Hattil, sons of Pochereth of Zebaim, sons of Ami.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 12086,
+        "text": "All the Nethinim, and the sons of the servants of Solomon [are] three hundred ninety and two.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 12087,
+        "text": "And these [are] those going up from Tel-Melah, Tel-Harsa, Cherub, Addan, Immer, and they have not been able to declare the house of their fathers, and their seed, whether they [are] of Israel:",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 12088,
+        "text": "sons of Delaiah, sons of Tobiah, sons of Nekoda, six hundred fifty and two.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 12089,
+        "text": "And of the sons of the priests: sons of Habaiah, sons of Koz, sons of Barzillai (who took from the daughters of Barzillai the Gileadite a wife, and is called by their name;)",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 12090,
+        "text": "these have sought their register among those reckoning themselves by genealogy, and they have not been found, and they are redeemed from the priesthood,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 12091,
+        "text": "and the Tirshatha saith to them, that they eat not of the most holy things till the standing up of a priest with Urim and with Thummim.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 12092,
+        "text": "All the assembly together [is] four myriad two thousand three hundred sixty,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 65,
+        "count": 12093,
+        "text": "apart from their servants and their handmaids; these [are] seven thousand three hundred thirty and seven: and of them [are] singers and songstresses two hundred.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 12094,
+        "text": "Their horses [are] seven hundred thirty and six, their mules, two hundred forty and five,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 67,
+        "count": 12095,
+        "text": "their camels, four hundred thirty and five, asses, six thousand seven hundred and twenty.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 68,
+        "count": 12096,
+        "text": "And some of the heads of the fathers in their coming in to the house of Jehovah that [is] in Jerusalem, have offered willingly for the house of God, to establish it on its base;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 69,
+        "count": 12097,
+        "text": "according to their power they have given to the treasure of the work; of gold, drams six myriads and a thousand, and of silver, pounds five thousand, and of priests' coats, a hundred.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 70,
+        "count": 12098,
+        "text": "And the priests dwell, and the Levites, and of the people, and the singers, and the gatekeepers, and the Nethinim, in their cities; even all Israel in their cities.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 406,
+          "MaxVerses": 13,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12099,
+        "text": "And the seventh month cometh, and the sons of Israel [are] in the cities, and the people are gathered, as one men, unto Jerusalem.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12100,
+        "text": "And rise doth Jeshua son of Jozadak, and his brethren the priests, and Zerubbabel son of Shealtiel, and his brethren, and they build the altar of the God of Israel, to cause to ascend upon it burnt-offerings, as it is written in the law of Moses, the man of God.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12101,
+        "text": "And they establish the altar on its bases, because of the fear upon them of the peoples of the lands, and he causeth burnt-offerings to ascend upon it to Jehovah, burnt-offerings for the morning and for the evening.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12102,
+        "text": "And they make the feast of the booths as it is written, and the burnt-offering of the day daily in number according to the ordinance, the matter of a day in its day;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12103,
+        "text": "and after this a continual burnt-offering, and for new moons, and for all appointed seasons of Jehovah that are sanctified; and for every one who is willingly offering a willing-offering to Jehovah.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12104,
+        "text": "From the first day of the seventh month they have begun to cause burnt-offerings to ascend to Jehovah, and the temple of Jehovah hath not been founded,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12105,
+        "text": "and they give money to hewers and to artificers, and food, and drink, and oil to Zidonians and to Tyrians, to bring in cedar-trees from Lebanon unto the sea of Joppa, according to the permission of Cyrus king of Persia concerning them.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12106,
+        "text": "And in the second year of their coming in unto the house of God, to Jerusalem, in the second month, began Zerubbabel son of Shealtiel, and Jeshua son of Jozadak, and the remnant of their brethren the priests and the Levites, and all those coming from the captivity to Jerusalem, and they appoint the Levites from a son of twenty years and upward, to overlook the work of the house of Jehovah.",
+        "WordCount": 72,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 12107,
+        "text": "And Jeshua standeth, [and] his sons, and his brethren, Kadmiel and his sons, sons of Judah together, to overlook those doing the work in the house of God; the sons of Henadad, [and] their sons and their brethren the Levites.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12108,
+        "text": "And those building have founded the temple of Jehovah, and they appoint the priests, clothed, with trumpets, and the Levites, sons of Asaph, with cymbals, to praise Jehovah, by means of [the instruments of] David king of Israel.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12109,
+        "text": "And they respond in praising and in giving thanks to Jehovah, for good, for to the age His kindness [is] over Israel, and all the people have shouted -- a great shout -- in giving praise to Jehovah, because the house of Jehovah hath been founded.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12110,
+        "text": "And many of the priests, and the Levites, and the heads of the fathers, the aged men who had seen the first house -- in this house being founded before their eyes -- are weeping with a loud voice, and many with a shout, in joy, lifting up the voice;",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12111,
+        "text": "and the people are not discerning the noise of the shout of joy from the noise of the weeping of the people, for the people are shouting -- a great shout -- and the noise hath been heard unto a distance.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 407,
+          "MaxVerses": 24,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12112,
+        "text": "And adversaries of Judah and Benjamin hear that the sons of the captivity are building a temple to Jehovah, God of Israel,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12113,
+        "text": "and they draw nigh unto Zerubbabel, and unto heads of the fathers, and say to them, 'Let us build with you; for, like you, we seek to your God, and we are not sacrificing since the days of Esar-Haddon king of Asshur, who brought us up hither.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12114,
+        "text": "And Zerubbabel saith to them, also Jeshua, and the rest of the heads of the fathers of Israel, 'Not for you, and for us, to build a house to our God; but we ourselves together do build to Jehovah God of Israel, as the king Cyrus, king of Persia, commanded us.'",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12115,
+        "text": "And it cometh to pass, the people of the land are making the hands of the people of Judah feeble, and troubling them in building,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12116,
+        "text": "and are hiring against them counsellors to make void their counsel all the days of Cyrus king of Persia, even till the reign of Darius king of Persia.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12117,
+        "text": "And in the reign of Ahasuerus, in the commencement of his reign, they have written an accusation against the inhabitants of Judah and Jerusalem;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 12118,
+        "text": "and in the days of Artaxerxes have Bishlam, Mithredath, Tabeel, and the rest of his companions written unto Artaxerxes king of Persia, and the writing of the letter is written in Aramaean, and interpreted in Aramaean.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12119,
+        "text": "Rehum counsellor, and Shimshai scribe have written a letter concerning Jerusalem to Artaxerxes the king, thus:",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12120,
+        "text": "Then Rehum counsellor, and Shimshai scribe, and the rest of their companions, Dinaites, and Apharsathchites, Tarpelites, Apharsites, Archevites, Babylonians, Susanchites, (who are Elamites),",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12121,
+        "text": "and the rest of the nations that the great and honourable Asnapper removed and set in the city of Samaria, and the rest beyond the river, and at such a time:",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12122,
+        "text": "This [is] a copy of a letter that they have sent unto him, unto Artaxerxes the king: 'Thy servants, men beyond the river, and at such a time;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12123,
+        "text": "Be it known to the king, that the Jews who have come up from thee unto us, have come in to Jerusalem, the rebellious and base city they are building, and the walls they have finished, and the foundations they join.",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12124,
+        "text": "'Now, be it known to the king, that if this city be builded, and the walls finished, toll, tribute, and custom they do not give; and at length [to] the kings it doth cause loss.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12125,
+        "text": "Now, because that the salt of the palace [is] our salt, and the nakedness of the king we have no patience to see, therefore we have sent and made known to the king;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12126,
+        "text": "so that he doth seek in the book of the records of thy fathers, and thou dost find in the book of the records, and dost know, that this city [is] a rebellious city, and causing loss [to] kings and provinces, and makers of sedition [are] in its midst from the days of old, therefore hath this city been wasted.",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12127,
+        "text": "We are making known to the king that, if this city be builded and the walls finished, by this means a portion beyond the river thou hast none.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12128,
+        "text": "An answer hath the king sent unto Rehum counsellor, and Shimshai scribe, and the rest of their companions who are dwelling in Samaria, and the rest beyond the river, 'Peace, and at such a time:",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 12129,
+        "text": "The letter that ye sent unto us, explained, hath been read before me,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12130,
+        "text": "and by me a decree hath been made, and they sought, and have found that this city from the days of old against kings is lifting up itself, and rebellion and sedition is made in it,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12131,
+        "text": "and mighty kings have been over Jerusalem, even rulers over all beyond the river, and toll, tribute, and custom is given to them.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12132,
+        "text": "'Now, make ye a decree to cause these men to cease, and this city is not builded, till by me a decree is made.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12133,
+        "text": "And beware ye of negligence in doing this; why doth the hurt become great to the loss of the kings?'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12134,
+        "text": "Then from the time that a copy of the letter of king Artaxerxes is read before Rehum, and Shimshai the scribe, and their companions, they have gone in haste to Jerusalem, unto the Jews, and caused them to cease by force and strength;",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12135,
+        "text": "then ceased the service of the house of God that [is] in Jerusalem, and it ceased till the second year of the reign of Darius king of Persia.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 5,
+          "count": 408,
+          "MaxVerses": 17,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12136,
+        "text": "And prophesied have the prophets, (Haggai the prophet, and Zechariah son of Iddo) unto the Jews who [are] in Judah and in Jerusalem, in the name of the God of Israel -- unto them.",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12137,
+        "text": "Then have Zerubbabel son of Shealtiel, and Jeshua son of Jozadak, risen, and begun to build the house of God, that [is] in Jerusalem, and with them are the prophets of God supporting them.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12138,
+        "text": "At that time come to them hath Tatnai, governor beyond the river, and Shethar-Boznai, and their companions, and thus they are saying to them, 'Who hath made for you a decree this house to build, and this wall to finish?'",
+        "WordCount": 40,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 12139,
+        "text": "Then thus we have said to them, 'What [are] the names of the men who are building this building?'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12140,
+        "text": "And the eye of their God hath been upon the elders of the Jews, and they have not caused them to cease till the matter goeth to Darius, and then they send back a letter concerning this thing.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12141,
+        "text": "The copy of a letter that Tatnai, governor beyond the river, hath sent, and Shethar-Boznai and his companions, the Apharsachites who [are] beyond the river, unto Darius the king.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12142,
+        "text": "A letter they have sent unto him, and thus is it written in it:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12143,
+        "text": "'To Darius the king, all peace! be it known to the king that we have gone to the province of Judah, to the great house of God, and it is built [with] rolled stones, and wood is placed in the walls, and this work is done speedily, and prospering in their hand.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12144,
+        "text": "Then we have asked of these elders, thus we have said to them, Who hath made for you a decree this house to build, and this wall to finish?",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12145,
+        "text": "And also their names we have asked of them, to let thee know, that we might write the names of the men who [are] at their head.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12146,
+        "text": "'And thus they have returned us word, saying, We [are] servants of the God of heaven and earth, and are building the house that was built many years before this, that a great king of Israel built and finished:",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12147,
+        "text": "but after that our fathers made the God of heaven angry, he gave them into the hand of Nebuchadnezzar king of Babylon the Chaldean, and this house he destroyed, and the people he removed to Babylon;",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12148,
+        "text": "but in the first year of Cyrus king of Babylon, Cyrus the king made a decree to build this house of God,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12149,
+        "text": "and also, the vessels of the house of God, of gold and silver, that Nebuchadnezzar had taken forth out of the temple that [is] in Jerusalem, and brought them to the temple of Babylon, them hath Cyrus the king brought forth out of the temple of Babylon, and they have been given to [one], Sheshbazzar [is] his name, whom he made governor,",
+        "WordCount": 62,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12150,
+        "text": "and said to him, These vessels lift up, go, put them down in the temple that [is] in Jerusalem, and the house of God is builded on its place.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12151,
+        "text": "Then hath this Sheshbazzar come -- he hath laid the foundations of the house of God that [is] in Jerusalem, and from thence even till now it hath been building, and is not finished.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12152,
+        "text": "'And now, if to the king it be good, let search be made in the treasure-house of the king, that [is] there in Babylon, whether it be that of Cyrus the king there was made a decree to build this house of God in Jerusalem, and the will of the king concerning this thing he doth send unto us.'",
+        "WordCount": 59,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 6,
+          "count": 409,
+          "MaxVerses": 22,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12153,
+        "text": "Then Darius the king made a decree, and they sought in the house of the books of the treasuries placed there in Babylon,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12154,
+        "text": "and there hath been found at Achmetha, in a palace that [is] in the province of Media, a roll, and a record thus written within it [is]:",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12155,
+        "text": "'In the first year of Cyrus the king, Cyrus the king hath made a decree concerning the house of God in Jerusalem: the house let be builded in the place where they are sacrificing sacrifices, and its foundations strongly laid; its height sixty cubits, its breadth sixty cubits;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12156,
+        "text": "three rows of rolled stones, and a row of new wood, and the outlay let be given out of the king's house.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12157,
+        "text": "'And also, the vessels of the house of God, of gold and silver, that Nebuchadnezzar took forth out of the temple that [is] in Jerusalem, and brought to Babylon, let be given back, and go to the temple that [is] in Jerusalem, [each] to its place, and put [them] down in the house of God.",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12158,
+        "text": "'Now, Tatnai, governor beyond the river, Shethar-Boznai, and their companions, the Apharsachites, who [are] beyond the river, be ye far from hence;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12159,
+        "text": "let alone the work of this house of God, let the governor of the Jews, and the elders of the Jews, build this house of God on its place.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12160,
+        "text": "'And by me is made a decree concerning that which ye do with the elders of these Jews to build this house of God, that of the riches of the king, that [are] of the tribute beyond the river, speedily let the outlay be given to these men, that they cease not;",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12161,
+        "text": "and what they are needing -- both young bullocks, and rams, and lambs for burnt-offerings to the God of heaven, wheat, salt, wine, and oil according to the saying of the priests who [are] in Jerusalem -- let be given to them day by day without fail,",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12162,
+        "text": "that they be bringing near sweet savours to the God of heaven, and praying for the life of the king, and of his sons.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12163,
+        "text": "'And by me is made a decree, that any one who changeth this thing, let wood be pulled down from his house, and being raised up, let him be smitten on it, and his house let be made a dunghill for this.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12164,
+        "text": "And God, who caused His name to dwell there, doth cast down any king and people that putteth forth his hand to change, to destroy this house of God that [is] in Jerusalem; I Darius have made a decree; speedily let it be done.'",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12165,
+        "text": "Then Tatnai, governor beyond the river, Shethar-Boznai, and their companions, according to that which Darius the king hath sent, so they have done speedily;",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 12166,
+        "text": "and the elders of the Jews are building and prospering through the prophecy of Haggai the prophet, and Zechariah son of Iddo, and they have built and finished by the decree of the God of Israel, and by the decree of Cyrus, and Darius, and Artaxerxes king of Persia.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12167,
+        "text": "And this house hath gone out till the third day of the month Adar, that is [in] the sixth year of the reign of Darius the king.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12168,
+        "text": "And the sons of Israel have made, [and] the priests, and the Levites, and the rest of the sons of the captivity, a dedication of this house of God with joy,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12169,
+        "text": "and have brought near for the dedication of this house of God, bullocks a hundred, rams two hundred, lambs four hundred; and young he-goats for a sin-offering for all Israel, twelve, according to the number of the tribes of Israel;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12170,
+        "text": "and they have established the priests in their divisions, and the Levites in their courses, over the service of God that [is] in Jerusalem, as it is written in the book of Moses.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12171,
+        "text": "And the sons of the captivity make the passover on the fourteenth of the first month,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12172,
+        "text": "for the priests and the Levites have been purified together -- all of them [are] pure -- and they slaughter the passover for all the sons of the captivity, and for their brethren the priests, and for themselves.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12173,
+        "text": "And the sons of Israel, those returning from the captivity, and every one who is separated from the uncleanness of the nations of the land unto them, to seek to Jehovah, God of Israel, do eat,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12174,
+        "text": "and they make the feast of unleavened things seven days with joy, for Jehovah made them to rejoice, and turned round the heart of the king of Asshur unto them, to strengthen their hands in the work of the house of God, the God of Israel.",
+        "WordCount": 46,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 7,
+          "count": 410,
+          "MaxVerses": 28,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12175,
+        "text": "And after these things, in the reign of Artaxerxes king of Persia, Ezra son of Seraiah, son of Azariah, son of Hilkiah,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12176,
+        "text": "son of Shallum, son of Zadok, son of Ahitub,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12177,
+        "text": "son of Amariah, son of Azariah, son of Meraioth,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12178,
+        "text": "son of Zerahiah, son of Uzzi, son of Bukki,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12179,
+        "text": "son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the head priest;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12180,
+        "text": "Ezra himself hath come up from Babylon, and he [is] a scribe ready in the law of Moses, that Jehovah God of Israel gave, and the king giveth to him -- according to the hand of Jehovah his God upon him -- all his request.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12181,
+        "text": "And there go up of the sons of Israel, and of the priests, and the Levites, and the singers, and the gatekeepers, and the Nethinim, unto Jerusalem, in the seventh year of Artaxerxes the king.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12182,
+        "text": "And he cometh in to Jerusalem in the fifth month, that [is in] the seventh year of the king,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12183,
+        "text": "for on the first of the month he hath founded the ascent from Babylon, and on the first of the fifth month he hath come in unto Jerusalem, according to the good hand of his God upon him,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12184,
+        "text": "for Ezra hath prepared his heart to seek the law of Jehovah, and to do, and to teach in Israel statute and judgment.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12185,
+        "text": "And this [is] a copy of the letter that the king Artaxerxes gave to Ezra the priest, the scribe, a scribe of the words of the commands of Jehovah, and of His statutes on Israel:",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 12186,
+        "text": "'Artaxerxes, king of kings, to Ezra the priest, a perfect scribe of the law of the God of heaven, and at such a time:",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12187,
+        "text": "By me hath been made a decree that every one who is willing, in my kingdom, of the people of Israel and of its priests and Levites, to go to Jerusalem with thee, doth go;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12188,
+        "text": "because that from the king and his seven counsellors thou art sent, to inquire concerning Judah and concerning Jerusalem, with the law of God that [is] in thy hand,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12189,
+        "text": "and to carry silver and gold that the king and his counsellors willingly offered to the God of Israel, whose tabernacle [is] in Jerusalem,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12190,
+        "text": "and all the silver and gold that thou findest in all the province of Babylon, with the free-will offerings of the people, and of the priests, offering willingly, for the house of their God that [is] in Jerusalem,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12191,
+        "text": "therefore thou dost speedily buy with this money, bullocks, rams, lambs, and their presents, and their libations, and dost bring them near to the altar of the house of your God that [is] in Jerusalem,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12192,
+        "text": "and that which to thee and to thy brethren is good to do with the rest of the silver and gold, according to the will of your God ye do.'",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12193,
+        "text": "'And the vessels that are given to thee, for the service of the house of thy God, make perfect before the God of Jerusalem;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12194,
+        "text": "and the rest of the needful things of the house of thy God, that it falleth to thee to give, thou dost give from the treasure-house of the king.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12195,
+        "text": "'And by me -- I Artaxerxes the king -- is made a decree to all treasurers who [are] beyond the river, that all that Ezra the priest, scribe of the law of the God of heaven, doth ask of you, be done speedily:",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12196,
+        "text": "Unto silver a hundred talents, and unto wheat a hundred cors, and unto wine a hundred baths, and unto oil a hundred baths, and salt without reckoning;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12197,
+        "text": "all that [is] by the decree of the God of heaven, let be done diligently for the house of the God of heaven; for why is there wrath against the kingdom of the king and his sons?",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12198,
+        "text": "'And to you we are making known, that upon any of the priests and Levites, singers, gatekeepers, Nethinim, and servants of the house of God, tribute and custom there is no authority to lift up.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12199,
+        "text": "'And thou, Ezra, according to the wisdom of thy God, that [is] in thy hand, appoint magistrates and judges who may be judges to all the people who are beyond the river, to all knowing the law of thy God, and he who hath not known ye cause to know;",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12200,
+        "text": "and any who doth not do the law of thy God, and the law of the king, speedily is judgment done upon him, whether to death, or to banishment, or to confiscation of riches, and to bonds.'",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12201,
+        "text": "Blessed [is] Jehovah, God of our fathers, who hath given such a thing as this in the heart of the king, to beautify the house of Jehovah that [is] in Jerusalem,",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 28,
+        "count": 12202,
+        "text": "and unto me hath stretched out kindness before the king and his counsellors, and before all the mighty heads of the king: and I have strengthened myself as the hand of Jehovah my God [is] upon me, and I gather out of Israel heads to go up with me.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 8,
+          "count": 411,
+          "MaxVerses": 36,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12203,
+        "text": "And these [are] heads of their fathers, and the genealogy of those going up with me, in the reign of Artaxerxes the king, from Babylon.",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12204,
+        "text": "From the sons of Phinehas: Gershom; from the sons of Ithamar: Daniel; from the sons of David: Hattush;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12205,
+        "text": "from the sons of Shechaniah, from the sons of Pharosh: Zechariah, and with him, reckoning themselves by genealogy, of males a hundred and fifty.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12206,
+        "text": "From the sons of Pahath-Moab: Elihoenai son of Zerahiah, and with him two hundred who are males.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12207,
+        "text": "From the sons of Shechaniah: the son of Jahaziel, and with him three hundred who are males.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12208,
+        "text": "And from the sons of Adin: Ebed son of Jonathan, and with him fifty who are males.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12209,
+        "text": "And from the sons of Elam: Jeshaiah son of Athaliah, and with him seventy who are males.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12210,
+        "text": "And from the sons of Shephatiah: Zebadiah son of Michael, and with him eighty who are males.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12211,
+        "text": "From the sons of Joab: Obadiah son of Jehiel, and with him two hundred and eighteen who are males.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12212,
+        "text": "And from the sons of Shelomith, the son of Josiphiah, and with him a hundred and sixty who are males.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12213,
+        "text": "And from the sons of Bebai: Zechariah son of Bebai, and with him twenty and eight who are males.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12214,
+        "text": "And from the sons of Azgad: Johanan son of Hakkatan, and with him a hundred and ten who are males.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12215,
+        "text": "And from the younger sons of Adonikam -- and these [are] their names -- Eliphelet, Jeiel, and Shemaiah, and with them sixty who are males.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12216,
+        "text": "And from the sons of Bigvai, Uthai and Zabbud, and with them seventy who are males.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12217,
+        "text": "And I gather them unto the river that is going unto Ahava, and we encamp there three days; and I consider about the people, and about the priests, and of the sons of Levi I have found none there;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 12218,
+        "text": "and I send for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, heads, and for Joiarib, and for Elnathan, men of understanding;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12219,
+        "text": "and I charge them for Iddo the head, in the place Casiphia, and put in their mouth words to speak unto Iddo, [and] his brethren the Nethinim, in the place Casiphia, to bring to us ministrants for the house of our God.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12220,
+        "text": "And they bring to us, according to the good hand of our God upon us, a man of understanding, of the sons of Mahli, son of Levi, son of Israel, and Sherebiah, and his sons, and his brethren, eighteen;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12221,
+        "text": "and Hashabiah, and with him Jeshaiah, of the sons of Merari, his brethren, and their sons, twenty;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12222,
+        "text": "and from the Nethinim, whom David and the heads gave for the service of the Levites, two hundred and twenty Nethinim, all of them defined by name.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12223,
+        "text": "And I proclaim there a fast, by the river Ahava, to afflict ourselves before our God, to seek from Him a right way for us, and for our infants, and for all our substance,",
+        "WordCount": 34,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 12224,
+        "text": "for I was ashamed to ask from the king a force and horsemen to help us because of the enemy in the way, for we spake to the king, saying, 'The hand of our God [is] upon all seeking Him for good, and His strength and His wrath [is] upon all forsaking Him.'",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12225,
+        "text": "And we fast, and seek from our God for this, and He is entreated of us.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12226,
+        "text": "And I separate from the heads of the priests, twelve, even Sherebiah, Hashabiah, and with them of their brethren ten,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 25,
+        "count": 12227,
+        "text": "and I weigh to them the silver, and the gold, and the vessels, a heave-offering of the house of our God, that the king, and his counsellors, and his heads, and all Israel -- those present -- lifted up;",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12228,
+        "text": "and I weigh to their hand, of silver, talents six hundred and fifty, and of vessels of silver a hundred talents, of gold a hundred talents,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12229,
+        "text": "and basins of gold twenty, of a thousand drams, and two vessels of good shining brass, desirable as gold.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 12230,
+        "text": "And I say unto them, 'Ye [are] holy to Jehovah, and the vessels [are] holy, and the silver and the gold [are] a willing-offering to Jehovah, God of your fathers;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12231,
+        "text": "watch, and keep, till ye weigh before the heads of the priests, and of the Levites, and the heads of the fathers of Israel, in Jerusalem, in the chambers of the house of Jehovah.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12232,
+        "text": "And the priests and the Levites took the weight of the silver, and of the gold, and of the vessels, to bring to Jerusalem to the house of our God.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12233,
+        "text": "And we journey from the river Ahava, on the twelfth of the first month, to go to Jerusalem, and the hand of our God hath been upon us, and He delivereth us from the hand of the enemy and the lier in wait by the way;",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 32,
+        "count": 12234,
+        "text": "and we come in to Jerusalem, and dwell there three days.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 12235,
+        "text": "And on the fourth day hath been weighed the silver, and the gold, and the vessels, in the house of our God, unto the hand of Meremoth son of Uriah the priest, and with him Eleazar son of Phinehas, and with them Jozabad son of Jeshua, and Noadiah son of Binnui, the Levites:",
+        "WordCount": 53,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 12236,
+        "text": "by number, by weight of every one, and all the weight is written at that time.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 12237,
+        "text": "Those coming in of the captives -- sons of the removal -- have brought near burnt-offerings to the God of Israel, bullocks twelve, for all Israel, rams ninety and six, lambs seventy and seven, young he-goats for a sin-offering twelve -- the whole a burnt-offering to Jehovah;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 12238,
+        "text": "and they give the laws of the king to the lieutenants of the king and the governors beyond the river, and they have lifted up the people and the house of God.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 9,
+          "count": 412,
+          "MaxVerses": 15,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12239,
+        "text": "And at the completion of these things, drawn nigh unto me have the heads, saying, 'The people of Israel, and the priests, and the Levites, have not been separated from the peoples of the lands, as to their abominations, even the Canaanite, the Hittite, the Perizzite, the Jebusite, the Ammonite, the Moabite, the Egyptian, and the Amorite,",
+        "WordCount": 57,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12240,
+        "text": "for they have taken of their daughters to them, and to their sons, and the holy seed have mingled themselves among the peoples of the lands, and the hand of the heads and of the seconds have been first in this trespass.'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12241,
+        "text": "And at my hearing this word, I have rent my garment and my upper robe, and pluck out of the hair of my head, and of my beard, and sit astonished,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12242,
+        "text": "and unto me are gathered every one trembling at the words of the God of Israel, because of the trespass of the removal, and I am sitting astonished till the present of the evening.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12243,
+        "text": "And at the present of the evening I have risen from mine affliction, and at my rending my garment and my upper robe, then I bow down on my knees, and spread out my hands unto Jehovah my God,",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 12244,
+        "text": "and say, 'O my God, I have been ashamed, and have blushed to lift up, O my God, my face unto Thee, for our iniquities have increased over the head, and our guilt hath become great unto the heavens.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 12245,
+        "text": "'From the days of our fathers we [are] in great guilt unto this day, and in our iniquities we have been given -- we, our kings, our priests -- into the hand of the kings of the lands, with sword, with captivity, and with spoiling, and with shame of face, as [at] this day.",
+        "WordCount": 54,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12246,
+        "text": "'And now, as a small moment hath grace been from Jehovah our God, to leave to us an escape, and to give to us a nail in His holy place, by our God's enlightening our eyes, and by giving us a little quickening in our servitude;",
+        "WordCount": 46,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12247,
+        "text": "for servants we [are], and in our servitude our God hath not forsaken us, and stretcheth out unto us kindness before the kings of Persia, to give to us a quickening to lift up the house of our God, and to cause its wastes to cease, and to give to us a wall in Judah and in Jerusalem.",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12248,
+        "text": "'And now, what do we say, O our God, after this? for we have forsaken Thy commands,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12249,
+        "text": "that Thou hast commanded by the hands of thy servants the prophets, saying, The land into which ye are going to possess it, [is] a land of impurity, by the impurity of the people of the lands, by their abominations with which they have filled it -- from mouth unto mouth -- by their uncleanness;",
+        "WordCount": 55,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12250,
+        "text": "and now, your daughters ye do not give to their sons, and their daughters ye do not take to your sons, and ye do not seek their peace, and their good -- unto the age, so that ye are strong, and have eaten the good of the land, and given possession to your sons unto the age.",
+        "WordCount": 57,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12251,
+        "text": "'And after all that hath come upon us for our evil works, and for our great guilt (for Thou, O our God, hast kept back of the rod from our iniquities, and hast given to us an escape like this),",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12252,
+        "text": "do we turn back to break Thy commands, and to join ourselves in marriage with the people of these abominations? art not Thou angry against us -- even to consumption -- till there is no remnant and escaped part?",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12253,
+        "text": "'O Jehovah, God of Israel, righteous [art] Thou, for we have been left an escape, as [it is] this day; lo, we [are] before Thee in our guilt, for there is none to stand before Thee concerning this.'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 10,
+          "count": 413,
+          "MaxVerses": 44,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 12254,
+        "text": "And at Ezra's praying, and at his making confession, weeping and casting himself down before the house of God, there have been gathered unto him out of Israel an assembly very great -- men and women and children -- for the people have wept, multiplying weeping.",
+        "WordCount": 46,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 12255,
+        "text": "And Shechaniah son of Jehiel, of the sons of Elam, answereth and saith to Ezra, 'We -- we have trespassed against our God, and we settle strange women of the peoples of the land; and now there is hope for Israel concerning this,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 12256,
+        "text": "and now, let us make a covenant with our God, to cause all the women to go out, and that which is born of them, by the counsel of the Lord, and of those trembling at the command of our God, and according to law it is done;",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 12257,
+        "text": "rise, for on thee [is] the matter, and we [are] with thee; be strong, and do.'",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 12258,
+        "text": "And Ezra riseth, and causeth the heads of the priests, the Levites, and all Israel, to swear to do according to this word -- and they swear.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 12259,
+        "text": "And Ezra riseth from before the house of God, and goeth unto the chamber of Jehohanan son of Eliashib; yea, he goeth there, bread he hath not eaten, and water he hath not drunk, for he is mourning because of the trespass of the removal.",
+        "WordCount": 45,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 12260,
+        "text": "And they cause a voice to pass over into Judah and Jerusalem, to all sons of the removal, to be gathered to Jerusalem,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 12261,
+        "text": "and every one who cometh not in by the third day, according to the counsel of the heads and of the elders, all his substance is devoted, and himself separated from the assembly of the removal.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 12262,
+        "text": "And gathered are all the men of Judah and Benjamin to Jerusalem by the third day, it [is] the ninth month, on the twentieth of the month, and all the people sit in the broad place of the house of God, trembling on account of the matter and of the showers.",
+        "WordCount": 51,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 12263,
+        "text": "And Ezra the priest riseth, and saith unto them, 'Ye -- ye have trespassed, and ye settle strange women, to add to the guilt of Israel;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 12264,
+        "text": "and, now, make confession to Jehovah, God of your fathers, and do His good pleasure, and be separated from the peoples of the land, and from the strange women.'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 12265,
+        "text": "And all the assembly answer and say [with] a great voice, 'Right; according to thy word -- on us to do;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 12266,
+        "text": "but the people [are] many, and [it is] the time of showers, and there is no power to stand without, and the work [is] not for one day, nor for two, for we have multiplied to transgress in this thing.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 12267,
+        "text": "'Let, we pray thee, our heads of all the assembly stand, and all who [are] in our cities, who have settled strange wives, do come in at the times appointed, and with them the elders of city and city, and its judges, till the turning back of the fury of the wrath of our God from us, for this thing.'",
+        "WordCount": 60,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 12268,
+        "text": "Only Jonathan son of Asahel, and Jahaziah son of Tikvah, stood against this, and Meshullam, and Shabbethai the Levite, helped them.",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 12269,
+        "text": "And the sons of the removal do so, and Ezra the priest, [and] men, heads of the fathers, for the house of their fathers, are separated, even all of them by name, and they sit on the first day of the tenth month, to examine the matter;",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 12270,
+        "text": "and they finish with all the men who have settled strange women unto the first day of the first month.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 12271,
+        "text": "And there are found of the sons of the priests that have settled strange women: of the sons of Jeshua son of Jozadak, and his brethren, Maaseiah, and Eliezer, and Jarib, and Gedaliah;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 12272,
+        "text": "and they give their hand to send out their wives, and, being guilty, a ram of the flock, for their guilt.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 12273,
+        "text": "And of the sons of Immer: Hanani and Zebadiah;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 12274,
+        "text": "and of the sons of Harim: Masseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 12275,
+        "text": "and of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 12276,
+        "text": "And of the Levites: Jozabad, and Shimei, and Kelaiah -- he [is] Kelita, -- Pethahiah, Judah, and Eliezer.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 12277,
+        "text": "And of the singers: Eliashib. And of the gatekeepers: Shallum, and Telem, and Uri.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 12278,
+        "text": "And of Israel: of the sons of Parosh: Ramiah, and Jeziah, and Malchijah, and Miamin, and Eleazar, and Malchijah, and Benaiah.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 12279,
+        "text": "And of the sons of Elam: Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Elijah.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 12280,
+        "text": "And of the sons of Zattu: Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 12281,
+        "text": "And of the sons of Bebai: Jehohanan, Hananiah, Zabbai, Athlai.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 12282,
+        "text": "And of the sons of Bani: Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 12283,
+        "text": "And of the sons of Pahath-Moab: Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 12284,
+        "text": "And of the sons of Harim: Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 12285,
+        "text": "Benjamin, Malluch, Shemariah.",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 12286,
+        "text": "Of the sons of Hashum: Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 12287,
+        "text": "Of the sons of Bani: Maadai, Amram, and Uel,",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 12288,
+        "text": "Benaiah, Bedeiah, Cheluhu,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 12289,
+        "text": "Vaniah, Meremoth, Eliashib,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 12290,
+        "text": "Mattaniah, Mattenai, and Jaasau,",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 38,
+        "count": 12291,
+        "text": "and Bani, and Binnui, Shimei,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 12292,
+        "text": "and Shelemiah, and Nathan, and Adaiah,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 12293,
+        "text": "Machnadbai, Shashai, Sharai,",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 12294,
+        "text": "Azareel, and Shelemiah, Shemariah,",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 12295,
+        "text": "Shallum, Amariah, Joseph.",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 43,
+        "count": 12296,
+        "text": "Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah;",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 12297,
+        "text": "all these have taken strange women, and there are of them women -- who adopt sons.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

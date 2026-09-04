@@ -1,0 +1,48 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 33,
+    "name": "Micah",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Mic.","Mc."],
+    "MaxChapters": 7,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 894,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 2,
+          "count": 895,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 3,
+          "count": 896,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 4,
+          "count": 897,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 5,
+          "count": 898,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 6,
+          "count": 899,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 7,
+          "count": 900,
+          "MaxVerses": 20
+        }
+      ]
+  }
+}

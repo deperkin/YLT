@@ -1,0 +1,763 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 19,
+    "name": "Psalms",
+    "AbbreviationCount": 6,
+    "AbbreviationList": ["Ps.","Psalm","Pslm.","Psa.","Psm.","Pss."],
+    "MaxChapters": 150,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 479,
+          "MaxVerses": 6
+        },
+        {
+          "Cnumber": 2,
+          "count": 480,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 3,
+          "count": 481,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 4,
+          "count": 482,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 5,
+          "count": 483,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 6,
+          "count": 484,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 7,
+          "count": 485,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 8,
+          "count": 486,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 9,
+          "count": 487,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 10,
+          "count": 488,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 11,
+          "count": 489,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 12,
+          "count": 490,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 13,
+          "count": 491,
+          "MaxVerses": 6
+        },
+        {
+          "Cnumber": 14,
+          "count": 492,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 15,
+          "count": 493,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 16,
+          "count": 494,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 17,
+          "count": 495,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 18,
+          "count": 496,
+          "MaxVerses": 50
+        },
+        {
+          "Cnumber": 19,
+          "count": 497,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 20,
+          "count": 498,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 21,
+          "count": 499,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 22,
+          "count": 500,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 23,
+          "count": 501,
+          "MaxVerses": 6
+        },
+        {
+          "Cnumber": 24,
+          "count": 502,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 25,
+          "count": 503,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 26,
+          "count": 504,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 27,
+          "count": 505,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 28,
+          "count": 506,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 29,
+          "count": 507,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 30,
+          "count": 508,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 31,
+          "count": 509,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 32,
+          "count": 510,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 33,
+          "count": 511,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 34,
+          "count": 512,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 35,
+          "count": 513,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 36,
+          "count": 514,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 37,
+          "count": 515,
+          "MaxVerses": 40
+        },
+        {
+          "Cnumber": 38,
+          "count": 516,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 39,
+          "count": 517,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 40,
+          "count": 518,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 41,
+          "count": 519,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 42,
+          "count": 520,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 43,
+          "count": 521,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 44,
+          "count": 522,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 45,
+          "count": 523,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 46,
+          "count": 524,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 47,
+          "count": 525,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 48,
+          "count": 526,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 49,
+          "count": 527,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 50,
+          "count": 528,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 51,
+          "count": 529,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 52,
+          "count": 530,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 53,
+          "count": 531,
+          "MaxVerses": 6
+        },
+        {
+          "Cnumber": 54,
+          "count": 532,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 55,
+          "count": 533,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 56,
+          "count": 534,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 57,
+          "count": 535,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 58,
+          "count": 536,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 59,
+          "count": 537,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 60,
+          "count": 538,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 61,
+          "count": 539,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 62,
+          "count": 540,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 63,
+          "count": 541,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 64,
+          "count": 542,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 65,
+          "count": 543,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 66,
+          "count": 544,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 67,
+          "count": 545,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 68,
+          "count": 546,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 69,
+          "count": 547,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 70,
+          "count": 548,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 71,
+          "count": 549,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 72,
+          "count": 550,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 73,
+          "count": 551,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 74,
+          "count": 552,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 75,
+          "count": 553,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 76,
+          "count": 554,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 77,
+          "count": 555,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 78,
+          "count": 556,
+          "MaxVerses": 72
+        },
+        {
+          "Cnumber": 79,
+          "count": 557,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 80,
+          "count": 558,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 81,
+          "count": 559,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 82,
+          "count": 560,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 83,
+          "count": 561,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 84,
+          "count": 562,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 85,
+          "count": 563,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 86,
+          "count": 564,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 87,
+          "count": 565,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 88,
+          "count": 566,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 89,
+          "count": 567,
+          "MaxVerses": 52
+        },
+        {
+          "Cnumber": 90,
+          "count": 568,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 91,
+          "count": 569,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 92,
+          "count": 570,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 93,
+          "count": 571,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 94,
+          "count": 572,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 95,
+          "count": 573,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 96,
+          "count": 574,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 97,
+          "count": 575,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 98,
+          "count": 576,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 99,
+          "count": 577,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 100,
+          "count": 578,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 101,
+          "count": 579,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 102,
+          "count": 580,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 103,
+          "count": 581,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 104,
+          "count": 582,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 105,
+          "count": 583,
+          "MaxVerses": 45
+        },
+        {
+          "Cnumber": 106,
+          "count": 584,
+          "MaxVerses": 48
+        },
+        {
+          "Cnumber": 107,
+          "count": 585,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 108,
+          "count": 586,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 109,
+          "count": 587,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 110,
+          "count": 588,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 111,
+          "count": 589,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 112,
+          "count": 590,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 113,
+          "count": 591,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 114,
+          "count": 592,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 115,
+          "count": 593,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 116,
+          "count": 594,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 117,
+          "count": 595,
+          "MaxVerses": 2
+        },
+        {
+          "Cnumber": 118,
+          "count": 596,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 119,
+          "count": 597,
+          "MaxVerses": 176
+        },
+        {
+          "Cnumber": 120,
+          "count": 598,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 121,
+          "count": 599,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 122,
+          "count": 600,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 123,
+          "count": 601,
+          "MaxVerses": 4
+        },
+        {
+          "Cnumber": 124,
+          "count": 602,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 125,
+          "count": 603,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 126,
+          "count": 604,
+          "MaxVerses": 6
+        },
+        {
+          "Cnumber": 127,
+          "count": 605,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 128,
+          "count": 606,
+          "MaxVerses": 6
+        },
+        {
+          "Cnumber": 129,
+          "count": 607,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 130,
+          "count": 608,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 131,
+          "count": 609,
+          "MaxVerses": 3
+        },
+        {
+          "Cnumber": 132,
+          "count": 610,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 133,
+          "count": 611,
+          "MaxVerses": 3
+        },
+        {
+          "Cnumber": 134,
+          "count": 612,
+          "MaxVerses": 3
+        },
+        {
+          "Cnumber": 135,
+          "count": 613,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 136,
+          "count": 614,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 137,
+          "count": 615,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 138,
+          "count": 616,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 139,
+          "count": 617,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 140,
+          "count": 618,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 141,
+          "count": 619,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 142,
+          "count": 620,
+          "MaxVerses": 7
+        },
+        {
+          "Cnumber": 143,
+          "count": 621,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 144,
+          "count": 622,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 145,
+          "count": 623,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 146,
+          "count": 624,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 147,
+          "count": 625,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 148,
+          "count": 626,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 149,
+          "count": 627,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 150,
+          "count": 628,
+          "MaxVerses": 6
+        }
+      ]
+  }
+}

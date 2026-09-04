@@ -1,0 +1,195 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 57,
+    "name": "Philemon",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Philem.","Phm.","Pm."],
+    "MaxChapters": 1,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1133,
+          "MaxVerses": 25,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29940,
+        "text": "Paul, a prisoner of Christ Jesus, and Timotheus the brother, to Philemon our beloved and fellow-worker,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29941,
+        "text": "and Apphia the beloved, and Archippus our fellow-soldier, and the assembly in thy house:",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29942,
+        "text": "Grace to you, and peace, from God our Father, and the Lord Jesus Christ!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29943,
+        "text": "I give thanks to my God, always making mention of thee in my prayers,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29944,
+        "text": "hearing of thy love and faith that thou hast unto the Lord Jesus and toward all the saints,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29945,
+        "text": "that the fellowship of thy faith may become working in the full knowledge of every good thing that [is] in you toward Christ Jesus;",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29946,
+        "text": "for we have much joy and comfort in thy love, because the bowels of the saints have been refreshed through thee, brother.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29947,
+        "text": "Wherefore, having in Christ much boldness to command thee that which is fit --",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 29948,
+        "text": "because of the love I rather entreat, being such an one as Paul the aged, and now also a prisoner of Jesus Christ;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29949,
+        "text": "I entreat thee concerning my child -- whom I did beget in my bonds -- Onesimus,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29950,
+        "text": "who once was to thee unprofitable, and now is profitable to me and to thee,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29951,
+        "text": "whom I did send again, and thou him (that is, my own bowels) receive,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29952,
+        "text": "whom I did wish to retain to myself, that in thy behalf he might minister to me in the bonds of the good news,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29953,
+        "text": "and apart from thy mind I willed to do nothing, that as of necessity thy good deed may not be, but of willingness,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29954,
+        "text": "for perhaps because of this he did depart for an hour, that age-duringly thou mayest have him,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29955,
+        "text": "no more as a servant, but above a servant -- a brother beloved, especially to me, and how much more to thee, both in the flesh and in the Lord!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29956,
+        "text": "If, then, with me thou hast fellowship, receive him as me,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29957,
+        "text": "and if he did hurt to thee, or doth owe anything, this to me be reckoning;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29958,
+        "text": "I, Paul did write with my hand, I -- I will repay; that I may not say that also thyself, besides, to me thou dost owe.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29959,
+        "text": "Yes, brother, may I have profit of thee in the Lord; refresh my bowels in the Lord;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29960,
+        "text": "having been confident in thy obedience I did write to thee, having known that also above what I may say thou wilt do;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29961,
+        "text": "and at the same time also prepare for me a lodging, for I hope that through your prayers I shall be granted to you.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29962,
+        "text": "Salute thee doth Epaphras, (my fellow-captive in Christ Jesus,)",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29963,
+        "text": "Markus, Aristarchus, Demas, Lukas, my fellow-workmen!",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29964,
+        "text": "The grace of our Lord Jesus Christ [is] with your spirit! Amen.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

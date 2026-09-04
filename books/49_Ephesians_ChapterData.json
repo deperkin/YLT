@@ -1,0 +1,43 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 49,
+    "name": "Ephesians",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Eph.","Ephes."],
+    "MaxChapters": 6,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1098,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 2,
+          "count": 1099,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 3,
+          "count": 1100,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 4,
+          "count": 1101,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 5,
+          "count": 1102,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 6,
+          "count": 1103,
+          "MaxVerses": 24
+        }
+      ]
+  }
+}

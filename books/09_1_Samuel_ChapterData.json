@@ -1,0 +1,168 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 9,
+    "name": "1 Samuel",
+    "AbbreviationCount": 13,
+    "AbbreviationList": ["1 Sam.","1 Sm.","1 Sa.","1 S.","I Sam.","I Sa.","1Sam.","1Sa.","1S.","1st Samuel","1st Sam.","First Samuel","First Sam."],
+    "MaxChapters": 31,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 237,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 2,
+          "count": 238,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 3,
+          "count": 239,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 4,
+          "count": 240,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 5,
+          "count": 241,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 6,
+          "count": 242,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 7,
+          "count": 243,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 8,
+          "count": 244,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 9,
+          "count": 245,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 10,
+          "count": 246,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 11,
+          "count": 247,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 12,
+          "count": 248,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 13,
+          "count": 249,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 14,
+          "count": 250,
+          "MaxVerses": 52
+        },
+        {
+          "Cnumber": 15,
+          "count": 251,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 16,
+          "count": 252,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 17,
+          "count": 253,
+          "MaxVerses": 58
+        },
+        {
+          "Cnumber": 18,
+          "count": 254,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 19,
+          "count": 255,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 20,
+          "count": 256,
+          "MaxVerses": 42
+        },
+        {
+          "Cnumber": 21,
+          "count": 257,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 22,
+          "count": 258,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 23,
+          "count": 259,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 24,
+          "count": 260,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 25,
+          "count": 261,
+          "MaxVerses": 44
+        },
+        {
+          "Cnumber": 26,
+          "count": 262,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 27,
+          "count": 263,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 28,
+          "count": 264,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 29,
+          "count": 265,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 30,
+          "count": 266,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 31,
+          "count": 267,
+          "MaxVerses": 13
+        }
+      ]
+  }
+}

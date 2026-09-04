@@ -1,0 +1,118 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 7,
+    "name": "Judges",
+    "AbbreviationCount": 4,
+    "AbbreviationList": ["Judg.","Jdg.","Jg.","Jdgs."],
+    "MaxChapters": 21,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 212,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 2,
+          "count": 213,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 3,
+          "count": 214,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 4,
+          "count": 215,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 5,
+          "count": 216,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 6,
+          "count": 217,
+          "MaxVerses": 40
+        },
+        {
+          "Cnumber": 7,
+          "count": 218,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 8,
+          "count": 219,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 9,
+          "count": 220,
+          "MaxVerses": 57
+        },
+        {
+          "Cnumber": 10,
+          "count": 221,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 11,
+          "count": 222,
+          "MaxVerses": 40
+        },
+        {
+          "Cnumber": 12,
+          "count": 223,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 13,
+          "count": 224,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 14,
+          "count": 225,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 15,
+          "count": 226,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 16,
+          "count": 227,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 17,
+          "count": 228,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 18,
+          "count": 229,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 19,
+          "count": 230,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 20,
+          "count": 231,
+          "MaxVerses": 48
+        },
+        {
+          "Cnumber": 21,
+          "count": 232,
+          "MaxVerses": 25
+        }
+      ]
+  }
+}

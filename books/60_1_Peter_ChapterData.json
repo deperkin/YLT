@@ -1,0 +1,38 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 60,
+    "name": "1 Peter",
+    "AbbreviationCount": 15,
+    "AbbreviationList": ["1 Pet.","1 Pe.","1 Pt.","","I Pet.","I Pt.","I Pe.","1Peter","1Pet.","1Pe.","1Pt.","1P.","I Peter","1st Peter","First Peter"],
+    "MaxChapters": 5,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1152,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 2,
+          "count": 1153,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 3,
+          "count": 1154,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 4,
+          "count": 1155,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 5,
+          "count": 1156,
+          "MaxVerses": 14
+        }
+      ]
+  }
+}

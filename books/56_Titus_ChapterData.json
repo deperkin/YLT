@@ -1,0 +1,28 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 56,
+    "name": "Titus",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Titus","Tit","ti"],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1130,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 2,
+          "count": 1131,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 3,
+          "count": 1132,
+          "MaxVerses": 15
+        }
+      ]
+  }
+}

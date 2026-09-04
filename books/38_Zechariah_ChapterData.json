@@ -1,0 +1,83 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 38,
+    "name": "Zechariah",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Zech.","Zec.","Zc."],
+    "MaxChapters": 14,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 912,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 2,
+          "count": 913,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 3,
+          "count": 914,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 4,
+          "count": 915,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 5,
+          "count": 916,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 6,
+          "count": 917,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 7,
+          "count": 918,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 8,
+          "count": 919,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 9,
+          "count": 920,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 10,
+          "count": 921,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 11,
+          "count": 922,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 12,
+          "count": 923,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 13,
+          "count": 924,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 14,
+          "count": 925,
+          "MaxVerses": 21
+        }
+      ]
+  }
+}

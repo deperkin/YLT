@@ -1,0 +1,133 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 6,
+    "name": "Joshua",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Josh.","Jos.","Jsh."],
+    "MaxChapters": 24,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 188,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 2,
+          "count": 189,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 3,
+          "count": 190,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 4,
+          "count": 191,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 5,
+          "count": 192,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 6,
+          "count": 193,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 7,
+          "count": 194,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 8,
+          "count": 195,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 9,
+          "count": 196,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 10,
+          "count": 197,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 11,
+          "count": 198,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 12,
+          "count": 199,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 13,
+          "count": 200,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 14,
+          "count": 201,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 15,
+          "count": 202,
+          "MaxVerses": 63
+        },
+        {
+          "Cnumber": 16,
+          "count": 203,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 17,
+          "count": 204,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 18,
+          "count": 205,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 19,
+          "count": 206,
+          "MaxVerses": 51
+        },
+        {
+          "Cnumber": 20,
+          "count": 207,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 21,
+          "count": 208,
+          "MaxVerses": 45
+        },
+        {
+          "Cnumber": 22,
+          "count": 209,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 23,
+          "count": 210,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 24,
+          "count": 211,
+          "MaxVerses": 33
+        }
+      ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 45,
+    "name": "Romans",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Rom.","Ro.","Rm."],
+    "MaxChapters": 16,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1047,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 2,
+          "count": 1048,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 3,
+          "count": 1049,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 4,
+          "count": 1050,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 5,
+          "count": 1051,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 6,
+          "count": 1052,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 7,
+          "count": 1053,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 8,
+          "count": 1054,
+          "MaxVerses": 39
+        },
+        {
+          "Cnumber": 9,
+          "count": 1055,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 10,
+          "count": 1056,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 11,
+          "count": 1057,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 12,
+          "count": 1058,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 13,
+          "count": 1059,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 14,
+          "count": 1060,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 15,
+          "count": 1061,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 16,
+          "count": 1062,
+          "MaxVerses": 27
+        }
+      ]
+  }
+}

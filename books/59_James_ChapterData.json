@@ -1,0 +1,38 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 59,
+    "name": "James",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["James","Jas","Jm"],
+    "MaxChapters": 5,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1147,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 2,
+          "count": 1148,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 3,
+          "count": 1149,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 4,
+          "count": 1150,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 5,
+          "count": 1151,
+          "MaxVerses": 20
+        }
+      ]
+  }
+}

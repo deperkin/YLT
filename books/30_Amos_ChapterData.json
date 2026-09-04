@@ -1,0 +1,58 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 30,
+    "name": "Amos",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Amos","Am."],
+    "MaxChapters": 9,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 880,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 2,
+          "count": 881,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 3,
+          "count": 882,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 4,
+          "count": 883,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 5,
+          "count": 884,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 6,
+          "count": 885,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 7,
+          "count": 886,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 8,
+          "count": 887,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 9,
+          "count": 888,
+          "MaxVerses": 15
+        }
+      ]
+  }
+}

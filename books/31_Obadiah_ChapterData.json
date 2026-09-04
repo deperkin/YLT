@@ -1,0 +1,18 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 31,
+    "name": "Obadiah",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Obad.","Ob."],
+    "MaxChapters": 1,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 889,
+          "MaxVerses": 21
+        }
+      ]
+  }
+}

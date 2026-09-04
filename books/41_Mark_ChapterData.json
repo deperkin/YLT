@@ -1,0 +1,93 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 41,
+    "name": "Mark",
+    "AbbreviationCount": 5,
+    "AbbreviationList": ["Mark","Mrk","Mar","Mk","Mr"],
+    "MaxChapters": 16,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 958,
+          "MaxVerses": 45
+        },
+        {
+          "Cnumber": 2,
+          "count": 959,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 3,
+          "count": 960,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 4,
+          "count": 961,
+          "MaxVerses": 41
+        },
+        {
+          "Cnumber": 5,
+          "count": 962,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 6,
+          "count": 963,
+          "MaxVerses": 56
+        },
+        {
+          "Cnumber": 7,
+          "count": 964,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 8,
+          "count": 965,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 9,
+          "count": 966,
+          "MaxVerses": 50
+        },
+        {
+          "Cnumber": 10,
+          "count": 967,
+          "MaxVerses": 52
+        },
+        {
+          "Cnumber": 11,
+          "count": 968,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 12,
+          "count": 969,
+          "MaxVerses": 44
+        },
+        {
+          "Cnumber": 13,
+          "count": 970,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 14,
+          "count": 971,
+          "MaxVerses": 72
+        },
+        {
+          "Cnumber": 15,
+          "count": 972,
+          "MaxVerses": 47
+        },
+        {
+          "Cnumber": 16,
+          "count": 973,
+          "MaxVerses": 20
+        }
+      ]
+  }
+}

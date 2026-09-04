@@ -1,0 +1,361 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 34,
+    "name": "Nahum",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Nah.","Na."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 901,
+          "MaxVerses": 15,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22686,
+        "text": "Burden of Nineveh. The Book of the Vision of Nahum the Elkoshite.",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22687,
+        "text": "A God zealous and avenging [is] Jehovah, An avenger [is] Jehovah, and possessing fury. An avenger [is] Jehovah on His adversaries, And He is watching for His enemies.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 22688,
+        "text": "Jehovah [is] slow to anger, and great in power, And Jehovah doth not entirely acquit, In a hurricane and in a tempest [is] His way, And a cloud [is] the dust of His feet.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22689,
+        "text": "He is pushing against a sea, and drieth it up, Yea, all the floods He hath made dry, Languishing [are] Bashan and Carmel, Yea, the flower of Lebanon [is] languishing.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22690,
+        "text": "Mountains have shaken because of Him, And the hills have been melted; And lifted up [is] the earth at His presence, And the world and all dwelling in it.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22691,
+        "text": "Before His indignation who doth stand? And who riseth up in the heat of His anger? His fury hath been poured out like fire, And the rocks have been broken by Him.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22692,
+        "text": "Good [is] Jehovah for a strong place in a day of distress. And He knoweth those trusting in Him.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22693,
+        "text": "And with a flood passing over, An end He maketh of its place, And His enemies doth darkness pursue.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22694,
+        "text": "What do we devise against Jehovah? An end He is making, arise not twice doth distress.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 22695,
+        "text": "For while princes [are] perplexed, And with their drink are drunken, They have been consumed as stubble fully dried.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22696,
+        "text": "From thee hath come forth a deviser of evil Against Jehovah -- a worthless counsellor.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22697,
+        "text": "Thus said Jehovah: Though complete, and thus many, Yet thus they have been cut off, And he hath passed away. And I afflicted thee, I afflict thee no more.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22698,
+        "text": "And now I break his rod from off thee, And thy bands I do draw away.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22699,
+        "text": "And commanded concerning thee hath Jehovah, 'No more of thy name doth spread abroad, From the house of thy gods I cut off graven and molten image, I appoint thy grave, for thou hast been vile.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22700,
+        "text": "Lo, on the mountains the feet of one proclaiming tidings, sounding peace! Celebrate, O Judah, thy festivals, complete thy vows, For add no more to pass over into thee doth the worthless, He hath been completely cut off!",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 902,
+          "MaxVerses": 13,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22701,
+        "text": "Come up hath a scatterer to thy face, Keep the bulwark, watch the way, Strengthen the loins, strengthen power mightily.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22702,
+        "text": "For turned back hath Jehovah to the excellency of Jacob, As [to] the excellency of Israel, For emptied them out have emptiers, And their branches they have marred.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22703,
+        "text": "The shield of his mighty ones is become red, Men of might [are in] scarlet, With fiery torches [is] the chariot in a day of his preparation, And the firs have been caused to tremble.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22704,
+        "text": "In out-places shine do the chariots, They go to and fro in broad places, Their appearances [are] like torches, As lightnings they run.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22705,
+        "text": "He doth remember his honourable ones, They stumble in their goings, They hasten [to] its wall, and prepared is the covering.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22706,
+        "text": "Gates of the rivers have been opened, And the palace is dissolved.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22707,
+        "text": "And it is established -- she hath removed, She hath been brought up, And her handmaids are leading as the voice of doves, Tabering on their hearts.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22708,
+        "text": "And Nineveh [is] as a pool of waters, From of old it [is] -- and they are fleeing! 'Stand ye, stand;' and none is turning!",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22709,
+        "text": "Seize ye silver, seize ye gold, And there is no end to the prepared things, [To] the abundance of all desirable vessels.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22710,
+        "text": "She is empty, yea, emptiness and waste, And the heart hath melted, And the knees have smitten together, And great pain [is] in all loins, And the faces of all of them have gathered paleness.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22711,
+        "text": "Where [is] the habitation of lionesses? And a feeding-place it [is] for young lions Where walked hath a lion, an old lion, A lion's whelp, and there is none troubling.",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 22712,
+        "text": "The lion is tearing parts [for] his whelps, And is strangling for his lionesses, And he doth fill [with] prey his holes, And his habitations [with] rapine.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22713,
+        "text": "Lo, I [am] against thee, An affirmation of Jehovah of Hosts, And I have burned in smoke its chariot, And thy young lions consume doth a sword, And I have cut off from the land thy prey, And not heard any more is the voice of thy messengers!",
+        "WordCount": 48,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 903,
+          "MaxVerses": 19,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22714,
+        "text": "Woe [to] the city of blood, She is all with lies -- burglary -- full, Prey doth not depart.",
+        "WordCount": 19,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22715,
+        "text": "The sound of a whip, And the sound of the rattling of a wheel, And of a prancing horse, and of a bounding chariot, Of a horseman mounting.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22716,
+        "text": "And the flame of a sword, and the lightning of a spear, And the abundance of the wounded, And the weight of carcases, Yea, there is no end to the bodies, They stumble over their bodies.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22717,
+        "text": "Because of the abundance of the fornications of an harlot, The goodness of the grace of the lady of witchcrafts, Who is selling nations by her fornications, And families by her witchcrafts.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22718,
+        "text": "Lo, I [am] against thee, An affirmation of Jehovah of Hosts, And have removed thy skirts before thy face, And have shewed nations thy nakedness, And kingdoms thy shame,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22719,
+        "text": "And I have cast upon thee abominations, And dishonoured thee, and made thee as a sight.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22720,
+        "text": "And it hath come to pass, Each of thy beholders fleeth from thee, And hath said: 'Spoiled is Nineveh, Who doth bemoan for her?' Whence do I seek comforters for thee?",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22721,
+        "text": "Art thou better than No-Ammon, That is dwelling among brooks? Waters she hath round about her, Whose bulwark [is] the sea, waters her wall.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22722,
+        "text": "Cush her might, and Egypt, and there is no end. Put and Lubim have been for thy help.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22723,
+        "text": "Even she doth become an exile, She hath gone into captivity, Even her sucklings are dashed to pieces At the top of all out-places, And for her honoured ones they cast a lot, And all her great ones have been bound in fetters.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22724,
+        "text": "Even thou art drunken, thou art hidden, Even thou dost seek a strong place, because of an enemy.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22725,
+        "text": "All thy fortresses [are] fig-trees with first-fruits, If they are shaken, They have fallen into the mouth of the eater.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22726,
+        "text": "Lo, thy people [are] women in thy midst, To thine enemies thoroughly opened Have been the gates of thy land, Consumed hath fire thy bars.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22727,
+        "text": "Waters of a siege draw for thyself, Strengthen thy fortresses, Enter into mire, and tread on clay, Make strong a brick-kiln.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22728,
+        "text": "There consume thee doth a fire, Cut thee off doth a sword, It doth consume thee as a cankerworm! Make thyself heavy as the cankerworm, Make thyself heavy as the locust.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22729,
+        "text": "Multiply thy merchants above the stars of the heavens, The cankerworm hath stripped off, and doth flee away.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22730,
+        "text": "Thy crowned ones [are] as a locust, And thy princes as great grasshoppers, That encamp in hedges in a day of cold, The sun hath risen, and it doth flee away, And not known is its place where they are.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22731,
+        "text": "Slumbered have thy friends, king of Asshur, Rest do thine honourable ones, Scattered have been thy people on the mountains, And there is none gathering.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22732,
+        "text": "There is no weakening of thy destruction, Grievous [is] thy smiting, All hearing thy fame have clapped the hand at thee, For over whom did not thy wickedness pass continually?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

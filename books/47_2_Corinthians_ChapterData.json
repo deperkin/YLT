@@ -1,0 +1,78 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 47,
+    "name": "2 Corinthians",
+    "AbbreviationCount": 10,
+    "AbbreviationList": ["2 Cor.","2 Co.","II Cor.","II Co.","2Cor.","2Co.","II Corinthians","2Corinthians","2nd Corinthians","Second Corinthians"],
+    "MaxChapters": 13,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1079,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 2,
+          "count": 1080,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 3,
+          "count": 1081,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 4,
+          "count": 1082,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 5,
+          "count": 1083,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 6,
+          "count": 1084,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 7,
+          "count": 1085,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 8,
+          "count": 1086,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 9,
+          "count": 1087,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 10,
+          "count": 1088,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 11,
+          "count": 1089,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 12,
+          "count": 1090,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 13,
+          "count": 1091,
+          "MaxVerses": 14
+        }
+      ]
+  }
+}

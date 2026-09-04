@@ -1,0 +1,195 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 65,
+    "name": "Jude",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Jude","Jud.","Jd."],
+    "MaxChapters": 1,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1167,
+          "MaxVerses": 25,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30674,
+        "text": "Judas, of Jesus Christ a servant, and brother of James, to those sanctified in God the Father, and in Jesus Christ kept -- called,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30675,
+        "text": "kindness to you, and peace, and love, be multiplied!",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30676,
+        "text": "Beloved, all diligence using to write to you concerning the common salvation, I had necessity to write to you, exhorting to agonize for the faith once delivered to the saints,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30677,
+        "text": "for there did come in unobserved certain men, long ago having been written beforehand to this judgment, impious, the grace of our God perverting to lasciviousness, and our only Master, God, and Lord -- Jesus Christ -- denying,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30678,
+        "text": "and to remind you I intend, you knowing once this, that the Lord, a people out of the land of Egypt having saved, again those who did not believe did destroy;",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30679,
+        "text": "messengers also, those who did not keep their own principality, but did leave their proper dwelling, to a judgment of a great day, in bonds everlasting, under darkness He hath kept,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30680,
+        "text": "as Sodom and Gomorrah, and the cities around them, in like manner to these, having given themselves to whoredom, and gone after other flesh, have been set before -- an example, of fire age-during, justice suffering.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30681,
+        "text": "In like manner, nevertheless, those dreaming also the flesh indeed do defile, and lordship they put away, and dignities they speak evil of,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 30682,
+        "text": "yet Michael, the chief messenger, when, with the devil contending, he was disputing about the body of Moses, did not dare to bring up an evil-speaking judgment, but said, 'The Lord rebuke thee!'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 30683,
+        "text": "and these, as many things indeed as they have not known, they speak evil of; and as many things as naturally (as the irrational beasts) they understand, in these they are corrupted;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30684,
+        "text": "woe to them! because in the way of Cain they did go on, and to the deceit of Balaam for reward they did rush, and in the gainsaying of Korah they did perish.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30685,
+        "text": "These are in your love-feasts craggy rocks; feasting together with you, without fear shepherding themselves; clouds without water, by winds carried about; trees autumnal, without fruit, twice dead, rooted up;",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 30686,
+        "text": "wild waves of a sea, foaming out their own shames; stars going astray, to whom the gloom of the darkness to the age hath been kept.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30687,
+        "text": "And prophesy also to these did the seventh from Adam -- Enoch -- saying, 'Lo, the Lord did come in His saintly myriads,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 30688,
+        "text": "to do judgment against all, and to convict all their impious ones, concerning all their works of impiety that they did impiously, and concerning all the stiff things that speak against Him did impious sinners.'",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 30689,
+        "text": "These are murmurers, repiners; according to their desires walking, and their mouth doth speak great swellings, giving admiration to persons for the sake of profit;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 30690,
+        "text": "and ye, beloved, remember ye the sayings spoken before by the apostles of our Lord Jesus Christ:",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 30691,
+        "text": "that they said to you, that in the last time there shall be scoffers, after their own desires of impieties going on,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 30692,
+        "text": "these are those setting themselves apart, natural men, the Spirit not having.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 30693,
+        "text": "And ye, beloved, on your most holy faith building yourselves up, in the Holy Spirit praying,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 30694,
+        "text": "yourselves in the love of God keep ye, waiting for the kindness of our Lord Jesus Christ -- to life age-during;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 30695,
+        "text": "and to some be kind, judging thoroughly,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 30696,
+        "text": "and some in fear save ye, out of the fire snatching, hating even the coat from the flesh spotted.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 30697,
+        "text": "And to Him who is able to guard you not stumbling, and to set [you] in the presence of His glory unblemished, in gladness,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 30698,
+        "text": "to the only wise God our Saviour, [is] glory and greatness, power and authority, both now and to all the ages! Amen.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

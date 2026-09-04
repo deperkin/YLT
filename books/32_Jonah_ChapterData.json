@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 32,
+    "name": "Jonah",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Jonah","Jnh.","Jon."],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 890,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 2,
+          "count": 891,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 3,
+          "count": 892,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 4,
+          "count": 893,
+          "MaxVerses": 11
+        }
+      ]
+  }
+}

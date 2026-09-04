@@ -1,0 +1,18 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 57,
+    "name": "Philemon",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Philem.","Phm.","Pm."],
+    "MaxChapters": 1,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1133,
+          "MaxVerses": 25
+        }
+      ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 17,
+    "name": "Esther",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Est.","Esth.","Es."],
+    "MaxChapters": 10,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 427,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 2,
+          "count": 428,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 3,
+          "count": 429,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 4,
+          "count": 430,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 5,
+          "count": 431,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 6,
+          "count": 432,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 7,
+          "count": 433,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 8,
+          "count": 434,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 9,
+          "count": 435,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 10,
+          "count": 436,
+          "MaxVerses": 3
+        }
+      ]
+  }
+}

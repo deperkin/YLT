@@ -1,0 +1,667 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 52,
+    "name": "1 Thessalonians",
+    "AbbreviationCount": 15,
+    "AbbreviationList": ["1 Thess.","1 Thes.","1 Th.","I Thessalonians","I Thess.","I Thes.","I Th.","1Thessalonians","1Thess.","1Thes.","1Th.","1st Thessalonians","1st Thess.","First Thessalonians","First Thess."],
+    "MaxChapters": 5,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1112,
+          "MaxVerses": 10,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29562,
+        "text": "Paul, and Silvanus, and Timotheus, to the assembly of Thessalonians in God the Father, and the Lord Jesus Christ: Grace to you, and peace, from God our Father, and the Lord Jesus Christ!",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29563,
+        "text": "We give thanks to God always for you all, making mention of you in our prayers,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 29564,
+        "text": "unceasingly remembering of you the work of the faith, and the labour of the love, and the endurance of the hope, of our Lord Jesus Christ, in the presence of our God and Father,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29565,
+        "text": "having known, brethren beloved, by God, your election,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29566,
+        "text": "because our good news did not come to you in word only, but also in power, and in the Holy Spirit, and in much assurance, even as ye have known of what sort we became among you because of you,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29567,
+        "text": "and ye -- ye did become imitators of us, and of the Lord, having received the word in much tribulation, with joy of the Holy Spirit,",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29568,
+        "text": "so that ye became patterns to all those believing in Macedonia and Achaia,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29569,
+        "text": "for from you hath sounded forth the word of the Lord, not only in Macedonia and Achaia, but also in every place your faith toward God did go forth, so that we have no need to say anything,",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29570,
+        "text": "for they themselves concerning us do declare what entrance we had unto you, and how ye did turn unto God from the idols, to serve a living and true God,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29571,
+        "text": "and to wait for His Son from the heavens, whom He did raise out of the dead -- Jesus, who is rescuing us from the anger that is coming.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1113,
+          "MaxVerses": 20,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29572,
+        "text": "For yourselves have known, brethren, our entrance in unto you, that it did not become vain,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29573,
+        "text": "but having both suffered before, and having been injuriously treated (as ye have known) in Philippi, we were bold in our God to speak unto you the good news of God in much conflict,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29574,
+        "text": "for our exhortation [is] not out of deceit, nor out of uncleanness, nor in guile,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29575,
+        "text": "but as we have been approved by God to be entrusted with the good news, so we speak, not as pleasing men, but God, who is proving our hearts,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29576,
+        "text": "for at no time did we come with speech of flattery, (as ye have known,) nor in a pretext for covetousness, (God [is] witness!)",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29577,
+        "text": "nor seeking of men glory, neither from you nor from others, being able to be burdensome, as Christ's apostles.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29578,
+        "text": "But we became gentle in your midst, as a nurse may cherish her own children,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 29579,
+        "text": "so being desirous of you, we are well-pleased to impart to you not only the good news of God, but also our own souls, because beloved ye have become to us,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29580,
+        "text": "for ye remember, brethren, our labour and travail, for, night and day working not to be a burden upon any of you, we did preach to you the good news of God;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29581,
+        "text": "ye [are] witnesses -- God also -- how kindly and righteously, and blamelessly to you who believe we became,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29582,
+        "text": "even as ye have known, how each one of you, as a father his own children, we are exhorting you, and comforting, and testifying,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29583,
+        "text": "for your walking worthily of God, who is calling you to His own reign and glory.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29584,
+        "text": "Because of this also, we -- we do give thanks to God continually, that, having received the word of hearing from us of God, ye accepted, not the word of man, but as it is truly, the word of God, who also doth work in you who believe;",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29585,
+        "text": "for ye became imitators, brethren, of the assemblies of God that are in Judea in Christ Jesus, because such things ye suffered, even ye, from your own countrymen, as also they from the Jews,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29586,
+        "text": "who did both put to death the Lord Jesus and their own prophets, and did persecute us, and God they are not pleasing, and to all men [are] contrary,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29587,
+        "text": "forbidding us to speak to the nations that they might be saved, to fill up their sins always, but the anger did come upon them -- to the end!",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29588,
+        "text": "And we, brethren, having been taken from you for the space of an hour -- in presence, not in heart -- did hasten the more abundantly to see your face in much desire,",
+        "WordCount": 33,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 29589,
+        "text": "wherefore we wished to come unto you, (I indeed Paul,) both once and again, and the Adversary did hinder us;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29590,
+        "text": "for what [is] our hope, or joy, or crown of rejoicing? are not even ye before our Lord Jesus Christ in his presence?",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29591,
+        "text": "for ye are our glory and joy.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1114,
+          "MaxVerses": 13,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29592,
+        "text": "Wherefore no longer forbearing, we thought good to be left in Athens alone,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29593,
+        "text": "and did send Timotheus -- our brother, and a ministrant of God, and our fellow-workman in the good news of the Christ -- to establish you, and to comfort you concerning your faith,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29594,
+        "text": "that no one be moved in these tribulations, for yourselves have known that for this we are set,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29595,
+        "text": "for even when we were with you, we said to you beforehand, that we are about to suffer tribulation, as also it did come to pass, and ye have known [it];",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29596,
+        "text": "because of this also, I, no longer forbearing, did send to know your faith, lest he who is tempting did tempt you, and in vain might be our labour.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29597,
+        "text": "And now Timotheus having come unto us from you, and having declared good news to us of your faith and love, and that ye have a good remembrance of us always, desiring much to see us, as we also [to see] you,",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29598,
+        "text": "because of this we were comforted, brethren, over you, in all our tribulation and necessity, through your faith,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29599,
+        "text": "because now we live, if ye may stand fast in the Lord;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29600,
+        "text": "for what thanks are we able to recompense to God for you, for all the joy with which we do joy because of you in the presence of our God?",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29601,
+        "text": "night and day exceedingly beseeching, that we might see your face, and perfect the things lacking in your faith.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29602,
+        "text": "And our God and Father Himself, and our Lord Jesus Christ, direct our way unto you,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29603,
+        "text": "and you the Lord cause to increase and to abound in the love to one another, and to all, even as we also to you,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29604,
+        "text": "to the establishing your hearts blameless in sanctification before our God and Father, in the presence of our Lord Jesus Christ with all His saints.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 1115,
+          "MaxVerses": 18,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29605,
+        "text": "As to the rest, then, brethren, we request you, and call upon you in the Lord Jesus, as ye did receive from us how it behoveth you to walk and to please God, that ye may abound the more,",
+        "WordCount": 39,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29606,
+        "text": "for ye have known what commands we gave you through the Lord Jesus,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29607,
+        "text": "for this is the will of God -- your sanctification; that ye abstain from the whoredom,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29608,
+        "text": "that each of you know his own vessel to possess in sanctification and honour,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29609,
+        "text": "not in the affection of desire, as also the nations that were not knowing God,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29610,
+        "text": "that no one go beyond and defraud in the matter his brother, because an avenger [is] the Lord of all these, as also we spake before to you and testified,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29611,
+        "text": "for God did not call us on uncleanness, but in sanctification;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29612,
+        "text": "he, therefore, who is despising -- doth not despise man, but God, who also did give His Holy Spirit to us.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29613,
+        "text": "And concerning the brotherly love, ye have no need of [my] writing to you, for ye yourselves are God-taught to love one another,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29614,
+        "text": "for ye do it also to all the brethren who [are] in all Macedonia; and we call upon you, brethren, to abound still more,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29615,
+        "text": "and to study to be quiet, and to do your own business, and to work with your own hands, as we did command you,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29616,
+        "text": "that ye may walk becomingly unto those without, and may have lack of nothing.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29617,
+        "text": "And I do not wish you to be ignorant, brethren, concerning those who have fallen asleep, that ye may not sorrow, as also the rest who have not hope,",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29618,
+        "text": "for if we believe that Jesus died and rose again, so also God those asleep through Jesus he will bring with him,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29619,
+        "text": "for this to you we say in the word of the Lord, that we who are living -- who do remain over to the presence of the Lord -- may not precede those asleep,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29620,
+        "text": "because the Lord himself, in a shout, in the voice of a chief-messenger, and in the trump of God, shall come down from heaven, and the dead in Christ shall rise first,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29621,
+        "text": "then we who are living, who are remaining over, together with them shall be caught away in clouds to meet the Lord in air, and so always with the Lord we shall be;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29622,
+        "text": "so, then, comfort ye one another in these words.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 5,
+          "count": 1116,
+          "MaxVerses": 28,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29623,
+        "text": "And concerning the times and the seasons, brethren, ye have no need of my writing to you,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29624,
+        "text": "for yourselves have known thoroughly that the day of the Lord as a thief in the night doth so come,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29625,
+        "text": "for when they may say, Peace and surety, then sudden destruction doth stand by them, as the travail [doth] her who is with child, and they shall not escape;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29626,
+        "text": "and ye, brethren, are not in darkness, that the day may catch you as a thief;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29627,
+        "text": "all ye are sons of light, and sons of day; we are not of night, nor of darkness,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29628,
+        "text": "so, then, we may not sleep as also the others, but watch and be sober,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 7,
+        "count": 29629,
+        "text": "for those sleeping, by night do sleep, and those making themselves drunk, by night are drunken,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29630,
+        "text": "and we, being of the day -- let us be sober, putting on a breastplate of faith and love, and an helmet -- a hope of salvation,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29631,
+        "text": "because God did not appoint us to anger, but to the acquiring of salvation through our Lord Jesus Christ,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29632,
+        "text": "who did die for us, that whether we wake -- whether we sleep -- together with him we may live;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29633,
+        "text": "wherefore, comfort ye one another, and build ye up, one the one, as also ye do.",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29634,
+        "text": "And we ask you, brethren, to know those labouring among you, and leading you in the Lord, and admonishing you,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29635,
+        "text": "and to esteem them very abundantly in love, because of their work; be at peace among yourselves;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29636,
+        "text": "and we exhort you, brethren, admonish the disorderly, comfort the feeble-minded, support the infirm, be patient unto all;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29637,
+        "text": "see no one evil for evil may render to any one, but always that which is good pursue ye, both to one another and to all;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29638,
+        "text": "always rejoice ye;",
+        "WordCount": 3,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29639,
+        "text": "continually pray ye;",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29640,
+        "text": "in every thing give thanks, for this [is] the will of God in Christ Jesus in regard to you.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29641,
+        "text": "The Spirit quench not;",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29642,
+        "text": "prophesyings despise not;",
+        "WordCount": 3,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29643,
+        "text": "all things prove; that which is good hold fast;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29644,
+        "text": "from all appearance of evil abstain ye;",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29645,
+        "text": "and the God of the peace Himself sanctify you wholly, and may your whole spirit, and soul, and body, be preserved unblameably in the presence of our Lord Jesus Christ;",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 24,
+        "count": 29646,
+        "text": "stedfast is He who is calling you, who also will do [it].",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29647,
+        "text": "Brethren, pray for us;",
+        "WordCount": 4,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29648,
+        "text": "salute all the brethren in an holy kiss;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29649,
+        "text": "I charge you [by] the Lord, that the letter be read to all the holy brethren;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29650,
+        "text": "the grace of our Lord Jesus Christ [is] with you! Amen.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

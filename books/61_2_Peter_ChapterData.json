@@ -1,0 +1,28 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 61,
+    "name": "2 Peter",
+    "AbbreviationCount": 15,
+    "AbbreviationList": ["2 Pet.","2 Pe.","2 Pt.","2 P.","II Peter","II Pet.","II Pt.","II Pe.","2Peter","2Pet.","2Pe.","2Pt.","2P.","2nd Peter","Second Peter"],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1157,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 2,
+          "count": 1158,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 3,
+          "count": 1159,
+          "MaxVerses": 18
+        }
+      ]
+  }
+}

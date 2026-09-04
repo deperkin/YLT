@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 39,
+    "name": "Malachi",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Mal.","Ml."],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 926,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 2,
+          "count": 927,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 3,
+          "count": 928,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 4,
+          "count": 929,
+          "MaxVerses": 6
+        }
+      ]
+  }
+}

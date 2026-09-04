@@ -1,0 +1,133 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 42,
+    "name": "Luke",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Luke","Luk","Lk"],
+    "MaxChapters": 24,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 974,
+          "MaxVerses": 80
+        },
+        {
+          "Cnumber": 2,
+          "count": 975,
+          "MaxVerses": 52
+        },
+        {
+          "Cnumber": 3,
+          "count": 976,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 4,
+          "count": 977,
+          "MaxVerses": 44
+        },
+        {
+          "Cnumber": 5,
+          "count": 978,
+          "MaxVerses": 39
+        },
+        {
+          "Cnumber": 6,
+          "count": 979,
+          "MaxVerses": 49
+        },
+        {
+          "Cnumber": 7,
+          "count": 980,
+          "MaxVerses": 50
+        },
+        {
+          "Cnumber": 8,
+          "count": 981,
+          "MaxVerses": 56
+        },
+        {
+          "Cnumber": 9,
+          "count": 982,
+          "MaxVerses": 62
+        },
+        {
+          "Cnumber": 10,
+          "count": 983,
+          "MaxVerses": 42
+        },
+        {
+          "Cnumber": 11,
+          "count": 984,
+          "MaxVerses": 54
+        },
+        {
+          "Cnumber": 12,
+          "count": 985,
+          "MaxVerses": 59
+        },
+        {
+          "Cnumber": 13,
+          "count": 986,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 14,
+          "count": 987,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 15,
+          "count": 988,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 16,
+          "count": 989,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 17,
+          "count": 990,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 18,
+          "count": 991,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 19,
+          "count": 992,
+          "MaxVerses": 48
+        },
+        {
+          "Cnumber": 20,
+          "count": 993,
+          "MaxVerses": 47
+        },
+        {
+          "Cnumber": 21,
+          "count": 994,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 22,
+          "count": 995,
+          "MaxVerses": 71
+        },
+        {
+          "Cnumber": 23,
+          "count": 996,
+          "MaxVerses": 56
+        },
+        {
+          "Cnumber": 24,
+          "count": 997,
+          "MaxVerses": 53
+        }
+      ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 53,
+    "name": "2 Thessalonians",
+    "AbbreviationCount": 15,
+    "AbbreviationList": ["2 Thess.","2 Thes.","2 Th.","II Thessalonians","II Thess.","II Thes.","II Th.","2Thessalonians","2Thess.","2Thes.","2Th.","2nd Thessalonians","2nd Thess.","Second Thessalonians","Second Thess."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1117,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 2,
+          "count": 1118,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 3,
+          "count": 1119,
+          "MaxVerses": 18
+        }
+      ]
+  }
+}

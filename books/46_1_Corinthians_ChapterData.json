@@ -1,0 +1,93 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 46,
+    "name": "1 Corinthians",
+    "AbbreviationCount": 10,
+    "AbbreviationList": ["1 Cor.","1 Co.","I Cor.","I Co.","1Cor.","1Co.","I Corinthians","1Corinthians","1st Corinthians","First Corinthians"],
+    "MaxChapters": 16,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1063,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 2,
+          "count": 1064,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 3,
+          "count": 1065,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 4,
+          "count": 1066,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 5,
+          "count": 1067,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 6,
+          "count": 1068,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 7,
+          "count": 1069,
+          "MaxVerses": 40
+        },
+        {
+          "Cnumber": 8,
+          "count": 1070,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 9,
+          "count": 1071,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 10,
+          "count": 1072,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 11,
+          "count": 1073,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 12,
+          "count": 1074,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 13,
+          "count": 1075,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 14,
+          "count": 1076,
+          "MaxVerses": 40
+        },
+        {
+          "Cnumber": 15,
+          "count": 1077,
+          "MaxVerses": 58
+        },
+        {
+          "Cnumber": 16,
+          "count": 1078,
+          "MaxVerses": 24
+        }
+      ]
+  }
+}

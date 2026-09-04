@@ -1,0 +1,213 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 2,
+    "name": "Exodus",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Ex.","Exod.","Exo."],
+    "MaxChapters": 40,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 51,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 2,
+          "count": 52,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 3,
+          "count": 53,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 4,
+          "count": 54,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 5,
+          "count": 55,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 6,
+          "count": 56,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 7,
+          "count": 57,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 8,
+          "count": 58,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 9,
+          "count": 59,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 10,
+          "count": 60,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 11,
+          "count": 61,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 12,
+          "count": 62,
+          "MaxVerses": 51
+        },
+        {
+          "Cnumber": 13,
+          "count": 63,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 14,
+          "count": 64,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 15,
+          "count": 65,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 16,
+          "count": 66,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 17,
+          "count": 67,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 18,
+          "count": 68,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 19,
+          "count": 69,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 20,
+          "count": 70,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 21,
+          "count": 71,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 22,
+          "count": 72,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 23,
+          "count": 73,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 24,
+          "count": 74,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 25,
+          "count": 75,
+          "MaxVerses": 40
+        },
+        {
+          "Cnumber": 26,
+          "count": 76,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 27,
+          "count": 77,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 28,
+          "count": 78,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 29,
+          "count": 79,
+          "MaxVerses": 46
+        },
+        {
+          "Cnumber": 30,
+          "count": 80,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 31,
+          "count": 81,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 32,
+          "count": 82,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 33,
+          "count": 83,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 34,
+          "count": 84,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 35,
+          "count": 85,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 36,
+          "count": 86,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 37,
+          "count": 87,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 38,
+          "count": 88,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 39,
+          "count": 89,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 40,
+          "count": 90,
+          "MaxVerses": 38
+        }
+      ]
+  }
+}

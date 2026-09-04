@@ -1,0 +1,118 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 64,
+    "name": "3 John",
+    "AbbreviationCount": 17,
+    "AbbreviationList": ["3 John","3 Jhn.","3 Jn.","3 J.","3John","3Jhn.","3Joh.","3Jn.","3Jo.","3J.","III John","III Jhn.","III Joh.","III Jn.","III Jo.","3rd John","Third John"],
+    "MaxChapters": 1,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1166,
+          "MaxVerses": 14,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 30660,
+        "text": "The Elder to Gaius the beloved, whom I love in truth!",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 30661,
+        "text": "beloved, concerning all things I desire thee to prosper, and to be in health, even as thy soul doth prosper,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 30662,
+        "text": "for I rejoiced exceedingly, brethren coming and testifying of the truth in thee, even as thou in truth dost walk;",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 30663,
+        "text": "greater than these things I have no joy, that I may hear of my children in truth walking.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 30664,
+        "text": "Beloved, faithfully dost thou do whatever thou mayest work to the brethren and to the strangers,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 30665,
+        "text": "who did testify of thy love before an assembly, whom thou wilt do well, having sent forward worthily of God,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 30666,
+        "text": "because for [His] name they went forth, nothing receiving from the nations;",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 30667,
+        "text": "we, then, ought to receive such, that fellow-workers we may become to the truth.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 30668,
+        "text": "I did write to the assembly, but he who is loving the first place among them -- Diotrephes -- doth not receive us;",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 30669,
+        "text": "because of this, if I may come, I will cause him to remember his works that he doth, with evil words prating against us; and not content with these, neither doth he himself receive the brethren, and those intending he doth forbid, and out of the assembly he doth cast.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 30670,
+        "text": "Beloved, be not thou following that which is evil, but that which is good; he who is doing good, of God he is, and he who is doing evil hath not seen God;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 30671,
+        "text": "to Demetrius testimony hath been given by all, and by the truth itself, and we also -- we do testify, and ye have known that our testimony is true.",
+        "WordCount": 29,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 30672,
+        "text": "Many things I had to write, but I do not wish through ink and pen to write to thee,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 30673,
+        "text": "and I hope straightway to see thee, and mouth to mouth we shall speak. Peace to thee! salute thee do the friends; be saluting the friends by name.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

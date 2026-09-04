@@ -1,0 +1,78 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 58,
+    "name": "Hebrews",
+    "AbbreviationCount": 1,
+    "AbbreviationList": ["Heb."],
+    "MaxChapters": 13,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1134,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 2,
+          "count": 1135,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 3,
+          "count": 1136,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 4,
+          "count": 1137,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 5,
+          "count": 1138,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 6,
+          "count": 1139,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 7,
+          "count": 1140,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 8,
+          "count": 1141,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 9,
+          "count": 1142,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 10,
+          "count": 1143,
+          "MaxVerses": 39
+        },
+        {
+          "Cnumber": 11,
+          "count": 1144,
+          "MaxVerses": 40
+        },
+        {
+          "Cnumber": 12,
+          "count": 1145,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 13,
+          "count": 1146,
+          "MaxVerses": 25
+        }
+      ]
+  }
+}

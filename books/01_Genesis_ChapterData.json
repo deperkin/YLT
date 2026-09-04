@@ -1,0 +1,263 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 1,
+    "name": "Genesis",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Gen.","Ge.","Gn."],
+    "MaxChapters": 50,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 2,
+          "count": 2,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 3,
+          "count": 3,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 4,
+          "count": 4,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 5,
+          "count": 5,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 6,
+          "count": 6,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 7,
+          "count": 7,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 8,
+          "count": 8,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 9,
+          "count": 9,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 10,
+          "count": 10,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 11,
+          "count": 11,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 12,
+          "count": 12,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 13,
+          "count": 13,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 14,
+          "count": 14,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 15,
+          "count": 15,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 16,
+          "count": 16,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 17,
+          "count": 17,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 18,
+          "count": 18,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 19,
+          "count": 19,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 20,
+          "count": 20,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 21,
+          "count": 21,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 22,
+          "count": 22,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 23,
+          "count": 23,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 24,
+          "count": 24,
+          "MaxVerses": 67
+        },
+        {
+          "Cnumber": 25,
+          "count": 25,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 26,
+          "count": 26,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 27,
+          "count": 27,
+          "MaxVerses": 46
+        },
+        {
+          "Cnumber": 28,
+          "count": 28,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 29,
+          "count": 29,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 30,
+          "count": 30,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 31,
+          "count": 31,
+          "MaxVerses": 55
+        },
+        {
+          "Cnumber": 32,
+          "count": 32,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 33,
+          "count": 33,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 34,
+          "count": 34,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 35,
+          "count": 35,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 36,
+          "count": 36,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 37,
+          "count": 37,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 38,
+          "count": 38,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 39,
+          "count": 39,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 40,
+          "count": 40,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 41,
+          "count": 41,
+          "MaxVerses": 57
+        },
+        {
+          "Cnumber": 42,
+          "count": 42,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 43,
+          "count": 43,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 44,
+          "count": 44,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 45,
+          "count": 45,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 46,
+          "count": 46,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 47,
+          "count": 47,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 48,
+          "count": 48,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 49,
+          "count": 49,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 50,
+          "count": 50,
+          "MaxVerses": 26
+        }
+      ]
+  }
+}

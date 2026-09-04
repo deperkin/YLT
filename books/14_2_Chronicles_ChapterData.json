@@ -1,0 +1,193 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 14,
+    "name": "2 Chronicles",
+    "AbbreviationCount": 13,
+    "AbbreviationList": ["2 Chron.","2 Chr.","2 Ch.","2Chron.","2Chr.","2Ch.","II Chron.","II Chr.","II Ch.","2nd Chronicles","2nd Chron.","Second Chronicles","Second Chron."],
+    "MaxChapters": 36,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 368,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 2,
+          "count": 369,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 3,
+          "count": 370,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 4,
+          "count": 371,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 5,
+          "count": 372,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 6,
+          "count": 373,
+          "MaxVerses": 42
+        },
+        {
+          "Cnumber": 7,
+          "count": 374,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 8,
+          "count": 375,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 9,
+          "count": 376,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 10,
+          "count": 377,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 11,
+          "count": 378,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 12,
+          "count": 379,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 13,
+          "count": 380,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 14,
+          "count": 381,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 15,
+          "count": 382,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 16,
+          "count": 383,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 17,
+          "count": 384,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 18,
+          "count": 385,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 19,
+          "count": 386,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 20,
+          "count": 387,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 21,
+          "count": 388,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 22,
+          "count": 389,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 23,
+          "count": 390,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 24,
+          "count": 391,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 25,
+          "count": 392,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 26,
+          "count": 393,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 27,
+          "count": 394,
+          "MaxVerses": 9
+        },
+        {
+          "Cnumber": 28,
+          "count": 395,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 29,
+          "count": 396,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 30,
+          "count": 397,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 31,
+          "count": 398,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 32,
+          "count": 399,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 33,
+          "count": 400,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 34,
+          "count": 401,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 35,
+          "count": 402,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 36,
+          "count": 403,
+          "MaxVerses": 23
+        }
+      ]
+  }
+}

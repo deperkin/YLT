@@ -1,0 +1,38 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 52,
+    "name": "1 Thessalonians",
+    "AbbreviationCount": 15,
+    "AbbreviationList": ["1 Thess.","1 Thes.","1 Th.","I Thessalonians","I Thess.","I Thes.","I Th.","1Thessalonians","1Thess.","1Thes.","1Th.","1st Thessalonians","1st Thess.","First Thessalonians","First Thess."],
+    "MaxChapters": 5,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1112,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 2,
+          "count": 1113,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 3,
+          "count": 1114,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 4,
+          "count": 1115,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 5,
+          "count": 1116,
+          "MaxVerses": 28
+        }
+      ]
+  }
+}

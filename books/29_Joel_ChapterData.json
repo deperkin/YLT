@@ -1,0 +1,28 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 29,
+    "name": "Joel",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Joel","Jl."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 877,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 2,
+          "count": 878,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 3,
+          "count": 879,
+          "MaxVerses": 21
+        }
+      ]
+  }
+}

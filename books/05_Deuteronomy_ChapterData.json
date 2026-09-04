@@ -1,0 +1,183 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 5,
+    "name": "Deuteronomy",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Deut.","De.","Dt."],
+    "MaxChapters": 34,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 154,
+          "MaxVerses": 46
+        },
+        {
+          "Cnumber": 2,
+          "count": 155,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 3,
+          "count": 156,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 4,
+          "count": 157,
+          "MaxVerses": 49
+        },
+        {
+          "Cnumber": 5,
+          "count": 158,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 6,
+          "count": 159,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 7,
+          "count": 160,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 8,
+          "count": 161,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 9,
+          "count": 162,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 10,
+          "count": 163,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 11,
+          "count": 164,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 12,
+          "count": 165,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 13,
+          "count": 166,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 14,
+          "count": 167,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 15,
+          "count": 168,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 16,
+          "count": 169,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 17,
+          "count": 170,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 18,
+          "count": 171,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 19,
+          "count": 172,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 20,
+          "count": 173,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 21,
+          "count": 174,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 22,
+          "count": 175,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 23,
+          "count": 176,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 24,
+          "count": 177,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 25,
+          "count": 178,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 26,
+          "count": 179,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 27,
+          "count": 180,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 28,
+          "count": 181,
+          "MaxVerses": 68
+        },
+        {
+          "Cnumber": 29,
+          "count": 182,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 30,
+          "count": 183,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 31,
+          "count": 184,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 32,
+          "count": 185,
+          "MaxVerses": 52
+        },
+        {
+          "Cnumber": 33,
+          "count": 186,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 34,
+          "count": 187,
+          "MaxVerses": 12
+        }
+      ]
+  }
+}

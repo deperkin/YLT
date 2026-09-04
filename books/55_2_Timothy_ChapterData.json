@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 55,
+    "name": "2 Timothy",
+    "AbbreviationCount": 12,
+    "AbbreviationList": ["2 Tim.","2 Ti.","II Timothy","II Tim.","II Ti.","2Timothy","2Tim.","2Ti.","2nd Timothy","2nd Tim.","Second Timothy","Second Tim."],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1126,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 2,
+          "count": 1127,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 3,
+          "count": 1128,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 4,
+          "count": 1129,
+          "MaxVerses": 22
+        }
+      ]
+  }
+}

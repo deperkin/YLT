@@ -1,0 +1,1135 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 49,
+    "name": "Ephesians",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Eph.","Ephes."],
+    "MaxChapters": 6,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1098,
+          "MaxVerses": 23,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29208,
+        "text": "Paul, an apostle of Jesus Christ through the will of God, to the saints who are in Ephesus, and to the faithful in Christ Jesus:",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29209,
+        "text": "Grace to you, and peace from God our Father, and the Lord Jesus Christ!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29210,
+        "text": "Blessed [is] the God and Father of our Lord Jesus Christ, who did bless us in every spiritual blessing in the heavenly places in Christ,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29211,
+        "text": "according as He did choose us in him before the foundation of the world, for our being holy and unblemished before Him, in love,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29212,
+        "text": "having foreordained us to the adoption of sons through Jesus Christ to Himself, according to the good pleasure of His will,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29213,
+        "text": "to the praise of the glory of His grace, in which He did make us accepted in the beloved,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29214,
+        "text": "in whom we have the redemption through his blood, the remission of the trespasses, according to the riches of His grace,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29215,
+        "text": "in which He did abound toward us in all wisdom and prudence,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29216,
+        "text": "having made known to us the secret of His will, according to His good pleasure, that He purposed in Himself,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29217,
+        "text": "in regard to the dispensation of the fulness of the times, to bring into one the whole in the Christ, both the things in the heavens, and the things upon the earth -- in him;",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29218,
+        "text": "in whom also we did obtain an inheritance, being foreordained according to the purpose of Him who the all things is working according to the counsel of His will,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29219,
+        "text": "for our being to the praise of His glory, [even] those who did first hope in the Christ,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29220,
+        "text": "in whom ye also, having heard the word of the truth -- the good news of your salvation -- in whom also having believed, ye were sealed with the Holy Spirit of the promise,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29221,
+        "text": "which is an earnest of our inheritance, to the redemption of the acquired possession, to the praise of His glory.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29222,
+        "text": "Because of this I also, having heard of your faith in the Lord Jesus, and the love to all the saints,",
+        "WordCount": 21,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 16,
+        "count": 29223,
+        "text": "do not cease giving thanks for you, making mention of you in my prayers,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29224,
+        "text": "that the God of our Lord Jesus Christ, the Father of the glory, may give to you a spirit of wisdom and revelation in the recognition of him,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29225,
+        "text": "the eyes of your understanding being enlightened, for your knowing what is the hope of His calling, and what the riches of the glory of His inheritance in the saints,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29226,
+        "text": "and what the exceeding greatness of His power to us who are believing, according to the working of the power of His might,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29227,
+        "text": "which He wrought in the Christ, having raised him out of the dead, and did set [him] at His right hand in the heavenly [places],",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29228,
+        "text": "far above all principality, and authority, and might, and lordship, and every name named, not only in this age, but also in the coming one;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29229,
+        "text": "and all things He did put under his feet, and did give him -- head over all things to the assembly,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29230,
+        "text": "which is his body, the fulness of Him who is filling the all in all,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1099,
+          "MaxVerses": 22,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29231,
+        "text": "Also you -- being dead in the trespasses and the sins,",
+        "WordCount": 11,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29232,
+        "text": "in which once ye did walk according to the age of this world, according to the ruler of the authority of the air, of the spirit that is now working in the sons of disobedience,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29233,
+        "text": "among whom also we all did walk once in the desires of our flesh, doing the wishes of the flesh and of the thoughts, and were by nature children of wrath -- as also the others,",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29234,
+        "text": "and God, being rich in kindness, because of His great love with which He loved us,",
+        "WordCount": 16,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 29235,
+        "text": "even being dead in the trespasses, did make us to live together with the Christ, (by grace ye are having been saved,)",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29236,
+        "text": "and did raise [us] up together, and did seat [us] together in the heavenly [places] in Christ Jesus,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29237,
+        "text": "that He might show, in the ages that are coming, the exceeding riches of His grace in kindness toward us in Christ Jesus,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29238,
+        "text": "for by grace ye are having been saved, through faith, and this not of you -- of God the gift,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29239,
+        "text": "not of works, that no one may boast;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29240,
+        "text": "for of Him we are workmanship, created in Christ Jesus to good works, which God did before prepare, that in them we may walk.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29241,
+        "text": "Wherefore, remember, that ye [were] once the nations in the flesh, who are called Uncircumcision by that called Circumcision in the flesh made by hands,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 29242,
+        "text": "that ye were at that time apart from Christ, having been alienated from the commonwealth of Israel, and strangers to the covenants of the promise, having no hope, and without God, in the world;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29243,
+        "text": "and now, in Christ Jesus, ye being once afar off became nigh in the blood of the Christ,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29244,
+        "text": "for he is our peace, who did make both one, and the middle wall of the enclosure did break down,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29245,
+        "text": "the enmity in his flesh, the law of the commands in ordinances having done away, that the two he might create in himself into one new man, making peace,",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29246,
+        "text": "and might reconcile both in one body to God through the cross, having slain the enmity in it,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29247,
+        "text": "and having come, he did proclaim good news -- peace to you -- the far-off and the nigh,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29248,
+        "text": "because through him we have the access -- we both -- in one Spirit unto the Father.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29249,
+        "text": "Then, therefore, ye are no more strangers and foreigners, but fellow-citizens of the saints, and of the household of God,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29250,
+        "text": "being built upon the foundation of the apostles and prophets, Jesus Christ himself being chief corner -[stone],",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29251,
+        "text": "in whom all the building fitly framed together doth increase to an holy sanctuary in the Lord,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29252,
+        "text": "in whom also ye are builded together, for a habitation of God in the Spirit.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1100,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29253,
+        "text": "For this cause, I Paul, the prisoner of Christ Jesus for you the nations,",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29254,
+        "text": "if, indeed, ye did hear of the dispensation of the grace of God that was given to me in regard to you,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29255,
+        "text": "that by revelation He made known to me the secret, according as I wrote before in few [words] --",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29256,
+        "text": "in regard to which ye are able, reading [it], to understand my knowledge in the secret of the Christ,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29257,
+        "text": "which in other generations was not made known to the sons of men, as it was now revealed to His holy apostles and prophets in the Spirit --",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29258,
+        "text": "that the nations be fellow-heirs, and of the same body, and partakers of His promise in the Christ, through the good news,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29259,
+        "text": "of which I became a ministrant, according to the gift of the grace of God that was given to me, according to the working of His power;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29260,
+        "text": "to me -- the less than the least of all the saints -- was given this grace, among the nations to proclaim good news -- the untraceable riches of the Christ,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29261,
+        "text": "and to cause all to see what [is] the fellowship of the secret that hath been hid from the ages in God, who the all things did create by Jesus Christ,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29262,
+        "text": "that there might be made known now to the principalities and the authorities in the heavenly [places], through the assembly, the manifold wisdom of God,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29263,
+        "text": "according to a purpose of the ages, which He made in Christ Jesus our Lord,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29264,
+        "text": "in whom we have the freedom and the access in confidence through the faith of him,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29265,
+        "text": "wherefore, I ask [you] not to faint in my tribulations for you, which is your glory.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29266,
+        "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 29267,
+        "text": "of whom the whole family in the heavens and on earth is named,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29268,
+        "text": "that He may give to you, according to the riches of His glory, with might to be strengthened through His Spirit, in regard to the inner man,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29269,
+        "text": "that the Christ may dwell through the faith in your hearts, in love having been rooted and founded,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29270,
+        "text": "that ye may be in strength to comprehend, with all the saints, what [is] the breadth, and length, and depth, and height,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29271,
+        "text": "to know also the love of the Christ that is exceeding the knowledge, that ye may be filled -- to all the fulness of God;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29272,
+        "text": "and to Him who is able above all things to do exceeding abundantly what we ask or think, according to the power that is working in us,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29273,
+        "text": "to Him [is] the glory in the assembly in Christ Jesus, to all the generations of the age of the ages. Amen.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 1101,
+          "MaxVerses": 32,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29274,
+        "text": "Call upon you, then, do I -- the prisoner of the Lord -- to walk worthily of the calling with which ye were called,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29275,
+        "text": "with all lowliness and meekness, with long-suffering, forbearing one another in love,",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 29276,
+        "text": "being diligent to keep the unity of the Spirit in the bond of the peace;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29277,
+        "text": "one body and one Spirit, according as also ye were called in one hope of your calling;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29278,
+        "text": "one Lord, one faith, one baptism,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29279,
+        "text": "one God and Father of all, who [is] over all, and through all, and in you all,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29280,
+        "text": "and to each one of you was given the grace, according to the measure of the gift of Christ,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29281,
+        "text": "wherefore, he saith, 'Having gone up on high he led captive captivity, and gave gifts to men,' --",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29282,
+        "text": "and that, he went up, what is it except that he also went down first to the lower parts of the earth?",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29283,
+        "text": "he who went down is the same also who went up far above all the heavens, that He may fill all things --",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29284,
+        "text": "and He gave some [as] apostles, and some [as] prophets, and some [as] proclaimers of good news, and some [as] shepherds and teachers,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29285,
+        "text": "unto the perfecting of the saints, for a work of ministration, for a building up of the body of the Christ,",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29286,
+        "text": "till we may all come to the unity of the faith and of the recognition of the Son of God, to a perfect man, to a measure of stature of the fulness of the Christ,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29287,
+        "text": "that we may no more be babes, tossed and borne about by every wind of the teaching, in the sleight of men, in craftiness, unto the artifice of leading astray,",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29288,
+        "text": "and, being true in love, we may increase to Him [in] all things, who is the head -- the Christ;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29289,
+        "text": "from whom the whole body, being fitly joined together and united, through the supply of every joint, according to the working in the measure of each single part, the increase of the body doth make for the building up of itself in love.",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29290,
+        "text": "This, then, I say, and I testify in the Lord; ye are no more to walk, as also the other nations walk, in the vanity of their mind,",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 29291,
+        "text": "being darkened in the understanding, being alienated from the life of God, because of the ignorance that is in them, because of the hardness of their heart,",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29292,
+        "text": "who, having ceased to feel, themselves did give up to the lasciviousness, for the working of all uncleanness in greediness;",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29293,
+        "text": "and ye did not so learn the Christ,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29294,
+        "text": "if so be ye did hear him, and in him were taught, as truth is in Jesus;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29295,
+        "text": "ye are to put off concerning the former behaviour the old man, that is corrupt according to the desires of the deceit,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29296,
+        "text": "and to be renewed in the spirit of your mind,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29297,
+        "text": "and to put on the new man, which, according to God, was created in righteousness and kindness of the truth.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29298,
+        "text": "Wherefore, putting away the lying, speak truth each with his neighbour, because we are members one of another;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29299,
+        "text": "be angry and do not sin; let not the sun go down upon your wrath,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29300,
+        "text": "neither give place to the devil;",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29301,
+        "text": "whoso is stealing let him no more steal, but rather let him labour, working the thing that is good with the hands, that he may have to impart to him having need.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29302,
+        "text": "Let no corrupt word out of your mouth go forth, but what is good unto the needful building up, that it may give grace to the hearers;",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 29303,
+        "text": "and make not sorrowful the Holy Spirit of God, in which ye were sealed to a day of redemption.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 29304,
+        "text": "Let all bitterness, and wrath, and anger, and clamour, and evil-speaking, be put away from you, with all malice,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 29305,
+        "text": "and become one to another kind, tender-hearted, forgiving one another, according as also God in Christ did forgive you.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 5,
+          "count": 1102,
+          "MaxVerses": 33,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29306,
+        "text": "Become, then, followers of God, as children beloved,",
+        "WordCount": 8,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29307,
+        "text": "and walk in love, as also the Christ did love us, and did give himself for us, an offering and a sacrifice to God for an odour of a sweet smell,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29308,
+        "text": "and whoredom, and all uncleanness, or covetousness, let it not even be named among you, as becometh saints;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29309,
+        "text": "also filthiness, and foolish talking, or jesting, -- the things not fit -- but rather thanksgiving;",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29310,
+        "text": "for this ye know, that every whoremonger, or unclean, or covetous person, who is an idolater, hath no inheritance in the reign of the Christ and God.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29311,
+        "text": "Let no one deceive you with vain words, for because of these things cometh the anger of God upon the sons of the disobedience,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29312,
+        "text": "become not, then, partakers with them,",
+        "WordCount": 6,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29313,
+        "text": "for ye were once darkness, and now light in the Lord; as children of light walk ye,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29314,
+        "text": "for the fruit of the Spirit [is] in all goodness, and righteousness, and truth,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29315,
+        "text": "proving what is well-pleasing to the Lord,",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29316,
+        "text": "and have no fellowship with the unfruitful works of the darkness and rather even convict,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29317,
+        "text": "for the things in secret done by them it is a shame even to speak of,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29318,
+        "text": "and all the things reproved by the light are manifested, for everything that is manifested is light;",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29319,
+        "text": "wherefore he saith, 'Arouse thyself, thou who art sleeping, and arise out of the dead, and the Christ shall shine upon thee.'",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29320,
+        "text": "See, then, how exactly ye walk, not as unwise, but as wise,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29321,
+        "text": "redeeming the time, because the days are evil;",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29322,
+        "text": "because of this become not fools, but -- understanding what [is] the will of the Lord,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29323,
+        "text": "and be not drunk with wine, in which is dissoluteness, but be filled in the Spirit,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29324,
+        "text": "speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29325,
+        "text": "giving thanks always for all things, in the name of our Lord Jesus Christ, to the God and Father;",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29326,
+        "text": "subjecting yourselves to one another in the fear of God.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 29327,
+        "text": "The wives! to your own husbands subject yourselves, as to the Lord,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29328,
+        "text": "because the husband is head of the wife, as also the Christ [is] head of the assembly, and he is saviour of the body,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29329,
+        "text": "but even as the assembly is subject to Christ, so also [are] the wives to their own husbands in everything.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29330,
+        "text": "The husbands! love your own wives, as also the Christ did love the assembly, and did give himself for it,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29331,
+        "text": "that he might sanctify it, having cleansed [it] with the bathing of the water in the saying,",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29332,
+        "text": "that he might present it to himself the assembly in glory, not having spot or wrinkle, or any of such things, but that it may be holy and unblemished;",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29333,
+        "text": "so ought the husbands to love their own wives as their own bodies: he who is loving his own wife -- himself he doth love;",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29334,
+        "text": "for no one ever his own flesh did hate, but doth nourish and cherish it, as also the Lord -- the assembly,",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 29335,
+        "text": "because members we are of his body, of his flesh, and of his bones;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 29336,
+        "text": "'for this cause shall a man leave his father and mother, and shall be joined to his wife, and they shall be -- the two -- for one flesh;'",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 29337,
+        "text": "this secret is great, and I speak in regard to Christ and to the assembly;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 29338,
+        "text": "but ye also, every one in particular -- let each his own wife so love as himself, and the wife -- that she may reverence the husband.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 6,
+          "count": 1103,
+          "MaxVerses": 24,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29339,
+        "text": "The children! obey your parents in the Lord, for this is righteous;",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29340,
+        "text": "honour thy father and mother,",
+        "WordCount": 5,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29341,
+        "text": "which is the first command with a promise, 'That it may be well with thee, and thou mayest live a long time upon the land.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29342,
+        "text": "And the fathers! provoke not your children, but nourish them in the instruction and admonition of the Lord.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29343,
+        "text": "The servants! obey the masters according to the flesh with fear and trembling, in the simplicity of your heart, as to the Christ;",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29344,
+        "text": "not with eye-service as men-pleasers, but as servants of the Christ, doing the will of God out of soul,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29345,
+        "text": "with good-will serving, as to the Lord, and not to men,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29346,
+        "text": "having known that whatever good thing each one may do, this he shall receive from the Lord, whether servant or freeman.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29347,
+        "text": "And the masters! the same things do ye unto them, letting threatening alone, having known that also your Master is in the heavens, and acceptance of persons is not with him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29348,
+        "text": "As to the rest, my brethren, be strong in the Lord, and in the power of his might;",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 29349,
+        "text": "put on the whole armour of God, for your being able to stand against the wiles of the devil,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29350,
+        "text": "because we have not the wrestling with blood and flesh, but with the principalities, with the authorities, with the world-rulers of the darkness of this age, with the spiritual things of the evil in the heavenly places;",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29351,
+        "text": "because of this take ye up the whole armour of God, that ye may be able to resist in the day of the evil, and all things having done -- to stand.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29352,
+        "text": "Stand, therefore, having your loins girt about in truth, and having put on the breastplate of the righteousness,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29353,
+        "text": "and having the feet shod in the preparation of the good-news of the peace;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29354,
+        "text": "above all, having taken up the shield of the faith, in which ye shall be able all the fiery darts of the evil one to quench,",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29355,
+        "text": "and the helmet of the salvation receive, and the sword of the Spirit, which is the saying of God,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29356,
+        "text": "through all prayer and supplication praying at all times in the Spirit, and in regard to this same, watching in all perseverance and supplication for all the saints --",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29357,
+        "text": "and in behalf of me, that to me may be given a word in the opening of my mouth, in freedom, to make known the secret of the good news,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 20,
+        "count": 29358,
+        "text": "for which I am an ambassador in a chain, that in it I may speak freely -- as it behoveth me to speak.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29359,
+        "text": "And that ye may know -- ye also -- the things concerning me -- what I do, all things make known to you shall Tychicus, the beloved brother and faithful ministrant in the Lord,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29360,
+        "text": "whom I did send unto you for this very thing, that ye might know the things concerning us, and that he might comfort your hearts.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29361,
+        "text": "Peace to the brethren, and love, with faith, from God the Father, and the Lord Jesus Christ!",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29362,
+        "text": "The grace with all those loving our Lord Jesus Christ -- undecayingly! Amen.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

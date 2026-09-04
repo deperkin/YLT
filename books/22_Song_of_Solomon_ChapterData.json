@@ -1,0 +1,53 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 22,
+    "name": "Song of Solomon",
+    "AbbreviationCount": 7,
+    "AbbreviationList": ["Song","Song of Songs","SOS.","So.","Canticle of Canticles","Canticles","Cant."],
+    "MaxChapters": 8,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 672,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 2,
+          "count": 673,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 3,
+          "count": 674,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 4,
+          "count": 675,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 5,
+          "count": 676,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 6,
+          "count": 677,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 7,
+          "count": 678,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 8,
+          "count": 679,
+          "MaxVerses": 14
+        }
+      ]
+  }
+}

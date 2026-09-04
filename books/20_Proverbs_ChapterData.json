@@ -1,0 +1,168 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 20,
+    "name": "Proverbs",
+    "AbbreviationCount": 4,
+    "AbbreviationList": ["Prov","Pro.","Prv.","Pr."],
+    "MaxChapters": 31,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 629,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 2,
+          "count": 630,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 3,
+          "count": 631,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 4,
+          "count": 632,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 5,
+          "count": 633,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 6,
+          "count": 634,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 7,
+          "count": 635,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 8,
+          "count": 636,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 9,
+          "count": 637,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 10,
+          "count": 638,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 11,
+          "count": 639,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 12,
+          "count": 640,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 13,
+          "count": 641,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 14,
+          "count": 642,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 15,
+          "count": 643,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 16,
+          "count": 644,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 17,
+          "count": 645,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 18,
+          "count": 646,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 19,
+          "count": 647,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 20,
+          "count": 648,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 21,
+          "count": 649,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 22,
+          "count": 650,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 23,
+          "count": 651,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 24,
+          "count": 652,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 25,
+          "count": 653,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 26,
+          "count": 654,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 27,
+          "count": 655,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 28,
+          "count": 656,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 29,
+          "count": 657,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 30,
+          "count": 658,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 31,
+          "count": 659,
+          "MaxVerses": 31
+        }
+      ]
+  }
+}

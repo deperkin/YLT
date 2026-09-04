@@ -1,0 +1,43 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 48,
+    "name": "Galatians",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Gal.","Ga"],
+    "MaxChapters": 6,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1092,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 2,
+          "count": 1093,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 3,
+          "count": 1094,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 4,
+          "count": 1095,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 5,
+          "count": 1096,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 6,
+          "count": 1097,
+          "MaxVerses": 18
+        }
+      ]
+  }
+}

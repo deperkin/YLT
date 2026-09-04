@@ -1,0 +1,38 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 25,
+    "name": "Lamentations",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Lam.","La."],
+    "MaxChapters": 5,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 798,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 2,
+          "count": 799,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 3,
+          "count": 800,
+          "MaxVerses": 66
+        },
+        {
+          "Cnumber": 4,
+          "count": 801,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 5,
+          "count": 802,
+          "MaxVerses": 22
+        }
+      ]
+  }
+}

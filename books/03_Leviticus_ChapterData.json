@@ -1,0 +1,148 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 3,
+    "name": "Leviticus",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Lev.","Le.","Lv."],
+    "MaxChapters": 27,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 91,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 2,
+          "count": 92,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 3,
+          "count": 93,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 4,
+          "count": 94,
+          "MaxVerses": 35
+        },
+        {
+          "Cnumber": 5,
+          "count": 95,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 6,
+          "count": 96,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 7,
+          "count": 97,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 8,
+          "count": 98,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 9,
+          "count": 99,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 10,
+          "count": 100,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 11,
+          "count": 101,
+          "MaxVerses": 47
+        },
+        {
+          "Cnumber": 12,
+          "count": 102,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 13,
+          "count": 103,
+          "MaxVerses": 59
+        },
+        {
+          "Cnumber": 14,
+          "count": 104,
+          "MaxVerses": 57
+        },
+        {
+          "Cnumber": 15,
+          "count": 105,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 16,
+          "count": 106,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 17,
+          "count": 107,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 18,
+          "count": 108,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 19,
+          "count": 109,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 20,
+          "count": 110,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 21,
+          "count": 111,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 22,
+          "count": 112,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 23,
+          "count": 113,
+          "MaxVerses": 44
+        },
+        {
+          "Cnumber": 24,
+          "count": 114,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 25,
+          "count": 115,
+          "MaxVerses": 55
+        },
+        {
+          "Cnumber": 26,
+          "count": 116,
+          "MaxVerses": 46
+        },
+        {
+          "Cnumber": 27,
+          "count": 117,
+          "MaxVerses": 34
+        }
+      ]
+  }
+}

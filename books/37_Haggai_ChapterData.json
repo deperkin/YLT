@@ -1,0 +1,23 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 37,
+    "name": "Haggai",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Hag.","Hg."],
+    "MaxChapters": 2,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 910,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 2,
+          "count": 911,
+          "MaxVerses": 23
+        }
+      ]
+  }
+}

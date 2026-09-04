@@ -1,0 +1,18 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 64,
+    "name": "3 John",
+    "AbbreviationCount": 17,
+    "AbbreviationList": ["3 John","3 Jhn.","3 Jn.","3 J.","3John","3Jhn.","3Joh.","3Jn.","3Jo.","3J.","III John","III Jhn.","III Joh.","III Jn.","III Jo.","3rd John","Third John"],
+    "MaxChapters": 1,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1166,
+          "MaxVerses": 14
+        }
+      ]
+  }
+}

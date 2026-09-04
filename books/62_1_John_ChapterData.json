@@ -1,0 +1,38 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 62,
+    "name": "1 John",
+    "AbbreviationCount": 17,
+    "AbbreviationList": ["1 John","1 Jhn.","1 Jn.","1 J.","1John","1Jhn.","1Joh.","1Jn.","1Jo.","1J.","I John","I Jhn.","I Joh.","I Jn.","I Jo.","1st John","First John"],
+    "MaxChapters": 5,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1160,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 2,
+          "count": 1161,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 3,
+          "count": 1162,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 4,
+          "count": 1163,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 5,
+          "count": 1164,
+          "MaxVerses": 21
+        }
+      ]
+  }
+}

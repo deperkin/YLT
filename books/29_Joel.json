@@ -1,0 +1,543 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 29,
+    "name": "Joel",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Joel","Jl."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 877,
+          "MaxVerses": 20,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22293,
+        "text": "A word of Jehovah that hath been unto Joel, son of Pethuel:",
+        "WordCount": 12,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22294,
+        "text": "Hear this, ye aged ones, And give ear, all ye inhabitants of the land, Hath this been in your days? Or in the days of your fathers?",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22295,
+        "text": "Concerning it to your sons talk ye, And your sons to their sons, And their sons to another generation.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22296,
+        "text": "What is left of the palmer-worm, eaten hath the locust, And what is left of the locust, Eaten hath the cankerworm, And what is left of the cankerworm, Eaten hath the caterpillar.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22297,
+        "text": "Awake, ye drunkards, and weep, And howl all drinking wine, because of the juice, For it hath been cut off from your mouth.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22298,
+        "text": "For a nation hath come up on my land, Strong, and there is no number, Its teeth [are] the teeth of a lion, And it hath the jaw-teeth of a lioness.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22299,
+        "text": "It hath made my vine become a desolation, And my fig-tree become a chip, It hath made it thoroughly bare, and hath cast down, Made white have been its branches.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22300,
+        "text": "Wail, as a virgin girdeth with sackcloth, For the husband of her youth.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 22301,
+        "text": "Cut off hath been present and libation from the house of Jehovah, Mourned have the priests, ministrants of Jehovah.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22302,
+        "text": "Spoiled is the field, mourned hath the ground, For spoiled is the corn, Dried up hath been new wine, languish doth oil.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22303,
+        "text": "Be ashamed, ye husbandmen, Howl, vine-dressers, for wheat and for barley, For perished hath the harvest of the field.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22304,
+        "text": "The vine hath been dried up, And the fig-tree doth languish, Pomegranate, also palm, and apple-tree, All trees of the field have withered, For dried up hath been joy from the sons of men.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22305,
+        "text": "Gird, and lament, ye priests, Howl, ye ministrants of the altar, Come in, lodge in sackcloth, ministrants of my God, For withheld from the house of your God hath been present and libation.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22306,
+        "text": "Sanctify a fast, proclaim a restraint, Gather the elders -- all the inhabitants of the land, [Into] the house of Jehovah your God,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 15,
+        "count": 22307,
+        "text": "And cry unto Jehovah, 'Alas for the day! For near [is] a day of Jehovah, And as destruction from the mighty it cometh.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22308,
+        "text": "Is not before our eyes food cut off? From the house of our God joy and rejoicing?",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22309,
+        "text": "Rotted have scattered things under their clods, Desolated have been storehouses, Broken down have been granaries, For withered hath the corn.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22310,
+        "text": "How have cattle sighed! Perplexed have been droves of oxen, For there is no pasture for them, Also droves of sheep have been desolated.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 22311,
+        "text": "Unto Thee, O Jehovah, I do call, For fire hath consumed comely places of a wilderness, And a flame hath set on fire all trees of the field.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22312,
+        "text": "Also the cattle of the field long for Thee, For dried up have been streams of water, And fire hath consumed comely places of a wilderness!'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 878,
+          "MaxVerses": 32,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22313,
+        "text": "Blow ye a trumpet in Zion, And shout ye in My holy hill, Tremble do all inhabitants of the earth, For coming is the day of Jehovah, for [it is] near!",
+        "WordCount": 31,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22314,
+        "text": "A day of darkness and thick darkness, A day of cloud and thick darkness, As darkness spread on the mountains, A people numerous and mighty, Like it there hath not been from of old, And after it there is not again -- till the years of generation and generation.",
+        "WordCount": 49,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22315,
+        "text": "Before it consumed hath fire, And after it burn doth a flame, As the garden of Eden [is] the land before it, And after it a wilderness -- a desolation! And also an escape there hath not been to it,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22316,
+        "text": "As the appearance of horses [is] its appearance, And as horsemen, so they run.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22317,
+        "text": "As the noise of chariots, on the tops of the mountains they skip, As the noise of a flame of fire devouring stubble, As a mighty people set in array for battle.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22318,
+        "text": "From its face pained are peoples, All faces have gathered paleness.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22319,
+        "text": "As mighty ones they run, As men of war they go up a wall, And each in his own ways they do go, And they embarrass not their paths.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22320,
+        "text": "And each his brother they press not, Each in his way they go on, If by the missile they fall, they are not cut off.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22321,
+        "text": "In the city they run to and fro, On the wall they run, Into houses they go up by the windows, They go in as a thief.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22322,
+        "text": "At their face trembled hath the earth, Shaken have the heavens, Sun and moon have been black, And stars have gathered up their shining.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22323,
+        "text": "And Jehovah hath given forth His voice before His force, For very great [is] His camp, For mighty [is] the doer of His word, For great [is] the day of Jehovah -- very fearful, And who doth bear it?",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22324,
+        "text": "And also now -- an affirmation of Jehovah, Turn ye back unto Me with all your heart, And with fasting, and with weeping, And with lamentation.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 22325,
+        "text": "And rend your heart, and not your garments, And turn back unto Jehovah your God, For gracious and merciful [is] He, Slow to anger, and abundant in kindness, And He hath repented concerning the evil.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22326,
+        "text": "Who knoweth -- He doth turn back, Yea -- He hath repented, And He hath left behind Him a blessing, A present and libation of Jehovah your God?",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22327,
+        "text": "Blow ye a trumpet in Zion, Sanctify a fast -- proclaim a restraint.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22328,
+        "text": "Gather the people, sanctify an assembly, Assemble the aged, Gather infants and sucklings of the breasts, Go out let a bridegroom from his inner chamber, And a bride out of her closet.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22329,
+        "text": "Between the porch and the altar weep let the priests, ministrants of Jehovah, And let them say: 'Have pity, O Jehovah, on Thy people, And give not Thy inheritance to reproach, To the ruling over them of nations, Why do they say among peoples, Where [is] their God?'",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22330,
+        "text": "And let Jehovah be zealous for His land, And have pity on His people.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 22331,
+        "text": "Let Jehovah answer and say to His people, 'Lo, I am sending to you the corn, And the new wine, and the oil, And ye have been satisfied with it, And I make you no more a reproach among nations,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22332,
+        "text": "And the northern I put far off from you, And have driven him unto a land dry and desolate, With his face unto the eastern sea, And his rear unto the western sea, And come up hath his stink, And come up doth his stench, For he hath exerted himself to work.",
+        "WordCount": 52,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 22333,
+        "text": "Do not fear, O land! joy and rejoice, For Jehovah hath exerted Himself to work.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 22334,
+        "text": "Do not fear, O cattle of the field! For sprung forth have pastures of a wilderness, For the tree hath borne its fruit, Fig-tree and vine have given their strength!",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 22335,
+        "text": "And ye sons of Zion, joy and rejoice, In Jehovah your God, For He hath given to you the Teacher for righteousness, And causeth to come down to you a shower, Sprinkling and gathered -- in the beginning.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 22336,
+        "text": "And full have been the floors [with] pure corn, And overflown have the presses [with] new wine and oil.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 22337,
+        "text": "And I have recompensed to you the years That consume did the locust, the cankerworm, And the caterpillar, and the palmer-worm, My great force that I did send against you.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 22338,
+        "text": "And ye have eaten, eating and being satisfied, And have praised the name of Jehovah your God, Who hath dealt with you wonderfully, And not ashamed are My people to the age.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 22339,
+        "text": "And ye have known that in the midst of Israel [am] I, And I [am] Jehovah your God, and there is none else, And not ashamed are My people to the age.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 22340,
+        "text": "And it hath come to pass afterwards, I do pour out My Spirit on all flesh, And prophesied have your sons and your daughters, Your old men do dream dreams, Your young men do see visions.",
+        "WordCount": 36,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 29,
+        "count": 22341,
+        "text": "And also on the men-servants, and on the maid-servants, In those days I do pour out My Spirit.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 22342,
+        "text": "And I have given wonders in the heavens, and in the earth, Blood and fire, and columns of smoke.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 22343,
+        "text": "The sun is turned to darkness, and the moon to blood, Before the coming of the day of Jehovah, The great and the fearful.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 22344,
+        "text": "And it hath come to pass, Every one who calleth in the name of Jehovah is delivered, For in mount Zion and in Jerusalem there is an escape, As Jehovah hath said, And among the remnants whom Jehovah is calling!",
+        "WordCount": 40,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 879,
+          "MaxVerses": 21,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22345,
+        "text": "For lo, in those days, and in that time, When I turn back [to] the captivity of Judah and Jerusalem,",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22346,
+        "text": "Then I have gathered all the nations, And caused them to go down unto the valley of Jehoshaphat, And I have been judged with them there, Concerning My people and Mine inheritance -- Israel, Whom they scattered among nations, And My land they have apportioned.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22347,
+        "text": "And for My people they do cast a lot, And they give the young man for an harlot, And the young woman have sold for wine, That they may drink.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22348,
+        "text": "And also, what [are] ye to Me, O Tyre and Zidon, And all circuits of Philistia? Recompence are ye rendering unto Me? And if ye are giving recompence to Me, Swiftly, hastily, I turn back your recompence on your head.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22349,
+        "text": "In that My silver and My gold ye took, And My desirable things that are good, Ye have brought in to your temples.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22350,
+        "text": "And sons of Judah, and sons of Jerusalem, Ye have sold to the sons of Javan, To put them far off from their border.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22351,
+        "text": "Lo, I am stirring them up out of the place Whither ye have sold them, And I have turned back your recompence on your head,",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22352,
+        "text": "And have sold your sons and your daughters Into the hand of the sons of Judah, And they have sold them to Shabeans, Unto a nation far off, for Jehovah hath spoken.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22353,
+        "text": "Proclaim ye this among nations, Sanctify a war, stir up the mighty ones, Come nigh, come up, let all the men of war.",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 22354,
+        "text": "Beat your ploughshares to swords, And your pruning-hooks to javelins, Let the weak say, 'I [am] mighty.'",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22355,
+        "text": "Haste, and come in, all ye nations round, And be gathered together, Thither cause to come down, O Jehovah, Thy mighty ones.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 22356,
+        "text": "Wake and come up let the nations unto the valley of Jehoshaphat, For there I sit to judge all the nations around.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22357,
+        "text": "Send ye forth a sickle, For ripened hath harvest, Come in, come down, for filled hath been the press, Overflowed hath wine-presses, For great [is] their wickedness.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22358,
+        "text": "Multitudes, multitudes [are] in the valley of decision, For near [is] the day of Jehovah in the valley of decision.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22359,
+        "text": "Sun and moon have been black, And stars have gathered up their shining.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22360,
+        "text": "And Jehovah from Zion doth roar, And from Jerusalem giveth forth His voice, And shaken have the heavens and earth, And Jehovah [is] a refuge to his people, And a stronghold to sons of Israel.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22361,
+        "text": "And ye have known that I [am] Jehovah your God, Dwelling in Zion, My holy mountain, And Jerusalem hath been holy, And strangers do not pass over into it again.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 22362,
+        "text": "And it hath come to pass, in that day, Drop down do the mountains juice, And the hills do flow [with] milk, And all streams of Judah do go [with] water, And a fountain from the house of Jehovah goeth forth, And hath watered the valley of Shittim.",
+        "WordCount": 48,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 22363,
+        "text": "Egypt a desolation becometh, And Edom a desolation, a wilderness, becometh, For violence [to] sons of Judah, Whose innocent blood they shed in their land.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 22364,
+        "text": "And Judah to the age doth dwell, And Jerusalem to generation and generation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 22365,
+        "text": "And I have declared their blood innocent, [That] I did not declare innocent, And Jehovah is dwelling in Zion!",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

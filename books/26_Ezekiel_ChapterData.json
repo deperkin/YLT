@@ -1,0 +1,253 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 26,
+    "name": "Ezekiel",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Ezek.","Eze.","Ezk."],
+    "MaxChapters": 48,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 803,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 2,
+          "count": 804,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 3,
+          "count": 805,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 4,
+          "count": 806,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 5,
+          "count": 807,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 6,
+          "count": 808,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 7,
+          "count": 809,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 8,
+          "count": 810,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 9,
+          "count": 811,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 10,
+          "count": 812,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 11,
+          "count": 813,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 12,
+          "count": 814,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 13,
+          "count": 815,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 14,
+          "count": 816,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 15,
+          "count": 817,
+          "MaxVerses": 8
+        },
+        {
+          "Cnumber": 16,
+          "count": 818,
+          "MaxVerses": 63
+        },
+        {
+          "Cnumber": 17,
+          "count": 819,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 18,
+          "count": 820,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 19,
+          "count": 821,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 20,
+          "count": 822,
+          "MaxVerses": 49
+        },
+        {
+          "Cnumber": 21,
+          "count": 823,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 22,
+          "count": 824,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 23,
+          "count": 825,
+          "MaxVerses": 49
+        },
+        {
+          "Cnumber": 24,
+          "count": 826,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 25,
+          "count": 827,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 26,
+          "count": 828,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 27,
+          "count": 829,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 28,
+          "count": 830,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 29,
+          "count": 831,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 30,
+          "count": 832,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 31,
+          "count": 833,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 32,
+          "count": 834,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 33,
+          "count": 835,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 34,
+          "count": 836,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 35,
+          "count": 837,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 36,
+          "count": 838,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 37,
+          "count": 839,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 38,
+          "count": 840,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 39,
+          "count": 841,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 40,
+          "count": 842,
+          "MaxVerses": 49
+        },
+        {
+          "Cnumber": 41,
+          "count": 843,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 42,
+          "count": 844,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 43,
+          "count": 845,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 44,
+          "count": 846,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 45,
+          "count": 847,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 46,
+          "count": 848,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 47,
+          "count": 849,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 48,
+          "count": 850,
+          "MaxVerses": 35
+        }
+      ]
+  }
+}

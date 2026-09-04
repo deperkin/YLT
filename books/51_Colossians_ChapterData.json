@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 51,
+    "name": "Colossians",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Col.","Co"],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1108,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 2,
+          "count": 1109,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 3,
+          "count": 1110,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 4,
+          "count": 1111,
+          "MaxVerses": 18
+        }
+      ]
+  }
+}

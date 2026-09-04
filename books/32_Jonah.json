@@ -1,0 +1,374 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 32,
+    "name": "Jonah",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Jonah","Jnh.","Jon."],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 890,
+          "MaxVerses": 17,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22533,
+        "text": "And there is a word of Jehovah unto Jonah son of Amittai, saying:",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22534,
+        "text": "'Rise, go unto Nineveh, the great city, and proclaim against it that their wickedness hath come up before Me.'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22535,
+        "text": "And Jonah riseth to flee to Tarshish from the face of Jehovah, and goeth down [to] Joppa, and findeth a ship going [to] Tarshish, and he giveth its fare, and goeth down into it, to go with them to Tarshish from the face of Jehovah.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22536,
+        "text": "And Jehovah hath cast a great wind on the sea, and there is a great tempest in the sea, and the ship hath reckoned to be broken;",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 22537,
+        "text": "and the mariners are afraid, and cry each unto his god, and cast the goods that [are] in the ship into the sea, to make [it] light of them; and Jonah hath gone down unto the sides of the vessel, and he lieth down, and is fast asleep.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22538,
+        "text": "And the chief of the company draweth near to him, and saith to him, 'What -- to thee, O sleeper? rise, call unto thy God, it may be God doth bethink himself of us, and we do not perish.'",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22539,
+        "text": "And they say each unto his neighbour, 'Come, and we cast lots, and we know on whose account this evil [is] on us.' And they cast lots, and the lot falleth on Jonah.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22540,
+        "text": "And they say unto him, 'Declare to us, we pray thee, on what account this evil [is] on us? what [is] thine occupation, and whence comest thou? what [is] thy country, seeing thou art not of this people?'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22541,
+        "text": "And he saith unto them, 'A Hebrew I [am], and Jehovah, God of the heavens, I am reverencing, who made the sea and the dry land.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22542,
+        "text": "And the men fear a great fear, and say unto him, 'What [is] this thou hast done!' for the men have known that from the face of Jehovah he is fleeing, for he hath told them.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22543,
+        "text": "And they say unto him, 'What do we do to thee that the sea may cease from us, for the sea is more and more tempestuous?'",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 12,
+        "count": 22544,
+        "text": "And he saith unto them, 'Lift me up, and cast me into the sea, and the sea doth cease from you; for I know that on my account this great tempest [is] upon you.'",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 22545,
+        "text": "And the men row to turn back unto the dry land, and are not able, for the sea is more and more tempestuous against them.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 22546,
+        "text": "And they cry unto Jehovah, and say, 'We pray Thee, O Jehovah, let us not, we pray Thee, perish for this man's life, and do not lay on us innocent blood, for Thou, Jehovah, as Thou hast pleased, Thou hast done.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 22547,
+        "text": "And they lift up Jonah, and cast him into the sea, and the sea ceaseth from its raging;",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 22548,
+        "text": "and the men fear Jehovah -- a great fear, and sacrifice a sacrifice to Jehovah, and vow vows.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 22549,
+        "text": "And Jehovah appointeth a great fish to swallow up Jonah, and Jonah is in the bowels of the fish three days and three nights.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 891,
+          "MaxVerses": 10,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22550,
+        "text": "And Jonah prayeth unto Jehovah his God from the bowels of the fish.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22551,
+        "text": "And he saith: I called, because of my distress, to Jehovah, And He doth answer me, From the belly of sheol I have cried, Thou hast heard my voice.",
+        "WordCount": 29,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22552,
+        "text": "When Thou dost cast me [into] the deep, Into the heart of the seas, Then the flood doth compass me, All Thy breakers and Thy billows have passed over me.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22553,
+        "text": "And I -- I said: I have been cast out from before Thine eyes, (Yet I add to look unto Thy holy temple!)",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22554,
+        "text": "Compassed me have waters unto the soul, The deep doth compass me, The weed is bound to my head.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 22555,
+        "text": "To the cuttings of mountains I have come down, The earth, her bars [are] behind me to the age. And Thou bringest up from the pit my life, O Jehovah my God.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22556,
+        "text": "In the feebleness within me of my soul Jehovah I have remembered, And come in unto Thee doth my prayer, Unto Thy holy temple.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22557,
+        "text": "Those observing lying vanities their own mercy forsake.",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22558,
+        "text": "And I -- with a voice of thanksgiving -- I sacrifice to Thee, That which I have vowed I complete, Salvation [is] of Jehovah.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22559,
+        "text": "And Jehovah saith to the fish, and it vomiteth out Jonah on the dry land.",
+        "WordCount": 15,
+        "StartsParagraph": true
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 892,
+          "MaxVerses": 10,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22560,
+        "text": "And there is a word of Jehovah unto Jonah a second time, saying,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22561,
+        "text": "'Rise, go unto Nineveh, the great city, and proclaim unto it the proclamation that I am speaking unto thee;'",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22562,
+        "text": "and Jonah riseth, and he goeth unto Nineveh, according to the word of Jehovah. And Nineveh hath been a great city before God, a journey of three days.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22563,
+        "text": "And Jonah beginneth to go in to the city a journey of one day, and proclaimeth, and saith, 'Yet forty days -- and Nineveh is overturned.'",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22564,
+        "text": "And the men of Nineveh believe in God, and proclaim a fast, and put on sackcloth, from their greatest even unto their least,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22565,
+        "text": "seeing the word doth come unto the king of Nineveh, and he riseth from his throne, and removeth his honourable robe from off him, and spreadeth out sackcloth, and sitteth on the ashes,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22566,
+        "text": "and he crieth and saith in Nineveh by a decree of the king and his great ones, saying, 'Man and beast, herd and flock -- let them not taste anything, let them not feed, even water let them not drink;",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22567,
+        "text": "and cover themselves [with] sackcloth let man and beast, and let them call unto God mightily, and let them turn back each from his evil way, and from the violence that [is] in their hands.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22568,
+        "text": "Who knoweth? He doth turn back, and God hath repented, and hath turned back from the heat of His anger, and we do not perish.'",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22569,
+        "text": "And God seeth their works, that they have turned back from their evil way, and God repenteth of the evil that He spake of doing to them, and he hath not done [it].",
+        "WordCount": 33,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 893,
+          "MaxVerses": 11,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 22570,
+        "text": "And it is grievous unto Jonah -- a great evil -- and he is displeased at it;",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 22571,
+        "text": "and he prayeth unto Jehovah, and he saith, 'I pray Thee, O Jehovah, is not this my word while I was in mine own land -- therefore I was beforehand to flee to Tarshish -- that I have known that Thou [art] a God, gracious and merciful, slow to anger, and abundant in kindness, and repenting of evil?",
+        "WordCount": 58,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 22572,
+        "text": "And now, O Jehovah, take, I pray Thee, my soul from me, for better [is] my death than my life.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 22573,
+        "text": "And Jehovah saith, 'Is doing good displeasing to thee?'",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 22574,
+        "text": "And Jonah goeth forth from the city, and sitteth on the east of the city, and maketh to himself there a booth, and sitteth under it in the shade, till that he seeth what is in the city.",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 22575,
+        "text": "And Jehovah God appointeth a gourd, and causeth it to come up over Jonah, to be a shade over his head, to give deliverance to him from his affliction, and Jonah rejoiceth because of the gourd [with] great joy.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 22576,
+        "text": "And God appointeth a worm at the going up of the dawn on the morrow, and it smiteth the gourd, and it drieth up.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 22577,
+        "text": "And it cometh to pass, about the rising of the sun, that God appointeth a cutting east wind, and the sun smiteth on the head of Jonah, and he wrappeth himself up, and asketh his soul to die, and saith, 'Better [is] my death than my life.'",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 22578,
+        "text": "And God saith unto Jonah: 'Is doing good displeasing to thee, because of the gourd?' and he saith, 'To do good is displeasing to me -- unto death.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 22579,
+        "text": "And Jehovah saith, 'Thou hast had pity on the gourd, for which thou didst not labour, neither didst thou nourish it, which a son of a night was, and a son of a night perished,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 22580,
+        "text": "and I -- have not I pity on Nineveh, the great city, in which there are more than twelve myriads of human beings, who have not known between their right hand and their left -- and much cattle!'",
+        "WordCount": 38,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

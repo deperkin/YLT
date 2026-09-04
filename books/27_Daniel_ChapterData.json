@@ -1,0 +1,73 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 27,
+    "name": "Daniel",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Dan.","Da.","Dn"],
+    "MaxChapters": 12,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 851,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 2,
+          "count": 852,
+          "MaxVerses": 49
+        },
+        {
+          "Cnumber": 3,
+          "count": 853,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 4,
+          "count": 854,
+          "MaxVerses": 37
+        },
+        {
+          "Cnumber": 5,
+          "count": 855,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 6,
+          "count": 856,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 7,
+          "count": 857,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 8,
+          "count": 858,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 9,
+          "count": 859,
+          "MaxVerses": 27
+        },
+        {
+          "Cnumber": 10,
+          "count": 860,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 11,
+          "count": 861,
+          "MaxVerses": 45
+        },
+        {
+          "Cnumber": 12,
+          "count": 862,
+          "MaxVerses": 13
+        }
+      ]
+  }
+}

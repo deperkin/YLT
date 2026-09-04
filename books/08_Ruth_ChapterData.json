@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 8,
+    "name": "Ruth",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Ruth","Rth.","Ru."],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 233,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 2,
+          "count": 234,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 3,
+          "count": 235,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 4,
+          "count": 236,
+          "MaxVerses": 22
+        }
+      ]
+  }
+}

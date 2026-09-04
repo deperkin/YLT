@@ -1,0 +1,123 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 11,
+    "name": "1 Kings",
+    "AbbreviationCount": 13,
+    "AbbreviationList": ["1 Kings","1 Kgs","1 Ki","1Kgs","1Kin","1Ki","1K","I Kgs","I Ki","1st Kings","1st Kgs","First Kings","First Kgs"],
+    "MaxChapters": 22,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 292,
+          "MaxVerses": 53
+        },
+        {
+          "Cnumber": 2,
+          "count": 293,
+          "MaxVerses": 46
+        },
+        {
+          "Cnumber": 3,
+          "count": 294,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 4,
+          "count": 295,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 5,
+          "count": 296,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 6,
+          "count": 297,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 7,
+          "count": 298,
+          "MaxVerses": 51
+        },
+        {
+          "Cnumber": 8,
+          "count": 299,
+          "MaxVerses": 66
+        },
+        {
+          "Cnumber": 9,
+          "count": 300,
+          "MaxVerses": 28
+        },
+        {
+          "Cnumber": 10,
+          "count": 301,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 11,
+          "count": 302,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 12,
+          "count": 303,
+          "MaxVerses": 33
+        },
+        {
+          "Cnumber": 13,
+          "count": 304,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 14,
+          "count": 305,
+          "MaxVerses": 31
+        },
+        {
+          "Cnumber": 15,
+          "count": 306,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 16,
+          "count": 307,
+          "MaxVerses": 34
+        },
+        {
+          "Cnumber": 17,
+          "count": 308,
+          "MaxVerses": 24
+        },
+        {
+          "Cnumber": 18,
+          "count": 309,
+          "MaxVerses": 46
+        },
+        {
+          "Cnumber": 19,
+          "count": 310,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 20,
+          "count": 311,
+          "MaxVerses": 43
+        },
+        {
+          "Cnumber": 21,
+          "count": 312,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 22,
+          "count": 313,
+          "MaxVerses": 53
+        }
+      ]
+  }
+}

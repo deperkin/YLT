@@ -1,0 +1,73 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 21,
+    "name": "Ecclesiastes",
+    "AbbreviationCount": 5,
+    "AbbreviationList": ["Eccles.","Eccle.","Ecc.","Ec.","Qoh."],
+    "MaxChapters": 12,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 660,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 2,
+          "count": 661,
+          "MaxVerses": 26
+        },
+        {
+          "Cnumber": 3,
+          "count": 662,
+          "MaxVerses": 22
+        },
+        {
+          "Cnumber": 4,
+          "count": 663,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 5,
+          "count": 664,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 6,
+          "count": 665,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 7,
+          "count": 666,
+          "MaxVerses": 29
+        },
+        {
+          "Cnumber": 8,
+          "count": 667,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 9,
+          "count": 668,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 10,
+          "count": 669,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 11,
+          "count": 670,
+          "MaxVerses": 10
+        },
+        {
+          "Cnumber": 12,
+          "count": 671,
+          "MaxVerses": 14
+        }
+      ]
+  }
+}

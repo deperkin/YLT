@@ -1,0 +1,703 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 51,
+    "name": "Colossians",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Col.","Co"],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1108,
+          "MaxVerses": 29,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29467,
+        "text": "Paul, an apostle of Jesus Christ through the will of God, and Timotheus the brother,",
+        "WordCount": 15,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29468,
+        "text": "to the saints in Colossae, and to the faithful brethren in Christ: Grace to you, and peace from God our Father, and the Lord Jesus Christ!",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29469,
+        "text": "We give thanks to the God and Father of our Lord Jesus Christ, always praying for you,",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 4,
+        "count": 29470,
+        "text": "having heard of your faith in Christ Jesus, and of the love that [is] to all the saints,",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29471,
+        "text": "because of the hope that is laid up for you in the heavens, which ye heard of before in the word of the truth of the good news,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29472,
+        "text": "which is present to you, as also in all the world, and is bearing fruit, as also in you, from the day in which ye heard, and knew the grace of God in truth;",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29473,
+        "text": "as ye also learned from Epaphras, our beloved fellow-servant, who is for you a faithful ministrant of the Christ,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29474,
+        "text": "who also did declare to us your love in the Spirit.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29475,
+        "text": "Because of this, we also, from the day in which we heard, do not cease praying for you, and asking that ye may be filled with the full knowledge of His will in all wisdom and spiritual understanding,",
+        "WordCount": 38,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 10,
+        "count": 29476,
+        "text": "to your walking worthily of the Lord to all pleasing, in every good work being fruitful, and increasing to the knowledge of God,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29477,
+        "text": "in all might being made mighty according to the power of His glory, to all endurance and long-suffering with joy.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29478,
+        "text": "Giving thanks to the Father who did make us meet for the participation of the inheritance of the saints in the light,",
+        "WordCount": 22,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 29479,
+        "text": "who did rescue us out of the authority of the darkness, and did translate [us] into the reign of the Son of His love,",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29480,
+        "text": "in whom we have the redemption through his blood, the forgiveness of the sins,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29481,
+        "text": "who is the image of the invisible God, first-born of all creation,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29482,
+        "text": "because in him were the all things created, those in the heavens, and those upon the earth, those visible, and those invisible, whether thrones, whether lordships, whether principalities, whether authorities; all things through him, and for him, have been created,",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29483,
+        "text": "and himself is before all, and the all things in him have consisted.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29484,
+        "text": "And himself is the head of the body -- the assembly -- who is a beginning, a first-born out of the dead, that he might become in all [things] -- himself -- first,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29485,
+        "text": "because in him it did please all the fulness to tabernacle,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29486,
+        "text": "and through him to reconcile the all things to himself -- having made peace through the blood of his cross -- through him, whether the things upon the earth, whether the things in the heavens.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29487,
+        "text": "And you -- once being alienated, and enemies in the mind, in the evil works, yet now did he reconcile,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29488,
+        "text": "in the body of his flesh through the death, to present you holy, and unblemished, and unblameable before himself,",
+        "WordCount": 19,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29489,
+        "text": "if also ye remain in the faith, being founded and settled, and not moved away from the hope of the good news, which ye heard, which was preached in all the creation that [is] under the heaven, of which I became -- I Paul -- a ministrant.",
+        "WordCount": 47,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29490,
+        "text": "I now rejoice in my sufferings for you, and do fill up the things lacking of the tribulations of the Christ in my flesh for his body, which is the assembly,",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29491,
+        "text": "of which I -- I did become a ministrant according to the dispensation of God, that was given to me for you, to fulfil the word of God,",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 29492,
+        "text": "the secret that hath been hid from the ages and from the generations, but now was manifested to his saints,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 29493,
+        "text": "to whom God did will to make known what [is] the riches of the glory of this secret among the nations -- which is Christ in you, the hope of the glory,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 29494,
+        "text": "whom we proclaim, warning every man, and teaching every man, in all wisdom, that we may present every man perfect in Christ Jesus,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 29495,
+        "text": "for which also I labour, striving according to his working that is working in me in power.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 1109,
+          "MaxVerses": 23,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29496,
+        "text": "For I wish you to know how great a conflict I have for you and those in Laodicea, and as many as have not seen my face in the flesh,",
+        "WordCount": 30,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29497,
+        "text": "that their hearts may be comforted, being united in love, and to all riches of the full assurance of the understanding, to the full knowledge of the secret of the God and Father, and of the Christ,",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29498,
+        "text": "in whom are all the treasures of the wisdom and the knowledge hid,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29499,
+        "text": "and this I say, that no one may beguile you in enticing words,",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 5,
+        "count": 29500,
+        "text": "for if even in the flesh I am absent -- yet in the spirit I am with you, joying and beholding your order, and the stedfastness of your faith in regard to Christ;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 29501,
+        "text": "as, then, ye did receive Christ Jesus the Lord, in him walk ye,",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29502,
+        "text": "being rooted and built up in him, and confirmed in the faith, as ye were taught -- abounding in it in thanksgiving.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29503,
+        "text": "See that no one shall be carrying you away as spoil through the philosophy and vain deceit, according to the deliverance of men, according to the rudiments of the world, and not according to Christ,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29504,
+        "text": "because in him doth tabernacle all the fulness of the Godhead bodily,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29505,
+        "text": "and ye are in him made full, who is the head of all principality and authority,",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29506,
+        "text": "in whom also ye were circumcised with a circumcision not made with hands, in the putting off of the body of the sins of the flesh in the circumcision of the Christ,",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29507,
+        "text": "being buried with him in the baptism, in which also ye rose with [him] through the faith of the working of God, who did raise him out of the dead.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29508,
+        "text": "And you -- being dead in the trespasses and the uncircumcision of your flesh -- He made alive together with him, having forgiven you all the trespasses,",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 29509,
+        "text": "having blotted out the handwriting in the ordinances that is against us, that was contrary to us, and he hath taken it out of the way, having nailed it to the cross;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29510,
+        "text": "having stripped the principalities and the authorities, he made a shew of them openly -- having triumphed over them in it.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29511,
+        "text": "Let no one, then, judge you in eating or in drinking, or in respect of a feast, or of a new moon, or of sabbaths,",
+        "WordCount": 25,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 17,
+        "count": 29512,
+        "text": "which are a shadow of the coming things, and the body [is] of the Christ;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29513,
+        "text": "let no one beguile you of your prize, delighting in humble-mindedness and [in] worship of the messengers, intruding into the things he hath not seen, being vainly puffed up by the mind of his flesh,",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 29514,
+        "text": "and not holding the head, from which all the body -- through the joints and bands gathering supply, and being knit together -- may increase with the increase of God.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29515,
+        "text": "If, then, ye did die with the Christ from the rudiments of the world, why, as living in the world, are ye subject to ordinances?",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29516,
+        "text": "-- thou mayest not touch, nor taste, nor handle --",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29517,
+        "text": "which are all for destruction with the using, after the commands and teachings of men,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29518,
+        "text": "which are, indeed, having a matter of wisdom in will-worship, and humble-mindedness, and neglecting of body -- not in any honour, unto a satisfying of the flesh.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 1110,
+          "MaxVerses": 25,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29519,
+        "text": "If, then, ye were raised with the Christ, the things above seek ye, where the Christ is, on the right hand of God seated,",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29520,
+        "text": "the things above mind ye, not the things upon the earth,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 29521,
+        "text": "for ye did die, and your life hath been hid with the Christ in God;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29522,
+        "text": "when the Christ -- our life -- may be manifested, then also we with him shall be manifested in glory.",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29523,
+        "text": "Put to death, then, your members that [are] upon the earth -- whoredom, uncleanness, passion, evil desire, and the covetousness, which is idolatry --",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29524,
+        "text": "because of which things cometh the anger of God upon the sons of the disobedience,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29525,
+        "text": "in which also ye -- ye did walk once, when ye lived in them;",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 29526,
+        "text": "but now put off, even ye, the whole -- anger, wrath, malice, evil-speaking, filthy talking -- out of your mouth.",
+        "WordCount": 20,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 9,
+        "count": 29527,
+        "text": "Lie not one to another, having put off the old man with his practices,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29528,
+        "text": "and having put on the new, which is renewed in regard to knowledge, after the image of Him who did create him;",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29529,
+        "text": "where there is not Greek and Jew, circumcision and uncircumcision, foreigner, Scythian, servant, freeman -- but the all and in all -- Christ.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29530,
+        "text": "Put on, therefore, as choice ones of God, holy and beloved, bowels of mercies, kindness, humble-mindedness, meekness, long-suffering,",
+        "WordCount": 18,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 29531,
+        "text": "forbearing one another, and forgiving each other, if any one with any one may have a quarrel, as also the Christ did forgive you -- so also ye;",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29532,
+        "text": "and above all these things, [have] love, which is a bond of the perfection,",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29533,
+        "text": "and let the peace of God rule in your hearts, to which also ye were called in one body, and become thankful.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29534,
+        "text": "Let the word of Christ dwell in you richly, in all wisdom, teaching and admonishing each other, in psalms, and hymns, and spiritual songs, in grace singing in your hearts to the Lord;",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29535,
+        "text": "and all, whatever ye may do in word or in work, [do] all things in the name of the Lord Jesus -- giving thanks to the God and Father, through him.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29536,
+        "text": "The wives! be subject to your own husbands, as is fit in the Lord;",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 19,
+        "count": 29537,
+        "text": "the husbands! love your wives, and be not bitter with them;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 29538,
+        "text": "the children! obey the parents in all things, for this is well-pleasing to the Lord;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 29539,
+        "text": "the fathers! vex not your children, lest they be discouraged.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 29540,
+        "text": "The servants! obey in all things those who are masters according to the flesh, not in eye-service as men-pleasers, but in simplicity of heart, fearing God;",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 29541,
+        "text": "and all, whatever ye may do -- out of soul work -- as to the Lord, and not to men,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 29542,
+        "text": "having known that from the Lord ye shall receive the recompense of the inheritance -- for the Lord Christ ye serve;",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 29543,
+        "text": "and he who is doing unrighteously shall receive what he did unrighteously, and there is no acceptance of persons.",
+        "WordCount": 19,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 1111,
+          "MaxVerses": 18,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 29544,
+        "text": "The masters! that which is righteous and equal to the servants give ye, having known that ye also have a Master in the heavens.",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 29545,
+        "text": "In the prayer continue ye, watching in it in thanksgiving;",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 3,
+        "count": 29546,
+        "text": "praying at the same time also for us, that God may open to us a door for the word, to speak the secret of the Christ, because of which also I have been bound,",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 29547,
+        "text": "that I may manifest it, as it behoveth me to speak;",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 29548,
+        "text": "in wisdom walk ye toward those without, the time forestalling;",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 6,
+        "count": 29549,
+        "text": "your word always in grace -- with salt being seasoned -- to know how it behoveth you to answer each one.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 29550,
+        "text": "All the things concerning me make known to you shall Tychicus -- the beloved brother, and faithful ministrant, and fellow-servant in the Lord --",
+        "WordCount": 24,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 8,
+        "count": 29551,
+        "text": "whom I did send unto you for this very thing, that he might know the things concerning you, and might comfort your hearts,",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 29552,
+        "text": "with Onesimus the faithful and beloved brother, who is of you; all things to you shall they make known that [are] here.",
+        "WordCount": 22,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 29553,
+        "text": "Salute you doth Aristarchus, my fellow-captive, and Marcus, the nephew of Barnabas, (concerning whom ye did receive commands -- if he may come unto you receive him,)",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 29554,
+        "text": "and Jesus who is called Justus, who are of the circumcision: these only [are] fellow-workers for the reign of God who did become a comfort to me.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 29555,
+        "text": "Salute you doth Epaphras, who [is] of you, a servant of Christ, always striving for you in the prayers, that ye may stand perfect and made full in all the will of God,",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 29556,
+        "text": "for I do testify to him, that he hath much zeal for you, and those in Laodicea, and those in Hierapolis.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 29557,
+        "text": "Salute you doth Lukas, the beloved physician, and Demas;",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 29558,
+        "text": "salute ye those in Laodicea -- brethren, and Nymphas, and the assembly in his house;",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 29559,
+        "text": "and when the epistle may be read with you, cause that also in the assembly of the Laodiceans it may be read, and the [epistle] from Laodicea that ye also may read;",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 29560,
+        "text": "and say to Archippus, 'See to the ministration that thou didst receive in the Lord, that thou mayest fulfil it.'",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 29561,
+        "text": "The salutation by the hand of me, Paul; remember my bonds; the grace [is] with you. Amen.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

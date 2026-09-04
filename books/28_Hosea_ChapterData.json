@@ -1,0 +1,83 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 28,
+    "name": "Hosea",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Hos.","Ho."],
+    "MaxChapters": 14,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 863,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 2,
+          "count": 864,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 3,
+          "count": 865,
+          "MaxVerses": 5
+        },
+        {
+          "Cnumber": 4,
+          "count": 866,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 5,
+          "count": 867,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 6,
+          "count": 868,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 7,
+          "count": 869,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 8,
+          "count": 870,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 9,
+          "count": 871,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 10,
+          "count": 872,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 11,
+          "count": 873,
+          "MaxVerses": 12
+        },
+        {
+          "Cnumber": 12,
+          "count": 874,
+          "MaxVerses": 14
+        },
+        {
+          "Cnumber": 13,
+          "count": 875,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 14,
+          "count": 876,
+          "MaxVerses": 9
+        }
+      ]
+  }
+}

@@ -1,0 +1,1122 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 25,
+    "name": "Lamentations",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Lam.","La."],
+    "MaxChapters": 5,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 798,
+          "MaxVerses": 22,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20312,
+        "text": "How hath she sat alone, The city abounding with people! She hath been as a widow, The mighty among nations! Princes among provinces, She hath become tributary!",
+        "WordCount": 27,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20313,
+        "text": "She weepeth sore in the night, And her tear [is] on her cheeks, There is no comforter for her out of all her lovers, All her friends dealt treacherously by her, They have been to her for enemies.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20314,
+        "text": "Removed hath Judah because of affliction, And because of the abundance of her service; She hath dwelt among nations, She hath not found rest, All her pursuers have overtaken her between the straits.",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20315,
+        "text": "The ways of Zion are mourning, Without any coming at the appointed time, All her gates are desolate, her priests sigh, Her virgins are afflicted -- and she hath bitterness.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20316,
+        "text": "Her adversaries have become chief, Her enemies have been at ease, For Jehovah hath afflicted her, For the abundance of her transgressions, Her infants have gone captive before the adversary.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20317,
+        "text": "And go out from the daughter of Zion doth all her honour, Her princes have been as harts -- They have not found pasture, And they go powerless before a pursuer.",
+        "WordCount": 31,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20318,
+        "text": "Remembered hath Jerusalem [In] the days of her affliction and her mournings, all her desirable things that were from the days of old, In the falling of her people into the hand of an adversary, And she hath no helper; Seen her have adversaries, They have laughed at her cessation.",
+        "WordCount": 50,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20319,
+        "text": "A sin hath Jerusalem sinned, Therefore impure she hath become, All who honoured her have esteemed her lightly, For they have seen her nakedness, Yea, she herself hath sighed and turneth backward.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20320,
+        "text": "Her uncleanness [is] in her skirts, She hath not remembered her latter end, And she cometh down wonderfully, There is no comforter for her. See, O Jehovah, mine affliction, For exerted himself hath an enemy.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20321,
+        "text": "His hand spread out hath an adversary On all her desirable things, For she hath seen -- Nations have entered her sanctuary, Concerning which Thou didst command, 'They do not come into the assembly to thee.'",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20322,
+        "text": "All her people are sighing -- seeking bread, They have given their desirable things For food to refresh the body; See, O Jehovah, and behold attentively, For I have been lightly esteemed.",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20323,
+        "text": "[Is it] nothing to you, all ye passing by the way? Look attentively, and see, If there is any pain like my pain, That He is rolling to me? Whom Jehovah hath afflicted In the day of the fierceness of His anger.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 13,
+        "count": 20324,
+        "text": "From above He hath sent fire into my bone, And it subdueth it, He hath spread a net for my feet, He hath turned me backward, He hath made me desolate -- all the day sick.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20325,
+        "text": "Bound hath been the yoke of my transgressions by His hand, They are wrapped together, They have gone up on my neck, He hath caused my power to stumble, The Lord hath given me into hands, I am not able to rise.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20326,
+        "text": "Trodden down all my mighty ones hath the Lord in my midst, He proclaimed against me an appointed time, To destroy my young men, A wine-press hath the Lord trodden, To the virgin daughter of Judah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20327,
+        "text": "For these I am weeping, My eye, my eye, is running down with waters, For, far from me hath been a comforter, Refreshing my soul, My sons have been desolate, For mighty hath been an enemy.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20328,
+        "text": "Spread forth hath Zion her hands, There is no comforter for her, Jehovah hath charged concerning Jacob, His neighbours [are] his adversaries, Jerusalem hath become impure among them.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20329,
+        "text": "Righteous is Jehovah, For His mouth I have provoked. Hear, I pray you, all ye peoples, and see my pain, My virgins and my young men have gone into captivity.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20330,
+        "text": "I called for my lovers, they -- they have deceived me, My priests and my elders in the city have expired; When they have sought food for themselves, Then they give back their soul.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20331,
+        "text": "See, O Jehovah, for distress [is] to me, My bowels have been troubled, Turned hath been my heart in my midst, For I have greatly provoked, From without bereaved hath the sword, In the house [it is] as death.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20332,
+        "text": "They have heard that I have sighed, There is no comforter for me, All my enemies have heard of my calamity, They have rejoiced that Thou hast done [it], Thou hast brought in the day Thou hast called, And they are like to me.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20333,
+        "text": "Come in doth all their evil before Thee, And one is doing to them as Thou hast done to me, For all my transgressions, For many [are] my sighs, and my heart [is] sick!",
+        "WordCount": 34,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 2,
+          "count": 799,
+          "MaxVerses": 22,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20334,
+        "text": "How doth the Lord cloud in His anger the daughter of Zion, He hath cast from heaven [to] earth the beauty of Israel, And hath not remembered His footstool in the day of His anger.",
+        "WordCount": 35,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20335,
+        "text": "Swallowed up hath the Lord, He hath not pitied any of the pleasant places of Jacob, He hath broken down in His wrath The fortresses of the daughter of Judah, He hath caused to come to the earth, He polluted the kingdom and its princes.",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20336,
+        "text": "He hath cut off in the heat of anger every horn of Israel, He hath turned backward His right hand From the face of the enemy, And He burneth against Jacob as a flaming fire, It hath devoured round about.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20337,
+        "text": "He hath trodden His bow as an enemy, Stood hath His right hand as an adversary, And He slayeth all the desirable ones of the eye, In the tent of the daughter of Zion, He hath poured out as fire His fury.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20338,
+        "text": "The Lord hath been as an enemy, He hath swallowed up Israel, He hath swallowed up all her palaces, He hath destroyed His fortresses, And He multiplieth in the daughter of Judah Mourning and moaning.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20339,
+        "text": "And He shaketh as a garden His tabernacle, He hath destroyed His appointed place, Jehovah hath forgotten in Zion the appointed time and sabbath, And despiseth, in the indignation of His anger, king and priest.",
+        "WordCount": 35,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20340,
+        "text": "The Lord hath cast off His altar, He hath rejected His sanctuary, He hath shut up into the hand of the enemy The walls of her palaces, A noise they have made in the house of Jehovah Like a day of appointment.",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20341,
+        "text": "Devised hath Jehovah to destroy the wall of the daughter of Zion, He hath stretched out a line, He hath not turned His hand from destroying, And He causeth bulwark and wall to mourn, Together -- they have been weak.",
+        "WordCount": 40,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20342,
+        "text": "Sunk into the earth have her gates, He hath destroyed and broken her bars, Her king and her princes [are] among the nations, There is no law, also her prophets Have not found vision from Jehovah.",
+        "WordCount": 36,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20343,
+        "text": "Sit on the earth -- keep silent do the elders of the daughter of Zion, They have caused dust to go up on their head, They have girded on sackcloth, Put down to the earth their head have the virgins of Jerusalem.",
+        "WordCount": 42,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 11,
+        "count": 20344,
+        "text": "Consumed by tears have been my eyes, Troubled have been my bowels, Poured out to the earth hath been my liver, For the breach of the daughter of my people; In infant and suckling being feeble, In the broad places of the city,",
+        "WordCount": 43,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20345,
+        "text": "To their mothers they say, 'Where [are] corn and wine?' In their becoming feeble as a pierced one In the broad places of the city, In their soul pouring itself out into the bosom of their mothers.",
+        "WordCount": 37,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20346,
+        "text": "What do I testify [to] thee, what do I liken to thee, O daughter of Jerusalem? What do I equal to thee, and I comfort thee, O virgin daughter of Zion? For great as a sea [is] thy breach, Who doth give healing to thee?",
+        "WordCount": 45,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20347,
+        "text": "Thy prophets have seen for thee a false and insipid thing, And have not revealed concerning thine iniquity, To turn back thy captivity, And they see for thee false burdens and causes of expulsion.",
+        "WordCount": 34,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20348,
+        "text": "Clapped hands at thee have all passing by the way, They have hissed -- and they shake the head At the daughter of Jerusalem: 'Is this the city of which they said: The perfection of beauty, a joy to all the land?'",
+        "WordCount": 42,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20349,
+        "text": "Opened against thee their mouth have all thine enemies, They have hissed, yea, they gnash the teeth, They have said: 'We have swallowed [her] up, Surely this [is] the day that we looked for, We have found -- we have seen.'",
+        "WordCount": 41,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20350,
+        "text": "Jehovah hath done that which He devised, He hath fulfilled His saying That He commanded from the days of old, He hath broken down and hath not pitied, And causeth an enemy to rejoice over thee, He lifted up the horn of thine adversaries.",
+        "WordCount": 44,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20351,
+        "text": "Cried hath their heart unto the Lord; O wall of the daughter of Zion, Cause to go down as a stream tears daily and nightly, Give not rest to thyself, Let not the daughter of thine eye stand still.",
+        "WordCount": 39,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20352,
+        "text": "Arise, cry aloud in the night, At the beginning of the watches. Pour out as water thy heart, Over against the face of the Lord, Lift up unto Him thy hands, for the soul of thine infants, Who are feeble with hunger at the head of all out-places.",
+        "WordCount": 48,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20353,
+        "text": "See, O Jehovah, and look attentively, To whom Thou hast acted thus, Do women eat their fruit, infants of a handbreadth? Slain in the sanctuary of the Lord are priest and prophet?",
+        "WordCount": 32,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20354,
+        "text": "Lain on the earth [in] out-places have young and old, My virgins and my young men have fallen by the sword, Thou hast slain in a day of Thine anger, Thou hast slaughtered -- Thou hast not pitied.",
+        "WordCount": 38,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20355,
+        "text": "Thou dost call as [at] a day of appointment, My fears from round about, And there hath not been in the day of the anger of Jehovah, An escaped and remaining one, They whom I stretched out and nourished, My enemy hath consumed!",
+        "WordCount": 43,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 3,
+          "count": 800,
+          "MaxVerses": 66,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20356,
+        "text": "I [am] the man [who] hath seen affliction By the rod of His wrath.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20357,
+        "text": "Me He hath led, and causeth to go [in] darkness, and without light.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20358,
+        "text": "Surely against me He turneth back, He turneth His hand all the day.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20359,
+        "text": "He hath worn out my flesh and my skin. He hath broken my bones.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20360,
+        "text": "He hath built up against me, And setteth round poverty and weariness.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20361,
+        "text": "In dark places He hath caused me to dwell, As the dead of old.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20362,
+        "text": "He hath hedged me about, and I go not out, He hath made heavy my fetter.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20363,
+        "text": "Also when I call and cry out, He hath shut out my prayer.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20364,
+        "text": "He hath hedged my ways with hewn work, My paths He hath made crooked.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20365,
+        "text": "A bear lying in wait He [is] to me, A lion in secret hiding-places.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20366,
+        "text": "My ways He is turning aside, and He pulleth me in pieces, He hath made me a desolation.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20367,
+        "text": "He hath trodden His bow, And setteth me up as a mark for an arrow.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20368,
+        "text": "He hath caused to enter into my reins The sons of His quiver.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20369,
+        "text": "I have been a derision to all my people, Their song all the day.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20370,
+        "text": "He hath filled me with bitter things, He hath filled me [with] wormwood.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20371,
+        "text": "And He breaketh with gravel my teeth, He hath covered me with ashes.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20372,
+        "text": "And Thou castest off from peace my soul, I have forgotten prosperity.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20373,
+        "text": "And I say, Perished hath my strength and my hope from Jehovah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20374,
+        "text": "Remember my affliction and my mourning, Wormwood and gall!",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20375,
+        "text": "Remember well, and bow down doth my soul in me.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20376,
+        "text": "This I turn to my heart -- therefore I hope.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 20377,
+        "text": "The kindnesses of Jehovah! For we have not been consumed, For not ended have His mercies.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 23,
+        "count": 20378,
+        "text": "New every morning, abundant [is] thy faithfulness.",
+        "WordCount": 7,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 24,
+        "count": 20379,
+        "text": "My portion [is] Jehovah, hath my soul said, Therefore I hope for Him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 25,
+        "count": 20380,
+        "text": "Good [is] Jehovah to those waiting for Him, To the soul [that] seeketh Him.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 26,
+        "count": 20381,
+        "text": "Good! when one doth stay and stand still For the salvation of Jehovah.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 27,
+        "count": 20382,
+        "text": "Good for a man that he beareth a yoke in his youth.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 28,
+        "count": 20383,
+        "text": "He sitteth alone, and is silent, For He hath laid [it] upon him.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 29,
+        "count": 20384,
+        "text": "He putteth in the dust his mouth, if so be there is hope.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 30,
+        "count": 20385,
+        "text": "He giveth to his smiter the cheek, He is filled with reproach.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 31,
+        "count": 20386,
+        "text": "For the Lord doth not cast off to the age.",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 32,
+        "count": 20387,
+        "text": "For though He afflicted, yet He hath pitied, According to the abundance of His kindness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 33,
+        "count": 20388,
+        "text": "For He hath not afflicted with His heart, Nor doth He grieve the sons of men.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 34,
+        "count": 20389,
+        "text": "To bruise under one's feet any bound ones of earth,",
+        "WordCount": 10,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 35,
+        "count": 20390,
+        "text": "To turn aside the judgment of a man, Over-against the face of the Most High,",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 36,
+        "count": 20391,
+        "text": "To subvert a man in his cause, the Lord hath not approved.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 37,
+        "count": 20392,
+        "text": "Who [is] this -- he hath said, and it is, [And] the Lord hath not commanded [it]?",
+        "WordCount": 17,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 38,
+        "count": 20393,
+        "text": "From the mouth of the Most High Go not forth the evils and the good.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 39,
+        "count": 20394,
+        "text": "What -- sigh habitually doth a living man, A man for his sin?",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 40,
+        "count": 20395,
+        "text": "We search our ways, and investigate, And turn back unto Jehovah.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 41,
+        "count": 20396,
+        "text": "We lift up our heart on the hands unto God in the heavens.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 42,
+        "count": 20397,
+        "text": "We -- we have transgressed and rebelled, Thou -- Thou hast not forgiven.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 43,
+        "count": 20398,
+        "text": "Thou hast covered Thyself with anger, And dost pursue us; Thou hast slain -- Thou hast not pitied.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 44,
+        "count": 20399,
+        "text": "Thou hast covered Thyself with a cloud, So that prayer doth not pass through.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 45,
+        "count": 20400,
+        "text": "Offscouring and refuse Thou dost make us In the midst of the peoples.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 46,
+        "count": 20401,
+        "text": "Opened against us their mouth have all our enemies.",
+        "WordCount": 9,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 47,
+        "count": 20402,
+        "text": "Fear and a snare hath been for us, Desolation and destruction.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 48,
+        "count": 20403,
+        "text": "Rivulets of water go down my eye, For the destruction of the daughter of my people.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 49,
+        "count": 20404,
+        "text": "Mine eye is poured out, And doth not cease without intermission,",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 50,
+        "count": 20405,
+        "text": "Till Jehovah looketh and seeth from the heavens,",
+        "WordCount": 8,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 51,
+        "count": 20406,
+        "text": "My eye affecteth my soul, Because of all the daughters of my city.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 52,
+        "count": 20407,
+        "text": "Hunted me sore as a bird have my enemies without cause.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 53,
+        "count": 20408,
+        "text": "They have cut off in a pit my life, And they cast a stone against me.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 54,
+        "count": 20409,
+        "text": "Flowed have waters over my head, I have said, I have been cut off.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 55,
+        "count": 20410,
+        "text": "I called Thy name, O Jehovah, from the lower pit.",
+        "WordCount": 10,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 56,
+        "count": 20411,
+        "text": "My voice Thou hast heard, Hide not Thine ear at my breathing -- at my cry.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 57,
+        "count": 20412,
+        "text": "Thou hast drawn near in the day I call Thee, Thou hast said, Fear not.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 58,
+        "count": 20413,
+        "text": "Thou hast pleaded, O Lord, the pleadings of my soul, Thou hast redeemed my life.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 59,
+        "count": 20414,
+        "text": "Thou hast seen, O Jehovah, my overthrow, Judge Thou my cause.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 60,
+        "count": 20415,
+        "text": "Thou hast seen all their vengeance, All their thoughts of me.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 61,
+        "count": 20416,
+        "text": "Thou hast heard their reproach, O Jehovah, All their thoughts against me,",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 62,
+        "count": 20417,
+        "text": "The lips of my withstanders, Even their meditation against me all the day.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 63,
+        "count": 20418,
+        "text": "Their sitting down, and their rising up, Behold attentively, I [am] their song.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 64,
+        "count": 20419,
+        "text": "Thou returnest to them the deed, O Jehovah, According to the work of their hands.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 65,
+        "count": 20420,
+        "text": "Thou givest to them a covered heart, Thy curse to them.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 66,
+        "count": 20421,
+        "text": "Thou pursuest in anger, and destroyest them, From under the heavens of Jehovah!",
+        "WordCount": 13,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 4,
+          "count": 801,
+          "MaxVerses": 22,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20422,
+        "text": "How is the gold become dim, Changed the best -- the pure gold? Poured out are stones of the sanctuary At the head of all out-places.",
+        "WordCount": 26,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20423,
+        "text": "The precious sons of Zion, Who are comparable with fine gold, How have they been reckoned earthen bottles, Work of the hands of a potter.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20424,
+        "text": "Even dragons have drawn out the breast, They have suckled their young ones, The daughter of my people is become cruel, Like the ostriches in a wilderness.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20425,
+        "text": "Cleaved hath the tongue of a suckling unto his palate with thirst, Infants asked bread, a dealer out they have none.",
+        "WordCount": 21,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20426,
+        "text": "Those eating of dainties have been desolate in out-places, Those supported on scarlet have embraced dunghills.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20427,
+        "text": "And greater is the iniquity of the daughter of my people, Than the sin of Sodom, That was overturned as [in] a moment, And no hands were stayed on her.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20428,
+        "text": "Purer were her Nazarites than snow, Whiter than milk, ruddier of body than rubies, Of sapphire their form.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20429,
+        "text": "Darker than blackness hath been their visage, They have not been known in out-places, Cleaved hath their skin unto their bone, It hath withered -- it hath been as wood.",
+        "WordCount": 30,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20430,
+        "text": "Better have been the pierced of a sword Than the pierced of famine, For these flow away, pierced through, Without the increase of the field.",
+        "WordCount": 25,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20431,
+        "text": "The hands of merciful women have boiled their own children, They have been for food to them, In the destruction of the daughter of my people.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20432,
+        "text": "Completed hath Jehovah His fury, He hath poured out the fierceness of His anger, And he kindleth a fire in Zion, And it devoureth her foundations.",
+        "WordCount": 26,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20433,
+        "text": "Believe not did the kings of earth, And any of the inhabitants of the world, That come would an adversary and enemy Into the gates of Jerusalem.",
+        "WordCount": 27,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20434,
+        "text": "Because of the sins of her prophets, The iniquities of her priests, Who are shedding in her midst the blood of the righteous,",
+        "WordCount": 23,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 14,
+        "count": 20435,
+        "text": "They have wandered naked in out-places, They have been polluted with blood, Without [any] being able to touch their clothing,",
+        "WordCount": 20,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20436,
+        "text": "'Turn aside -- unclean,' they called to them, 'Turn aside, turn aside, touch not,' For they fled -- yea, they have wandered, They have said among nations: 'They do not add to sojourn.'",
+        "WordCount": 33,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20437,
+        "text": "The face of Jehovah hath divided them, He doth not add to behold them, The face of priests they have not lifted up, Elders they have not favoured.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20438,
+        "text": "While we exist -- consumed are our eyes for our vain help, In our watch-tower we have watched for a nation [that] saveth not.",
+        "WordCount": 24,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 18,
+        "count": 20439,
+        "text": "They have hunted our steps from going in our broad-places, Near hath been our end, fulfilled our days, For come hath our end.",
+        "WordCount": 23,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20440,
+        "text": "Swifter have been our pursuers, Than the eagles of the heavens, On the mountains they have burned [after] us, In the wilderness they have laid wait for us.",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20441,
+        "text": "The breath of our nostrils -- the anointed of Jehovah, Hath been captured in their pits, of whom we said: 'In his shadow we do live among nations.'",
+        "WordCount": 28,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20442,
+        "text": "Joy and rejoice, O daughter of Edom, Dwelling in the land of Uz, Even unto thee pass over doth a cup, Thou art drunk, and makest thyself naked.",
+        "WordCount": 28,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 22,
+        "count": 20443,
+        "text": "Completed [is] thy iniquity, daughter of Zion, He doth not add to remove thee, He hath inspected thy iniquity, O daughter of Edom, He hath removed [thee] because of thy sins!",
+        "WordCount": 31,
+        "StartsParagraph": false
+      }          ]
+        },
+        {
+          "Cnumber": 5,
+          "count": 802,
+          "MaxVerses": 22,
+          "verses": [
+      {
+        "Vnumber": 1,
+        "count": 20444,
+        "text": "Remember, O Jehovah, what hath befallen us, Look attentively, and see our reproach.",
+        "WordCount": 13,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 2,
+        "count": 20445,
+        "text": "Our inheritance hath been turned to strangers, Our houses to foreigners.",
+        "WordCount": 11,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 3,
+        "count": 20446,
+        "text": "Orphans we have been -- without a father, our mothers [are] as widows.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 4,
+        "count": 20447,
+        "text": "Our water for money we have drunk, Our wood for a price doth come.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 5,
+        "count": 20448,
+        "text": "For our neck we have been pursued, We have laboured -- there hath been no rest for us.",
+        "WordCount": 18,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 6,
+        "count": 20449,
+        "text": "[To] Egypt we have given a hand, [To] Asshur, to be satisfied with bread.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 7,
+        "count": 20450,
+        "text": "Our fathers have sinned -- they are not, We their iniquities have borne.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 8,
+        "count": 20451,
+        "text": "Servants have ruled over us, A deliverer there is none from their hand.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 9,
+        "count": 20452,
+        "text": "With our lives we bring in our bread, Because of the sword of the wilderness.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 10,
+        "count": 20453,
+        "text": "Our skin as an oven hath been burning, Because of the raging of the famine.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 11,
+        "count": 20454,
+        "text": "Wives in Zion they have humbled, Virgins -- in cities of Judah.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 12,
+        "count": 20455,
+        "text": "Princes by their hand have been hanged, The faces of elders have not been honoured.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 13,
+        "count": 20456,
+        "text": "Young men to grind they have taken, And youths with wood have stumbled.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 14,
+        "count": 20457,
+        "text": "The aged from the gate have ceased, Young men from their song.",
+        "WordCount": 12,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 15,
+        "count": 20458,
+        "text": "Ceased hath the joy of our heart, Turned to mourning hath been our dancing.",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 16,
+        "count": 20459,
+        "text": "Fallen hath the crown [from] our head, Woe [is] now to us, for we have sinned.",
+        "WordCount": 16,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 17,
+        "count": 20460,
+        "text": "For this hath our heart been sick, For these have our eyes been dim.",
+        "WordCount": 14,
+        "StartsParagraph": true
+      },
+      {
+        "Vnumber": 18,
+        "count": 20461,
+        "text": "For the mount of Zion -- that is desolate, Foxes have gone up on it.",
+        "WordCount": 15,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 19,
+        "count": 20462,
+        "text": "Thou, O Jehovah, to the age remainest, Thy throne to generation and generation.",
+        "WordCount": 13,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 20,
+        "count": 20463,
+        "text": "Why for ever dost Thou forget us? Thou forsakest us for length of days!",
+        "WordCount": 14,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 21,
+        "count": 20464,
+        "text": "Turn us back, O Jehovah, unto Thee, And we turn back, renew our days as of old.",
+        "WordCount": 17,
+        "StartsParagraph": false
+      },
+      {
+        "Vnumber": 22,
+        "count": 20465,
+        "text": "For hast Thou utterly rejected us? Thou hast been wroth against us -- exceedingly?",
+        "WordCount": 14,
+        "StartsParagraph": false
+      }
+          ]
+        }
+      ]
+  }
+}

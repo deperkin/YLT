@@ -1,0 +1,28 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 35,
+    "name": "Habakkuk",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Hab.","Hb"],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 904,
+          "MaxVerses": 17
+        },
+        {
+          "Cnumber": 2,
+          "count": 905,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 3,
+          "count": 906,
+          "MaxVerses": 19
+        }
+      ]
+  }
+}

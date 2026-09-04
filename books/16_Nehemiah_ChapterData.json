@@ -1,0 +1,78 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 16,
+    "name": "Nehemiah",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Neh.","Ne."],
+    "MaxChapters": 13,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 414,
+          "MaxVerses": 11
+        },
+        {
+          "Cnumber": 2,
+          "count": 415,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 3,
+          "count": 416,
+          "MaxVerses": 32
+        },
+        {
+          "Cnumber": 4,
+          "count": 417,
+          "MaxVerses": 23
+        },
+        {
+          "Cnumber": 5,
+          "count": 418,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 6,
+          "count": 419,
+          "MaxVerses": 19
+        },
+        {
+          "Cnumber": 7,
+          "count": 420,
+          "MaxVerses": 73
+        },
+        {
+          "Cnumber": 8,
+          "count": 421,
+          "MaxVerses": 18
+        },
+        {
+          "Cnumber": 9,
+          "count": 422,
+          "MaxVerses": 38
+        },
+        {
+          "Cnumber": 10,
+          "count": 423,
+          "MaxVerses": 39
+        },
+        {
+          "Cnumber": 11,
+          "count": 424,
+          "MaxVerses": 36
+        },
+        {
+          "Cnumber": 12,
+          "count": 425,
+          "MaxVerses": 47
+        },
+        {
+          "Cnumber": 13,
+          "count": 426,
+          "MaxVerses": 31
+        }
+      ]
+  }
+}

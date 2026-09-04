@@ -1,0 +1,28 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 34,
+    "name": "Nahum",
+    "AbbreviationCount": 2,
+    "AbbreviationList": ["Nah.","Na."],
+    "MaxChapters": 3,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 901,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 2,
+          "count": 902,
+          "MaxVerses": 13
+        },
+        {
+          "Cnumber": 3,
+          "count": 903,
+          "MaxVerses": 19
+        }
+      ]
+  }
+}

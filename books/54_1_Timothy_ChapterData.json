@@ -1,0 +1,43 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 54,
+    "name": "1 Timothy",
+    "AbbreviationCount": 12,
+    "AbbreviationList": ["1 Tim.","1 Ti.","I Timothy","I Tim.","I Ti.","1Timothy","1Tim.","1Ti.","1st Timothy","1st Tim.","First Timothy","First Tim."],
+    "MaxChapters": 6,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1120,
+          "MaxVerses": 20
+        },
+        {
+          "Cnumber": 2,
+          "count": 1121,
+          "MaxVerses": 15
+        },
+        {
+          "Cnumber": 3,
+          "count": 1122,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 4,
+          "count": 1123,
+          "MaxVerses": 16
+        },
+        {
+          "Cnumber": 5,
+          "count": 1124,
+          "MaxVerses": 25
+        },
+        {
+          "Cnumber": 6,
+          "count": 1125,
+          "MaxVerses": 21
+        }
+      ]
+  }
+}

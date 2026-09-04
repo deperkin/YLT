@@ -1,0 +1,33 @@
+{
+  "version": "YLT",
+  "metadata": {"publisher": ""},
+  "book": {
+    "Bnumber": 50,
+    "name": "Philippians",
+    "AbbreviationCount": 3,
+    "AbbreviationList": ["Phil.","Php.","Pp."],
+    "MaxChapters": 4,
+    "chapters": [
+        {
+          "Cnumber": 1,
+          "count": 1104,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 2,
+          "count": 1105,
+          "MaxVerses": 30
+        },
+        {
+          "Cnumber": 3,
+          "count": 1106,
+          "MaxVerses": 21
+        },
+        {
+          "Cnumber": 4,
+          "count": 1107,
+          "MaxVerses": 23
+        }
+      ]
+  }
+}
