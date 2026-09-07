@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Biblio Navigation Flow" id="biblio-flow">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Splash" value="SplashScreenView.mc
+SplashScreenView" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5090;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="MainMenu" value="MainMenu.mc
+MainMenu (SharedMenu)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E5090;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="BiblioTrans" value="BiblioTranslationPicker.mc
+VersionMenuDelegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ScriptureV" value="ScriptureView.mc
+ScriptureView" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="BookPicker" value="BookPickerView.mc
+BookPickerView
+(:chapterPicker mode)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MemMenu" value="MemoriaMenu.mc
+MemoriaMenuDelegate
+(My Verses/Suggested/About/Main Menu)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="260" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MemCategory" value="MemoriaMenu.mc
+MemoriaCategoryMenuDelegate
+(Daily/Odd-Even/Weekly/Monthly)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="380" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MemEmptyDaily" value="MemoriaMenu.mc
+MemoriaEmptyDailyDelegate
+(From Backlog/New Verse/Suggested)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="500" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MemCard" value="MemoriaCardView.mc
+MemoriaCardView + Delegate
+(flip-card review)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="620" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MemBacklog" value="MemoriaMenu.mc
+MemoriaBacklogPickerView" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="500" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="MemSuggested" value="MemoriaMenu.mc
+MemoriaSuggestedVersesPickerView" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="500" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="MemAbout" value="MemoriaMenu.mc
+MemoriaAboutView
+(&quot;About This Method&quot;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="260" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BookPickerVerse" value="BookPickerView.mc
+BookPickerView
+(:versePicker mode)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="740" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ConsEntry" value="ConsiliumPlanMenu.mc
+pushConsiliumEntryMenu()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ConsWizard" value="ConsiliumPlanMenu.mc
+launchNewConsiliumWizard()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ConsView" value="ConsiliumView.mc
+ConsiliumView + Delegate
+(Select Book Order)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="240" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="DateRange" value="DateRangePickerView.mc
+DateRangePickerView/Delegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="620" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="WeekdayPick" value="WeekdayPickerView.mc
+WeekdayPickerView/Delegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="740" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="DailyOpts" value="ConsiliumDailyOptionsView.mc
+ConsiliumDailyOptionsView/Delegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="860" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="SavePlan" value="SavePlanMenu.mc
+SavePlanMenuView/Delegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="980" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="PlanDay" value="PlanDayView.mc
+PlanDayView/Delegate
+(today's reading)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="SettingsMenu" value="SettingsMenuDelegate.mc
+SettingsOptionsMenuDelegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="CheckboxMenu" value="SharedMenu.mc
+CheckboxMenuDelegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="740" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="AddlOpts" value="AddlOptionsMenuDelegate.mc
+OptionsMenuDelegate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FA8D9;fontColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="740" width="220" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge0" value="onMenu()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="Splash" target="MainMenu">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge1" value=":biblio (onRowSelected)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MainMenu" target="BiblioTrans">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge2" value=":memoria (onRowSelected)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MainMenu" target="MemMenu">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge3" value=":consilium (onRowSelected)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MainMenu" target="ConsEntry">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge4" value=":settings (onRowSelected)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MainMenu" target="SettingsMenu">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge5" value="launchScripture()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="BiblioTrans" target="ScriptureV">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge6" value="menuSelect()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="ScriptureV" target="BookPicker">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge7" value="loads chapter in place" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="BookPicker" target="ScriptureV">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge8" value="pushMyVersesCategoryMenu()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemMenu" target="MemCategory">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge9" value="onSelect(): cards found" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemCategory" target="MemCard">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge10" value="onSelect(): Daily+empty" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemCategory" target="MemEmptyDaily">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge11" value="From Backlog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemEmptyDaily" target="MemBacklog">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge12" value="New Verse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemEmptyDaily" target="BookPickerVerse">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge13" value="Suggested Verse" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemEmptyDaily" target="MemSuggested">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge14" value="selection" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemBacklog" target="MemCard">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge15" value="verse confirmed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="BookPickerVerse" target="MemCard">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge16" value="selectForDaily()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemSuggested" target="MemCard">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge17" value="navigateToVerse()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemSuggested" target="ScriptureV">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge18" value="pushSuggestedVersesPickerView()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemMenu" target="MemSuggested">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge19" value="pushMemoriaAboutView()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="MemMenu" target="MemAbout">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge20" value="New Plan selected" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="ConsEntry" target="ConsWizard">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge21" value="launchNewConsiliumWizard()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="ConsWizard" target="ConsView">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge22" value="finish()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="ConsView" target="DateRange">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge23" value="_goForward()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="DateRange" target="WeekdayPick">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge24" value="_confirmSelection() (arrow)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="WeekdayPick" target="DailyOpts">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge25" value="confirmSelection()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="DailyOpts" target="SavePlan">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge26" value="_chooseSlot()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="SavePlan" target="ConsEntry">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge27" value="pushPlanDayView()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="ConsEntry" target="PlanDay">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge28" value="jumpToReading()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="PlanDay" target="ScriptureV">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge29" value="pushCheckboxMenu()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="SettingsMenu" target="CheckboxMenu">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="edge30" value="pushOptionsSubmenu()" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;fontSize=8;" edge="1" parent="1" source="SettingsMenu" target="AddlOpts">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
