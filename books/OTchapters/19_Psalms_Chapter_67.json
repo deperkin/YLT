@@ -1,0 +1,42 @@
+{
+  "chapter": {
+    "Cnumber": 67,
+    "verses": [
+      {
+        "n": 1,
+        "t": "To the Overseer, with stringed instruments. -- A Psalm, a Song. God doth favour us and bless us, Doth cause His face to shine with us. Selah.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "For the knowledge in earth of Thy way, among all nations of Thy salvation.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "Praise Thee do peoples, O God, Praise Thee do peoples, all of them.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Rejoice and sing do nations, For Thou judgest peoples uprightly, And peoples on earth comfortest. Selah.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "Confess Thee do peoples, O God, Confess Thee do peoples -- all of them.",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "Earth hath given her increase, God doth bless us -- our God,",
+        "p": false
+      },
+      {
+        "n": 7,
+        "t": "God doth bless us, and all ends of earth fear Him!",
+        "p": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": {
+    "Cnumber": 128,
+    "verses": [
+      {
+        "n": 1,
+        "t": "A Song of the Ascents. O the happiness of every one fearing Jehovah, Who is walking in His ways.",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "The labour of thy hands thou surely eatest, Happy [art] thou, and good [is] to thee.",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "Thy wife [is] as a fruitful vine in the sides of thy house, Thy sons as olive plants around thy table.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Lo, surely thus is the man blessed who is fearing Jehovah.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "Jehovah doth bless thee out of Zion, Look, then, on the good of Jerusalem, All the days of thy life,",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "And see the sons of thy sons! Peace on Israel!",
+        "p": false
+      }
+    ]
+  }
+}

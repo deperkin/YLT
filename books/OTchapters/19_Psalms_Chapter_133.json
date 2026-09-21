@@ -1,0 +1,22 @@
+{
+  "chapter": {
+    "Cnumber": 133,
+    "verses": [
+      {
+        "n": 1,
+        "t": "A Song of the Ascents, by David. Lo, how good and how pleasant The dwelling of brethren -- even together!",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "As the good oil on the head, Coming down on the beard, the beard of Aaron, That cometh down on the skirt of his robes,",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "As dew of Hermon -- That cometh down on hills of Zion, For there Jehovah commanded the blessing -- Life unto the age!",
+        "p": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "chapter": {
+    "Cnumber": 121,
+    "verses": [
+      {
+        "n": 1,
+        "t": "A Song of the Ascents. I lift up mine eyes unto the hills, Whence doth my help come?",
+        "p": true
+      },
+      {
+        "n": 2,
+        "t": "My help [is] from Jehovah, maker of heaven and earth,",
+        "p": false
+      },
+      {
+        "n": 3,
+        "t": "He suffereth not thy foot to be moved, Thy preserver slumbereth not.",
+        "p": false
+      },
+      {
+        "n": 4,
+        "t": "Lo, He slumbereth not, nor sleepeth, He who is preserving Israel.",
+        "p": false
+      },
+      {
+        "n": 5,
+        "t": "Jehovah [is] thy preserver, Jehovah [is] thy shade on thy right hand,",
+        "p": false
+      },
+      {
+        "n": 6,
+        "t": "By day the sun doth not smite thee, Nor the moon by night.",
+        "p": false
+      },
+      {
+        "n": 7,
+        "t": "Jehovah preserveth thee from all evil, He doth preserve thy soul.",
+        "p": false
+      },
+      {
+        "n": 8,
+        "t": "Jehovah preserveth thy going out and thy coming in, From henceforth even unto the age!",
+        "p": false
+      }
+    ]
+  }
+}
